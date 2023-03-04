@@ -2,7 +2,7 @@
 
 <Apart from the headers, this document is a template. Remove everything that is within brackets and replace with actual information.>
 
-**Team Name:** <Team Name>
+**Team Name:** TASports
 
 ## Team Members
 
