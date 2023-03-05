@@ -2,17 +2,17 @@
 
 <Apart from the headers, this document is a template. Remove everything that is within brackets and replace with actual information.>
 
-**Team Name:** TASports
+**Team Name:** 404 Not Found
 
 ## Team Members
 
-* Yan Zhou Terry (BSc Politics and Data Science | <2025>)
-* Chengchao Lu Spark (BSc Politics and Data Science | <2025)
-* Litong Zhong Annabel (BSc Politics and Data Science | <2025>)
+* Yan Zhou (Terry) (BSc Politics and Data Science | <2025>)
+* Chengchao Lu (Spark) (BSc Politics and Data Science | <2025)
+* Litong Zhong (Annabel) (BSc Politics and Data Science | <2025>)
 
 ## Brief Description of the Project
 
-<Describe the project in a few sentences>
+The project aims to use Machine Learning method to predict the outcome of the NBA MVP award, drawing on both quantitative data and media data. 
 
 ## Data Sources
 
