@@ -1,0 +1,747 @@
+Unnamed: 0,title,date,url,player,textblob_Sentiment,key_words_score,nltk_Sentiment
+8,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Trae Young,0.1306998556998557,1.2,0.8704
+25,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Trae Young,0.0630533543669136,0.8,0.9968
+28,Bellator 292: Michael 'Venom' Page to face Goiti Yamauchi,2022-23,https://www.bbc.co.uk/sport/mixed-martial-arts/64363294,Trae Young,0.2623333333333333,0.8,0.9259
+36,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Trae Young,0.1739121306744257,0.8,0.9995
+66,Tom Brady retires 'for good' after 23 seasons in NFL,2022-23,https://www.bbc.co.uk/sport/american-football/64487463,Trae Young,0.1553198537573538,0.6000000000000001,0.9989
+75,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Trae Young,0.0964555293191656,0.8,0.9976
+102,Joel Embiid: Cameroon pledge would be 'tremendous leap forward' for African side,2022-23,https://www.bbc.co.uk/sport/africa/63159188,Trae Young,0.1260862054612054,0.8,0.9986
+125,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Trae Young,0.0765265697605147,0.8,0.9923
+155,NFL London: Russell Wilson under scrutiny as Denver Broncos face Jacksonville Jaguars,2022-23,https://www.bbc.co.uk/sport/american-football/63441203,Trae Young,0.1107524828113063,0.8,0.9936
+157,NFL play-offs: Remarkable rise of San Francisco 49ers' 'Mr Irrelevant' Brock Purdy,2022-23,https://www.bbc.co.uk/sport/american-football/64348673,Trae Young,0.1655313051146385,0.8,0.9991
+173,Pakistan v England: Why Will Jacks should fit perfectly into Ben Stokes' team,2022-23,https://www.bbc.co.uk/sport/cricket/63201385,Trae Young,0.1581755050505049,1.0,0.9993
+196,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,DeMar DeRozan,0.1553719008264463,1.0,0.7602
+212,NBA: Zion Williamson scores 43 points as Pelicans beat Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64114841,DeMar DeRozan,0.1515151515151515,1.2,0.9834
+214,NBA: Chicago Bulls beat rivals Detroit Pistons 126-108 in Paris,2022-23,https://www.bbc.co.uk/sport/basketball/64341200,DeMar DeRozan,0.1337583279604556,1.2,0.9984
+216,Luka Doncic scores magical 60-point triple-double in Dallas Mavericks win,2022-23,https://www.bbc.co.uk/sport/basketball/64107654,DeMar DeRozan,0.2051156728576083,1.0,0.9908
+217,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,DeMar DeRozan,0.2637310606060606,1.0,0.9899
+218,NBA: Defending champions Golden State Warriors beat Boston Celtics in Finals rematch,2022-23,https://www.bbc.co.uk/sport/basketball/63933734,DeMar DeRozan,0.0985780423280423,1.0,0.3898
+235,NBA: Five reasons to watch Chicago Bulls v Detroit Pistons at NBA Paris on the BBC,2022-23,https://www.bbc.co.uk/sport/basketball/64329346,DeMar DeRozan,0.1677548921666568,1.0,0.9991
+241,NBA: Joel Embiid scores 38 points as Philadelphia 76ers beat Cleveland Cavaliers,2022-23,https://www.bbc.co.uk/sport/basketball/64974061,Joel Embiid,0.2004464285714285,1.0,0.5023
+243,Joel Embiid: Philadelphia 76ers centre scores 59 points in win over Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/63620537,Joel Embiid,0.1363636363636363,1.0,-0.511
+246,Joel Embiid: Cameroon pledge would be 'tremendous leap forward' for African side,2022-23,https://www.bbc.co.uk/sport/africa/63159188,Joel Embiid,0.1260862054612054,1.2,0.9986
+279,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Joel Embiid,0.1416112657184086,1.2,0.9872
+284,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Joel Embiid,0.0630533543669136,1.2,0.9968
+296,NBA: Officials miss foul on LeBron James as LA Lakers lose to Boston Celtics,2022-23,https://www.bbc.co.uk/sport/basketball/64443930,Joel Embiid,0.1354545454545454,1.0,0.1531
+299,NBA: Miami Heat set free-throw record in 112-111 win over Oklahoma City Thunder,2022-23,https://www.bbc.co.uk/sport/basketball/64233233,Joel Embiid,0.2002430555555555,0.8,0.985
+301,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,Joel Embiid,0.1312499999999999,1.0,-0.1583
+310,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,Joel Embiid,0.2775,1.0,0.9945
+311,Boxing and Bellator 292 MMA: BBC coverage and schedule,2022-23,https://www.bbc.co.uk/sport/boxing/64891365,Joel Embiid,0.1779430247172182,0.8,0.9081
+317,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,Joel Embiid,0.2637310606060606,1.0,0.9899
+321,NBA: Kyrie Irving 'requests trade from Brooklyn Nets',2022-23,https://www.bbc.co.uk/sport/basketball/64521840,Joel Embiid,0.0740530303030303,1.0,0.3083
+329,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Joel Embiid,0.1617079889807162,1.0,0.992
+362,NBA: Stephen Curry scores 33 points as Warriors beat Lakers in season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63310729,Joel Embiid,0.0286671661671661,1.0,0.9862
+373,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Jayson Tatum,0.0767339544513457,1.0,0.1272
+384,NBA round-up: Boston Celtics extend winning run to six games,2022-23,https://www.bbc.co.uk/sport/basketball/63614776,Jayson Tatum,0.2206168831168831,1.2,0.875
+390,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,Jayson Tatum,0.1631146631146631,1.2,0.9904
+392,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Jayson Tatum,0.1416112657184086,1.2,0.9872
+394,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Jayson Tatum,0.0630533543669136,1.2,0.9968
+395,NBA: Officials miss foul on LeBron James as LA Lakers lose to Boston Celtics,2022-23,https://www.bbc.co.uk/sport/basketball/64443930,Jayson Tatum,0.1354545454545454,1.0,0.1531
+398,NBA: Stephen Curry inspires Golden State Warriors against Milwaukee Bucks,2022-23,https://www.bbc.co.uk/sport/basketball/64930824,Jayson Tatum,0.1688311688311688,1.0,0.9938
+401,LeBron James' LA Lakers accuse NBA of cheating after 'gut-wrenching' referee error,2022-23,https://www.bbc.co.uk/sport/basketball/64450359,Jayson Tatum,-0.032161753590325,1.0,0.444
+404,NBA: LeBron James scores season-high 48 points in Los Angeles Lakers win,2022-23,https://www.bbc.co.uk/sport/basketball/64301044,Jayson Tatum,0.1433155080213903,0.8,0.9633
+405,NBA: Giannis Antetokounmpo stars as Milwaukee Bucks beat LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/64608767,Jayson Tatum,0.142436974789916,1.0,0.9153
+408,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,Jayson Tatum,0.1312499999999999,1.0,-0.1583
+411,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,Jayson Tatum,0.1553719008264463,1.0,0.7602
+416,Stephen Curry: Point guard scores 24 as Golden State Warriors beat New York Knicks,2022-23,https://www.bbc.co.uk/sport/basketball/63686873,Jayson Tatum,0.1914918414918415,1.0,0.9692
+419,NBA: Boston Celtics beat Miami Heat in front of Prince and Princess of Wales,2022-23,https://www.bbc.co.uk/sport/basketball/63818629,Jayson Tatum,0.3702479338842975,1.2,0.9839
+427,NBA: Giannis Antetokounmpo beats Milwaukee Bucks free-throw record mark,2022-23,https://www.bbc.co.uk/sport/basketball/63363379,Jayson Tatum,0.1962962962962963,1.0,0.9794
+431,NBA: Giannis Antetokounmpo leads Bucks to win over Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63968476,Jayson Tatum,0.0017512077294686,1.0,0.931
+432,NBA: Eleven Orlando Magic & Detroit Pistons players suspended after scuffle,2022-23,https://www.bbc.co.uk/sport/basketball/64124245,Jayson Tatum,0.1034902597402597,1.0,-0.8402
+435,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Jayson Tatum,0.2189118457300275,1.2,0.9895
+437,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,Jayson Tatum,0.2637310606060606,1.0,0.9899
+438,NBA: Defending champions Golden State Warriors beat Boston Celtics in Finals rematch,2022-23,https://www.bbc.co.uk/sport/basketball/63933734,Jayson Tatum,0.0985780423280423,1.0,0.3898
+443,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Jayson Tatum,0.1617079889807162,1.0,0.992
+459,NBA: Chicago Bulls beat rivals Detroit Pistons 126-108 in Paris,2022-23,https://www.bbc.co.uk/sport/basketball/64341200,Jayson Tatum,0.1337583279604556,1.2,0.9984
+467,NBA: Stephen Curry scores 33 points as Warriors beat Lakers in season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63310729,Jayson Tatum,0.0286671661671661,1.0,0.9862
+469,Bruno Fernando: Time for Angolan basketball talent to shine in NBA,2022-23,https://www.bbc.co.uk/sport/africa/62999478,Jayson Tatum,0.1492580249611499,1.0,0.9988
+472,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Nikola Jokić,0.2544456845238095,0.6000000000000001,0.9868
+475,NBA round-up: Nikola Jokic breaks Denver Nuggets assist record in win over Minnesota Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64328380,Nikola Jokić,0.0838383838383838,0.6000000000000001,0.9809
+476,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,Nikola Jokić,0.2039848484848485,0.6000000000000001,0.9766
+477,Nikola Jokic achieves 79th career triple-double to move above Wilt Chamberlain on the all-time list,2022-23,https://www.bbc.co.uk/sport/basketball/63511616,Nikola Jokić,0.2192307692307692,0.6000000000000001,0.8884
+485,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Nikola Jokić,0.0630533543669136,0.8,0.9968
+488,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Nikola Jokić,0.1306998556998557,0.8,0.8704
+489,NBA: LeBron James scores first triple-double of season to move close to all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64481152,Nikola Jokić,0.106060606060606,0.6000000000000001,0.8126
+491,NBA results round-up: LeBron James closes on record but Lakers lose to Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/64396495,Nikola Jokić,0.1953217237308146,0.6000000000000001,0.991
+498,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Nikola Jokić,0.2053030303030302,0.6000000000000001,0.9776
+505,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Nikola Jokić,0.1617079889807162,0.6000000000000001,0.992
+511,Stephen Curry injured as Golden State Warriors lose again,2022-23,https://www.bbc.co.uk/sport/basketball/63982850,Nikola Jokić,0.0890873015873015,0.6000000000000001,-0.6605
+515,Joel Embiid: Cameroon pledge would be 'tremendous leap forward' for African side,2022-23,https://www.bbc.co.uk/sport/africa/63159188,Nikola Jokić,0.1260862054612054,0.8,0.9986
+520,NBA: Officials miss foul on LeBron James as LA Lakers lose to Boston Celtics,2022-23,https://www.bbc.co.uk/sport/basketball/64443930,Nikola Jokić,0.1354545454545454,0.6000000000000001,0.1531
+527,NBA: Defending champions Golden State Warriors beat Boston Celtics in Finals rematch,2022-23,https://www.bbc.co.uk/sport/basketball/63933734,Nikola Jokić,0.0985780423280423,0.6000000000000001,0.3898
+532,NBA: Los Angeles Lakers win as LeBron James and Anthony Davis star,2022-23,https://www.bbc.co.uk/sport/basketball/63453775,Nikola Jokić,0.1636363636363636,0.6000000000000001,0.7717
+537,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Nikola Jokić,0.1064141414141414,1.0,0.9976
+563,NBA: Five reasons to watch Chicago Bulls v Detroit Pistons at NBA Paris on the BBC,2022-23,https://www.bbc.co.uk/sport/basketball/64329346,Nikola Jokić,0.1677548921666568,0.6000000000000001,0.9991
+565,NBA: Giannis Antetokounmpo leads Milwaukee Bucks to win on injury return,2022-23,https://www.bbc.co.uk/sport/basketball/64948897,Giannis Antetokounmpo,0.0838888888888888,1.0,0.4582
+570,NBA: Giannis Antetokounmpo stars as Milwaukee Bucks beat LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/64608767,Giannis Antetokounmpo,0.142436974789916,1.0,0.9153
+571,NBA: Giannis Antetokounmpo scores career-high 55 points in Milwaukee Bucks win,2022-23,https://www.bbc.co.uk/sport/basketball/64160574,Giannis Antetokounmpo,0.0240384615384615,1.0,0.5109
+572,NBA: Giannis Antetokounmpo leads Bucks to win over Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63968476,Giannis Antetokounmpo,0.0017512077294686,1.0,0.931
+573,NBA: Giannis Antetokounmpo beats Milwaukee Bucks free-throw record mark,2022-23,https://www.bbc.co.uk/sport/basketball/63363379,Giannis Antetokounmpo,0.1962962962962963,1.0,0.9794
+613,NBA: Milwaukee Bucks beat Phoenix Suns to become first team to clinch play-off place,2022-23,https://www.bbc.co.uk/sport/basketball/64961517,Giannis Antetokounmpo,0.1592697157914549,0.8,0.9661
+614,NBA: Milwaukee Bucks beat New York Knicks 119-108 to extend winning run,2022-23,https://www.bbc.co.uk/sport/basketball/63437077,Giannis Antetokounmpo,0.1896611201298701,1.0,0.9352
+630,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Giannis Antetokounmpo,0.0630533543669136,1.2,0.9968
+631,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Giannis Antetokounmpo,0.0767339544513457,1.0,0.1272
+632,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,Giannis Antetokounmpo,0.1631146631146631,1.2,0.9904
+638,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,Giannis Antetokounmpo,0.3214285714285714,1.2,0.9611
+641,NBA: LA Lakers lose 110-99 to Denver Nuggets,2022-23,https://www.bbc.co.uk/sport/basketball/63409773,Giannis Antetokounmpo,0.122689075630252,1.0,-0.8658
+643,NBA round-up: Boston Celtics' winning streak ends with Orlando Magic loss,2022-23,https://www.bbc.co.uk/sport/basketball/64383208,Giannis Antetokounmpo,0.2453216374269005,1.0,0.9109
+644,NBA: Sacramento Kings beat LA Clippers in 'crazy' 176-175 history-making game,2022-23,https://www.bbc.co.uk/sport/basketball/64769116,Giannis Antetokounmpo,0.0563492063492063,1.0,0.9791
+654,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Giannis Antetokounmpo,0.2544456845238095,1.0,0.9868
+663,NBA: LeBron James scores first triple-double of season to move close to all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64481152,Giannis Antetokounmpo,0.106060606060606,1.0,0.8126
+665,NBA: Damian Lillard scores season-high 60 points as Portland Trail Blazers beat Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64409544,Giannis Antetokounmpo,-0.0925925925925926,1.0,0.6808
+672,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,Giannis Antetokounmpo,0.1553719008264463,1.0,0.7602
+685,Kyrie Irving: Nike suspend sponsorship deal with Brooklyn Nets player,2022-23,https://www.bbc.co.uk/sport/basketball/63525097,Giannis Antetokounmpo,0.1093344155844155,1.0,0.8966
+690,NBA: LeBron James passes Magic Johnson on all-time assists list,2022-23,https://www.bbc.co.uk/sport/basketball/63844768,Giannis Antetokounmpo,0.0868421052631579,1.0,0.5423
+691,NBA: Memphis Grizzlies lose to in-form LA Lakers in second game without Ja Morant,2022-23,https://www.bbc.co.uk/sport/basketball/64885558,Giannis Antetokounmpo,0.1226430976430976,1.0,0.9956
+701,Luka Doncic: Dallas Mavericks point guard scores 10th triple-double of the season,2022-23,https://www.bbc.co.uk/sport/basketball/64259791,Giannis Antetokounmpo,0.082253086419753,1.0,0.9476
+707,NBA: Zion Williamson scores 43 points as Pelicans beat Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64114841,Giannis Antetokounmpo,0.1515151515151515,1.2,0.9834
+715,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Giannis Antetokounmpo,0.2189118457300275,1.2,0.9895
+733,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Giannis Antetokounmpo,0.1617079889807162,1.0,0.992
+742,NBA: Stephen Curry 'lights the fire' as Golden State Warriors beat Sacramento Kings,2022-23,https://www.bbc.co.uk/sport/basketball/63553732,Giannis Antetokounmpo,0.2186443932411673,1.0,0.9809
+764,NBA: Kyrie Irving and Brooklyn Nets pledge $1m after criticism over anti-Semitism,2022-23,https://www.bbc.co.uk/sport/basketball/63495933,Giannis Antetokounmpo,-0.0063095238095238,1.2,-0.9796
+788,NBA: Five reasons to watch Chicago Bulls v Detroit Pistons at NBA Paris on the BBC,2022-23,https://www.bbc.co.uk/sport/basketball/64329346,Giannis Antetokounmpo,0.1677548921666568,1.0,0.9991
+792,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Luka Dončić,0.1416112657184086,0.8,0.9872
+793,Luka Doncic: Dallas Mavericks point guard scores 10th triple-double of the season,2022-23,https://www.bbc.co.uk/sport/basketball/64259791,Luka Dončić,0.082253086419753,0.6000000000000001,0.9476
+794,Luka Doncic scores magical 60-point triple-double in Dallas Mavericks win,2022-23,https://www.bbc.co.uk/sport/basketball/64107654,Luka Dončić,0.2051156728576083,0.6000000000000001,0.9908
+795,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Luka Dončić,0.1617079889807162,0.6000000000000001,0.992
+798,NBA: Luka Doncic leads Dallas Mavericks to win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63804650,Luka Dončić,-0.0375811688311688,0.6000000000000001,0.8857
+826,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Luka Dončić,0.0630533543669136,0.8,0.9968
+828,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Luka Dončić,0.1351239669421487,0.6000000000000001,0.8479
+831,Kyrie Irving: Dallas Mavericks guard scores 24 points in debut win,2022-23,https://www.bbc.co.uk/sport/basketball/64579610,Luka Dončić,0.1592613636363636,0.6000000000000001,0.9826
+837,Stephen Curry: Point guard scores 24 as Golden State Warriors beat New York Knicks,2022-23,https://www.bbc.co.uk/sport/basketball/63686873,Luka Dončić,0.1914918414918415,0.6000000000000001,0.9692
+839,NBA: Klay Thompson ejected in Phoenix Suns win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63397347,Luka Dončić,0.1150285320739866,0.8,0.984
+841,NBA: Giannis Antetokounmpo beats Milwaukee Bucks free-throw record mark,2022-23,https://www.bbc.co.uk/sport/basketball/63363379,Luka Dončić,0.1962962962962963,0.6000000000000001,0.9794
+845,NBA: San Antonio Spurs beat Cleveland Cavaliers as Keldon Johnson blocks late shot,2022-23,https://www.bbc.co.uk/sport/basketball/63954218,Luka Dončić,0.1923076923076923,0.6000000000000001,0.7184
+860,NBA: Kyrie Irving can make Dallas Mavericks title contenders - Jason Kidd,2022-23,https://www.bbc.co.uk/sport/basketball/64551113,Luka Dončić,0.1579545454545454,0.6000000000000001,0.9696
+861,NBA: Memphis Grizzlies lose to in-form LA Lakers in second game without Ja Morant,2022-23,https://www.bbc.co.uk/sport/basketball/64885558,Luka Dončić,0.1226430976430976,0.6000000000000001,0.9956
+867,NBA: Eleven Orlando Magic & Detroit Pistons players suspended after scuffle,2022-23,https://www.bbc.co.uk/sport/basketball/64124245,Luka Dončić,0.1034902597402597,0.6000000000000001,-0.8402
+877,NBA: Defending champions Golden State Warriors beat Boston Celtics in Finals rematch,2022-23,https://www.bbc.co.uk/sport/basketball/63933734,Luka Dončić,0.0985780423280423,0.6000000000000001,0.3898
+909,NBA: Five reasons to watch Chicago Bulls v Detroit Pistons at NBA Paris on the BBC,2022-23,https://www.bbc.co.uk/sport/basketball/64329346,Luka Dončić,0.1677548921666568,0.6000000000000001,0.9991
+922,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,Devin Booker,0.1631146631146631,1.2,0.9904
+927,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Devin Booker,0.0884722222222222,1.2,0.9398
+932,NBA: Klay Thompson ejected in Phoenix Suns win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63397347,Devin Booker,0.1150285320739866,1.2,0.984
+934,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Devin Booker,0.2053030303030302,1.0,0.9776
+945,NBA: Boston Celtics beat Miami Heat in front of Prince and Princess of Wales,2022-23,https://www.bbc.co.uk/sport/basketball/63818629,Devin Booker,0.3702479338842975,1.2,0.9839
+961,NBA: Los Angeles Lakers beaten by Portland Trail Blazers as losing start continues,2022-23,https://www.bbc.co.uk/sport/basketball/63370829,Devin Booker,0.0082491582491582,1.2,-0.7254
+1011,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Karl-Anthony Towns,0.1825086125086125,0.6000000000000001,0.9995
+1083,NBA: Donovan Mitchell scores a Cleveland Cavaliers record 71 points in win over Chicago Bulls,2022-23,https://www.bbc.co.uk/sport/basketball/64150547,Donovan Mitchell,0.1555555555555555,1.0,0.9891
+1102,NBA: San Antonio Spurs beat Cleveland Cavaliers as Keldon Johnson blocks late shot,2022-23,https://www.bbc.co.uk/sport/basketball/63954218,Donovan Mitchell,0.1923076923076923,1.0,0.7184
+1103,Damian Lillard scores 71 points as Portland Trail Blazers beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64782882,Donovan Mitchell,0.0993241167434715,1.0,0.9688
+1124,Luka Doncic: Dallas Mavericks point guard scores 10th triple-double of the season,2022-23,https://www.bbc.co.uk/sport/basketball/64259791,Donovan Mitchell,0.082253086419753,1.0,0.9476
+1179,NBA: Kyrie Irving and Brooklyn Nets pledge $1m after criticism over anti-Semitism,2022-23,https://www.bbc.co.uk/sport/basketball/63495933,Donovan Mitchell,-0.0063095238095238,1.2,-0.9796
+1232,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,LeBron James,0.1351239669421487,1.0,0.8479
+1233,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,LeBron James,0.1825086125086125,1.2,0.9995
+1240,NBA: LeBron James scores first triple-double of season to move close to all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64481152,LeBron James,0.106060606060606,1.0,0.8126
+1242,NBA: Officials miss foul on LeBron James as LA Lakers lose to Boston Celtics,2022-23,https://www.bbc.co.uk/sport/basketball/64443930,LeBron James,0.1354545454545454,1.0,0.1531
+1243,NBA results round-up: LeBron James closes on record but Lakers lose to Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/64396495,LeBron James,0.1953217237308146,1.0,0.991
+1244,NBA round-up: LeBron James inspires comeback win for the Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64370555,LeBron James,0.064,1.0,0.9712
+1245,LeBron James' LA Lakers accuse NBA of cheating after 'gut-wrenching' referee error,2022-23,https://www.bbc.co.uk/sport/basketball/64450359,LeBron James,-0.032161753590325,1.0,0.444
+1246,NBA: LeBron James scores season-high 48 points in Los Angeles Lakers win,2022-23,https://www.bbc.co.uk/sport/basketball/64301044,LeBron James,0.1433155080213903,0.8,0.9633
+1248,NBA: LeBron James scores 47 points in Los Angeles Lakers win over Atlanta Hawks,2022-23,https://www.bbc.co.uk/sport/basketball/64134392,LeBron James,-0.0138461538461538,1.0,0.9252
+1252,NBA: LeBron James passes Magic Johnson on all-time assists list,2022-23,https://www.bbc.co.uk/sport/basketball/63844768,LeBron James,0.0868421052631579,1.0,0.5423
+1253,NBA: LeBron James returns as LA Lakers beat San Antonio Spurs,2022-23,https://www.bbc.co.uk/sport/basketball/63766296,LeBron James,0.1808333333333333,1.0,0.7906
+1254,NBA: Los Angeles Lakers win as LeBron James and Anthony Davis star,2022-23,https://www.bbc.co.uk/sport/basketball/63453775,LeBron James,0.1636363636363636,1.0,0.7717
+1479,NBA: Los Angeles Lakers beaten by Portland Trail Blazers as losing start continues,2022-23,https://www.bbc.co.uk/sport/basketball/63370829,LeBron James,0.0082491582491582,1.2,-0.7254
+1520,Kevin Durant: Phoenix Suns forward out for three weeks after missing home debut with warm-up injury,2022-23,https://www.bbc.co.uk/sport/basketball/64912266,Kevin Durant,0.1091379634857895,1.0,0.9325
+1521,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,Kevin Durant,0.1631146631146631,1.2,0.9904
+1522,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Kevin Durant,0.0884722222222222,1.2,0.9398
+1524,"NBA: Brooklyn Nets find 'solace' in wins after tumultuous week, says Kevin Durant",2022-23,https://www.bbc.co.uk/sport/basketball/63532635,Kevin Durant,0.089537037037037,0.8,0.9489
+1525,Kevin Durant found out about Brooklyn Nets sacking Steve Nash on TV,2022-23,https://www.bbc.co.uk/sport/basketball/63482350,Kevin Durant,0.1112619047619047,1.0,0.9671
+1526,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,Kevin Durant,0.2637310606060606,1.0,0.9899
+1558,NBA: Brooklyn Nets beat New York Knicks 112-85 in Jacque Vaughn's first game as head coach,2022-23,https://www.bbc.co.uk/sport/basketball/63580568,Kevin Durant,0.0275974025974026,1.0,-0.6753
+1572,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Kevin Durant,0.2053030303030302,1.0,0.9776
+1575,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Kevin Durant,0.1306998556998557,1.2,0.8704
+1578,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Kevin Durant,0.1064141414141414,1.4,0.9976
+1579,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,Kevin Durant,0.2039848484848485,1.0,0.9766
+1582,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Kevin Durant,0.1416112657184086,1.2,0.9872
+1585,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Kevin Durant,0.0630533543669136,1.2,0.9968
+1587,Kyrie Irving: Dallas Mavericks guard scores 24 points in debut win,2022-23,https://www.bbc.co.uk/sport/basketball/64579610,Kevin Durant,0.1592613636363636,1.0,0.9826
+1595,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Kevin Durant,0.1825086125086125,1.2,0.9995
+1596,NBA: Stephen Curry inspires Golden State Warriors against Milwaukee Bucks,2022-23,https://www.bbc.co.uk/sport/basketball/64930824,Kevin Durant,0.1688311688311688,1.0,0.9938
+1608,NBA round-up: Dennis Schroder leads LA Lakers to late victory over Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64357720,Kevin Durant,0.0656784188034188,1.0,0.2263
+1609,NBA: Zion Williamson scores 43 points as Pelicans beat Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64114841,Kevin Durant,0.1515151515151515,1.2,0.9834
+1616,NBA: San Antonio Spurs beat Cleveland Cavaliers as Keldon Johnson blocks late shot,2022-23,https://www.bbc.co.uk/sport/basketball/63954218,Kevin Durant,0.1923076923076923,1.0,0.7184
+1621,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,Kevin Durant,0.1312499999999999,1.0,-0.1583
+1636,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,Kevin Durant,0.2775,1.0,0.9945
+1642,NBA: Boston Celtics beat Miami Heat in front of Prince and Princess of Wales,2022-23,https://www.bbc.co.uk/sport/basketball/63818629,Kevin Durant,0.3702479338842975,1.2,0.9839
+1653,NBA: Brooklyn Nets fans wear 'Fight Anti-Semitism' T-shirts after Kyrie Irving tweet,2022-23,https://www.bbc.co.uk/sport/basketball/63467880,Kevin Durant,-0.0399184149184149,1.0,-0.8658
+1657,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Kevin Durant,0.2544456845238095,1.0,0.9868
+1659,NBA: Kyrie Irving helps Brooklyn Nets beat Memphis Grizzlies 127-115 on return from suspension,2022-23,https://www.bbc.co.uk/sport/basketball/63699344,Kevin Durant,0.2286096256684492,1.0,0.9565
+1663,Luka Doncic: Dallas Mavericks point guard scores 10th triple-double of the season,2022-23,https://www.bbc.co.uk/sport/basketball/64259791,Kevin Durant,0.082253086419753,1.0,0.9476
+1681,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Kevin Durant,0.2189118457300275,1.2,0.9895
+1686,Luka Doncic scores magical 60-point triple-double in Dallas Mavericks win,2022-23,https://www.bbc.co.uk/sport/basketball/64107654,Kevin Durant,0.2051156728576083,1.0,0.9908
+1694,NBA Slam Dunk Contest: Mac McClung signs for Philadelphia 76ers and 'saves' event,2022-23,https://www.bbc.co.uk/sport/basketball/64695886,Kevin Durant,0.1954793233082707,1.0,0.9479
+1700,NBA: Defending champions Golden State Warriors beat Boston Celtics in Finals rematch,2022-23,https://www.bbc.co.uk/sport/basketball/63933734,Kevin Durant,0.0985780423280423,1.0,0.3898
+1708,NBA: Zion Williamson returns as New Orleans Pelicans win season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63325545,Kevin Durant,0.0682416267942583,1.2,0.956
+1730,Kyrie Irving: Nike suspend sponsorship deal with Brooklyn Nets player,2022-23,https://www.bbc.co.uk/sport/basketball/63525097,Kevin Durant,0.1093344155844155,1.0,0.8966
+1811,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,Zach LaVine,0.1553719008264463,1.0,0.7602
+1814,NBA: Chicago Bulls beat rivals Detroit Pistons 126-108 in Paris,2022-23,https://www.bbc.co.uk/sport/basketball/64341200,Zach LaVine,0.1337583279604556,1.2,0.9984
+1816,NBA: Five reasons to watch Chicago Bulls v Detroit Pistons at NBA Paris on the BBC,2022-23,https://www.bbc.co.uk/sport/basketball/64329346,Zach LaVine,0.1677548921666568,1.0,0.9991
+1839,Aaron Rodgers: Green Bay Packers quarterback says he intends to join New York Jets,2022-23,https://www.bbc.co.uk/sport/american-football/64929406,Zach LaVine,0.1054625569235958,0.8,0.9984
+1840,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Zach LaVine,0.1804866627439443,0.8,0.996
+1846,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Zach LaVine,0.1556811375207601,0.6000000000000001,0.9986
+1851,NBA: Stephen Curry inspires Golden State Warriors against Milwaukee Bucks,2022-23,https://www.bbc.co.uk/sport/basketball/64930824,Stephen Curry,0.1688311688311688,1.0,0.9938
+1853,"NBA: Stephen Curry ruled out indefinitely with knee injury, Kyrie Irving reportedly set for Dallas Mavericks trade",2022-23,https://www.bbc.co.uk/sport/basketball/64535246,Stephen Curry,0.0503787878787878,0.0,-0.3687
+1854,Stephen Curry injured as Golden State Warriors lose again,2022-23,https://www.bbc.co.uk/sport/basketball/63982850,Stephen Curry,0.0890873015873015,1.0,-0.6605
+1857,Stephen Curry: Point guard scores 24 as Golden State Warriors beat New York Knicks,2022-23,https://www.bbc.co.uk/sport/basketball/63686873,Stephen Curry,0.1914918414918415,1.0,0.9692
+1858,NBA: Stephen Curry 'lights the fire' as Golden State Warriors beat Sacramento Kings,2022-23,https://www.bbc.co.uk/sport/basketball/63553732,Stephen Curry,0.2186443932411673,1.0,0.9809
+1859,NBA: Stephen Curry scores 33 points as Warriors beat Lakers in season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63310729,Stephen Curry,0.0286671661671661,1.0,0.9862
+1860,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Stephen Curry,0.1306998556998557,1.2,0.8704
+1954,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Stephen Curry,0.1416112657184086,1.2,0.9872
+1961,NBA: Golden State Warriors lose to Detroit Pistons after late three-pointer,2022-23,https://www.bbc.co.uk/sport/basketball/64172182,Stephen Curry,-0.0105842911877394,1.2,-0.0031
+1965,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Stephen Curry,0.1825086125086125,1.2,0.9995
+1976,NBA: Joel Embiid scores 38 points as Philadelphia 76ers beat Cleveland Cavaliers,2022-23,https://www.bbc.co.uk/sport/basketball/64974061,Stephen Curry,0.2004464285714285,1.0,0.5023
+1983,NBA: Giannis Antetokounmpo leads Milwaukee Bucks to win on injury return,2022-23,https://www.bbc.co.uk/sport/basketball/64948897,Stephen Curry,0.0838888888888888,1.0,0.4582
+1984,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Stephen Curry,0.1064141414141414,0.0,0.9976
+1986,NBA: Damian Lillard scores season-high 60 points as Portland Trail Blazers beat Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64409544,Stephen Curry,-0.0925925925925926,1.0,0.6808
+1990,Irish Premiership: Paul McElroy hat-trick helps Portadown beat Swifts to close gap at bottom,2022-23,https://www.bbc.co.uk/sport/football/64766315,Stephen Curry,-0.0358878968253968,0.4,-0.8316
+1999,NBA: Giannis Antetokounmpo leads Bucks to win over Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63968476,Stephen Curry,0.0017512077294686,1.0,0.931
+2057,NBA: Miami Heat set free-throw record in 112-111 win over Oklahoma City Thunder,2022-23,https://www.bbc.co.uk/sport/basketball/64233233,Stephen Curry,0.2002430555555555,0.8,0.985
+2069,NBA: Golden State Warriors thrash San Antonio Spurs in front of record crowd,2022-23,https://www.bbc.co.uk/sport/basketball/64273731,Stephen Curry,0.0885416666666666,1.0,0.8481
+2078,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Stephen Curry,0.2053030303030302,1.0,0.9776
+2093,NBA: Luka Doncic leads Dallas Mavericks to win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63804650,Stephen Curry,-0.0375811688311688,1.0,0.8857
+2106,NBA: Los Angeles Lakers beaten by Portland Trail Blazers as losing start continues,2022-23,https://www.bbc.co.uk/sport/basketball/63370829,Stephen Curry,0.0082491582491582,1.2,-0.7254
+2109,NBA: Sacramento Kings beat LA Clippers in 'crazy' 176-175 history-making game,2022-23,https://www.bbc.co.uk/sport/basketball/64769116,Stephen Curry,0.0563492063492063,1.0,0.9791
+2118,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,Stephen Curry,0.1553719008264463,1.0,0.7602
+2250,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Miles Bridges,0.0884722222222222,0.8,0.9398
+2430,Ja Morant: NBA star suspended for eight games without pay after gun incident,2022-23,https://www.bbc.co.uk/sport/basketball/64969884,Ja Morant,-0.0196810207336522,1.0,-0.965
+2431,Ja Morant: Police find insufficient evidence to charge Memphis Grizzlies guard,2022-23,https://www.bbc.co.uk/sport/basketball/64872283,Ja Morant,0.0302033492822966,0.8,-0.8555
+2432,NBA: Memphis Grizzlies lose to in-form LA Lakers in second game without Ja Morant,2022-23,https://www.bbc.co.uk/sport/basketball/64885558,Ja Morant,0.1226430976430976,1.0,0.9956
+2433,Ja Morant: Memphis Grizzlies guard takes 'full responsibility' as NBA investigates social media video,2022-23,https://www.bbc.co.uk/sport/basketball/64851375,Ja Morant,-0.0254721124286341,1.0,-0.5994
+2434,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Ja Morant,0.1306998556998557,1.2,0.8704
+2456,NBA: Joel Embiid scores 38 points as Philadelphia 76ers beat Cleveland Cavaliers,2022-23,https://www.bbc.co.uk/sport/basketball/64974061,Ja Morant,0.2004464285714285,1.0,0.5023
+2461,Kevin Durant: Phoenix Suns forward out for three weeks after missing home debut with warm-up injury,2022-23,https://www.bbc.co.uk/sport/basketball/64912266,Ja Morant,0.1091379634857895,1.0,0.9325
+2462,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Ja Morant,0.2544456845238095,1.0,0.9868
+2478,NBA: Eleven Orlando Magic & Detroit Pistons players suspended after scuffle,2022-23,https://www.bbc.co.uk/sport/basketball/64124245,Ja Morant,0.1034902597402597,1.0,-0.8402
+2484,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,Ja Morant,0.2637310606060606,1.0,0.9899
+2486,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Ja Morant,0.1617079889807162,1.0,0.992
+2502,Kanye West: Aaron Donald & Jaylen Brown end contracts with Donda sports marketing agency,2022-23,https://www.bbc.co.uk/sport/63396820,Jaylen Brown,0.0374505928853754,1.0,-0.9718
+2510,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Jaylen Brown,0.0767339544513457,1.0,0.1272
+2511,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Jaylen Brown,0.1416112657184086,1.2,0.9872
+2512,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Jaylen Brown,0.0630533543669136,1.2,0.9968
+2514,NBA: Giannis Antetokounmpo leads Milwaukee Bucks to win on injury return,2022-23,https://www.bbc.co.uk/sport/basketball/64948897,Jaylen Brown,0.0838888888888888,1.0,0.4582
+2515,NBA: Giannis Antetokounmpo stars as Milwaukee Bucks beat LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/64608767,Jaylen Brown,0.142436974789916,1.0,0.9153
+2516,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Jaylen Brown,0.2053030303030302,1.0,0.9776
+2517,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,Jaylen Brown,0.1312499999999999,1.0,-0.1583
+2518,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,Jaylen Brown,0.1553719008264463,1.0,0.7602
+2521,Stephen Curry: Point guard scores 24 as Golden State Warriors beat New York Knicks,2022-23,https://www.bbc.co.uk/sport/basketball/63686873,Jaylen Brown,0.1914918414918415,1.0,0.9692
+2524,NBA: Boston Celtics beat Miami Heat in front of Prince and Princess of Wales,2022-23,https://www.bbc.co.uk/sport/basketball/63818629,Jaylen Brown,0.3702479338842975,1.2,0.9839
+2534,NBA: Eleven Orlando Magic & Detroit Pistons players suspended after scuffle,2022-23,https://www.bbc.co.uk/sport/basketball/64124245,Jaylen Brown,0.1034902597402597,1.0,-0.8402
+2539,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Jaylen Brown,0.2189118457300275,1.2,0.9895
+2544,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Jaylen Brown,0.1804866627439443,0.8,0.996
+2546,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Jaylen Brown,0.1739121306744257,0.8,0.9995
+2549,NBA: Los Angeles Lakers win as LeBron James and Anthony Davis star,2022-23,https://www.bbc.co.uk/sport/basketball/63453775,Jaylen Brown,0.1636363636363636,1.0,0.7717
+2550,NFL week 13: San Francisco 49ers beat Miami Dolphins while Deshaun Watson wins on return from suspension,2022-23,https://www.bbc.co.uk/sport/american-football/63855156,Jaylen Brown,0.0954148199683913,0.8,0.9946
+2567,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Jaylen Brown,0.1424561945990518,0.8,0.999
+2587,Super Bowl 57: Kansas City Chiefs fight back to beat Philadelphia Eagles 38-35 in thriller,2022-23,https://www.bbc.co.uk/sport/american-football/64613767,Jaylen Brown,0.2111051646765933,0.8,0.9988
+2596,NBA: Stephen Curry scores 33 points as Warriors beat Lakers in season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63310729,Jaylen Brown,0.0286671661671661,1.0,0.9862
+2597,NFL play-offs: Patrick Mahomes aims to overcome injury and reach Super Bowl 57,2022-23,https://www.bbc.co.uk/sport/american-football/64396384,Jaylen Brown,0.0992617908407382,0.8,0.9967
+2619,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Jaylen Brown,0.0765265697605147,0.8,0.9923
+2621,NFL week seven review: Tom Brady & Aaron Rodgers both lose and Chiefs beat 49ers,2022-23,https://www.bbc.co.uk/sport/american-football/63369025,Jaylen Brown,0.0935811032401941,0.8,0.9983
+2630,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Jaylen Brown,0.1556811375207601,0.6000000000000001,0.9986
+2643,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,Jaylen Brown,0.1955689814194968,0.8,0.9953
+2651,Joel Embiid: Cameroon pledge would be 'tremendous leap forward' for African side,2022-23,https://www.bbc.co.uk/sport/africa/63159188,Pascal Siakam,0.1260862054612054,1.2,0.9986
+2728,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Anthony Edwards,0.0767339544513457,0.6000000000000001,0.1272
+2753,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,Anthony Edwards,0.3214285714285714,0.8,0.9611
+2774,Plymouth Argyle 2-1 Morecambe,2022-23,https://www.bbc.co.uk/sport/football/63925982,Anthony Edwards,0.1690826330532213,0.8,0.9981
+2826,Sunderland 1-1 Luton Town: Amad Diallo's late penalty denies Hatters victory,2022-23,https://www.bbc.co.uk/sport/football/64923232,Anthony Edwards,0.1357337136243387,0.8,0.9974
+2870,Transfer news: Done deals in February & March 2023,2022-23,https://www.bbc.co.uk/sport/football/64547464,Anthony Edwards,0.2218614718614718,1.0,0.8625
+2942,"Sunny Edwards v Felix Alvarado: IBF flyweight champion on legacy, fearing fame and Daniel Kinahan",2022-23,https://www.bbc.co.uk/sport/boxing/63557459,Anthony Edwards,0.1224482479112108,1.0,-0.976
+2980,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,LaMelo Ball,0.1631146631146631,0.8,0.9904
+2985,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,LaMelo Ball,0.1825086125086125,0.8,0.9995
+2988,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,LaMelo Ball,0.1739121306744257,0.8,0.9995
+3005,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,LaMelo Ball,0.3214285714285714,0.8,0.9611
+3008,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,LaMelo Ball,0.1424561945990518,0.8,0.999
+3012,Tom Brady retires 'for good' after 23 seasons in NFL,2022-23,https://www.bbc.co.uk/sport/american-football/64487463,LaMelo Ball,0.1553198537573538,0.8,0.9989
+3055,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,LaMelo Ball,0.0964555293191656,0.8,0.9976
+3061,Aaron Rodgers: Green Bay Packers quarterback says he intends to join New York Jets,2022-23,https://www.bbc.co.uk/sport/american-football/64929406,LaMelo Ball,0.1054625569235958,0.8,0.9984
+3088,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,LaMelo Ball,0.0765265697605147,0.8,0.9923
+3103,World Baseball Classic: Great Britain to make historic debut against USA,2022-23,https://www.bbc.co.uk/sport/baseball/64880237,LaMelo Ball,0.156074384720218,0.8,0.9986
+3117,Pakistan v England: Why Will Jacks should fit perfectly into Ben Stokes' team,2022-23,https://www.bbc.co.uk/sport/cricket/63201385,LaMelo Ball,0.1581755050505049,1.0,0.9993
+3121,"NFL divisional round play-offs: Injured Mahomes leads Chiefs over Jaguars, Eagles dominate Giants",2022-23,https://www.bbc.co.uk/sport/american-football/64362953,LaMelo Ball,0.0827472226568612,0.8,0.9945
+3145,NFL play-offs: Remarkable rise of San Francisco 49ers' 'Mr Irrelevant' Brock Purdy,2022-23,https://www.bbc.co.uk/sport/american-football/64348673,LaMelo Ball,0.1655313051146385,0.8,0.9991
+3172,Joel Embiid: Philadelphia 76ers centre scores 59 points in win over Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/63620537,Darius Garland,0.1363636363636363,1.0,-0.511
+3174,NBA: San Antonio Spurs beat Cleveland Cavaliers as Keldon Johnson blocks late shot,2022-23,https://www.bbc.co.uk/sport/basketball/63954218,Darius Garland,0.1923076923076923,1.0,0.7184
+3184,NBA: Kyrie Irving and Brooklyn Nets pledge $1m after criticism over anti-Semitism,2022-23,https://www.bbc.co.uk/sport/basketball/63495933,Darius Garland,-0.0063095238095238,1.2,-0.9796
+3194,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Julius Randle,0.1351239669421487,1.0,0.8479
+3196,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Julius Randle,0.2053030303030302,1.0,0.9776
+3197,NBA: Luka Doncic leads Dallas Mavericks to win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63804650,Julius Randle,-0.0375811688311688,1.0,0.8857
+3224,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Russell Westbrook,0.0884722222222222,1.2,0.9398
+3255,Kyrie Irving: Dallas Mavericks guard scores 24 points in debut win,2022-23,https://www.bbc.co.uk/sport/basketball/64579610,Russell Westbrook,0.1592613636363636,1.0,0.9826
+3257,NBA: Milwaukee Bucks beat New York Knicks 119-108 to extend winning run,2022-23,https://www.bbc.co.uk/sport/basketball/63437077,Russell Westbrook,0.1896611201298701,1.0,0.9352
+3264,NBA round-up: Dennis Schroder leads LA Lakers to late victory over Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64357720,Russell Westbrook,0.0656784188034188,1.0,0.2263
+3269,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Russell Westbrook,0.0630533543669136,0.6000000000000001,0.9968
+3271,NBA: Sacramento Kings beat LA Clippers in 'crazy' 176-175 history-making game,2022-23,https://www.bbc.co.uk/sport/basketball/64769116,Russell Westbrook,0.0563492063492063,1.0,0.9791
+3272,NBA: Los Angeles Lakers win as LeBron James and Anthony Davis star,2022-23,https://www.bbc.co.uk/sport/basketball/63453775,Russell Westbrook,0.1636363636363636,1.0,0.7717
+3278,Nikola Jokic achieves 79th career triple-double to move above Wilt Chamberlain on the all-time list,2022-23,https://www.bbc.co.uk/sport/basketball/63511616,Russell Westbrook,0.2192307692307692,1.0,0.8884
+3282,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Russell Westbrook,0.1825086125086125,0.8,0.9995
+3287,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Russell Westbrook,0.2544456845238095,1.0,0.9868
+3320,Super Bowl 2023: Patrick Mahomes and Jalen Hurts making NFL history in Arizona,2022-23,https://www.bbc.co.uk/sport/american-football/64549158,Russell Westbrook,0.1788398756631839,1.0,0.9992
+3324,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,Russell Westbrook,0.2775,1.0,0.9945
+3340,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Russell Westbrook,0.0964555293191656,0.8,0.9976
+3342,NFL London: Russell Wilson under scrutiny as Denver Broncos face Jacksonville Jaguars,2022-23,https://www.bbc.co.uk/sport/american-football/63441203,Russell Westbrook,0.1107524828113063,0.8,0.9936
+3362,NFL week seven review: Tom Brady & Aaron Rodgers both lose and Chiefs beat 49ers,2022-23,https://www.bbc.co.uk/sport/american-football/63369025,Russell Westbrook,0.0935811032401941,0.8,0.9983
+3363,"NFL: Jaguars stun Cowboys in overtime, Chiefs make play-offs & Tom Brady blows lead",2022-23,https://www.bbc.co.uk/sport/american-football/64022849,Russell Westbrook,0.1247225954122505,0.8,0.9947
+3365,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,Russell Westbrook,0.1955689814194968,0.8,0.9953
+3367,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Russell Westbrook,0.1556811375207601,0.6000000000000001,0.9986
+3388,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Dejounte Murray,0.1424561945990518,0.8,0.999
+3398,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,Dejounte Murray,0.1955689814194968,0.8,0.9953
+3406,"NBA: Brooklyn Nets find 'solace' in wins after tumultuous week, says Kevin Durant",2022-23,https://www.bbc.co.uk/sport/basketball/63532635,Terry Rozier,0.089537037037037,0.8,0.9489
+3425,NBA renames MVP award as Michael Jordan Trophy as part of rebrand,2022-23,https://www.bbc.co.uk/sport/basketball/63952245,Jordan Poole,0.1200725744843391,0.8,0.9897
+3432,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,Jordan Poole,0.2039848484848485,1.0,0.9766
+3433,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Jordan Poole,0.1416112657184086,1.2,0.9872
+3439,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Jordan Poole,0.1825086125086125,0.8,0.9995
+3447,Forest Green Rovers 1-1 Lincoln City,2022-23,https://www.bbc.co.uk/sport/football/64686124,Jordan Poole,-0.0112599206349206,0.8,0.9834
+3451,Heineken Champions Cup: Bordeaux-Begles v Gloucester team news,2022-23,https://www.bbc.co.uk/sport/rugby-union/64348852,Jordan Poole,0.0636363636363636,0.6000000000000001,0.2684
+3454,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Jordan Poole,0.1064141414141414,1.4,0.9976
+3469,NBA: Golden State Warriors thrash San Antonio Spurs in front of record crowd,2022-23,https://www.bbc.co.uk/sport/basketball/64273731,Jordan Poole,0.0885416666666666,1.0,0.8481
+3474,Jordan Catchpole: Paralympic gold medallist on challenges of being an autistic athlete,2022-23,https://www.bbc.co.uk/sport/disability-sport/64859720,Jordan Poole,0.1415312231092048,0.6000000000000001,0.9986
+3478,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Jordan Poole,0.1351239669421487,1.0,0.8479
+3521,NBA: Damian Lillard scores season-high 60 points as Portland Trail Blazers beat Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64409544,Jordan Poole,-0.0925925925925926,1.0,0.6808
+3550,Lincoln City 1-1 Plymouth Argyle,2022-23,https://www.bbc.co.uk/sport/football/63523621,Jordan Poole,0.1219835719835719,0.8,0.9911
+3552,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Jordan Poole,0.2189118457300275,1.2,0.9895
+3554,Chippenham Town 1-0 Lincoln City: Non-league side stun League One Imps,2022-23,https://www.bbc.co.uk/sport/football/63461228,Jordan Poole,0.1008826945412311,1.0,0.9942
+3559,European Challenge Cup: Dragons 25-30 Lions - Both sides reach knockout stages,2022-23,https://www.bbc.co.uk/sport/rugby-union/64332757,Jordan Poole,0.0202404643449419,0.8,0.9803
+3569,Truro City's 16-game unbeaten run is ended with a 3-1 loss at Chesham United,2022-23,https://www.bbc.co.uk/sport/football/63761236,Jordan Poole,0.0034722222222222,0.8,-0.3182
+3572,Aaron Rodgers: Green Bay Packers quarterback says he intends to join New York Jets,2022-23,https://www.bbc.co.uk/sport/american-football/64929406,Jordan Poole,0.1054625569235958,0.8,0.9984
+3573,Jersey Reds beat Ealing 28-27 in thrilling Championship Cup clash,2022-23,https://www.bbc.co.uk/sport/rugby-union/64523171,Jordan Poole,0.1076797385620915,0.8,0.98
+3606,Challenge Cup: Glasgow Warriors seal home tie in last 16 despite 19-19 draw with Bath,2022-23,https://www.bbc.co.uk/sport/rugby-union/64351756,Jordan Poole,0.0758285593878814,0.6000000000000001,-0.9243
+3643,Heineken Champions Cup: Leinster beat Gloucester 49-14 to reach last 16,2022-23,https://www.bbc.co.uk/sport/rugby-union/64264861,Jordan Poole,0.0270609318996415,0.6000000000000001,0.9844
+3671,European Challenge Cup: Pau 15-21 Dragons - Welsh region secure European win,2022-23,https://www.bbc.co.uk/sport/rugby-union/64249110,Jordan Poole,0.1038574423480083,0.8,0.9972
+3707,World Baseball Classic: Great Britain to make historic debut against USA,2022-23,https://www.bbc.co.uk/sport/baseball/64880237,Jordan Poole,0.156074384720218,0.6000000000000001,0.9986
+3714,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Jordan Poole,0.1617079889807162,1.0,0.992
+3738,NBA: Giannis Antetokounmpo scores career-high 55 points in Milwaukee Bucks win,2022-23,https://www.bbc.co.uk/sport/basketball/64160574,Shai Gilgeous-Alexander,0.0240384615384615,0.6000000000000001,0.5109
+3740,NBA: Miami Heat set free-throw record in 112-111 win over Oklahoma City Thunder,2022-23,https://www.bbc.co.uk/sport/basketball/64233233,Shai Gilgeous-Alexander,0.2002430555555555,0.4,0.985
+3743,NBA: Klay Thompson ejected in Phoenix Suns win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63397347,Shai Gilgeous-Alexander,0.1150285320739866,0.8,0.984
+3775,NFL week 13: San Francisco 49ers beat Miami Dolphins while Deshaun Watson wins on return from suspension,2022-23,https://www.bbc.co.uk/sport/american-football/63855156,Tyler Herro,0.0954148199683913,0.8,0.9946
+3776,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Tyler Herro,0.0964555293191656,0.8,0.9976
+3782,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,Tyler Herro,0.1955689814194968,0.8,0.9953
+3785,NBA: Sacramento Kings beat LA Clippers in 'crazy' 176-175 history-making game,2022-23,https://www.bbc.co.uk/sport/basketball/64769116,De'Aaron Fox,0.0563492063492063,0.6000000000000001,0.9791
+3786,NBA: Giannis Antetokounmpo scores career-high 55 points in Milwaukee Bucks win,2022-23,https://www.bbc.co.uk/sport/basketball/64160574,De'Aaron Fox,0.0240384615384615,0.6000000000000001,0.5109
+3792,Tom Brady retires 'for good' after 23 seasons in NFL,2022-23,https://www.bbc.co.uk/sport/american-football/64487463,De'Aaron Fox,0.1553198537573538,0.8,0.9989
+3800,World Baseball Classic: Great Britain to make historic debut against USA,2022-23,https://www.bbc.co.uk/sport/baseball/64880237,De'Aaron Fox,0.156074384720218,0.8,0.9986
+3816,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Khris Middleton,0.0630533543669136,1.2,0.9968
+3849,NBA: Golden State Warriors lose to Detroit Pistons after late three-pointer,2022-23,https://www.bbc.co.uk/sport/basketball/64172182,Saddiq Bey,-0.0105842911877394,1.2,-0.0031
+3850,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Saddiq Bey,0.0884722222222222,1.2,0.9398
+3854,NBA: Milwaukee Bucks beat Phoenix Suns to become first team to clinch play-off place,2022-23,https://www.bbc.co.uk/sport/basketball/64961517,Fred VanVleet,0.1592697157914549,0.8,0.9661
+3866,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,Fred VanVleet,0.2775,1.0,0.9945
+3878,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Jonas Valančiūnas,0.2189118457300275,0.8,0.9895
+3888,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Tyrese Maxey,0.1617079889807162,1.0,0.992
+3900,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Nikola Vučević,0.0630533543669136,0.8,0.9968
+3901,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,Nikola Vučević,0.2039848484848485,0.6000000000000001,0.9766
+3903,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,Nikola Vučević,0.2637310606060606,0.6000000000000001,0.9899
+3911,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Nikola Vučević,0.1306998556998557,0.8,0.8704
+3929,Joel Embiid: Cameroon pledge would be 'tremendous leap forward' for African side,2022-23,https://www.bbc.co.uk/sport/africa/63159188,Nikola Vučević,0.1260862054612054,0.8,0.9986
+3930,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Nikola Vučević,0.1064141414141414,1.0,0.9976
+3934,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Jalen Brunson,0.1351239669421487,1.0,0.8479
+3936,NBA: LeBron James scores first triple-double of season to move close to all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64481152,Jalen Brunson,0.106060606060606,1.0,0.8126
+3938,NBA: Golden State Warriors thrash San Antonio Spurs in front of record crowd,2022-23,https://www.bbc.co.uk/sport/basketball/64273731,Jalen Brunson,0.0885416666666666,1.0,0.8481
+3939,Super Bowl 2023: Patrick Mahomes and Jalen Hurts making NFL history in Arizona,2022-23,https://www.bbc.co.uk/sport/american-football/64549158,Jalen Brunson,0.1788398756631839,1.0,0.9992
+3943,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Jalen Brunson,0.1739121306744257,0.8,0.9995
+3949,NFL play-offs: Patrick Mahomes aims to overcome injury and reach Super Bowl 57,2022-23,https://www.bbc.co.uk/sport/american-football/64396384,Jalen Brunson,0.0992617908407382,0.8,0.9967
+3950,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Jalen Brunson,0.1804866627439443,0.8,0.996
+3951,NFL week 13: San Francisco 49ers beat Miami Dolphins while Deshaun Watson wins on return from suspension,2022-23,https://www.bbc.co.uk/sport/american-football/63855156,Jalen Brunson,0.0954148199683913,0.8,0.9946
+3952,"NFL divisional round play-offs: Injured Mahomes leads Chiefs over Jaguars, Eagles dominate Giants",2022-23,https://www.bbc.co.uk/sport/american-football/64362953,Jalen Brunson,0.0827472226568612,0.8,0.9945
+3954,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Jalen Brunson,0.1556811375207601,0.6000000000000001,0.9986
+3955,Super Bowl 57: Kansas City Chiefs fight back to beat Philadelphia Eagles 38-35 in thriller,2022-23,https://www.bbc.co.uk/sport/american-football/64613767,Jalen Brunson,0.2111051646765933,0.8,0.9988
+3956,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Jalen Brunson,0.0964555293191656,0.8,0.9976
+3959,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Jalen Brunson,0.0765265697605147,0.8,0.9923
+3962,NFL play-offs: Remarkable rise of San Francisco 49ers' 'Mr Irrelevant' Brock Purdy,2022-23,https://www.bbc.co.uk/sport/american-football/64348673,Jalen Brunson,0.1655313051146385,0.8,0.9991
+3963,"NFL: Jaguars stun Cowboys in overtime, Chiefs make play-offs & Tom Brady blows lead",2022-23,https://www.bbc.co.uk/sport/american-football/64022849,Jalen Brunson,0.1247225954122505,0.8,0.9947
+3964,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,Jalen Brunson,0.1955689814194968,0.8,0.9953
+3986,NBA: San Antonio Spurs beat Cleveland Cavaliers as Keldon Johnson blocks late shot,2022-23,https://www.bbc.co.uk/sport/basketball/63954218,Keldon Johnson,0.1923076923076923,1.0,0.7184
+3988,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Keldon Johnson,0.2544456845238095,1.0,0.9868
+3991,NBA: Eleven Orlando Magic & Detroit Pistons players suspended after scuffle,2022-23,https://www.bbc.co.uk/sport/basketball/64124245,Keldon Johnson,0.1034902597402597,1.0,-0.8402
+4000,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Keldon Johnson,0.1825086125086125,0.8,0.9995
+4021,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Keldon Johnson,0.0884722222222222,0.8,0.9398
+4032,Aaron Rodgers: Green Bay Packers quarterback says he intends to join New York Jets,2022-23,https://www.bbc.co.uk/sport/american-football/64929406,Keldon Johnson,0.1054625569235958,0.8,0.9984
+4078,Premiership Rugby Cup: Sale 40-19 Harlequins - Sharks all but secure semi-final spot,2022-23,https://www.bbc.co.uk/sport/rugby-union/63682014,Harrison Barnes,0.1236607142857142,0.8,0.9255
+4087,Super Bowl 57: Kansas City Chiefs fight back to beat Philadelphia Eagles 38-35 in thriller,2022-23,https://www.bbc.co.uk/sport/american-football/64613767,Harrison Barnes,0.2111051646765933,0.8,0.9988
+4227,Saracens 33-22 Sale: Alex Goode stars as Sarries maintain winning run,2022-23,https://www.bbc.co.uk/sport/rugby-union/63384555,Harrison Barnes,0.2019179894179894,0.8,0.9956
+4340,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Reggie Jackson,0.1739121306744257,0.8,0.9995
+4349,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Tobias Harris,0.1416112657184086,1.2,0.9872
+4350,Under-20 Six Nations: Wales 21-37 England,2022-23,https://www.bbc.co.uk/sport/rugby-union/64736011,Tobias Harris,0.1265079365079364,1.0,0.9893
+4424,World Baseball Classic: Great Britain to make historic debut against USA,2022-23,https://www.bbc.co.uk/sport/baseball/64880237,Tobias Harris,0.156074384720218,0.6000000000000001,0.9986
+4430,"NFL divisional round play-offs: Injured Mahomes leads Chiefs over Jaguars, Eagles dominate Giants",2022-23,https://www.bbc.co.uk/sport/american-football/64362953,Tobias Harris,0.0827472226568612,0.6000000000000001,0.9945
+4515,NBA: Sacramento Kings beat LA Clippers in 'crazy' 176-175 history-making game,2022-23,https://www.bbc.co.uk/sport/basketball/64769116,Andrew Wiggins,0.0563492063492063,1.0,0.9791
+4518,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,Andrew Wiggins,0.1553719008264463,1.0,0.7602
+4525,Stephen Curry: Point guard scores 24 as Golden State Warriors beat New York Knicks,2022-23,https://www.bbc.co.uk/sport/basketball/63686873,Andrew Wiggins,0.1914918414918415,1.0,0.9692
+4581,Kyrie Irving: Nike suspend sponsorship deal with Brooklyn Nets player,2022-23,https://www.bbc.co.uk/sport/basketball/63525097,Andrew Wiggins,0.1093344155844155,1.0,0.8966
+4586,NBA: Stephen Curry 'lights the fire' as Golden State Warriors beat Sacramento Kings,2022-23,https://www.bbc.co.uk/sport/basketball/63553732,Andrew Wiggins,0.2186443932411673,1.0,0.9809
+4587,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,Andrew Wiggins,0.2775,1.0,0.9945
+4648,NBA: Stephen Curry scores 33 points as Warriors beat Lakers in season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63310729,Andrew Wiggins,0.0286671661671661,1.0,0.9862
+4751,NBA: Giannis Antetokounmpo stars as Milwaukee Bucks beat LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/64608767,Bojan Bogdanović,0.142436974789916,0.6000000000000001,0.9153
+4760,NBA: Chicago Bulls beat rivals Detroit Pistons 126-108 in Paris,2022-23,https://www.bbc.co.uk/sport/basketball/64341200,Bojan Bogdanović,0.1337583279604556,0.8,0.9984
+4779,NBA: Chicago Bulls end Boston Celtics' nine-game winning streak,2022-23,https://www.bbc.co.uk/sport/basketball/63713182,Brandon Ingram,0.1553719008264463,1.0,0.7602
+4795,NBA: Klay Thompson ejected in Phoenix Suns win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63397347,Brandon Ingram,0.1150285320739866,1.2,0.984
+4796,NBA: Los Angeles Lakers beaten by Portland Trail Blazers as losing start continues,2022-23,https://www.bbc.co.uk/sport/basketball/63370829,Brandon Ingram,0.0082491582491582,1.2,-0.7254
+4797,NBA: Zion Williamson returns as New Orleans Pelicans win season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63325545,Brandon Ingram,0.0682416267942583,1.2,0.956
+4801,Kyrie Irving: Nike suspend sponsorship deal with Brooklyn Nets player,2022-23,https://www.bbc.co.uk/sport/basketball/63525097,Brandon Ingram,0.1093344155844155,1.0,0.8966
+4834,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Jrue Holiday,0.0630533543669136,1.2,0.9968
+4838,NBA: Sacramento Kings beat LA Clippers in 'crazy' 176-175 history-making game,2022-23,https://www.bbc.co.uk/sport/basketball/64769116,Jrue Holiday,0.0563492063492063,1.0,0.9791
+4843,NBA: LeBron James passes Magic Johnson on all-time assists list,2022-23,https://www.bbc.co.uk/sport/basketball/63844768,Jrue Holiday,0.0868421052631579,1.0,0.5423
+4852,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Jrue Holiday,0.2189118457300275,1.2,0.9895
+4888,NBA: Miami Heat set free-throw record in 112-111 win over Oklahoma City Thunder,2022-23,https://www.bbc.co.uk/sport/basketball/64233233,Jimmy Butler,0.2002430555555555,0.8,0.985
+4903,NBA: LeBron James passes Magic Johnson on all-time assists list,2022-23,https://www.bbc.co.uk/sport/basketball/63844768,Jimmy Butler,0.0868421052631579,1.0,0.5423
+4906,NBA: San Antonio Spurs beat Cleveland Cavaliers as Keldon Johnson blocks late shot,2022-23,https://www.bbc.co.uk/sport/basketball/63954218,Jimmy Butler,0.1923076923076923,1.0,0.7184
+4957,NFL week 13: San Francisco 49ers beat Miami Dolphins while Deshaun Watson wins on return from suspension,2022-23,https://www.bbc.co.uk/sport/american-football/63855156,Jimmy Butler,0.0954148199683913,0.8,0.9946
+4966,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Jimmy Butler,0.0964555293191656,0.8,0.9976
+4968,NFL play-offs: Patrick Mahomes aims to overcome injury and reach Super Bowl 57,2022-23,https://www.bbc.co.uk/sport/american-football/64396384,Jimmy Butler,0.0992617908407382,0.8,0.9967
+5044,NFL play-offs: Remarkable rise of San Francisco 49ers' 'Mr Irrelevant' Brock Purdy,2022-23,https://www.bbc.co.uk/sport/american-football/64348673,Jimmy Butler,0.1655313051146385,0.8,0.9991
+5050,Rugby League World Cup: Papua New Guinea 36-0 Wales - Kumuls seal quarter-final against England,2022-23,https://www.bbc.co.uk/sport/rugby-league/63464967,Jimmy Butler,0.0295145927920318,1.0,0.9566
+5143,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Christian Wood,0.1804866627439443,0.8,0.996
+5148,Big Bash League: James Vince hits 91 not out as Sydney Sixers beat Melbourne Stars,2022-23,https://www.bbc.co.uk/sport/cricket/64189954,Christian Wood,0.192288961038961,0.8,0.9678
+5156,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Christian Wood,0.1424561945990518,0.8,0.999
+5161,Exeter City 0-0 Shrewsbury Town,2022-23,https://www.bbc.co.uk/sport/football/64549604,Christian Wood,0.139179012345679,0.8,0.9935
+5186,"UFC 286: Muhammad Mokaev, Jack Shore and Jake Hadley among British victors in London",2022-23,https://www.bbc.co.uk/sport/mixed-martial-arts/65003801,Christian Wood,0.2539072039072039,0.8,-0.9363
+5207,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Christian Wood,0.0964555293191656,0.8,0.9976
+5220,NFL play-offs: Patrick Mahomes aims to overcome injury and reach Super Bowl 57,2022-23,https://www.bbc.co.uk/sport/american-football/64396384,Christian Wood,0.0992617908407382,0.8,0.9967
+5285,Laureus Awards: Lionesses nominated for World Team of the Year,2022-23,https://www.bbc.co.uk/sport/64700054,Christian Wood,0.1143286311389759,0.8,0.9957
+5310,Luka Doncic: Dallas Mavericks point guard scores 10th triple-double of the season,2022-23,https://www.bbc.co.uk/sport/basketball/64259791,Christian Wood,0.082253086419753,1.0,0.9476
+5327,Leon Edwards v Kamaru Usman 3: UFC 286 predictions for welterweight world-title fight,2022-23,https://www.bbc.co.uk/sport/mixed-martial-arts/64966003,Christian Wood,0.2401819923371647,0.8,0.9983
+5412,NFL week seven review: Tom Brady & Aaron Rodgers both lose and Chiefs beat 49ers,2022-23,https://www.bbc.co.uk/sport/american-football/63369025,Christian Wood,0.0935811032401941,0.8,0.9983
+5413,"NFL divisional round play-offs: Injured Mahomes leads Chiefs over Jaguars, Eagles dominate Giants",2022-23,https://www.bbc.co.uk/sport/american-football/64362953,Christian Wood,0.0827472226568612,0.8,0.9945
+5419,NBA: Eleven Orlando Magic & Detroit Pistons players suspended after scuffle,2022-23,https://www.bbc.co.uk/sport/basketball/64124245,Franz Wagner,0.1034902597402597,1.0,-0.8402
+5470,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,D'Angelo Russell,0.0884722222222222,0.8,0.9398
+5471,Kyrie Irving: Dallas Mavericks guard scores 24 points in debut win,2022-23,https://www.bbc.co.uk/sport/basketball/64579610,D'Angelo Russell,0.1592613636363636,0.6000000000000001,0.9826
+5472,NBA: Zion Williamson scores 43 points as Pelicans beat Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64114841,D'Angelo Russell,0.1515151515151515,0.8,0.9834
+5475,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,D'Angelo Russell,0.0630533543669136,0.6000000000000001,0.9968
+5477,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,D'Angelo Russell,0.1825086125086125,0.8,0.9995
+5494,Super Bowl 2023: Patrick Mahomes and Jalen Hurts making NFL history in Arizona,2022-23,https://www.bbc.co.uk/sport/american-football/64549158,D'Angelo Russell,0.1788398756631839,1.0,0.9992
+5504,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,D'Angelo Russell,0.0964555293191656,0.8,0.9976
+5506,NFL London: Russell Wilson under scrutiny as Denver Broncos face Jacksonville Jaguars,2022-23,https://www.bbc.co.uk/sport/american-football/63441203,D'Angelo Russell,0.1107524828113063,0.8,0.9936
+5520,NFL week seven review: Tom Brady & Aaron Rodgers both lose and Chiefs beat 49ers,2022-23,https://www.bbc.co.uk/sport/american-football/63369025,D'Angelo Russell,0.0935811032401941,0.8,0.9983
+5521,"NFL: Jaguars stun Cowboys in overtime, Chiefs make play-offs & Tom Brady blows lead",2022-23,https://www.bbc.co.uk/sport/american-football/64022849,D'Angelo Russell,0.1247225954122505,0.8,0.9947
+5523,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,D'Angelo Russell,0.1955689814194968,0.8,0.9953
+5524,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,D'Angelo Russell,0.1556811375207601,0.6000000000000001,0.9986
+5532,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Mikal Bridges,0.2053030303030302,1.0,0.9776
+5534,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Mikal Bridges,0.0884722222222222,1.2,0.9398
+5536,Kyrie Irving: Dallas Mavericks guard scores 24 points in debut win,2022-23,https://www.bbc.co.uk/sport/basketball/64579610,Mikal Bridges,0.1592613636363636,1.0,0.9826
+5540,NBA: Miami Heat set free-throw record in 112-111 win over Oklahoma City Thunder,2022-23,https://www.bbc.co.uk/sport/basketball/64233233,Mikal Bridges,0.2002430555555555,0.8,0.985
+5570,Super Bowl 2023: Patrick Mahomes and Jalen Hurts making NFL history in Arizona,2022-23,https://www.bbc.co.uk/sport/american-football/64549158,Jalen Green,0.1788398756631839,1.0,0.9992
+5571,NBA: Giannis Antetokounmpo leads Milwaukee Bucks to win on injury return,2022-23,https://www.bbc.co.uk/sport/basketball/64948897,Jalen Green,0.0838888888888888,1.0,0.4582
+5572,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Jalen Green,0.1739121306744257,0.8,0.9995
+5573,NFL week 13: San Francisco 49ers beat Miami Dolphins while Deshaun Watson wins on return from suspension,2022-23,https://www.bbc.co.uk/sport/american-football/63855156,Jalen Green,0.0954148199683913,1.0,0.9946
+5575,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Jalen Green,0.1804866627439443,1.0,0.996
+5583,NFL play-offs: Patrick Mahomes aims to overcome injury and reach Super Bowl 57,2022-23,https://www.bbc.co.uk/sport/american-football/64396384,Jalen Green,0.0992617908407382,0.8,0.9967
+5584,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Jalen Green,0.1556811375207601,0.8,0.9986
+5588,"NFL divisional round play-offs: Injured Mahomes leads Chiefs over Jaguars, Eagles dominate Giants",2022-23,https://www.bbc.co.uk/sport/american-football/64362953,Jalen Green,0.0827472226568612,0.8,0.9945
+5589,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Jalen Green,0.0964555293191656,1.0,0.9976
+5590,NBA round-up: Boston Celtics' winning streak ends with Orlando Magic loss,2022-23,https://www.bbc.co.uk/sport/basketball/64383208,Jalen Green,0.2453216374269005,1.0,0.9109
+5594,Aaron Rodgers: Green Bay Packers quarterback says he intends to join New York Jets,2022-23,https://www.bbc.co.uk/sport/american-football/64929406,Jalen Green,0.1054625569235958,0.8,0.9984
+5595,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Jalen Green,0.1424561945990518,0.8,0.999
+5596,Super Bowl 57: Kansas City Chiefs fight back to beat Philadelphia Eagles 38-35 in thriller,2022-23,https://www.bbc.co.uk/sport/american-football/64613767,Jalen Green,0.2111051646765933,0.8,0.9988
+5600,"NFL week 17: Tom Brady makes play-offs with Buccaneers, Giants end post-season drought",2022-23,https://www.bbc.co.uk/sport/american-football/64142434,Jalen Green,0.1514498761196875,0.8,0.9979
+5604,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Jalen Green,0.0765265697605147,1.0,0.9923
+5608,"NFL: Jaguars stun Cowboys in overtime, Chiefs make play-offs & Tom Brady blows lead",2022-23,https://www.bbc.co.uk/sport/american-football/64022849,Jalen Green,0.1247225954122505,1.0,0.9947
+5614,NFL Week 18: Seahawks & Dolphins claim play-off spots as Aaron Rodgers' Packers miss out,2022-23,https://www.bbc.co.uk/sport/american-football/64207466,Jalen Green,0.0692050817050817,0.8,-0.5954
+5631,Super Bowl 2023: UK start time? Where is it being played? Who is performing half-time show? How to follow on BBC Sport,2022-23,https://www.bbc.co.uk/sport/american-football/64234312,Jalen Green,0.1101194670962112,0.8,0.9935
+5647,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Jalen Green,0.1064141414141414,1.0,0.9976
+5653,NFL play-offs: Remarkable rise of San Francisco 49ers' 'Mr Irrelevant' Brock Purdy,2022-23,https://www.bbc.co.uk/sport/american-football/64348673,Jalen Green,0.1655313051146385,0.8,0.9991
+5665,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,Jalen Green,0.1955689814194968,0.8,0.9953
+5688,NFL week seven review: Tom Brady & Aaron Rodgers both lose and Chiefs beat 49ers,2022-23,https://www.bbc.co.uk/sport/american-football/63369025,Jalen Green,0.0935811032401941,0.8,0.9983
+5702,NFL London: Russell Wilson under scrutiny as Denver Broncos face Jacksonville Jaguars,2022-23,https://www.bbc.co.uk/sport/american-football/63441203,Jalen Green,0.1107524828113063,0.8,0.9936
+5742,Luka Doncic scores magical 60-point triple-double in Dallas Mavericks win,2022-23,https://www.bbc.co.uk/sport/basketball/64107654,Kyle Kuzma,0.2051156728576083,1.0,0.9908
+5793,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,Aaron Gordon,0.2039848484848485,1.0,0.9766
+5803,"Scottish Gossip: Rangers, Jack, Cantwell, Celtic, Mooy, Starfelt, Hearts, St Johnstone",2022-23,https://www.bbc.co.uk/sport/football/64931096,Aaron Gordon,0.134280303030303,0.8,0.5799
+5805,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Aaron Gordon,0.1739121306744257,0.8,0.9995
+5806,Euro 2024 qualifiers: Scotland squad for matches with Cyprus & Spain,2022-23,https://www.bbc.co.uk/sport/football/64938719,Aaron Gordon,0.0914795918367347,0.8,0.9669
+5807,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Aaron Gordon,0.1424561945990518,0.8,0.999
+5809,Scott McKenna: Scotland defender doubtful for start of Euro qualifying,2022-23,https://www.bbc.co.uk/sport/football/64668544,Aaron Gordon,-0.025,0.6000000000000001,-0.8834
+5811,Leyton Orient 1-0 Crawley Town,2022-23,https://www.bbc.co.uk/sport/football/64607067,Aaron Gordon,0.1074244751664106,0.8,0.9887
+5825,NFL week 13: San Francisco 49ers beat Miami Dolphins while Deshaun Watson wins on return from suspension,2022-23,https://www.bbc.co.uk/sport/american-football/63855156,Aaron Gordon,0.0954148199683913,0.8,0.9946
+5845,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Aaron Gordon,0.1804866627439443,0.8,0.996
+5858,Aaron Rodgers: Green Bay Packers quarterback says he intends to join New York Jets,2022-23,https://www.bbc.co.uk/sport/american-football/64929406,Aaron Gordon,0.1054625569235958,0.8,0.9984
+5872,Nikola Jokic achieves 79th career triple-double to move above Wilt Chamberlain on the all-time list,2022-23,https://www.bbc.co.uk/sport/basketball/63511616,Aaron Gordon,0.2192307692307692,1.0,0.8884
+5875,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Aaron Gordon,0.0964555293191656,0.8,0.9976
+5963,Scotland: Steve Clarke disappointed with Celtic not releasing players,2022-23,https://www.bbc.co.uk/sport/football/63569441,Aaron Gordon,-0.0542207792207792,0.8,0.8658
+5972,Question marks and potential answers as Scotland target Germany 2024,2022-23,https://www.bbc.co.uk/sport/football/63664995,Aaron Gordon,0.1262894107414655,0.8,0.9897
+5982,"Irish Premiership: Larne beat Cliftonville as Linfield, Crusaders and Portadown win",2022-23,https://www.bbc.co.uk/sport/football/64685477,Aaron Gordon,0.0657221242406427,0.8,0.9874
+5985,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,Aaron Gordon,0.1617079889807162,1.0,0.992
+5992,NFL week seven review: Tom Brady & Aaron Rodgers both lose and Chiefs beat 49ers,2022-23,https://www.bbc.co.uk/sport/american-football/63369025,Aaron Gordon,0.0935811032401941,0.8,0.9983
+6018,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Aaron Gordon,0.0765265697605147,0.8,0.9923
+6045,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Aaron Gordon,0.1556811375207601,0.6000000000000001,0.9986
+6048,"Scottish Premiership team news, stats & selectors",2022-23,https://www.bbc.co.uk/sport/football/64856307,Aaron Gordon,0.0388888888888888,1.0,0.8387
+6052,"Tuesday's transfer gossip: Rice, Bellingham, Elanga, Dumfries Raphinha, Ziyech, Nkunku, Keita, Saliba",2022-23,https://www.bbc.co.uk/sport/64253569,Aaron Gordon,0.1824050024050024,1.0,0.9902
+6074,World Taekwondo Grand Prix: Caden Cunningham wins first Grand Prix silver,2022-23,https://www.bbc.co.uk/sport/taekwondo/63368627,Cade Cunningham,0.1280555555555555,0.8,0.9581
+6078,Premiership: London Irish 39-17 Newcastle Falcons: Exiles off bottom,2022-23,https://www.bbc.co.uk/sport/rugby-union/63836845,Cade Cunningham,0.0774801587301587,1.0,0.9968
+6079,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Cade Cunningham,0.0765265697605147,0.8,0.9923
+6087,NBA: San Antonio Spurs beat Cleveland Cavaliers as Keldon Johnson blocks late shot,2022-23,https://www.bbc.co.uk/sport/basketball/63954218,Bam Adebayo,0.1923076923076923,1.0,0.7184
+6120,Six Nations 2023: England's Ollie Lawrence unavailable for Ireland game,2022-23,https://www.bbc.co.uk/sport/rugby-union/64938576,Cole Anthony,-0.0149999999999999,1.0,-0.8416
+6124,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Cole Anthony,0.0767339544513457,0.6000000000000001,0.1272
+6128,Heineken Champions Cup: Leicester Tigers v ASM Clermont Auvergne,2022-23,https://www.bbc.co.uk/sport/rugby-union/64003150,Cole Anthony,-0.0333333333333333,0.8,0.802
+6141,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,Cole Anthony,0.3214285714285714,0.8,0.9611
+6184,England v Italy: Henry Slade recalled in Steve Borthwick's 36-man squad,2022-23,https://www.bbc.co.uk/sport/rugby-union/64547974,Cole Anthony,0.025,1.0,-0.431
+6187,Heineken Champions Cup: Leicester v Ospreys (Fri),2022-23,https://www.bbc.co.uk/sport/rugby-union/64329051,Cole Anthony,0.0873976608187134,0.8,0.9947
+6189,Morecambe 1-1 Portsmouth,2022-23,https://www.bbc.co.uk/sport/football/63523620,Cole Anthony,0.0526984126984127,0.8,0.9926
+6199,Six Nations 2023: Anthony Watson starts for England against Wales,2022-23,https://www.bbc.co.uk/sport/rugby-union/64742769,Cole Anthony,0.1422979797979797,1.0,0.9545
+6202,Six Nations 2023: Will Stuart in England training squad to face Wales,2022-23,https://www.bbc.co.uk/sport/rugby-union/64638772,Cole Anthony,0.2884615384615384,1.0,-0.7579
+6204,"Six Nations: England v Scotland - Henry Slade, Dan Kelly & Courtney Lawes ruled out",2022-23,https://www.bbc.co.uk/sport/rugby-union/64447520,Cole Anthony,0.0845328282828282,0.8,0.1513
+6272,NBA: Eleven Orlando Magic & Detroit Pistons players suspended after scuffle,2022-23,https://www.bbc.co.uk/sport/basketball/64124245,Cole Anthony,0.1034902597402597,1.0,-0.8402
+6286,Premiership Rugby: Leicester 28-13 Gloucester: Anthony Watson scores twice in Tigers victory,2022-23,https://www.bbc.co.uk/sport/rugby-union/64070869,Cole Anthony,0.0661837376460017,0.8,0.975
+6301,Six Nations 2023: Ollie Hassell-Collins to make England debut against Scotland,2022-23,https://www.bbc.co.uk/sport/rugby-union/64500383,Cole Anthony,0.123648088023088,0.8,0.9848
+6310,"Six Nations 2023: Wales v England match preview, kick-off time, team news & key stats",2022-23,https://www.bbc.co.uk/sport/rugby-union/64711669,Cole Anthony,0.1971928953399541,1.0,0.9709
+6334,Six Nations 2023: England's Courtney Lawes to miss France game with injury,2022-23,https://www.bbc.co.uk/sport/rugby-union/64864675,Cole Anthony,0.1439229024943311,1.0,0.9682
+6337,Six Nations 2023: Ben Youngs left out of England squad to face Italy,2022-23,https://www.bbc.co.uk/sport/rugby-union/64572683,Cole Anthony,0.1913186813186813,1.0,0.989
+6360,Six Nations 2023: England hooker Jamie George 'on track' to return against Scotland,2022-23,https://www.bbc.co.uk/sport/rugby-union/64476722,Cole Anthony,0.1861268939393939,1.0,0.9704
+6381,Cymru Premier round-up,2022-23,https://www.bbc.co.uk/sport/football/64020700,Cole Anthony,0.1745920745920746,0.8,0.9784
+6386,Heineken Champions Cup: Leicester 23-16 Clermont Auvergne - Tigers remain unbeaten,2022-23,https://www.bbc.co.uk/sport/rugby-union/64013087,Cole Anthony,0.0298072562358276,0.8,0.9952
+6388,Six Nations 2023: England's Owen Farrell dropped as Marcus Smith comes in to face France,2022-23,https://www.bbc.co.uk/sport/rugby-union/64900170,Cole Anthony,0.1339818041037553,1.0,0.9108
+6391,Heineken Champions Cup: Clermont Auvergne 29-44 Leicester Tigers,2022-23,https://www.bbc.co.uk/sport/rugby-union/64250796,Cole Anthony,0.056567969067969,0.8,0.9836
+6417,Joey Barton: Bristol Rovers manager certain he can get club promoted to Championship,2022-23,https://www.bbc.co.uk/sport/football/63820204,Will Barton,0.0226138940424654,0.6000000000000001,0.778
+6510,NBA renames MVP award as Michael Jordan Trophy as part of rebrand,2022-23,https://www.bbc.co.uk/sport/basketball/63952245,Will Barton,0.1200725744843391,0.6000000000000001,0.9897
+6511,NFL MVP: Kansas City Chiefs quarterback Patrick Mahomes wins award for second time,2022-23,https://www.bbc.co.uk/sport/american-football/64592271,Will Barton,0.1780663780663781,0.6000000000000001,0.9975
+6521,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,Will Barton,0.1631146631146631,0.6000000000000001,0.9904
+6530,Super Bowl 2023 quiz: How well do you know the NFL's showpiece game?,2022-23,https://www.bbc.co.uk/sport/american-football/64595639,Will Barton,0.1550964187327823,0.6000000000000001,0.8934
+6551,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Will Barton,0.1825086125086125,0.6000000000000001,0.9995
+6584,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Will Barton,0.0630533543669136,0.6000000000000001,0.9968
+6589,George Barton: Gloucester fly-half extends contract,2022-23,https://www.bbc.co.uk/sport/rugby-union/63651979,Will Barton,0.1166666666666666,0.4,0.7805
+6591,Nick Anderton: Bristol Rovers shave heads in support of Anderton's cancer diagnosis,2022-23,https://www.bbc.co.uk/sport/football/64295383,Will Barton,0.2179166666666666,0.6000000000000001,0.9861
+6595,Harvey Saunders: Tranmere sign Bristol Rovers forward on 18-month deal,2022-23,https://www.bbc.co.uk/sport/football/64425286,Will Barton,0.1363636363636363,0.2,0.8638
+6599,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Will Barton,0.1739121306744257,0.6000000000000001,0.9995
+6608,Morecambe 5-1 Bristol Rovers: Joey Barton calls performance 'rude awakening',2022-23,https://www.bbc.co.uk/sport/football/64356481,Will Barton,0.1310393618726952,0.6000000000000001,0.9913
+6619,Bristol Rovers 1-0 Port Vale,2022-23,https://www.bbc.co.uk/sport/football/63843583,Will Barton,0.1317366946778711,1.0,0.9936
+6620,Joey Barton: Bristol Rovers manager says his side were 'nowhere near' in FA Cup,2022-23,https://www.bbc.co.uk/sport/football/63779542,Will Barton,0.0974082341269841,0.6000000000000001,0.9668
+6626,Joey Barton: Bristol Rovers manager shares tactics board picture,2022-23,https://www.bbc.co.uk/sport/football/63427220,Will Barton,0.1736111111111111,0.6000000000000001,0.9545
+6632,Joey Barton: Bristol Rovers manager says his team are better than their results,2022-23,https://www.bbc.co.uk/sport/football/63682870,Will Barton,0.1424901185770751,0.6000000000000001,0.98
+6682,Bellator 292: 'This tournament will crown the best lightweight on the planet' - Scott Coker,2022-23,https://www.bbc.co.uk/sport/mixed-martial-arts/64901767,Will Barton,0.2731209611644395,0.6000000000000001,0.9964
+6802,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,James Harden,0.3214285714285714,1.2,0.9611
+6804,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,James Harden,0.0884722222222222,1.2,0.9398
+6807,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,James Harden,0.1825086125086125,0.8,0.9995
+6816,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,James Harden,0.0630533543669136,0.8,0.9968
+6820,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,James Harden,0.1631146631146631,0.8,0.9904
+6825,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,James Harden,0.1064141414141414,1.4,0.9976
+6828,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,James Harden,0.0767339544513457,0.6000000000000001,0.1272
+6830,NBA: Kyrie Irving 'requests trade from Brooklyn Nets',2022-23,https://www.bbc.co.uk/sport/basketball/64521840,James Harden,0.0740530303030303,1.0,0.3083
+6845,Bellator 292: Michael 'Venom' Page to face Goiti Yamauchi,2022-23,https://www.bbc.co.uk/sport/mixed-martial-arts/64363294,James Harden,0.2623333333333333,0.8,0.9259
+6879,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,James Harden,0.2775,1.0,0.9945
+6890,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,James Harden,0.2039848484848485,0.6000000000000001,0.9766
+6909,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,James Harden,0.2637310606060606,1.0,0.9899
+6916,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,James Harden,0.1312499999999999,1.0,-0.1583
+6928,NBA: Golden State Warriors lose to Detroit Pistons after late three-pointer,2022-23,https://www.bbc.co.uk/sport/basketball/64172182,James Harden,-0.0105842911877394,0.8,-0.0031
+6973,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,James Harden,0.1617079889807162,1.0,0.992
+6991,NBA: Miami Heat set free-throw record in 112-111 win over Oklahoma City Thunder,2022-23,https://www.bbc.co.uk/sport/basketball/64233233,James Harden,0.2002430555555555,0.8,0.985
+7040,FA Cup & Premier League predictions: Chris Sutton faces Paul Olima and Adele Nicoll from Go Hard or Go Home,2022-23,https://www.bbc.co.uk/sport/football/64720424,Chris Paul,0.2108367222003584,0.8,0.9999
+7179,FC Isle of Man: Ravens sack manager Chris Bass after poor run,2022-23,https://www.bbc.co.uk/sport/football/63545135,Chris Paul,0.0404298941798941,0.8,0.9922
+7329,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Kevin Porter Jr.,0.1825086125086125,0.8,0.9995
+7405,"Scottish transfer gossip: Rangers, Celtic, Adams, Jenz, Postecoglou, Beale, McGarvey",2022-23,https://www.bbc.co.uk/sport/football/64142383,Bradley Beal,0.1222451790633608,1.0,0.9391
+7439,NBA: Los Angeles Lakers win as LeBron James and Anthony Davis star,2022-23,https://www.bbc.co.uk/sport/basketball/63453775,Anthony Davis,0.1636363636363636,1.0,0.7717
+7486,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Anthony Davis,0.0767339544513457,1.0,0.1272
+7493,Kyrie Irving: Dallas Mavericks player sets up winning three-pointer on return,2022-23,https://www.bbc.co.uk/sport/basketball/64999066,Anthony Davis,0.4166666666666667,1.0,0.9109
+7496,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,Anthony Davis,0.3214285714285714,1.2,0.9611
+7521,Diego Pacheco stops Jack Cullen in fourth round of super-middleweight contest,2022-23,https://www.bbc.co.uk/sport/boxing/64928977,Anthony Davis,0.11610582010582,0.4,0.994
+7522,NBA: Joel Embiid scores 38 points as Philadelphia 76ers beat Cleveland Cavaliers,2022-23,https://www.bbc.co.uk/sport/basketball/64974061,Anthony Davis,0.2004464285714285,0.6000000000000001,0.5023
+7524,NBA: Milwaukee Bucks beat Phoenix Suns to become first team to clinch play-off place,2022-23,https://www.bbc.co.uk/sport/basketball/64961517,Anthony Davis,0.1592697157914549,0.8,0.9661
+7532,Anthony Hughes: Tributes after unexpected death of Paralympic coach,2022-23,https://www.bbc.co.uk/sport/wales/64146578,Anthony Davis,0.1246880570409981,0.6000000000000001,0.9846
+7568,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Anthony Davis,0.1351239669421487,1.0,0.8479
+7576,World Cup 2022: Canada name Alphonso Davies in World Cup squad,2022-23,https://www.bbc.co.uk/sport/football/63614785,Anthony Davis,-0.09375,0.6000000000000001,0.764
+7584,Anthony Yarde: Briton's world title shot against Artur Beterbiev hinges on beating Stefani Koykov,2022-23,https://www.bbc.co.uk/sport/boxing/63668724,Anthony Davis,0.1101190476190476,0.6000000000000001,0.9583
+7619,LeBron James' LA Lakers accuse NBA of cheating after 'gut-wrenching' referee error,2022-23,https://www.bbc.co.uk/sport/basketball/64450359,Anthony Davis,-0.032161753590325,1.0,0.444
+7631,European Challenge Cup: Lions 31-31 Dragons - Late misses round off dramatic draw,2022-23,https://www.bbc.co.uk/sport/rugby-union/63873009,Anthony Davis,0.0946150097465887,0.8,0.9786
+7685,Fight Talk: Chris Eubank Jr trolls Liam Smith with Manchester billboard,2022-23,https://www.bbc.co.uk/sport/boxing/64296519,Anthony Davis,0.1016666666666666,0.8,-0.3827
+7728,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Jarrett Allen,0.1804866627439443,0.8,0.996
+7736,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Jarrett Allen,0.1424561945990518,0.8,0.999
+7750,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Jarrett Allen,0.1739121306744257,0.8,0.9995
+7792,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Jarrett Allen,0.0964555293191656,0.8,0.9976
+7802,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Jarrett Allen,0.0765265697605147,0.8,0.9923
+7836,NBA: Donovan Mitchell scores a Cleveland Cavaliers record 71 points in win over Chicago Bulls,2022-23,https://www.bbc.co.uk/sport/basketball/64150547,Jerami Grant,0.1555555555555555,1.0,0.9891
+7838,NBA: Los Angeles Lakers beaten by Portland Trail Blazers as losing start continues,2022-23,https://www.bbc.co.uk/sport/basketball/63370829,Jerami Grant,0.0082491582491582,1.2,-0.7254
+7839,Kyrie Irving: Nike suspend sponsorship deal with Brooklyn Nets player,2022-23,https://www.bbc.co.uk/sport/basketball/63525097,Jerami Grant,0.1093344155844155,1.0,0.8966
+7859,NBA: Giannis Antetokounmpo scores career-high 55 points in Milwaukee Bucks win,2022-23,https://www.bbc.co.uk/sport/basketball/64160574,Lauri Markkanen,0.0240384615384615,1.0,0.5109
+7865,NBA: Stephen Curry 'lights the fire' as Golden State Warriors beat Sacramento Kings,2022-23,https://www.bbc.co.uk/sport/basketball/63553732,Lauri Markkanen,0.2186443932411673,1.0,0.9809
+7868,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Domantas Sabonis,0.1351239669421487,1.0,0.8479
+7869,NBA: Golden State Warriors thrash San Antonio Spurs in front of record crowd,2022-23,https://www.bbc.co.uk/sport/basketball/64273731,Domantas Sabonis,0.0885416666666666,1.0,0.8481
+7877,NBA: Kyrie Irving can make Dallas Mavericks title contenders - Jason Kidd,2022-23,https://www.bbc.co.uk/sport/basketball/64551113,Dorian Finney-Smith,0.1579545454545454,0.6000000000000001,0.9696
+8184,NBA round-up: Boston Celtics extend winning run to six games,2022-23,https://www.bbc.co.uk/sport/basketball/63614776,Marcus Smart,0.2206168831168831,1.2,0.875
+8192,Jurgen Klopp: Liverpool boss 'happy' for Marcus Rashford following Man Utd forward's upturn in form,2022-23,https://www.bbc.co.uk/sport/football/64833816,Marcus Smart,0.2076252843201995,0.8,0.9981
+8209,Six Nations 2023: Manu Tuilagi set to be left out for England against Scotland,2022-23,https://www.bbc.co.uk/sport/rugby-union/64495208,Marcus Smart,0.1224354491662183,0.4,0.9722
+8226,NBA: Giannis Antetokounmpo scores career-high 55 points in Milwaukee Bucks win,2022-23,https://www.bbc.co.uk/sport/basketball/64160574,Marcus Smart,0.0240384615384615,1.0,0.5109
+8230,Luka Doncic: Dallas Mavericks point guard scores 10th triple-double of the season,2022-23,https://www.bbc.co.uk/sport/basketball/64259791,Marcus Smart,0.082253086419753,1.0,0.9476
+8252,Middlesbrough 1-0 Millwall: Boro maintain Michael Carrick revival with Millwall win,2022-23,https://www.bbc.co.uk/sport/football/64194806,Marcus Smart,0.0916682944426846,0.8,0.9915
+8256,Barcelona 2-2 Manchester United: Marcus Rashford 'on fire' to equal most prolific season,2022-23,https://www.bbc.co.uk/sport/football/64671106,Marcus Smart,0.0331426954271781,0.8,0.9983
+8267,"Six Nations 2023: England v Scotland match preview, team news & key stats",2022-23,https://www.bbc.co.uk/sport/rugby-union/64501500,Marcus Smart,0.171372569229712,0.8,0.9881
+8273,Man Utd make most powerful statement of Erik ten Hag tenure,2022-23,https://www.bbc.co.uk/sport/football/64277218,Marcus Smart,0.1236964285714285,0.8,0.9985
+8286,Six Nations 2023: Marcus Smith recall gives England v France added spice,2022-23,https://www.bbc.co.uk/sport/rugby-union/64918847,Marcus Smart,0.1160592185592185,0.8,0.9995
+8307,Manchester United 3-1 Reading: Casemiro double helps hosts reach FA Cup fifth round,2022-23,https://www.bbc.co.uk/sport/football/64429931,Marcus Smart,0.1263826735513483,0.8,0.9992
+8316,Six Nations 2023: Ollie Hassell-Collins to make England debut against Scotland,2022-23,https://www.bbc.co.uk/sport/rugby-union/64500383,Marcus Smart,0.123648088023088,0.6000000000000001,0.9848
+8328,England v New Zealand: Matt Dawson says 'Marcus Smith kick dead stopped me in my tracks',2022-23,https://www.bbc.co.uk/sport/rugby-union/63696370,Marcus Smart,0.1088383838383838,1.0,0.9978
+8368,Manchester United 3-0 Bournemouth: Marcus Rashford scores again as Reds open up top-four cushion,2022-23,https://www.bbc.co.uk/sport/football/64099601,Marcus Smart,0.1473277017967283,0.8,0.9995
+8378,Norwich City 1-2 Middlesbrough: Michael Carrick's Boro fight back to beat Norwich,2022-23,https://www.bbc.co.uk/sport/football/63523484,Marcus Smart,0.1396132042560614,0.8,0.9973
+8386,Six Nations 2023: All you need to know about the tournament's opening games,2022-23,https://www.bbc.co.uk/sport/rugby-union/64500376,Marcus Smart,0.1864095949712388,0.8,0.9939
+8404,Six Nations 2023: England 23-29 Scotland - Superb Scots retain Calcutta Cup at Twickenham,2022-23,https://www.bbc.co.uk/sport/rugby-union/64525412,Marcus Smart,0.12418135746449,0.8,0.9958
+8421,World Cup 2022: England 3-0 Senegal - 'Gareth Southgate's critics must admit he got it spot on again',2022-23,https://www.bbc.co.uk/sport/football/63854557,Marcus Smart,0.1941321699134199,1.0,0.996
+8434,BBL: Everything you need to know as men's Big Bash League returns,2022-23,https://www.bbc.co.uk/sport/cricket/63903454,Marcus Smart,0.099013949013949,1.0,0.9904
+8438,England 25-25 New Zealand: Hosts fight back to draw with All Blacks,2022-23,https://www.bbc.co.uk/sport/rugby-union/63690854,Marcus Smart,0.1201364292273383,1.0,0.9839
+8527,Irish Premiership: Larne and Linfield win as Sean Moore double sinks Glentoran,2022-23,https://www.bbc.co.uk/sport/football/64772666,Kyle Lowry,0.0147340425531914,1.0,0.9742
+8547,"Scottish Premiership team news, stats & selectors",2022-23,https://www.bbc.co.uk/sport/football/63559201,Kyle Lowry,-0.0299999999999999,1.0,0.8722
+8588,"Irish Premiership: Larne beat Cliftonville as Linfield, Crusaders and Portadown win",2022-23,https://www.bbc.co.uk/sport/football/64685477,Kyle Lowry,0.0657221242406427,0.8,0.9874
+8590,Irish Premiership: Linfield respond with away victory as Crusaders win to go second,2022-23,https://www.bbc.co.uk/sport/football/63440823,Kyle Lowry,0.1397022169749442,0.8,0.9931
+8622,Kyrie Irving: Dallas Mavericks player sets up winning three-pointer on return,2022-23,https://www.bbc.co.uk/sport/basketball/64999066,Kyrie Irving,0.4166666666666667,1.0,0.9109
+8623,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Kyrie Irving,0.1416112657184086,1.2,0.9872
+8624,Kyrie Irving: Dallas Mavericks guard scores 24 points in debut win,2022-23,https://www.bbc.co.uk/sport/basketball/64579610,Kyrie Irving,0.1592613636363636,1.0,0.9826
+8625,"NBA: Stephen Curry ruled out indefinitely with knee injury, Kyrie Irving reportedly set for Dallas Mavericks trade",2022-23,https://www.bbc.co.uk/sport/basketball/64535246,Kyrie Irving,0.0503787878787878,1.0,-0.3687
+8626,NBA: Kyrie Irving 'requests trade from Brooklyn Nets',2022-23,https://www.bbc.co.uk/sport/basketball/64521840,Kyrie Irving,0.0740530303030303,1.0,0.3083
+8628,NBA: Kyrie Irving can make Dallas Mavericks title contenders - Jason Kidd,2022-23,https://www.bbc.co.uk/sport/basketball/64551113,Kyrie Irving,0.1579545454545454,1.0,0.9696
+8629,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,Kyrie Irving,0.2775,1.0,0.9945
+8630,NBA: Kyrie Irving scores 33 points as Brooklyn Nets beat Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/63899643,Kyrie Irving,0.2189118457300275,1.2,0.9895
+8631,Kyrie Irving: Nike ends sponsorship deal with Brooklyn Nets guard after social media post,2022-23,https://www.bbc.co.uk/sport/basketball/63866184,Kyrie Irving,0.0208333333333333,1.0,-0.7783
+8632,NBA: Kyrie Irving helps Brooklyn Nets beat Memphis Grizzlies 127-115 on return from suspension,2022-23,https://www.bbc.co.uk/sport/basketball/63699344,Kyrie Irving,0.2286096256684492,1.0,0.9565
+8633,Kyrie Irving: Brooklyn Nets star apologises as anti-Semitism suspension ends,2022-23,https://www.bbc.co.uk/sport/basketball/63697302,Kyrie Irving,0.073,1.0,-0.7543
+8634,Kyrie Irving: Nike suspend sponsorship deal with Brooklyn Nets player,2022-23,https://www.bbc.co.uk/sport/basketball/63525097,Kyrie Irving,0.1093344155844155,1.0,0.8966
+8635,Kyrie Irving: NBA commissioner to meet Brooklyn Nets guard after he shared anti-Semitic material,2022-23,https://www.bbc.co.uk/sport/basketball/63506629,Kyrie Irving,-0.0379166666666666,1.2,-0.9744
+8636,NBA: Kyrie Irving and Brooklyn Nets pledge $1m after criticism over anti-Semitism,2022-23,https://www.bbc.co.uk/sport/basketball/63495933,Kyrie Irving,-0.0063095238095238,1.2,-0.9796
+8637,NBA: Brooklyn Nets fans wear 'Fight Anti-Semitism' T-shirts after Kyrie Irving tweet,2022-23,https://www.bbc.co.uk/sport/basketball/63467880,Kyrie Irving,-0.0399184149184149,1.0,-0.8658
+8638,Kyrie Irving says he embraces 'all religions' after criticism from Brooklyn Nets owner,2022-23,https://www.bbc.co.uk/sport/basketball/63444993,Kyrie Irving,-0.0953892668178382,1.0,-0.9485
+8639,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,Kyrie Irving,0.2637310606060606,1.0,0.9899
+8680,Steve Nash: Brooklyn Nets part ways with head coach,2022-23,https://www.bbc.co.uk/sport/basketball/63477309,Kyrie Irving,0.1284313725490196,1.0,0.8625
+8681,NBA round-up: LeBron James inspires comeback win for the Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64370555,Kyrie Irving,0.064,1.0,0.9712
+8682,NBA: Brooklyn Nets beat New York Knicks 112-85 in Jacque Vaughn's first game as head coach,2022-23,https://www.bbc.co.uk/sport/basketball/63580568,Kyrie Irving,0.0275974025974026,1.0,-0.6753
+8683,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,Kyrie Irving,0.2039848484848485,1.0,0.9766
+8684,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Kyrie Irving,0.1351239669421487,1.0,0.8479
+8686,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,Kyrie Irving,0.0884722222222222,1.2,0.9398
+8688,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Kyrie Irving,0.1306998556998557,1.2,0.8704
+8689,Cam Thomas: Brooklyn Nets guard fined for 'derogatory language' in live TV interview,2022-23,https://www.bbc.co.uk/sport/basketball/64606067,Kyrie Irving,0.1619146005509642,1.0,0.571
+8690,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Kyrie Irving,0.0630533543669136,1.2,0.9968
+8696,NBA round-up: Dennis Schroder leads LA Lakers to late victory over Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64357720,Kyrie Irving,0.0656784188034188,1.0,0.2263
+8704,NBA: Brooklyn Nets stun Boston Celtics 115-105 in biggest comeback win this season,2022-23,https://www.bbc.co.uk/sport/basketball/64846501,Kyrie Irving,0.2053030303030302,1.0,0.9776
+8705,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,Kyrie Irving,0.1312499999999999,1.0,-0.1583
+8706,NBA: Zion Williamson scores 43 points as Pelicans beat Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64114841,Kyrie Irving,0.1515151515151515,1.2,0.9834
+8707,Brooklyn Nets: Jacque Vaughn appointed as permanent head coach,2022-23,https://www.bbc.co.uk/sport/basketball/63576644,Kyrie Irving,0.0857954545454545,1.0,0.3818
+8709,"NBA: Brooklyn Nets find 'solace' in wins after tumultuous week, says Kevin Durant",2022-23,https://www.bbc.co.uk/sport/basketball/63532635,Kyrie Irving,0.089537037037037,0.8,0.9489
+8718,NBA: Zion Williamson returns as New Orleans Pelicans win season opener,2022-23,https://www.bbc.co.uk/sport/basketball/63325545,Kyrie Irving,0.0682416267942583,1.2,0.956
+8723,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Kyrie Irving,0.2544456845238095,1.0,0.9868
+8724,NBA: Memphis Grizzlies lose to in-form LA Lakers in second game without Ja Morant,2022-23,https://www.bbc.co.uk/sport/basketball/64885558,Kyrie Irving,0.1226430976430976,1.0,0.9956
+8728,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Kyrie Irving,0.1064141414141414,1.4,0.9976
+8729,NBA: Officials miss foul on LeBron James as LA Lakers lose to Boston Celtics,2022-23,https://www.bbc.co.uk/sport/basketball/64443930,Kyrie Irving,0.1354545454545454,1.0,0.1531
+8741,NBA: Defending champions Golden State Warriors beat Boston Celtics in Finals rematch,2022-23,https://www.bbc.co.uk/sport/basketball/63933734,Kyrie Irving,0.0985780423280423,1.0,0.3898
+8793,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,Gordon Hayward,0.2039848484848485,0.6000000000000001,0.9766
+8929,Sao Paulo Grand Prix: Emotional George Russell savours the journey to victory,2022-23,https://www.bbc.co.uk/sport/formula1/63617920,Paul George,0.1626666935310552,1.0,0.9992
+8930,Sao Paulo Grand Prix: George Russell beats Lewis Hamilton to first full Formula 1 win,2022-23,https://www.bbc.co.uk/sport/formula1/63617916,Paul George,0.0429150132275132,0.8,0.9419
+8931,Sao Paulo Grand Prix: George Russell pole a 'milestone' for Mercedes,2022-23,https://www.bbc.co.uk/sport/formula1/63611036,Paul George,0.2066564185990937,0.8,0.9997
+8932,Sao Paulo Grand Prix sprint: George Russell takes first win,2022-23,https://www.bbc.co.uk/sport/formula1/63610213,Paul George,0.1065873015873015,0.8,0.6691
+9185,King George VI Chase: Bravemansgame lands King George VI Chase,2022-23,https://www.bbc.co.uk/sport/horse-racing/64094636,Paul George,0.1712282847023107,0.8,0.9991
+9223,NBA: Luka Doncic leads Dallas Mavericks to win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63804650,Norman Powell,-0.0375811688311688,1.0,0.8857
+9417,NBA: Zion Williamson scores 43 points as Pelicans beat Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64114841,CJ McCollum,0.1515151515151515,1.2,0.9834
+9439,Stephen Curry injured as Golden State Warriors lose again,2022-23,https://www.bbc.co.uk/sport/basketball/63982850,Tyrese Haliburton,0.0890873015873015,1.0,-0.6605
+9457,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Derrick White,0.1804866627439443,0.8,0.996
+9505,NBA: Giannis Antetokounmpo beats Milwaukee Bucks free-throw record mark,2022-23,https://www.bbc.co.uk/sport/basketball/63363379,Derrick White,0.1962962962962963,1.0,0.9794
+9608,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Derrick White,0.1556811375207601,0.6000000000000001,0.9986
+9627,NFL week 14: Eagles make play-offs & rookie Brock Purdy beats Tom Brady,2022-23,https://www.bbc.co.uk/sport/american-football/63939620,Derrick White,0.1955689814194968,0.8,0.9953
+9661,Pakistan v England: Why Will Jacks should fit perfectly into Ben Stokes' team,2022-23,https://www.bbc.co.uk/sport/cricket/63201385,Derrick White,0.1581755050505049,1.0,0.9993
+9692,Damian Lillard scores 71 points as Portland Trail Blazers beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64782882,Damian Lillard,0.0993241167434715,1.0,0.9688
+9693,NBA: Damian Lillard scores season-high 60 points as Portland Trail Blazers beat Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64409544,Damian Lillard,-0.0925925925925926,1.0,0.6808
+9701,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,Damian Lillard,0.1312499999999999,1.0,-0.1583
+9703,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Damian Lillard,0.0767339544513457,1.0,0.1272
+9707,NBA round-up: Boston Celtics' winning streak ends with Orlando Magic loss,2022-23,https://www.bbc.co.uk/sport/basketball/64383208,Damian Lillard,0.2453216374269005,1.0,0.9109
+9710,NBA: Los Angeles Lakers beaten by Portland Trail Blazers as losing start continues,2022-23,https://www.bbc.co.uk/sport/basketball/63370829,Damian Lillard,0.0082491582491582,1.2,-0.7254
+9713,NBA: Luka Doncic leads Dallas Mavericks to win over Golden State Warriors,2022-23,https://www.bbc.co.uk/sport/basketball/63804650,Damian Lillard,-0.0375811688311688,1.0,0.8857
+9718,NBA: LA Lakers lose 110-99 to Denver Nuggets,2022-23,https://www.bbc.co.uk/sport/basketball/63409773,Damian Lillard,0.122689075630252,1.0,-0.8658
+9719,Nikola Jokic scores 100th career triple-double as Denver Nuggets beat Houston Rockets,2022-23,https://www.bbc.co.uk/sport/basketball/64808299,Damian Lillard,0.2544456845238095,1.0,0.9868
+9722,Luka Doncic: Dallas Mavericks point guard scores 10th triple-double of the season,2022-23,https://www.bbc.co.uk/sport/basketball/64259791,Damian Lillard,0.082253086419753,1.0,0.9476
+9724,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,Damian Lillard,0.2637310606060606,1.0,0.9899
+9744,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Malcolm Brogdon,0.0630533543669136,1.2,0.9968
+9794,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Seth Curry,0.1416112657184086,0.8,0.9872
+9795,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Seth Curry,0.1825086125086125,0.8,0.9995
+9799,NBA: Ja Morant inspires Memphis Grizzlies win while Stephen Curry stars in Golden State Warriors loss,2022-23,https://www.bbc.co.uk/sport/basketball/63355733,Seth Curry,0.1306998556998557,0.8,0.8704
+9800,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,Seth Curry,0.1064141414141414,1.0,0.9976
+9807,NBA: Golden State Warriors lose to Detroit Pistons after late three-pointer,2022-23,https://www.bbc.co.uk/sport/basketball/64172182,Seth Curry,-0.0105842911877394,0.8,-0.0031
+9875,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Josh Giddey,0.1804866627439443,0.8,0.996
+9881,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Josh Giddey,0.1424561945990518,0.8,0.999
+9882,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Josh Giddey,0.1739121306744257,0.8,0.9995
+9902,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Josh Giddey,0.0765265697605147,0.8,0.9923
+9920,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Josh Giddey,0.1556811375207601,0.6000000000000001,0.9986
+9929,NBA: Zion Williamson scores 43 points as Pelicans beat Timberwolves,2022-23,https://www.bbc.co.uk/sport/basketball/64114841,CJ McCollum,0.1515151515151515,1.2,0.9834
+9943,NBA round-up: LeBron James inspires comeback win for the Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64370555,Royce O'Neale,0.064,0.6000000000000001,0.9712
+9989,Cam Thomas: Brooklyn Nets guard fined for 'derogatory language' in live TV interview,2022-23,https://www.bbc.co.uk/sport/basketball/64606067,Spencer Dinwiddie,0.1619146005509642,1.0,0.571
+9991,World Baseball Classic: Great Britain to make historic debut against USA,2022-23,https://www.bbc.co.uk/sport/baseball/64880237,Spencer Dinwiddie,0.156074384720218,0.8,0.9986
+9993,NBA: Kyrie Irving can make Dallas Mavericks title contenders - Jason Kidd,2022-23,https://www.bbc.co.uk/sport/basketball/64551113,Spencer Dinwiddie,0.1579545454545454,1.0,0.9696
+10000,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Josh Hart,0.1804866627439443,0.8,0.996
+10002,Josh Hartshorne: Cornwall player of the year agrees new deal,2022-23,https://www.bbc.co.uk/sport/rugby-league/63405739,Josh Hart,0.070334928229665,1.0,0.9052
+10003,Hartlepool United 3-1 Harrogate Town: Pools reach round three as Josh Umerah scores twice,2022-23,https://www.bbc.co.uk/sport/football/63708698,Josh Hart,0.0988158226253464,0.8,0.9953
+10022,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Josh Hart,0.1424561945990518,0.8,0.999
+10024,Hearts 0-3 Celtic: Visitors stroll into Scottish Cup semi-finals,2022-23,https://www.bbc.co.uk/sport/football/64845558,Josh Hart,0.085831043392019,0.8,0.9939
+10025,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Josh Hart,0.1739121306744257,0.8,0.9995
+10083,Gareth Ainsworth: QPR appoint Wycombe boss as head coach; Matt Bloomfield to be Wanderers boss,2022-23,https://www.bbc.co.uk/sport/football/64713121,Josh Hart,0.1053540426587301,1.0,0.9931
+10093,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Josh Hart,0.0765265697605147,0.8,0.9923
+10138,Celtic 3-1 Hibernian: Late goals see off 10-man visitors,2022-23,https://www.bbc.co.uk/sport/football/64923678,Josh Hart,0.0843168669336893,0.8,0.9927
+10147,Celtic 3-1 Hearts: Champions win Postecoglou's 100th game in charge,2022-23,https://www.bbc.co.uk/sport/football/64799698,Josh Hart,0.173925430778372,0.8,0.9961
+10183,Hearts 3-4 Celtic: Premiership leaders salvage victory in thrilling match,2022-23,https://www.bbc.co.uk/sport/football/63267090,Josh Hart,0.1315632245407527,0.8,0.999
+10204,Ellie Downie: Gymnast announces retirement at 23 after her mental health 'was taking a beating',2022-23,https://www.bbc.co.uk/sport/gymnastics/64370363,Josh Hart,0.0742672627918529,0.8,0.9734
+10221,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Josh Hart,0.1556811375207601,0.6000000000000001,0.9986
+10305,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,Lonzo Ball,0.1631146631146631,0.8,0.9904
+10309,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Lonzo Ball,0.1825086125086125,0.8,0.9995
+10311,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Lonzo Ball,0.1739121306744257,0.8,0.9995
+10323,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,Lonzo Ball,0.3214285714285714,0.8,0.9611
+10325,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Lonzo Ball,0.1424561945990518,0.8,0.999
+10329,Tom Brady retires 'for good' after 23 seasons in NFL,2022-23,https://www.bbc.co.uk/sport/american-football/64487463,Lonzo Ball,0.1553198537573538,0.8,0.9989
+10369,"NFL play-offs: Patrick Mahomes, Josh Allen and Tom Brady aim for Super Bowl 57",2022-23,https://www.bbc.co.uk/sport/american-football/64233581,Lonzo Ball,0.0964555293191656,0.8,0.9976
+10375,Aaron Rodgers: Green Bay Packers quarterback says he intends to join New York Jets,2022-23,https://www.bbc.co.uk/sport/american-football/64929406,Lonzo Ball,0.1054625569235958,0.8,0.9984
+10403,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Lonzo Ball,0.0765265697605147,0.8,0.9923
+10419,World Baseball Classic: Great Britain to make historic debut against USA,2022-23,https://www.bbc.co.uk/sport/baseball/64880237,Lonzo Ball,0.156074384720218,0.8,0.9986
+10433,Pakistan v England: Why Will Jacks should fit perfectly into Ben Stokes' team,2022-23,https://www.bbc.co.uk/sport/cricket/63201385,Lonzo Ball,0.1581755050505049,1.0,0.9993
+10437,"NFL divisional round play-offs: Injured Mahomes leads Chiefs over Jaguars, Eagles dominate Giants",2022-23,https://www.bbc.co.uk/sport/american-football/64362953,Lonzo Ball,0.0827472226568612,0.8,0.9945
+10460,NFL play-offs: Remarkable rise of San Francisco 49ers' 'Mr Irrelevant' Brock Purdy,2022-23,https://www.bbc.co.uk/sport/american-football/64348673,Lonzo Ball,0.1655313051146385,0.8,0.9991
+10484,Stephen Curry injured as Golden State Warriors lose again,2022-23,https://www.bbc.co.uk/sport/basketball/63982850,Tyrese Haliburton,0.0890873015873015,1.0,-0.6605
+10541,NBA: Los Angeles Lakers continue losing start with defeat by LA Clippers,2022-23,https://www.bbc.co.uk/sport/basketball/63341374,James Harden,0.3214285714285714,1.2,0.9611
+10543,NBA: Kevin Durant traded to Phoenix Suns as Russell Westbrook joins Utah Jazz,2022-23,https://www.bbc.co.uk/sport/basketball/64593463,James Harden,0.0884722222222222,1.2,0.9398
+10546,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,James Harden,0.1825086125086125,0.8,0.9995
+10555,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,James Harden,0.0630533543669136,0.8,0.9968
+10559,NBA: Kevin Durant scores 23 points on Phoenix Suns debut in win at Charlotte Hornets,2022-23,https://www.bbc.co.uk/sport/basketball/64820742,James Harden,0.1631146631146631,0.8,0.9904
+10564,NBA: Golden State Warriors v LA Lakers & other key talking points for new season,2022-23,https://www.bbc.co.uk/sport/basketball/63287260,James Harden,0.1064141414141414,1.4,0.9976
+10567,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,James Harden,0.0767339544513457,0.6000000000000001,0.1272
+10569,NBA: Kyrie Irving 'requests trade from Brooklyn Nets',2022-23,https://www.bbc.co.uk/sport/basketball/64521840,James Harden,0.0740530303030303,1.0,0.3083
+10584,Bellator 292: Michael 'Venom' Page to face Goiti Yamauchi,2022-23,https://www.bbc.co.uk/sport/mixed-martial-arts/64363294,James Harden,0.2623333333333333,0.8,0.9259
+10618,NBA: Kyrie Irving buzzer-beater gives Brooklyn Nets win at Toronto Raptors,2022-23,https://www.bbc.co.uk/sport/basketball/64010284,James Harden,0.2775,1.0,0.9945
+10629,NBA: Nikola Jokic sets career high for rebounds in Denver Nuggets win,2022-23,https://www.bbc.co.uk/sport/basketball/64023967,James Harden,0.2039848484848485,0.6000000000000001,0.9766
+10648,NBA: Kyrie Irving and Kevin Durant score high in Brooklyn Nets defeat at Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/63383489,James Harden,0.2637310606060606,1.0,0.9899
+10655,NBA: Damien Lillard hits 42 points as Portland Trail Blazers beat Memphis Grizzlies,2022-23,https://www.bbc.co.uk/sport/basketball/64494837,James Harden,0.1312499999999999,1.0,-0.1583
+10667,NBA: Golden State Warriors lose to Detroit Pistons after late three-pointer,2022-23,https://www.bbc.co.uk/sport/basketball/64172182,James Harden,-0.0105842911877394,0.8,-0.0031
+10712,NBA: Luka Doncic inspires Dallas Mavericks to Christmas Day win over Los Angeles Lakers,2022-23,https://www.bbc.co.uk/sport/basketball/64093917,James Harden,0.1617079889807162,1.0,0.992
+10730,NBA: Miami Heat set free-throw record in 112-111 win over Oklahoma City Thunder,2022-23,https://www.bbc.co.uk/sport/basketball/64233233,James Harden,0.2002430555555555,0.8,0.985
+10778,NBA: LA Lakers rally to topple Golden State Warriors despite LeBron James absence,2022-23,https://www.bbc.co.uk/sport/basketball/64615897,Domantas Sabonis,0.1351239669421487,1.0,0.8479
+10779,NBA: Golden State Warriors thrash San Antonio Spurs in front of record crowd,2022-23,https://www.bbc.co.uk/sport/basketball/64273731,Domantas Sabonis,0.0885416666666666,1.0,0.8481
+10787,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Josh Hart,0.1804866627439443,0.8,0.996
+10789,Josh Hartshorne: Cornwall player of the year agrees new deal,2022-23,https://www.bbc.co.uk/sport/rugby-league/63405739,Josh Hart,0.070334928229665,1.0,0.9052
+10790,Hartlepool United 3-1 Harrogate Town: Pools reach round three as Josh Umerah scores twice,2022-23,https://www.bbc.co.uk/sport/football/63708698,Josh Hart,0.0988158226253464,0.8,0.9953
+10809,NFL week 10: Minnesota Vikings stun Buffalo Bills plus more magic from Mahomes,2022-23,https://www.bbc.co.uk/sport/american-football/63618573,Josh Hart,0.1424561945990518,0.8,0.999
+10811,Hearts 0-3 Celtic: Visitors stroll into Scottish Cup semi-finals,2022-23,https://www.bbc.co.uk/sport/football/64845558,Josh Hart,0.085831043392019,0.8,0.9939
+10812,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Josh Hart,0.1739121306744257,0.8,0.9995
+10870,Gareth Ainsworth: QPR appoint Wycombe boss as head coach; Matt Bloomfield to be Wanderers boss,2022-23,https://www.bbc.co.uk/sport/football/64713121,Josh Hart,0.1053540426587301,1.0,0.9931
+10880,"NFL: Tom Brady breaks 100,000-yard mark as Tampa Bay Buccaneers beat LA Rams",2022-23,https://www.bbc.co.uk/sport/american-football/63538136,Josh Hart,0.0765265697605147,0.8,0.9923
+10925,Celtic 3-1 Hibernian: Late goals see off 10-man visitors,2022-23,https://www.bbc.co.uk/sport/football/64923678,Josh Hart,0.0843168669336893,0.8,0.9927
+10934,Celtic 3-1 Hearts: Champions win Postecoglou's 100th game in charge,2022-23,https://www.bbc.co.uk/sport/football/64799698,Josh Hart,0.173925430778372,0.8,0.9961
+10970,Hearts 3-4 Celtic: Premiership leaders salvage victory in thrilling match,2022-23,https://www.bbc.co.uk/sport/football/63267090,Josh Hart,0.1315632245407527,0.8,0.999
+10991,Ellie Downie: Gymnast announces retirement at 23 after her mental health 'was taking a beating',2022-23,https://www.bbc.co.uk/sport/gymnastics/64370363,Josh Hart,0.0742672627918529,0.8,0.9734
+11008,NFL week 12 review & results: Aaron Rodgers hurt as Eagles beat Packers while Chiefs beat Rams,2022-23,https://www.bbc.co.uk/sport/american-football/63777983,Josh Hart,0.1556811375207601,0.6000000000000001,0.9986
+11134,Burton Albion 2-5 Peterborough United,2022-23,https://www.bbc.co.uk/sport/football/64299604,Joe Harris,0.0672056878306878,0.8,0.9951
+11140,Newport County 1-1 Bradford City,2022-23,https://www.bbc.co.uk/sport/football/64845442,Joe Harris,0.109025974025974,0.6000000000000001,0.9678
+11145,Lincoln City 0-3 Peterborough United,2022-23,https://www.bbc.co.uk/sport/football/64923430,Joe Harris,0.2260522273425499,0.8,0.9945
+11147,Newport County 1-1 AFC Wimbledon: Charsley earns point for Exiles,2022-23,https://www.bbc.co.uk/sport/football/64589210,Joe Harris,0.1343523997370151,0.6000000000000001,0.984
+11148,Euro 2024 qualifiers: Aaron Ramsey named new Wales captain,2022-23,https://www.bbc.co.uk/sport/football/64951165,Joe Harris,0.1180622009569378,0.8,0.9922
+11158,Super Bowl 57: Patrick Mahomes wins second title to show he's Tom Brady's NFL successor,2022-23,https://www.bbc.co.uk/sport/american-football/64623240,Joe Harris,0.1739121306744257,0.8,0.9995
+11159,Peterborough United 2-1 Shrewsbury Town,2022-23,https://www.bbc.co.uk/sport/football/63925977,Joe Harris,0.113095238095238,1.0,0.9964
+11162,Southend United 1-2 Aldershot Town,2022-23,https://www.bbc.co.uk/sport/football/64923831,Joe Harris,-0.007010582010582,0.6000000000000001,0.96
+11165,LeBron James breaks NBA all-time scoring record,2022-23,https://www.bbc.co.uk/sport/basketball/64563131,Joe Harris,0.1825086125086125,0.8,0.9995
+11167,Salford City 3-1 Newport County: Salford come from behind to beat Exiles,2022-23,https://www.bbc.co.uk/sport/football/64760963,Joe Harris,0.0945124716553287,0.6000000000000001,0.98
+11178,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Joe Harris,0.1416112657184086,1.0,0.9872
+11179,Wales U20s beat Poland 71-12 in Six Nations warm-up,2022-23,https://www.bbc.co.uk/sport/rugby-union/64332656,Joe Harris,0.2222222222222222,0.8,0.9325
+11187,Peterborough United 2-1 Portsmouth,2022-23,https://www.bbc.co.uk/sport/football/64356475,Joe Harris,0.1150132275132275,0.8,0.9942
+11193,Forest Green Rovers 0-2 Peterborough United,2022-23,https://www.bbc.co.uk/sport/football/64435775,Joe Harris,0.0694630192502532,1.0,0.9972
+11201,Rob Edwards: Luton boss content happy with transfer window despite loss of Harry Cornick,2022-23,https://www.bbc.co.uk/sport/football/64487149,Joe Harris,0.1435267857142857,0.4,0.9934
+11202,NFL week 13: San Francisco 49ers beat Miami Dolphins while Deshaun Watson wins on return from suspension,2022-23,https://www.bbc.co.uk/sport/american-football/63855156,Joe Harris,0.0954148199683913,0.8,0.9946
+11205,Ipswich Town 4-0 Burton Albion,2022-23,https://www.bbc.co.uk/sport/football/64767690,Joe Harris,0.1157703081232492,0.4,0.9854
+11207,Australian Open 2023 results: Joe Salisbury out of men's doubles but Neal Skupski into quarter-finals,2022-23,https://www.bbc.co.uk/sport/tennis/64369966,Joe Harris,0.0131578947368421,0.6000000000000001,-0.9161
+11209,NFL play-offs: Patrick Mahomes aims to overcome injury and reach Super Bowl 57,2022-23,https://www.bbc.co.uk/sport/american-football/64396384,Joe Harris,0.0992617908407382,0.8,0.9967
+11224,Cymru Premier round-up: Crucial win for Aberystwyth,2022-23,https://www.bbc.co.uk/sport/football/64212247,Joe Harris,0.038320707070707,0.8,0.9246
+11225,Port Vale 0-2 Peterborough United: Darren Ferguson makes winning return as Posh boss,2022-23,https://www.bbc.co.uk/sport/football/64206832,Joe Harris,0.101978835978836,1.0,0.9948
+11232,New Zealand vs England: Harry Brook hits sublime 184 to put tourists in control,2022-23,https://www.bbc.co.uk/sport/cricket/64753742,Joe Harris,0.2231867784992785,0.6000000000000001,0.9953
+11266,Grimsby Town 1-1 Newport County: Newport's Farquharson denies Grimsby win,2022-23,https://www.bbc.co.uk/sport/football/64356610,Joe Harris,0.1787362637362637,0.6000000000000001,0.9962
+11292,Chippenham Town 1-0 Lincoln City: Non-league side stun League One Imps,2022-23,https://www.bbc.co.uk/sport/football/63461228,Joe Harris,0.1008826945412311,0.8,0.9942
+11346,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Joe Harris,0.1804866627439443,0.8,0.996
+11347,Heineken Champions Cup: Ospreys 17-23 Leicester: Anthony Watson try clinches Tigers win,2022-23,https://www.bbc.co.uk/sport/rugby-union/63876767,Joe Harris,0.1515508862206975,0.8,0.9934
+11367,NBA All-Star Game: Team Giannis beats Team LeBron as Jayson Tatum scores record 55 points,2022-23,https://www.bbc.co.uk/sport/basketball/64701884,Jaylen Hoard,0.0767339544513457,0.6000000000000001,0.1272
+11368,NBA: Dallas Mavericks stars Luka Doncic and Kyrie Irving combine for second win together,2022-23,https://www.bbc.co.uk/sport/basketball/64833608,Jaylen Hoard,0.1416112657184086,0.8,0.9872
+11369,NBA on the BBC: The big questions as NBA returns after All-Star break,2022-23,https://www.bbc.co.uk/sport/basketball/64722489,Jaylen Hoard,0.0630533543669136,0.8,0.9968
+11391,"NFL week eight review: MVP shouts for Josh Allen as Buffalo Bills beat Packers, Eagles go 7-0",2022-23,https://www.bbc.co.uk/sport/american-football/63452643,Derrick Walton,0.1804866627439443,0.8,0.996
+11398,Super Bowl 57: Kansas City Chiefs fight back to beat Philadelphia Eagles 38-35 in thriller,2022-23,https://www.bbc.co.uk/sport/american-football/64613767,Derrick Walton,0.2111051646765933,0.6000000000000001,0.9988
+11413,NFL London: Russell Wilson under scrutiny as Denver Broncos face Jacksonville Jaguars,2022-23,https://www.bbc.co.uk/sport/american-football/63441203,Derrick Walton,0.1107524828113063,0.8,0.9936

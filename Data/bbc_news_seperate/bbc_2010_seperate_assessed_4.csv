@@ -1,0 +1,88 @@
+Unnamed: 0,title,date,url,player,textblob_Sentiment,key_words_score,nltk_Sentiment
+225,GB to face US in Olympic warm-up,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9432322.stm,Kevin Durant,0.1238782051282051,1.0,0.9983
+503,LeBron James becomes minority stakeholder in Liverpool,2010-11,https://www.bbc.co.uk/sport/football/12994144,LeBron James,0.2220588235294117,1.0,0.9061
+1533,Team-mates: Lee Mears & David Flatman,2010-11,http://news.bbc.co.uk/sport1/hi/front_page/9273946.stm,David Lee,0.2091017316017316,0.0,
+1671,Ride the new 2012 Olympic slalom canoe course,2010-11,http://news.bbc.co.uk/sport1/hi/canoeing/9270890.stm,David Lee,0.1723893992186675,0.0,
+1689,Fabregas accused referee of taking money - Moyes,2010-11,http://news.bbc.co.uk/sport1/hi/football/teams/e/everton/9387974.stm,David Lee,0.0935811032401941,0.0,
+1696,Come Fly With Me - Meet Fearghal and Lee,2010-11,http://www.bbc.co.uk/blogs/comedy/2010/11/come-fly-with-me---meet-fearghal-and-lee.shtml,David Lee,0.0738878685848383,0.0,
+1699,And the 24 Hour Panel People are...,2010-11,http://www.bbc.co.uk/blogs/comedy/2011/03/and-the-24-hour-panel-people-a.shtml,David Lee,0.1556811375207601,0.0,
+1744,University funding system 'will focus minds',2010-11,http://news.bbc.co.uk/today/hi/today/newsid_9393000/9393031.stm,David Lee,0.1825086125086125,0.0,
+2042,Rushden & D'mds 2-2 Southport,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9422409.stm,Joe Johnson,0.0319444444444444,0.4,0.8934
+2047,Rockets excited for Magic opener,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9158018.stm,Joe Johnson,0.0431818181818181,0.6000000000000001,0.9708
+2096,Rushden & D'mnds 2-0 Eastbourne,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9401885.stm,Joe Johnson,0.1680367504835589,0.8,0.9326
+2922,G'ford Heat 66-84 Mersey Tigers,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9415736.stm,Carlos Boozer,0.1365508365508365,0.8,0.9865
+3339,Wolves want new deal for Gilbert,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9433310.stm,Danny Granger,0.2652777777777778,0.8,0.9977
+3352,St J'stone v Rangers as it happened,2010-11,http://news.bbc.co.uk/sport1/hi/football/scot_prem/9448021.stm,Danny Granger,0.2322333333333333,0.2,0.0
+3354,Obama's foreign policy headache after mid-term losses,2010-11,https://www.bbc.co.uk/news/world-us-canada-11706486,Danny Granger,0.1843749999999999,0.0,
+3518,Sharks run riot to retain BBL Cup,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9359362.stm,Jamal Crawford,0.1064141414141414,0.6000000000000001,0.9971
+4514,Nets edge out Raptors in overtime,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9416125.stm,Andrea Bargnani,0.1214725606004676,1.2,0.9993
+4515,London set for NBA double-header,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9413793.stm,Andrea Bargnani,0.1397832097319802,1.2,0.9802
+4517,Nets win first NBA game in London,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9415553.stm,Andrea Bargnani,0.1259427609427609,1.2,0.9995
+5084,Notts County appoint Martin Allen as manager,2010-11,https://www.bbc.co.uk/sport/football/13036140,Ray Allen,0.1588937145105976,0.8,0.9409
+6047,Wales take the Moore mouth test,2010-11,http://news.bbc.co.uk/sport1/hi/rugby_union/welsh/9176198.stm,Al Harrington,0.0696647509578544,1.0,0.7757
+6393,Tamworth 1-1 Darlington,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9367819.stm,Josh Smith,0.1850744284954811,0.6000000000000001,0.264
+7524,London 2012 Olympics qualifying: Basketball,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/8855587.stm,Luol Deng,0.1633252164502164,0.4,0.9774
+7977,Sunday's Scottish gossip,2010-11,http://news.bbc.co.uk/sport1/hi/scotland/9363238.stm,Andre Miller,0.2387205387205387,1.0,0.9972
+8537,Taifa Stars focus on Cecafa,2010-11,http://news.bbc.co.uk/sport1/hi/puffbox/hyperpuff/av/football/african/africa_horizontal/9186797.stm,Nenê,-0.0059808612440191,0.0,
+8543,We need a fast start - Hockaday,2010-11,http://news.bbc.co.uk/sport1/hi/football/teams/f/forest_green_rovers/9418178.stm,Nenê,0.0275974025974026,0.0,
+8545,Williams reflects on controversial goal,2010-11,http://news.bbc.co.uk/sport1/hi/football/teams/y/yeovil/9165715.stm,Nenê,-0.0203703703703703,0.0,
+8562,Body found in missing boy search in Peterborough,2010-11,https://www.bbc.co.uk/news/uk-england-cambridgeshire-12780439,Nenê,0.067310606060606,0.0,
+8639,Sharks run riot to retain BBL Cup,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9359362.stm,Andrew Bogut,0.2177685950413223,0.6000000000000001,0.9971
+9127,Leinster 15-10 Ospreys,2010-11,http://news.bbc.co.uk/sport1/hi/rugby_union/welsh/9342479.stm,Devin Harris,0.2387205387205387,0.4,-0.9601
+9289,Connacht 17-13 Scarlets,2010-11,http://news.bbc.co.uk/sport1/hi/rugby_union/my_club/connacht/9394493.stm,Troy Murphy,0.0176088617265087,1.0,-0.9921
+9290,Connacht 31-25 Benetton Treviso,2010-11,http://news.bbc.co.uk/sport1/hi/rugby_union/9415473.stm,Troy Murphy,0.1356884057971014,1.0,0.8661
+9448,Cove Rangers 0-3 Berwick,2010-11,http://news.bbc.co.uk/sport1/hi/football/scot_cups/9207800.stm,Eric Gordon,0.1743215118215117,0.8,0.9404
+9505,Stenhousemuir 2-2 Dumbarton,2010-11,http://news.bbc.co.uk/sport1/hi/football/scot_div_1/9437974.stm,Eric Gordon,0.1404705369257608,0.8,0.4329
+9781,Elton John and Helen Mirren for Saturday Night Live,2010-11,http://www.bbc.co.uk/news/entertainment-arts-12829483,Elton Brand,0.2522058823529411,0.0,
+10299,Field declared for Grand National,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/horse_racing/9445742.stm,Richard Jefferson,0.1148192450824029,0.6000000000000001,0.9996
+10300,Nicholls enters 10 for National,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/horse_racing/9382521.stm,Richard Jefferson,0.0699404761904761,0.4,0.9922
+10307,Aintree primed for Grand National,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/horse_racing/9451508.stm,Richard Jefferson,0.1465047619047619,0.2,0.9967
+10319,McCoy winner tops Aintree weights,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/horse_racing/9397799.stm,Richard Jefferson,0.0381721736313572,0.2,0.9942
+10643,Sharks run riot to retain BBL Cup,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9359362.stm,Mike Conley,-0.1483333333333333,0.8,0.9971
+10736,Robinson could stay with Coventry,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/ice_hockey/9359167.stm,Jason Thompson,0.106784188034188,0.8,0.9948
+10839,Blaze league run comes to an end,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/ice_hockey/9192738.stm,Jason Thompson,0.1182818156502366,0.4,0.6715
+10840,Blaze re-sign Robinson as cover,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/ice_hockey/9171203.stm,Jason Thompson,0.057891865079365,0.6000000000000001,-0.755
+10848,Boston striker Lee hangs up boots,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9156725.stm,Jason Thompson,0.0722063968526233,0.8,0.9838
+10940,Coach Paul Thompson names GB World Championships squad,2010-11,https://www.bbc.co.uk/sport/ice-hockey/13035684,Jason Thompson,0.2185335497835497,0.8,0.9824
+11235,Stoke-on-Trent potholes repaired with government grant,2010-11,https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-12099469,Grant Hill,0.1085365853658536,0.0,
+11295,Respects paid to war dead at new Clifton memorial,2010-11,https://www.bbc.co.uk/news/uk-england-nottinghamshire-11753941,Grant Hill,0.2387205387205387,0.0,
+11362,Lottery funding for important dig,2010-11,http://news.bbc.co.uk/local/herefordandworcester/hi/people_and_places/history/newsid_9390000/9390586.stm,Grant Hill,0.2698510529019003,0.8,0.9984
+11365,Radio 2 Young Choristers of the Year 2010,2010-11,https://www.bbc.co.uk/programmes/b00vlr3p,Grant Hill,0.1780663780663781,0.0,
+11408,Richmond Hill road improvements 'will save lives',2010-11,https://www.bbc.co.uk/news/world-europe-isle-of-man-12540409,Grant Hill,0.1804866627439443,0.0,
+11437,Wheat research grant for John Innes Centre in Norwich,2010-11,http://www.bbc.co.uk/news/uk-england-norfolk-12550556,Grant Hill,0.0451743742368742,0.0,
+11598,Traveller families win damages row with Essex council,2010-11,http://www.bbc.co.uk/news/uk-england-essex-11720566,Tony Parker,0.0992617908407382,0.0,
+11796,Grant keen to strengthen Hammers,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_prem/9325164.stm,Tony Parker,0.0855107855107855,0.6000000000000001,0.9905
+11864,Tamworth 2-3 Hayes & Yeading,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9419072.stm,Courtney Lee,0.2107744107744108,0.8,0.877
+12003,Mallinder eyes recruitment review,2010-11,http://news.bbc.co.uk/sport1/hi/rugby_union/my_club/northampton/9403619.stm,Courtney Lee,0.2859840159840159,0.8,0.9634
+12296,Paula White: The Hairy Bikers and Christmas cocktails,2010-11,https://www.bbc.co.uk/programmes/p00c88nq,Chris Paul,0.147789480860347,0.0,
+12299,Paula White: Sue Perkins on writing witty Christmas cards,2010-11,https://www.bbc.co.uk/programmes/p00bz7tv,Chris Paul,0.1278760057606211,0.0,
+12432,Collingwood hails Woakes performance,2010-11,http://news.bbc.co.uk/sport1/hi/cricket/9359606.stm,Chris Paul,0.35,0.0,
+12467,Want to see a pic of Dom's new glasses?,2010-11,http://www.bbc.co.uk/blogs/chrismoyles/2011/02/want_to_see_a_pic_of_doms_new.html,Chris Paul,0.1358405483405484,0.0,
+12775,Portadown 2-2 Glenavon,2010-11,http://news.bbc.co.uk/sport1/hi/football/irish/9322846.stm,Richard Hamilton,0.0747474747474747,0.6000000000000001,0.9498
+12829,Richard Howitt - animal lover,2010-11,http://www.bbc.co.uk/blogs/deborahmcgurran/2011/02/richard_howitt_animal_lover.html,Richard Hamilton,-0.0214285714285714,0.0,
+12862,G'ford Heat 66-84 Mersey Tigers,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9415736.stm,Carlos Delfino,0.0964555293191656,0.8,0.9865
+13231,Altrincham 0-0 Wrexham,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9317493.stm,Marvin Williams,0.0089786756453423,1.0,0.9136
+13245,France U20 29-22 Wales U20,2010-11,http://news.bbc.co.uk/sport1/hi/rugby_union/welsh/9426049.stm,Marvin Williams,0.1850744284954811,1.0,0.9083
+13306,Wrexham 1-1 Mansfield Town,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9207003.stm,Marvin Williams,0.1053429431089005,0.8,-0.476
+13364,Middlesbrough 3-4 Swansea,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_div_1/9390083.stm,Marvin Williams,0.1512658707470028,0.8,0.9349
+13366,Middlesbrough 3-3 Leicester,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_div_1/9439054.stm,Marvin Williams,0.1502134024978852,1.0,0.9998
+13408,Middlesbrough 2-1 Derby,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_div_1/9415419.stm,Marvin Williams,-0.09375,0.2,0.9761
+13599,Belfast 8-1 Newcastle,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/ice_hockey/9370892.stm,Brandon Rush,0.1885224424698109,0.8,-0.6261
+13791,G'ford Heat 66-84 Mersey Tigers,2010-11,http://news.bbc.co.uk/sport1/hi/other_sports/basketball/9415736.stm,Gilbert Arenas,0.1194018037518038,0.6000000000000001,0.9865
+14270,Pacific salmon run helps shape Canada's ecosystems,2010-11,https://www.bbc.co.uk/news/science-environment-12849019,John Salmons,0.0138655462184873,0.0,
+14329,Your Letters,2010-11,http://www.bbc.co.uk/blogs/magazinemonitor/2011/02/your_letters_1085.shtml,John Salmons,0.1064141414141414,0.0,
+14334,West Brendon dairy farmers fined for slurry pollution,2010-11,http://www.bbc.co.uk/news/uk-england-devon-12129824,John Salmons,0.249297052154195,0.0,
+14595,Salmon fishing season begins on River Tay,2010-11,https://www.bbc.co.uk/news/uk-scotland-tayside-central-12198759,John Salmons,0.1137793024585477,0.0,
+14754,AFC Telford Utd 2-2 Eastwood Town,2010-11,http://news.bbc.co.uk/sport1/hi/football/eng_conf/9432689.stm,John Salmons,0.2626121463077985,0.6000000000000001,0.9976
+14805,IRB boss eyes Olympic rugby boom,2010-11,http://news.bbc.co.uk/sport1/hi/rugby_union/9177490.stm,Mike Miller,0.2096969696969697,0.0,
+14872,EMA plans daily New York flights,2010-11,http://news.bbc.co.uk/local/leicester/hi/people_and_places/newsid_9366000/9366441.stm,Mike Miller,0.0432102364755426,0.0,
+14873,Bus service for festive East Surrey Hospital visits,2010-11,https://www.bbc.co.uk/news/uk-england-12056096,Mike Miller,0.093060918060918,0.0,
+14992,Tuesday's Scottish gossip,2010-11,http://news.bbc.co.uk/sport1/hi/scotland/9263446.stm,Mike Miller,0.0811616161616161,1.0,0.9081
+15158,Paula White: Kevin Keegan and Martin Lee,2010-11,https://www.bbc.co.uk/programmes/p00dygxt,Kevin Martin,0.128030303030303,0.0,
+15389,Eamonn Hughes murder accused says he 'did no wrong',2010-11,https://www.bbc.co.uk/news/uk-northern-ireland-12386140,Kevin Martin,0.1608655705996131,0.0,
+15398,Judgement reserved in Eamonn Hughes case,2010-11,http://www.bbc.co.uk/news/uk-northern-ireland-12607970,Kevin Martin,0.2503757518609004,0.0,
+15759,Eamon Hughes murder accused admits having knife,2010-11,https://www.bbc.co.uk/news/uk-northern-ireland-12138880,Kevin Martin,-0.375,0.0,
+15798,"Woman 'thought her father, Eamon Hughes, had been shot'",2010-11,https://www.bbc.co.uk/news/uk-northern-ireland-12002591,Kevin Martin,0.1569504942952147,0.0,
+15823,Man convicted of Eamonn Hughes birthday party murder,2010-11,http://www.bbc.co.uk/news/uk-northern-ireland-13060449,Kevin Martin,0.2387205387205387,0.0,
+15826,Martin summoned back to Ipswich,2010-11,http://news.bbc.co.uk/sport1/hi/football/teams/i/ipswich_town/9365774.stm,Kevin Martin,0.0281208664021163,0.8,0.995
+15874,No plan to harm says man accused of Hughes murder,2010-11,https://www.bbc.co.uk/news/uk-northern-ireland-12276374,Kevin Martin,0.2167136034255599,0.0,

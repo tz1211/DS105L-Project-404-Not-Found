@@ -1,0 +1,66 @@
+Unnamed: 0,title,date,url,player,textblob_Sentiment,key_words_score,nltk_Sentiment
+352,Kobe Bryant drops Â£3.71m to stay at LA Lakers for 20th year,2013-14,https://www.bbc.co.uk/sport/basketball/25095610,Kobe Bryant,0.0076704545454545,1.0,0.7427
+790,LeBron James in talks on David Beckham Miami MLS team,2013-14,https://www.bbc.co.uk/sport/football/24995887,LeBron James,0.2220588235294117,1.0,0.9902
+1072,LV=Cup: Scarlets 13-7 Gloucester,2013-14,https://www.bbc.co.uk/sport/rugby-union/25885845,James Harden,0.06,1.0,-0.4215
+1250,Glasgow 2014: The Jamaican university that changed athletics,2013-14,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Carmelo Anthony,0.1588937145105976,1.0,0.9993
+1741,Coach Stephen Keshi proud of Nigeria's CHAN campaign,2013-14,https://www.bbc.co.uk/sport/football/26007595,Stephen Curry,0.3156565656565657,0.8,0.9935
+1748,Irish Premiership: Dungannon Swifts 0-4 Warrenpoint Town,2013-14,https://www.bbc.co.uk/sport/football/26995097,Stephen Curry,0.0249999999999999,0.6000000000000001,0.7845
+1883,Jamaica faces serious questions in the fight against doping,2013-14,https://www.bbc.co.uk/sport/athletics/24906369,DeMar DeRozan,0.047257313393677,0.8,-0.9592
+1940,Glasgow 2014: The Jamaican university that changed athletics,2013-14,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Deron Williams,0.1588937145105976,1.0,0.9993
+2202,Leeds United: Managing director David Haigh resigns,2013-14,https://www.bbc.co.uk/sport/football/26995315,David Lee,0.0846074380165289,0.8,0.965
+2203,Leeds United: David Haigh-led takeover bid falls through,2013-14,https://www.bbc.co.uk/sport/football/25830046,David Lee,0.0782967032967033,1.0,0.9583
+2205,Leeds United boosted by new investment from David Haigh,2013-14,https://www.bbc.co.uk/sport/football/25103010,David Lee,0.09,0.6000000000000001,0.7717
+2461,BBL Cup final: Leicester overcome Newcastle in tense finish,2013-14,https://www.bbc.co.uk/sport/basketball/25706951,J.R. Smith,0.1090130568356375,0.8,0.9293
+2518,Challenge Cup: Batley Bulldogs 10-48 Castleford Tigers,2013-14,http://www.bbc.co.uk/sport/rugby-league/26855154,Blake Griffin,0.1423765432098765,0.6000000000000001,0.8379
+2523,Glasgow 2014: The Jamaican university that changed athletics,2013-14,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Blake Griffin,0.1588937145105976,1.0,0.9993
+2623,World Taekwondo Grand Prix: Lutalo Muhammad wins gold,2013-14,https://www.bbc.co.uk/sport/taekwondo/25379517,Brook Lopez,0.1367753623188406,0.8,0.9927
+2694,Boxing schedule and results 2013,2013-14,https://www.bbc.co.uk/sport/boxing/25622907,Brook Lopez,0.0431818181818181,1.0,0.9169
+2869,Jersey Premiership: St Paul's edge closer to title with Scottish draw,2013-14,https://www.bbc.co.uk/sport/football/26856524,Paul Pierce,0.1170951943679216,0.8,0.9959
+3130,World Cup 2014: Guide to Switzerland's Group E,2013-14,https://www.bbc.co.uk/sport/football/25180409,Al Jefferson,0.1095268337783307,1.0,0.9982
+3235,Celtic midfielder Paul George moves to Hamilton on loan,2013-14,https://www.bbc.co.uk/sport/football/25736730,Paul George,-0.0166666666666666,1.0,0.0772
+4040,East Fife 1-2 Stenhousemuir,2013-14,https://www.bbc.co.uk/sport/football/26898862,Josh Smith,0.1505952380952381,0.8,0.8122
+4041,Kidderminster Harriers 2-2 Braintree Town,2013-14,https://www.bbc.co.uk/sport/football/26202826,Josh Smith,0.1365646258503401,0.8,0.9767
+4165,Stenhousemuir 4-2 Brechin City,2013-14,https://www.bbc.co.uk/sport/football/26493557,Josh Smith,0.1741496598639455,0.6000000000000001,0.975
+4464,Swansea City 1-2 Everton,2013-14,https://www.bbc.co.uk/sport/football/25387089,Dwight Howard,0.1597976190476191,1.0,0.9988
+4897,Luol Deng joins Cleveland Cavaliers from Chicago Bulls,2013-14,https://www.bbc.co.uk/sport/basketball/25634383,Luol Deng,-0.0513888888888888,0.8,0.7845
+4904,Luol Deng plans return for Great Britain qualifiers,2013-14,https://www.bbc.co.uk/sport/basketball/25753052,Luol Deng,0.3472222222222222,1.0,0.9943
+5333,Scotland v Australia: Duncan Weir replaces Ruaridh Jackson,2013-14,https://www.bbc.co.uk/sport/rugby-union/25014552,Tim Duncan,-0.0001436781609195,0.8,0.5423
+5420,Six Nations 2014: Stuart Hogg back for Scotland against Ireland,2013-14,http://www.bbc.co.uk/sport/0/rugby-union/25941235,Tim Duncan,0.1337527056277056,0.8,0.9871
+5455,Scotland v Japan: Tim Swinson & Tommy Seymour to start,2013-14,https://www.bbc.co.uk/sport/rugby-union/24820124,Tim Duncan,0.1345627029220779,0.8,0.9725
+5466,Six Nations: Low replaces Dickinson on Scots bench,2013-14,https://www.bbc.co.uk/sport/rugby-union/26481016,Tim Duncan,-0.0714285714285714,0.6000000000000001,-0.5916
+5468,Six Nations 2014: Kelly Brown targets Scotland win in Dublin,2013-14,http://www.bbc.co.uk/sport/0/rugby-union/25958590,Tim Duncan,0.0832125603864734,0.8,-0.7496
+5498,Tim Visser: Scotland and Edinburgh wing out until 2014,2013-14,https://www.bbc.co.uk/sport/rugby-union/24726771,Tim Duncan,-0.0784090909090909,0.8,-0.9475
+5543,"Transfer Deadline Day: Hibs land Watmore, Boateng & Haynes",2013-14,https://www.bbc.co.uk/sport/football/25976729,Tim Duncan,0.24,0.8,0.8956
+5547,Scotland: Seven called up as Matt Scott pulls out of squad,2013-14,https://www.bbc.co.uk/sport/rugby-union/24914634,Tim Duncan,0.0846153846153846,0.8,-0.9062
+5567,Six Nations: Scotland's Euan Murray returns from injury,2013-14,https://www.bbc.co.uk/sport/rugby-union/26423405,Tim Duncan,-0.0629629629629629,0.8,0.8402
+5580,Six Nations 2014: Scotland call up Dougie Fife and Chris Fusaro,2013-14,https://www.bbc.co.uk/sport/rugby-union/25744819,Tim Duncan,0.0746376811594202,0.8,0.8934
+5585,Pro 12: Ospreys 11-25 Munster,2013-14,https://www.bbc.co.uk/sport/rugby-union/26262487,Tim Duncan,0.081506734006734,1.0,0.1504
+6057,Glasgow 2014: The Jamaican university that changed athletics,2013-14,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Joe Johnson,0.1588937145105976,1.0,0.9993
+6112,Transfer window: Yeovil Town extend Joe Ralls loan from Cardiff,2013-14,https://www.bbc.co.uk/sport/football/25697194,Joe Johnson,0.3556926406926406,0.8,0.9472
+6536,BBL Cup final: Leicester overcome Newcastle in tense finish,2013-14,https://www.bbc.co.uk/sport/basketball/25706951,Paul Millsap,0.1090130568356375,0.8,0.9293
+6545,Jamaica faces serious questions in the fight against doping,2013-14,https://www.bbc.co.uk/sport/athletics/24906369,Paul Millsap,0.047257313393677,0.8,-0.9592
+6678,Rob Paternostro: British basketball riding wave of momentum,2013-14,https://www.bbc.co.uk/sport/basketball/25827898,Thaddeus Young,0.147335594035594,0.8,0.9989
+6929,Premiership: Harlequins 23-9 London Irish,2013-14,https://www.bbc.co.uk/sport/rugby-union/26731104,Evan Turner,0.1225252525252525,0.8,0.9946
+7032,Wales Women announce squad for World Cup qualifiers,2013-14,https://www.bbc.co.uk/sport/football/26721212,Evan Turner,-0.16,0.6000000000000001,0.2732
+7124,Barbarians confirm squad to face Combined Services,2013-14,https://www.bbc.co.uk/sport/rugby-union/24873421,Evan Turner,-0.08,0.8,0.8834
+8891,World Twenty20 qualifiers: Scotland suffer defeat by Kenya,2013-14,https://www.bbc.co.uk/sport/cricket/24999016,Eric Gordon,0.1800734618916437,0.6000000000000001,0.9349
+9868,"Gossip column: Moyes, Mourinho, Williams, Mascherano, Wenger",2013-14,https://www.bbc.co.uk/sport/26795986,Mo Williams,0.057002457002457,0.8,-0.3744
+9870,Morecambe: Ryan Williams and Andy Wright sign contracts,2013-14,https://www.bbc.co.uk/sport/football/26240111,Mo Williams,0.0936363636363636,1.0,0.5984
+9872,Swansea captain Ashley Williams will give everything for Garry Monk,2013-14,https://www.bbc.co.uk/sport/football/26105485,Mo Williams,0.1281385281385281,1.0,0.9443
+9875,Owain Fon Williams to recover from Wolves error - Ronnie Moore,2013-14,https://www.bbc.co.uk/sport/football/25122027,Mo Williams,0.1,1.0,0.9783
+9876,Owain Fon Williams's Wales debut overdue - Ronnie Moore,2013-14,https://www.bbc.co.uk/sport/football/24955560,Mo Williams,0.062579365079365,1.0,0.9756
+9878,WSL: Rachel Williams signals England hopes after Chelsea move,2013-14,https://www.bbc.co.uk/sport/football/24900180,Mo Williams,0.1135497835497835,0.8,0.9919
+9938,Andy Murray set for live webcast Q&A broadcast from Stirling,2013-14,http://www.bbc.co.uk/sport/0/get-inspired/26716659,Gerald Wallace,0.1703757575757575,0.8,0.996
+9959,Welsh rugby: President's Caps given to 25 players for non-Tests,2013-14,https://www.bbc.co.uk/sport/rugby-union/25059124,Gerald Wallace,0.1318088290310512,1.0,0.9863
+10074,Glasgow 2014: The Jamaican university that changed athletics,2013-14,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Glen Davis,0.1588937145105976,1.0,0.9993
+10422,Pro12: Connacht 38-6 Treviso,2013-14,https://www.bbc.co.uk/sport/rugby-union/26389304,Tobias Harris,0.1710285285285285,0.8,0.6748
+10442,Sochi 2014: Winter Olympics sports this week,2013-14,https://www.bbc.co.uk/sport/winter-olympics/25374020,Tobias Harris,0.1349953735831599,0.8,0.9995
+10878,Glasgow 2014: The Jamaican university that changed athletics,2013-14,https://www.bbc.co.uk/sport/commonwealth-games/26986280,José Calderón,0.1588937145105976,0.8,0.9993
+10887,Cristiano Ronaldo scores twice as Real Madrid reach cup final,2013-14,https://www.bbc.co.uk/sport/football/26143037,José Calderón,0.0772145417306707,0.4,0.9537
+10894,Champions League: Chelsea drawn against Atletico Madrid,2013-14,https://www.bbc.co.uk/sport/football/26966141,José Calderón,0.1436868686868686,0.4,0.9956
+10918,Atletico Madrid v Real Madrid: La Liga rivals set for 'do or die' derby,2013-14,https://www.bbc.co.uk/sport/football/26357670,José Calderón,0.161743919064361,0.4,0.9994
+10920,"Champions League draw: Man Utd v Bayern Munich, PSG v Chelsea",2013-14,https://www.bbc.co.uk/sport/football/26682665,José Calderón,0.0999007936507936,0.4,0.9991
+10945,Atletico Madrid: Diego Simeone's side are stern test for Chelsea,2013-14,https://www.bbc.co.uk/sport/football/26966304,José Calderón,0.1006089809661238,0.4,0.998
+10955,World Cup 2014: Belgium legends rule out glory in Brazil,2013-14,https://www.bbc.co.uk/sport/football/25210495,José Calderón,0.2126138433515483,0.4,0.9982
+10995,"Gossip column: Kroos, Rodriguez, Casillas, Azmoun, Hazard",2013-14,https://www.bbc.co.uk/sport/26965549,José Calderón,0.1195704295704295,0.4,0.992
+11011,Champions League draw: Bayern Munich & PSG face English sides,2013-14,https://www.bbc.co.uk/sport/football/26664718,José Calderón,0.1502134024978852,0.6000000000000001,0.9995
