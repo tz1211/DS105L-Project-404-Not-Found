@@ -1,423 +1,422 @@
 season,Team,Conference,W,L,win_rate,conference_standing
-2023,Denver Nuggets,Western,53.0,29.0,0.6463414634146342,1
-2023,Memphis Grizzlies,Western,51.0,31.0,0.6219512195121951,2
-2023,Sacramento Kings,Western,48.0,34.0,0.5853658536585366,3
-2023,Phoenix Suns,Western,45.0,37.0,0.5487804878048781,4
-2023,Los Angeles Clippers,Western,44.0,38.0,0.5365853658536586,5
-2023,Golden State Warriors,Western,44.0,38.0,0.5365853658536586,6
-2023,Los Angeles Lakers,Western,43.0,39.0,0.524390243902439,7
-2023,Minnesota Timberwolves,Western,42.0,40.0,0.5121951219512195,8
-2023,New Orleans Pelicans,Western,42.0,40.0,0.5121951219512195,9
-2023,Oklahoma City Thunder,Western,40.0,42.0,0.4878048780487805,10
-2023,Dallas Mavericks,Western,38.0,44.0,0.4634146341463415,11
-2023,Utah Jazz,Western,37.0,45.0,0.45121951219512196,12
-2023,Portland Trail Blazers,Western,33.0,49.0,0.4024390243902439,13
-2023,Houston Rockets,Western,22.0,60.0,0.2682926829268293,14
-2023,San Antonio Spurs,Western,22.0,60.0,0.2682926829268293,15
-2023,Milwaukee Bucks,Eastern,58.0,24.0,0.7073170731707317,1
-2023,Boston Celtics,Eastern,57.0,25.0,0.6951219512195121,2
-2023,Philadelphia 76ers,Eastern,54.0,28.0,0.6585365853658537,3
-2023,Cleveland Cavaliers,Eastern,51.0,31.0,0.6219512195121951,4
-2023,New York Knicks,Eastern,47.0,35.0,0.573170731707317,5
-2023,Brooklyn Nets,Eastern,45.0,37.0,0.5487804878048781,6
-2023,Miami Heat,Eastern,44.0,38.0,0.5365853658536586,7
-2023,Atlanta Hawks,Eastern,41.0,41.0,0.5,8
-2023,Toronto Raptors,Eastern,41.0,41.0,0.5,9
-2023,Chicago Bulls,Eastern,40.0,42.0,0.4878048780487805,10
-2023,Indiana Pacers,Eastern,35.0,47.0,0.4268292682926829,11
-2023,Washington Wizards,Eastern,35.0,47.0,0.4268292682926829,12
-2023,Orlando Magic,Eastern,34.0,48.0,0.4146341463414634,13
-2023,Charlotte Hornets,Eastern,27.0,55.0,0.32926829268292684,14
-2023,Detroit Pistons,Eastern,17.0,65.0,0.2073170731707317,15
-2022,Phoenix Suns,Western,64.0,18.0,0.7804878048780488,1
-2022,Memphis Grizzlies,Western,56.0,26.0,0.6829268292682927,2
-2022,Golden State Warriors,Western,53.0,29.0,0.6463414634146342,3
-2022,Dallas Mavericks,Western,52.0,30.0,0.6341463414634146,4
-2022,Utah Jazz,Western,49.0,33.0,0.5975609756097561,5
-2022,Denver Nuggets,Western,48.0,34.0,0.5853658536585366,6
-2022,Minnesota Timberwolves,Western,46.0,36.0,0.5609756097560976,7
-2022,Los Angeles Clippers,Western,42.0,40.0,0.5121951219512195,8
-2022,New Orleans Pelicans,Western,36.0,46.0,0.43902439024390244,9
-2022,San Antonio Spurs,Western,34.0,48.0,0.4146341463414634,10
-2022,Los Angeles Lakers,Western,33.0,49.0,0.4024390243902439,11
-2022,Sacramento Kings,Western,30.0,52.0,0.36585365853658536,12
-2022,Portland Trail Blazers,Western,27.0,55.0,0.32926829268292684,13
-2022,Oklahoma City Thunder,Western,24.0,58.0,0.2926829268292683,14
-2022,Houston Rockets,Western,20.0,62.0,0.24390243902439024,15
-2022,Miami Heat,Eastern,53.0,29.0,0.6463414634146342,1
-2022,Boston Celtics,Eastern,51.0,31.0,0.6219512195121951,2
-2022,Milwaukee Bucks,Eastern,51.0,31.0,0.6219512195121951,3
-2022,Philadelphia 76ers,Eastern,51.0,31.0,0.6219512195121951,4
-2022,Toronto Raptors,Eastern,48.0,34.0,0.5853658536585366,5
-2022,Chicago Bulls,Eastern,46.0,36.0,0.5609756097560976,6
-2022,Brooklyn Nets,Eastern,44.0,38.0,0.5365853658536586,7
-2022,Cleveland Cavaliers,Eastern,44.0,38.0,0.5365853658536586,8
-2022,Atlanta Hawks,Eastern,43.0,39.0,0.524390243902439,9
-2022,Charlotte Hornets,Eastern,43.0,39.0,0.524390243902439,10
-2022,New York Knicks,Eastern,37.0,45.0,0.45121951219512196,11
-2022,Washington Wizards,Eastern,35.0,47.0,0.4268292682926829,12
-2022,Indiana Pacers,Eastern,25.0,57.0,0.3048780487804878,13
-2022,Detroit Pistons,Eastern,23.0,59.0,0.2804878048780488,14
-2022,Orlando Magic,Eastern,22.0,60.0,0.2682926829268293,15
-2021,Utah Jazz,Western,52.0,20.0,0.7222222222222222,1
-2021,Phoenix Suns,Western,51.0,21.0,0.7083333333333334,2
-2021,Denver Nuggets,Western,47.0,25.0,0.6527777777777778,3
-2021,Los Angeles Clippers,Western,47.0,25.0,0.6527777777777778,4
-2021,Dallas Mavericks,Western,42.0,30.0,0.5833333333333334,5
-2021,Portland Trail Blazers,Western,42.0,30.0,0.5833333333333334,6
-2021,Los Angeles Lakers,Western,42.0,30.0,0.5833333333333334,7
-2021,Golden State Warriors,Western,39.0,33.0,0.5416666666666666,8
-2021,Memphis Grizzlies,Western,38.0,34.0,0.5277777777777778,9
-2021,San Antonio Spurs,Western,33.0,39.0,0.4583333333333333,10
-2021,New Orleans Pelicans,Western,31.0,41.0,0.4305555555555556,11
-2021,Sacramento Kings,Western,31.0,41.0,0.4305555555555556,12
-2021,Minnesota Timberwolves,Western,23.0,49.0,0.3194444444444444,13
-2021,Oklahoma City Thunder,Western,22.0,50.0,0.3055555555555556,14
-2021,Houston Rockets,Western,17.0,55.0,0.2361111111111111,15
-2021,Philadelphia 76ers,Eastern,49.0,23.0,0.6805555555555556,1
-2021,Brooklyn Nets,Eastern,48.0,24.0,0.6666666666666666,2
-2021,Milwaukee Bucks,Eastern,46.0,26.0,0.6388888888888888,3
-2021,New York Knicks,Eastern,41.0,31.0,0.5694444444444444,4
-2021,Atlanta Hawks,Eastern,41.0,31.0,0.5694444444444444,5
-2021,Miami Heat,Eastern,40.0,32.0,0.5555555555555556,6
-2021,Boston Celtics,Eastern,36.0,36.0,0.5,7
-2021,Washington Wizards,Eastern,34.0,38.0,0.4722222222222222,8
-2021,Indiana Pacers,Eastern,34.0,38.0,0.4722222222222222,9
-2021,Charlotte Hornets,Eastern,33.0,39.0,0.4583333333333333,10
-2021,Chicago Bulls,Eastern,31.0,41.0,0.4305555555555556,11
-2021,Toronto Raptors,Eastern,27.0,45.0,0.375,12
-2021,Cleveland Cavaliers,Eastern,22.0,50.0,0.3055555555555556,13
-2021,Orlando Magic,Eastern,21.0,51.0,0.2916666666666667,14
-2021,Detroit Pistons,Eastern,20.0,52.0,0.2777777777777778,15
-2020,Los Angeles Lakers,Western,52.0,19.0,0.7323943661971831,1
-2020,Los Angeles Clippers,Western,49.0,23.0,0.6805555555555556,2
-2020,Denver Nuggets,Western,46.0,27.0,0.6301369863013698,3
-2020,Houston Rockets,Western,44.0,28.0,0.6111111111111112,4
-2020,Oklahoma City Thunder,Western,44.0,28.0,0.6111111111111112,5
-2020,Utah Jazz,Western,44.0,28.0,0.6111111111111112,6
-2020,Dallas Mavericks,Western,43.0,32.0,0.5733333333333334,7
-2020,Portland Trail Blazers,Western,35.0,39.0,0.47297297297297297,8
-2020,Memphis Grizzlies,Western,34.0,39.0,0.4657534246575342,9
-2020,Phoenix Suns,Western,34.0,39.0,0.4657534246575342,10
-2020,San Antonio Spurs,Western,32.0,39.0,0.4507042253521127,11
-2020,Sacramento Kings,Western,31.0,41.0,0.4305555555555556,12
-2020,New Orleans Pelicans,Western,30.0,42.0,0.4166666666666667,13
-2020,Minnesota Timberwolves,Western,19.0,45.0,0.296875,14
-2020,Golden State Warriors,Western,15.0,50.0,0.23076923076923078,15
-2020,Milwaukee Bucks,Eastern,56.0,17.0,0.7671232876712328,1
-2020,Toronto Raptors,Eastern,53.0,19.0,0.7361111111111112,2
-2020,Boston Celtics,Eastern,48.0,24.0,0.6666666666666666,3
-2020,Indiana Pacers,Eastern,45.0,28.0,0.6164383561643836,4
-2020,Miami Heat,Eastern,44.0,29.0,0.6027397260273972,5
-2020,Philadelphia 76ers,Eastern,43.0,30.0,0.589041095890411,6
-2020,Brooklyn Nets,Eastern,35.0,37.0,0.4861111111111111,7
-2020,Orlando Magic,Eastern,33.0,40.0,0.4520547945205479,8
-2020,Charlotte Hornets,Eastern,23.0,42.0,0.35384615384615387,9
-2020,Washington Wizards,Eastern,25.0,47.0,0.3472222222222222,10
-2020,Chicago Bulls,Eastern,22.0,43.0,0.3384615384615385,11
-2020,New York Knicks,Eastern,21.0,45.0,0.3181818181818182,12
-2020,Detroit Pistons,Eastern,20.0,46.0,0.30303030303030304,13
-2020,Atlanta Hawks,Eastern,20.0,47.0,0.29850746268656714,14
-2020,Cleveland Cavaliers,Eastern,19.0,46.0,0.2923076923076923,15
-2019,Golden State Warriors,Western,57.0,25.0,0.6951219512195121,1
-2019,Denver Nuggets,Western,54.0,28.0,0.6585365853658537,2
-2019,Portland Trail Blazers,Western,53.0,29.0,0.6463414634146342,3
-2019,Houston Rockets,Western,53.0,29.0,0.6463414634146342,4
-2019,Utah Jazz,Western,50.0,32.0,0.6097560975609756,5
-2019,Oklahoma City Thunder,Western,49.0,33.0,0.5975609756097561,6
-2019,San Antonio Spurs,Western,48.0,34.0,0.5853658536585366,7
-2019,Los Angeles Clippers,Western,48.0,34.0,0.5853658536585366,8
-2019,Sacramento Kings,Western,39.0,43.0,0.47560975609756095,9
-2019,Los Angeles Lakers,Western,37.0,45.0,0.45121951219512196,10
-2019,Minnesota Timberwolves,Western,36.0,46.0,0.43902439024390244,11
-2019,Memphis Grizzlies,Western,33.0,49.0,0.4024390243902439,12
-2019,New Orleans Pelicans,Western,33.0,49.0,0.4024390243902439,13
-2019,Dallas Mavericks,Western,33.0,49.0,0.4024390243902439,14
-2019,Phoenix Suns,Western,19.0,63.0,0.23170731707317074,15
-2019,Milwaukee Bucks,Eastern,60.0,22.0,0.7317073170731707,1
-2019,Toronto Raptors,Eastern,58.0,24.0,0.7073170731707317,2
-2019,Philadelphia 76ers,Eastern,51.0,31.0,0.6219512195121951,3
-2019,Boston Celtics,Eastern,49.0,33.0,0.5975609756097561,4
-2019,Indiana Pacers,Eastern,48.0,34.0,0.5853658536585366,5
-2019,Brooklyn Nets,Eastern,42.0,40.0,0.5121951219512195,6
-2019,Orlando Magic,Eastern,42.0,40.0,0.5121951219512195,7
-2019,Detroit Pistons,Eastern,41.0,41.0,0.5,8
-2019,Charlotte Hornets,Eastern,39.0,43.0,0.47560975609756095,9
-2019,Miami Heat,Eastern,39.0,43.0,0.47560975609756095,10
-2019,Washington Wizards,Eastern,32.0,50.0,0.3902439024390244,11
-2019,Atlanta Hawks,Eastern,29.0,53.0,0.35365853658536583,12
-2019,Chicago Bulls,Eastern,22.0,60.0,0.2682926829268293,13
-2019,Cleveland Cavaliers,Eastern,19.0,63.0,0.23170731707317074,14
-2019,New York Knicks,Eastern,17.0,65.0,0.2073170731707317,15
-2018,Houston Rockets,Western,65.0,17.0,0.7926829268292683,1
-2018,Golden State Warriors,Western,58.0,24.0,0.7073170731707317,2
-2018,Portland Trail Blazers,Western,49.0,33.0,0.5975609756097561,3
-2018,Oklahoma City Thunder,Western,48.0,34.0,0.5853658536585366,4
-2018,Utah Jazz,Western,48.0,34.0,0.5853658536585366,5
-2018,New Orleans Pelicans,Western,48.0,34.0,0.5853658536585366,6
-2018,San Antonio Spurs,Western,47.0,35.0,0.573170731707317,7
-2018,Minnesota Timberwolves,Western,47.0,35.0,0.573170731707317,8
-2018,Denver Nuggets,Western,46.0,36.0,0.5609756097560976,9
-2018,Los Angeles Clippers,Western,42.0,40.0,0.5121951219512195,10
-2018,Los Angeles Lakers,Western,35.0,47.0,0.4268292682926829,11
-2018,Sacramento Kings,Western,27.0,55.0,0.32926829268292684,12
-2018,Dallas Mavericks,Western,24.0,58.0,0.2926829268292683,13
-2018,Memphis Grizzlies,Western,22.0,60.0,0.2682926829268293,14
-2018,Phoenix Suns,Western,21.0,61.0,0.25609756097560976,15
-2018,Toronto Raptors,Eastern,59.0,23.0,0.7195121951219512,1
-2018,Boston Celtics,Eastern,55.0,27.0,0.6707317073170732,2
-2018,Philadelphia 76ers,Eastern,52.0,30.0,0.6341463414634146,3
-2018,Cleveland Cavaliers,Eastern,50.0,32.0,0.6097560975609756,4
-2018,Indiana Pacers,Eastern,48.0,34.0,0.5853658536585366,5
-2018,Miami Heat,Eastern,44.0,38.0,0.5365853658536586,6
-2018,Milwaukee Bucks,Eastern,44.0,38.0,0.5365853658536586,7
-2018,Washington Wizards,Eastern,43.0,39.0,0.524390243902439,8
-2018,Detroit Pistons,Eastern,39.0,43.0,0.47560975609756095,9
-2018,Charlotte Hornets,Eastern,36.0,46.0,0.43902439024390244,10
-2018,New York Knicks,Eastern,29.0,53.0,0.35365853658536583,11
-2018,Brooklyn Nets,Eastern,28.0,54.0,0.34146341463414637,12
-2018,Chicago Bulls,Eastern,27.0,55.0,0.32926829268292684,13
-2018,Orlando Magic,Eastern,25.0,57.0,0.3048780487804878,14
-2018,Atlanta Hawks,Eastern,24.0,58.0,0.2926829268292683,15
-2017,Golden State Warriors,Western,67.0,15.0,0.8170731707317073,1
-2017,San Antonio Spurs,Western,61.0,21.0,0.7439024390243902,2
-2017,Houston Rockets,Western,55.0,27.0,0.6707317073170732,3
-2017,Los Angeles Clippers,Western,51.0,31.0,0.6219512195121951,4
-2017,Utah Jazz,Western,51.0,31.0,0.6219512195121951,5
-2017,Oklahoma City Thunder,Western,47.0,35.0,0.573170731707317,6
-2017,Memphis Grizzlies,Western,43.0,39.0,0.524390243902439,7
-2017,Portland Trail Blazers,Western,41.0,41.0,0.5,8
-2017,Denver Nuggets,Western,40.0,42.0,0.4878048780487805,9
-2017,New Orleans Pelicans,Western,34.0,48.0,0.4146341463414634,10
-2017,Dallas Mavericks,Western,33.0,49.0,0.4024390243902439,11
-2017,Sacramento Kings,Western,32.0,50.0,0.3902439024390244,12
-2017,Minnesota Timberwolves,Western,31.0,51.0,0.3780487804878049,13
-2017,Los Angeles Lakers,Western,26.0,56.0,0.3170731707317073,14
-2017,Phoenix Suns,Western,24.0,58.0,0.2926829268292683,15
-2017,Boston Celtics,Eastern,53.0,29.0,0.6463414634146342,1
-2017,Cleveland Cavaliers,Eastern,51.0,31.0,0.6219512195121951,2
-2017,Toronto Raptors,Eastern,51.0,31.0,0.6219512195121951,3
-2017,Washington Wizards,Eastern,49.0,33.0,0.5975609756097561,4
-2017,Atlanta Hawks,Eastern,43.0,39.0,0.524390243902439,5
-2017,Milwaukee Bucks,Eastern,42.0,40.0,0.5121951219512195,6
-2017,Indiana Pacers,Eastern,42.0,40.0,0.5121951219512195,7
-2017,Chicago Bulls,Eastern,41.0,41.0,0.5,8
-2017,Miami Heat,Eastern,41.0,41.0,0.5,9
-2017,Detroit Pistons,Eastern,37.0,45.0,0.45121951219512196,10
-2017,Charlotte Hornets,Eastern,36.0,46.0,0.43902439024390244,11
-2017,New York Knicks,Eastern,31.0,51.0,0.3780487804878049,12
-2017,Orlando Magic,Eastern,29.0,53.0,0.35365853658536583,13
-2017,Philadelphia 76ers,Eastern,28.0,54.0,0.34146341463414637,14
-2017,Brooklyn Nets,Eastern,20.0,62.0,0.24390243902439024,15
-2016,Golden State Warriors,Western,73.0,9.0,0.8902439024390244,1
-2016,San Antonio Spurs,Western,67.0,15.0,0.8170731707317073,2
-2016,Oklahoma City Thunder,Western,55.0,27.0,0.6707317073170732,3
-2016,Los Angeles Clippers,Western,53.0,29.0,0.6463414634146342,4
-2016,Portland Trail Blazers,Western,44.0,38.0,0.5365853658536586,5
-2016,Dallas Mavericks,Western,42.0,40.0,0.5121951219512195,6
-2016,Memphis Grizzlies,Western,42.0,40.0,0.5121951219512195,7
-2016,Houston Rockets,Western,41.0,41.0,0.5,8
-2016,Utah Jazz,Western,40.0,42.0,0.4878048780487805,9
-2016,Sacramento Kings,Western,33.0,49.0,0.4024390243902439,10
-2016,Denver Nuggets,Western,33.0,49.0,0.4024390243902439,11
-2016,New Orleans Pelicans,Western,30.0,52.0,0.36585365853658536,12
-2016,Minnesota Timberwolves,Western,29.0,53.0,0.35365853658536583,13
-2016,Phoenix Suns,Western,23.0,59.0,0.2804878048780488,14
-2016,Los Angeles Lakers,Western,17.0,65.0,0.2073170731707317,15
-2016,Cleveland Cavaliers,Eastern,57.0,25.0,0.6951219512195121,1
-2016,Toronto Raptors,Eastern,56.0,26.0,0.6829268292682927,2
-2016,Miami Heat,Eastern,48.0,34.0,0.5853658536585366,3
-2016,Atlanta Hawks,Eastern,48.0,34.0,0.5853658536585366,4
-2016,Boston Celtics,Eastern,48.0,34.0,0.5853658536585366,5
-2016,Charlotte Hornets,Eastern,48.0,34.0,0.5853658536585366,6
-2016,Indiana Pacers,Eastern,45.0,37.0,0.5487804878048781,7
-2016,Detroit Pistons,Eastern,44.0,38.0,0.5365853658536586,8
-2016,Chicago Bulls,Eastern,42.0,40.0,0.5121951219512195,9
-2016,Washington Wizards,Eastern,41.0,41.0,0.5,10
-2016,Orlando Magic,Eastern,35.0,47.0,0.4268292682926829,11
-2016,Milwaukee Bucks,Eastern,33.0,49.0,0.4024390243902439,12
-2016,New York Knicks,Eastern,32.0,50.0,0.3902439024390244,13
-2016,Brooklyn Nets,Eastern,21.0,61.0,0.25609756097560976,14
-2016,Philadelphia 76ers,Eastern,10.0,72.0,0.12195121951219512,15
-2015,Golden State Warriors,Western,67.0,15.0,0.8170731707317073,1
-2015,Los Angeles Clippers,Western,56.0,26.0,0.6829268292682927,2
-2015,Houston Rockets,Western,56.0,26.0,0.6829268292682927,3
-2015,Memphis Grizzlies,Western,55.0,27.0,0.6707317073170732,4
-2015,San Antonio Spurs,Western,55.0,27.0,0.6707317073170732,5
-2015,Portland Trail Blazers,Western,51.0,31.0,0.6219512195121951,6
-2015,Dallas Mavericks,Western,50.0,32.0,0.6097560975609756,7
-2015,Oklahoma City Thunder,Western,45.0,37.0,0.5487804878048781,8
-2015,New Orleans Pelicans,Western,45.0,37.0,0.5487804878048781,9
-2015,Phoenix Suns,Western,39.0,43.0,0.47560975609756095,10
-2015,Utah Jazz,Western,38.0,44.0,0.4634146341463415,11
-2015,Denver Nuggets,Western,30.0,52.0,0.36585365853658536,12
-2015,Sacramento Kings,Western,29.0,53.0,0.35365853658536583,13
-2015,Los Angeles Lakers,Western,21.0,61.0,0.25609756097560976,14
-2015,Minnesota Timberwolves,Western,16.0,66.0,0.1951219512195122,15
-2015,Atlanta Hawks,Eastern,60.0,22.0,0.7317073170731707,1
-2015,Cleveland Cavaliers,Eastern,53.0,29.0,0.6463414634146342,2
-2015,Chicago Bulls,Eastern,50.0,32.0,0.6097560975609756,3
-2015,Toronto Raptors,Eastern,49.0,33.0,0.5975609756097561,4
-2015,Washington Wizards,Eastern,46.0,36.0,0.5609756097560976,5
-2015,Milwaukee Bucks,Eastern,41.0,41.0,0.5,6
-2015,Boston Celtics,Eastern,40.0,42.0,0.4878048780487805,7
-2015,Brooklyn Nets,Eastern,38.0,44.0,0.4634146341463415,8
-2015,Indiana Pacers,Eastern,38.0,44.0,0.4634146341463415,9
-2015,Miami Heat,Eastern,37.0,45.0,0.45121951219512196,10
-2015,Charlotte Hornets,Eastern,33.0,49.0,0.4024390243902439,11
-2015,Detroit Pistons,Eastern,32.0,50.0,0.3902439024390244,12
-2015,Orlando Magic,Eastern,25.0,57.0,0.3048780487804878,13
-2015,Philadelphia 76ers,Eastern,18.0,64.0,0.21951219512195122,14
-2015,New York Knicks,Eastern,17.0,65.0,0.2073170731707317,15
-2014,San Antonio Spurs,Western,62.0,20.0,0.7560975609756098,1
-2014,Oklahoma City Thunder,Western,59.0,23.0,0.7195121951219512,2
-2014,Los Angeles Clippers,Western,57.0,25.0,0.6951219512195121,3
-2014,Portland Trail Blazers,Western,54.0,28.0,0.6585365853658537,4
-2014,Houston Rockets,Western,54.0,28.0,0.6585365853658537,5
-2014,Golden State Warriors,Western,51.0,31.0,0.6219512195121951,6
-2014,Memphis Grizzlies,Western,50.0,32.0,0.6097560975609756,7
-2014,Dallas Mavericks,Western,49.0,33.0,0.5975609756097561,8
-2014,Phoenix Suns,Western,48.0,34.0,0.5853658536585366,9
-2014,Minnesota Timberwolves,Western,40.0,42.0,0.4878048780487805,10
-2014,Denver Nuggets,Western,36.0,46.0,0.43902439024390244,11
-2014,New Orleans Pelicans,Western,34.0,48.0,0.4146341463414634,12
-2014,Sacramento Kings,Western,28.0,54.0,0.34146341463414637,13
-2014,Los Angeles Lakers,Western,27.0,55.0,0.32926829268292684,14
-2014,Utah Jazz,Western,25.0,57.0,0.3048780487804878,15
-2014,Indiana Pacers,Eastern,56.0,26.0,0.6829268292682927,1
-2014,Miami Heat,Eastern,54.0,28.0,0.6585365853658537,2
-2014,Toronto Raptors,Eastern,48.0,34.0,0.5853658536585366,3
-2014,Chicago Bulls,Eastern,48.0,34.0,0.5853658536585366,4
-2014,Brooklyn Nets,Eastern,44.0,38.0,0.5365853658536586,5
-2014,Washington Wizards,Eastern,44.0,38.0,0.5365853658536586,6
-2014,Charlotte Bobcats,Eastern,43.0,39.0,0.524390243902439,7
-2014,Atlanta Hawks,Eastern,38.0,44.0,0.4634146341463415,8
-2014,New York Knicks,Eastern,37.0,45.0,0.45121951219512196,9
-2014,Cleveland Cavaliers,Eastern,33.0,49.0,0.4024390243902439,10
-2014,Detroit Pistons,Eastern,29.0,53.0,0.35365853658536583,11
-2014,Boston Celtics,Eastern,25.0,57.0,0.3048780487804878,12
-2014,Orlando Magic,Eastern,23.0,59.0,0.2804878048780488,13
-2014,Philadelphia 76ers,Eastern,19.0,63.0,0.23170731707317074,14
-2014,Milwaukee Bucks,Eastern,15.0,67.0,0.18292682926829268,15
-2013,Oklahoma City Thunder,Western,60.0,22.0,0.7317073170731707,1
-2013,San Antonio Spurs,Western,58.0,24.0,0.7073170731707317,2
-2013,Denver Nuggets,Western,57.0,25.0,0.6951219512195121,3
-2013,Los Angeles Clippers,Western,56.0,26.0,0.6829268292682927,4
-2013,Memphis Grizzlies,Western,56.0,26.0,0.6829268292682927,5
-2013,Golden State Warriors,Western,47.0,35.0,0.573170731707317,6
-2013,Los Angeles Lakers,Western,45.0,37.0,0.5487804878048781,7
-2013,Houston Rockets,Western,45.0,37.0,0.5487804878048781,8
-2013,Utah Jazz,Western,43.0,39.0,0.524390243902439,9
-2013,Dallas Mavericks,Western,41.0,41.0,0.5,10
-2013,Portland Trail Blazers,Western,33.0,49.0,0.4024390243902439,11
-2013,Minnesota Timberwolves,Western,31.0,51.0,0.3780487804878049,12
-2013,Sacramento Kings,Western,28.0,54.0,0.34146341463414637,13
-2013,New Orleans Hornets,Western,27.0,55.0,0.32926829268292684,14
-2013,Phoenix Suns,Western,25.0,57.0,0.3048780487804878,15
-2013,,Western,,,,16
-2013,Miami Heat,Eastern,66.0,16.0,0.8048780487804879,1
-2013,New York Knicks,Eastern,54.0,28.0,0.6585365853658537,2
-2013,Indiana Pacers,Eastern,49.0,32.0,0.6049382716049383,3
-2013,Brooklyn Nets,Eastern,49.0,33.0,0.5975609756097561,4
-2013,Chicago Bulls,Eastern,45.0,37.0,0.5487804878048781,5
-2013,Atlanta Hawks,Eastern,44.0,38.0,0.5365853658536586,6
-2013,Boston Celtics,Eastern,41.0,40.0,0.5061728395061729,7
-2013,Milwaukee Bucks,Eastern,38.0,44.0,0.4634146341463415,8
-2013,Philadelphia 76ers,Eastern,34.0,48.0,0.4146341463414634,9
-2013,Toronto Raptors,Eastern,34.0,48.0,0.4146341463414634,10
-2013,Detroit Pistons,Eastern,29.0,53.0,0.35365853658536583,11
-2013,Washington Wizards,Eastern,29.0,53.0,0.35365853658536583,12
-2013,Cleveland Cavaliers,Eastern,24.0,58.0,0.2926829268292683,13
-2013,Charlotte Bobcats,Eastern,21.0,61.0,0.25609756097560976,14
-2013,Orlando Magic,Eastern,20.0,62.0,0.24390243902439024,15
-2012,San Antonio Spurs,Western,50.0,16.0,0.7575757575757576,1
-2012,Oklahoma City Thunder,Western,47.0,19.0,0.7121212121212122,2
-2012,Los Angeles Lakers,Western,41.0,25.0,0.6212121212121212,3
-2012,Memphis Grizzlies,Western,41.0,25.0,0.6212121212121212,4
-2012,Los Angeles Clippers,Western,40.0,26.0,0.6060606060606061,5
-2012,Denver Nuggets,Western,38.0,28.0,0.5757575757575758,6
-2012,Utah Jazz,Western,36.0,30.0,0.5454545454545454,7
-2012,Dallas Mavericks,Western,36.0,30.0,0.5454545454545454,8
-2012,Houston Rockets,Western,34.0,32.0,0.5151515151515151,9
-2012,Phoenix Suns,Western,33.0,33.0,0.5,10
-2012,Portland Trail Blazers,Western,28.0,38.0,0.42424242424242425,11
-2012,Minnesota Timberwolves,Western,26.0,40.0,0.3939393939393939,12
-2012,Golden State Warriors,Western,23.0,43.0,0.3484848484848485,13
-2012,Sacramento Kings,Western,22.0,44.0,0.3333333333333333,14
-2012,New Orleans Hornets,Western,21.0,45.0,0.3181818181818182,15
+2023,Denver Nuggets,Western,53,29,0.646341463,1
+2023,Memphis Grizzlies,Western,51,31,0.62195122,2
+2023,Sacramento Kings,Western,48,34,0.585365854,3
+2023,Phoenix Suns,Western,45,37,0.548780488,4
+2023,Los Angeles Clippers,Western,44,38,0.536585366,5
+2023,Golden State Warriors,Western,44,38,0.536585366,6
+2023,Los Angeles Lakers,Western,43,39,0.524390244,7
+2023,Minnesota Timberwolves,Western,42,40,0.512195122,8
+2023,New Orleans Pelicans,Western,42,40,0.512195122,9
+2023,Oklahoma City Thunder,Western,40,42,0.487804878,10
+2023,Dallas Mavericks,Western,38,44,0.463414634,11
+2023,Utah Jazz,Western,37,45,0.451219512,12
+2023,Portland Trail Blazers,Western,33,49,0.402439024,13
+2023,Houston Rockets,Western,22,60,0.268292683,14
+2023,San Antonio Spurs,Western,22,60,0.268292683,15
+2023,Milwaukee Bucks,Eastern,58,24,0.707317073,1
+2023,Boston Celtics,Eastern,57,25,0.695121951,2
+2023,Philadelphia 76ers,Eastern,54,28,0.658536585,3
+2023,Cleveland Cavaliers,Eastern,51,31,0.62195122,4
+2023,New York Knicks,Eastern,47,35,0.573170732,5
+2023,Brooklyn Nets,Eastern,45,37,0.548780488,6
+2023,Miami Heat,Eastern,44,38,0.536585366,7
+2023,Atlanta Hawks,Eastern,41,41,0.5,8
+2023,Toronto Raptors,Eastern,41,41,0.5,9
+2023,Chicago Bulls,Eastern,40,42,0.487804878,10
+2023,Indiana Pacers,Eastern,35,47,0.426829268,11
+2023,Washington Wizards,Eastern,35,47,0.426829268,12
+2023,Orlando Magic,Eastern,34,48,0.414634146,13
+2023,Charlotte Hornets,Eastern,27,55,0.329268293,14
+2023,Detroit Pistons,Eastern,17,65,0.207317073,15
+2022,Phoenix Suns,Western,64,18,0.780487805,1
+2022,Memphis Grizzlies,Western,56,26,0.682926829,2
+2022,Golden State Warriors,Western,53,29,0.646341463,3
+2022,Dallas Mavericks,Western,52,30,0.634146341,4
+2022,Utah Jazz,Western,49,33,0.597560976,5
+2022,Denver Nuggets,Western,48,34,0.585365854,6
+2022,Minnesota Timberwolves,Western,46,36,0.56097561,7
+2022,Los Angeles Clippers,Western,42,40,0.512195122,8
+2022,New Orleans Pelicans,Western,36,46,0.43902439,9
+2022,San Antonio Spurs,Western,34,48,0.414634146,10
+2022,Los Angeles Lakers,Western,33,49,0.402439024,11
+2022,Sacramento Kings,Western,30,52,0.365853659,12
+2022,Portland Trail Blazers,Western,27,55,0.329268293,13
+2022,Oklahoma City Thunder,Western,24,58,0.292682927,14
+2022,Houston Rockets,Western,20,62,0.243902439,15
+2022,Miami Heat,Eastern,53,29,0.646341463,1
+2022,Boston Celtics,Eastern,51,31,0.62195122,2
+2022,Milwaukee Bucks,Eastern,51,31,0.62195122,3
+2022,Philadelphia 76ers,Eastern,51,31,0.62195122,4
+2022,Toronto Raptors,Eastern,48,34,0.585365854,5
+2022,Chicago Bulls,Eastern,46,36,0.56097561,6
+2022,Brooklyn Nets,Eastern,44,38,0.536585366,7
+2022,Cleveland Cavaliers,Eastern,44,38,0.536585366,8
+2022,Atlanta Hawks,Eastern,43,39,0.524390244,9
+2022,Charlotte Hornets,Eastern,43,39,0.524390244,10
+2022,New York Knicks,Eastern,37,45,0.451219512,11
+2022,Washington Wizards,Eastern,35,47,0.426829268,12
+2022,Indiana Pacers,Eastern,25,57,0.304878049,13
+2022,Detroit Pistons,Eastern,23,59,0.280487805,14
+2022,Orlando Magic,Eastern,22,60,0.268292683,15
+2021,Utah Jazz,Western,52,20,0.722222222,1
+2021,Phoenix Suns,Western,51,21,0.708333333,2
+2021,Denver Nuggets,Western,47,25,0.652777778,3
+2021,Los Angeles Clippers,Western,47,25,0.652777778,4
+2021,Dallas Mavericks,Western,42,30,0.583333333,5
+2021,Portland Trail Blazers,Western,42,30,0.583333333,6
+2021,Los Angeles Lakers,Western,42,30,0.583333333,7
+2021,Golden State Warriors,Western,39,33,0.541666667,8
+2021,Memphis Grizzlies,Western,38,34,0.527777778,9
+2021,San Antonio Spurs,Western,33,39,0.458333333,10
+2021,New Orleans Pelicans,Western,31,41,0.430555556,11
+2021,Sacramento Kings,Western,31,41,0.430555556,12
+2021,Minnesota Timberwolves,Western,23,49,0.319444444,13
+2021,Oklahoma City Thunder,Western,22,50,0.305555556,14
+2021,Houston Rockets,Western,17,55,0.236111111,15
+2021,Philadelphia 76ers,Eastern,49,23,0.680555556,1
+2021,Brooklyn Nets,Eastern,48,24,0.666666667,2
+2021,Milwaukee Bucks,Eastern,46,26,0.638888889,3
+2021,New York Knicks,Eastern,41,31,0.569444444,4
+2021,Atlanta Hawks,Eastern,41,31,0.569444444,5
+2021,Miami Heat,Eastern,40,32,0.555555556,6
+2021,Boston Celtics,Eastern,36,36,0.5,7
+2021,Washington Wizards,Eastern,34,38,0.472222222,8
+2021,Indiana Pacers,Eastern,34,38,0.472222222,9
+2021,Charlotte Hornets,Eastern,33,39,0.458333333,10
+2021,Chicago Bulls,Eastern,31,41,0.430555556,11
+2021,Toronto Raptors,Eastern,27,45,0.375,12
+2021,Cleveland Cavaliers,Eastern,22,50,0.305555556,13
+2021,Orlando Magic,Eastern,21,51,0.291666667,14
+2021,Detroit Pistons,Eastern,20,52,0.277777778,15
+2020,Los Angeles Lakers,Western,52,19,0.732394366,1
+2020,Los Angeles Clippers,Western,49,23,0.680555556,2
+2020,Denver Nuggets,Western,46,27,0.630136986,3
+2020,Houston Rockets,Western,44,28,0.611111111,4
+2020,Oklahoma City Thunder,Western,44,28,0.611111111,5
+2020,Utah Jazz,Western,44,28,0.611111111,6
+2020,Dallas Mavericks,Western,43,32,0.573333333,7
+2020,Portland Trail Blazers,Western,35,39,0.472972973,8
+2020,Memphis Grizzlies,Western,34,39,0.465753425,9
+2020,Phoenix Suns,Western,34,39,0.465753425,10
+2020,San Antonio Spurs,Western,32,39,0.450704225,11
+2020,Sacramento Kings,Western,31,41,0.430555556,12
+2020,New Orleans Pelicans,Western,30,42,0.416666667,13
+2020,Minnesota Timberwolves,Western,19,45,0.296875,14
+2020,Golden State Warriors,Western,15,50,0.230769231,15
+2020,Milwaukee Bucks,Eastern,56,17,0.767123288,1
+2020,Toronto Raptors,Eastern,53,19,0.736111111,2
+2020,Boston Celtics,Eastern,48,24,0.666666667,3
+2020,Indiana Pacers,Eastern,45,28,0.616438356,4
+2020,Miami Heat,Eastern,44,29,0.602739726,5
+2020,Philadelphia 76ers,Eastern,43,30,0.589041096,6
+2020,Brooklyn Nets,Eastern,35,37,0.486111111,7
+2020,Orlando Magic,Eastern,33,40,0.452054795,8
+2020,Charlotte Hornets,Eastern,23,42,0.353846154,9
+2020,Washington Wizards,Eastern,25,47,0.347222222,10
+2020,Chicago Bulls,Eastern,22,43,0.338461538,11
+2020,New York Knicks,Eastern,21,45,0.318181818,12
+2020,Detroit Pistons,Eastern,20,46,0.303030303,13
+2020,Atlanta Hawks,Eastern,20,47,0.298507463,14
+2020,Cleveland Cavaliers,Eastern,19,46,0.292307692,15
+2019,Golden State Warriors,Western,57,25,0.695121951,1
+2019,Denver Nuggets,Western,54,28,0.658536585,2
+2019,Portland Trail Blazers,Western,53,29,0.646341463,3
+2019,Houston Rockets,Western,53,29,0.646341463,4
+2019,Utah Jazz,Western,50,32,0.609756098,5
+2019,Oklahoma City Thunder,Western,49,33,0.597560976,6
+2019,San Antonio Spurs,Western,48,34,0.585365854,7
+2019,Los Angeles Clippers,Western,48,34,0.585365854,8
+2019,Sacramento Kings,Western,39,43,0.475609756,9
+2019,Los Angeles Lakers,Western,37,45,0.451219512,10
+2019,Minnesota Timberwolves,Western,36,46,0.43902439,11
+2019,Memphis Grizzlies,Western,33,49,0.402439024,12
+2019,New Orleans Pelicans,Western,33,49,0.402439024,13
+2019,Dallas Mavericks,Western,33,49,0.402439024,14
+2019,Phoenix Suns,Western,19,63,0.231707317,15
+2019,Milwaukee Bucks,Eastern,60,22,0.731707317,1
+2019,Toronto Raptors,Eastern,58,24,0.707317073,2
+2019,Philadelphia 76ers,Eastern,51,31,0.62195122,3
+2019,Boston Celtics,Eastern,49,33,0.597560976,4
+2019,Indiana Pacers,Eastern,48,34,0.585365854,5
+2019,Brooklyn Nets,Eastern,42,40,0.512195122,6
+2019,Orlando Magic,Eastern,42,40,0.512195122,7
+2019,Detroit Pistons,Eastern,41,41,0.5,8
+2019,Charlotte Hornets,Eastern,39,43,0.475609756,9
+2019,Miami Heat,Eastern,39,43,0.475609756,10
+2019,Washington Wizards,Eastern,32,50,0.390243902,11
+2019,Atlanta Hawks,Eastern,29,53,0.353658537,12
+2019,Chicago Bulls,Eastern,22,60,0.268292683,13
+2019,Cleveland Cavaliers,Eastern,19,63,0.231707317,14
+2019,New York Knicks,Eastern,17,65,0.207317073,15
+2018,Houston Rockets,Western,65,17,0.792682927,1
+2018,Golden State Warriors,Western,58,24,0.707317073,2
+2018,Portland Trail Blazers,Western,49,33,0.597560976,3
+2018,Oklahoma City Thunder,Western,48,34,0.585365854,4
+2018,Utah Jazz,Western,48,34,0.585365854,5
+2018,New Orleans Pelicans,Western,48,34,0.585365854,6
+2018,San Antonio Spurs,Western,47,35,0.573170732,7
+2018,Minnesota Timberwolves,Western,47,35,0.573170732,8
+2018,Denver Nuggets,Western,46,36,0.56097561,9
+2018,Los Angeles Clippers,Western,42,40,0.512195122,10
+2018,Los Angeles Lakers,Western,35,47,0.426829268,11
+2018,Sacramento Kings,Western,27,55,0.329268293,12
+2018,Dallas Mavericks,Western,24,58,0.292682927,13
+2018,Memphis Grizzlies,Western,22,60,0.268292683,14
+2018,Phoenix Suns,Western,21,61,0.256097561,15
+2018,Toronto Raptors,Eastern,59,23,0.719512195,1
+2018,Boston Celtics,Eastern,55,27,0.670731707,2
+2018,Philadelphia 76ers,Eastern,52,30,0.634146341,3
+2018,Cleveland Cavaliers,Eastern,50,32,0.609756098,4
+2018,Indiana Pacers,Eastern,48,34,0.585365854,5
+2018,Miami Heat,Eastern,44,38,0.536585366,6
+2018,Milwaukee Bucks,Eastern,44,38,0.536585366,7
+2018,Washington Wizards,Eastern,43,39,0.524390244,8
+2018,Detroit Pistons,Eastern,39,43,0.475609756,9
+2018,Charlotte Hornets,Eastern,36,46,0.43902439,10
+2018,New York Knicks,Eastern,29,53,0.353658537,11
+2018,Brooklyn Nets,Eastern,28,54,0.341463415,12
+2018,Chicago Bulls,Eastern,27,55,0.329268293,13
+2018,Orlando Magic,Eastern,25,57,0.304878049,14
+2018,Atlanta Hawks,Eastern,24,58,0.292682927,15
+2017,Golden State Warriors,Western,67,15,0.817073171,1
+2017,San Antonio Spurs,Western,61,21,0.743902439,2
+2017,Houston Rockets,Western,55,27,0.670731707,3
+2017,Los Angeles Clippers,Western,51,31,0.62195122,4
+2017,Utah Jazz,Western,51,31,0.62195122,5
+2017,Oklahoma City Thunder,Western,47,35,0.573170732,6
+2017,Memphis Grizzlies,Western,43,39,0.524390244,7
+2017,Portland Trail Blazers,Western,41,41,0.5,8
+2017,Denver Nuggets,Western,40,42,0.487804878,9
+2017,New Orleans Pelicans,Western,34,48,0.414634146,10
+2017,Dallas Mavericks,Western,33,49,0.402439024,11
+2017,Sacramento Kings,Western,32,50,0.390243902,12
+2017,Minnesota Timberwolves,Western,31,51,0.37804878,13
+2017,Los Angeles Lakers,Western,26,56,0.317073171,14
+2017,Phoenix Suns,Western,24,58,0.292682927,15
+2017,Boston Celtics,Eastern,53,29,0.646341463,1
+2017,Cleveland Cavaliers,Eastern,51,31,0.62195122,2
+2017,Toronto Raptors,Eastern,51,31,0.62195122,3
+2017,Washington Wizards,Eastern,49,33,0.597560976,4
+2017,Atlanta Hawks,Eastern,43,39,0.524390244,5
+2017,Milwaukee Bucks,Eastern,42,40,0.512195122,6
+2017,Indiana Pacers,Eastern,42,40,0.512195122,7
+2017,Chicago Bulls,Eastern,41,41,0.5,8
+2017,Miami Heat,Eastern,41,41,0.5,9
+2017,Detroit Pistons,Eastern,37,45,0.451219512,10
+2017,Charlotte Hornets,Eastern,36,46,0.43902439,11
+2017,New York Knicks,Eastern,31,51,0.37804878,12
+2017,Orlando Magic,Eastern,29,53,0.353658537,13
+2017,Philadelphia 76ers,Eastern,28,54,0.341463415,14
+2017,Brooklyn Nets,Eastern,20,62,0.243902439,15
+2016,Golden State Warriors,Western,73,9,0.890243902,1
+2016,San Antonio Spurs,Western,67,15,0.817073171,2
+2016,Oklahoma City Thunder,Western,55,27,0.670731707,3
+2016,Los Angeles Clippers,Western,53,29,0.646341463,4
+2016,Portland Trail Blazers,Western,44,38,0.536585366,5
+2016,Dallas Mavericks,Western,42,40,0.512195122,6
+2016,Memphis Grizzlies,Western,42,40,0.512195122,7
+2016,Houston Rockets,Western,41,41,0.5,8
+2016,Utah Jazz,Western,40,42,0.487804878,9
+2016,Sacramento Kings,Western,33,49,0.402439024,10
+2016,Denver Nuggets,Western,33,49,0.402439024,11
+2016,New Orleans Pelicans,Western,30,52,0.365853659,12
+2016,Minnesota Timberwolves,Western,29,53,0.353658537,13
+2016,Phoenix Suns,Western,23,59,0.280487805,14
+2016,Los Angeles Lakers,Western,17,65,0.207317073,15
+2016,Cleveland Cavaliers,Eastern,57,25,0.695121951,1
+2016,Toronto Raptors,Eastern,56,26,0.682926829,2
+2016,Miami Heat,Eastern,48,34,0.585365854,3
+2016,Atlanta Hawks,Eastern,48,34,0.585365854,4
+2016,Boston Celtics,Eastern,48,34,0.585365854,5
+2016,Charlotte Hornets,Eastern,48,34,0.585365854,6
+2016,Indiana Pacers,Eastern,45,37,0.548780488,7
+2016,Detroit Pistons,Eastern,44,38,0.536585366,8
+2016,Chicago Bulls,Eastern,42,40,0.512195122,9
+2016,Washington Wizards,Eastern,41,41,0.5,10
+2016,Orlando Magic,Eastern,35,47,0.426829268,11
+2016,Milwaukee Bucks,Eastern,33,49,0.402439024,12
+2016,New York Knicks,Eastern,32,50,0.390243902,13
+2016,Brooklyn Nets,Eastern,21,61,0.256097561,14
+2016,Philadelphia 76ers,Eastern,10,72,0.12195122,15
+2015,Golden State Warriors,Western,67,15,0.817073171,1
+2015,Los Angeles Clippers,Western,56,26,0.682926829,2
+2015,Houston Rockets,Western,56,26,0.682926829,3
+2015,Memphis Grizzlies,Western,55,27,0.670731707,4
+2015,San Antonio Spurs,Western,55,27,0.670731707,5
+2015,Portland Trail Blazers,Western,51,31,0.62195122,6
+2015,Dallas Mavericks,Western,50,32,0.609756098,7
+2015,Oklahoma City Thunder,Western,45,37,0.548780488,8
+2015,New Orleans Pelicans,Western,45,37,0.548780488,9
+2015,Phoenix Suns,Western,39,43,0.475609756,10
+2015,Utah Jazz,Western,38,44,0.463414634,11
+2015,Denver Nuggets,Western,30,52,0.365853659,12
+2015,Sacramento Kings,Western,29,53,0.353658537,13
+2015,Los Angeles Lakers,Western,21,61,0.256097561,14
+2015,Minnesota Timberwolves,Western,16,66,0.195121951,15
+2015,Atlanta Hawks,Eastern,60,22,0.731707317,1
+2015,Cleveland Cavaliers,Eastern,53,29,0.646341463,2
+2015,Chicago Bulls,Eastern,50,32,0.609756098,3
+2015,Toronto Raptors,Eastern,49,33,0.597560976,4
+2015,Washington Wizards,Eastern,46,36,0.56097561,5
+2015,Milwaukee Bucks,Eastern,41,41,0.5,6
+2015,Boston Celtics,Eastern,40,42,0.487804878,7
+2015,Brooklyn Nets,Eastern,38,44,0.463414634,8
+2015,Indiana Pacers,Eastern,38,44,0.463414634,9
+2015,Miami Heat,Eastern,37,45,0.451219512,10
+2015,Charlotte Hornets,Eastern,33,49,0.402439024,11
+2015,Detroit Pistons,Eastern,32,50,0.390243902,12
+2015,Orlando Magic,Eastern,25,57,0.304878049,13
+2015,Philadelphia 76ers,Eastern,18,64,0.219512195,14
+2015,New York Knicks,Eastern,17,65,0.207317073,15
+2014,San Antonio Spurs,Western,62,20,0.756097561,1
+2014,Oklahoma City Thunder,Western,59,23,0.719512195,2
+2014,Los Angeles Clippers,Western,57,25,0.695121951,3
+2014,Portland Trail Blazers,Western,54,28,0.658536585,4
+2014,Houston Rockets,Western,54,28,0.658536585,5
+2014,Golden State Warriors,Western,51,31,0.62195122,6
+2014,Memphis Grizzlies,Western,50,32,0.609756098,7
+2014,Dallas Mavericks,Western,49,33,0.597560976,8
+2014,Phoenix Suns,Western,48,34,0.585365854,9
+2014,Minnesota Timberwolves,Western,40,42,0.487804878,10
+2014,Denver Nuggets,Western,36,46,0.43902439,11
+2014,New Orleans Pelicans,Western,34,48,0.414634146,12
+2014,Sacramento Kings,Western,28,54,0.341463415,13
+2014,Los Angeles Lakers,Western,27,55,0.329268293,14
+2014,Utah Jazz,Western,25,57,0.304878049,15
+2014,Indiana Pacers,Eastern,56,26,0.682926829,1
+2014,Miami Heat,Eastern,54,28,0.658536585,2
+2014,Toronto Raptors,Eastern,48,34,0.585365854,3
+2014,Chicago Bulls,Eastern,48,34,0.585365854,4
+2014,Brooklyn Nets,Eastern,44,38,0.536585366,5
+2014,Washington Wizards,Eastern,44,38,0.536585366,6
+2014,Charlotte Bobcats,Eastern,43,39,0.524390244,7
+2014,Atlanta Hawks,Eastern,38,44,0.463414634,8
+2014,New York Knicks,Eastern,37,45,0.451219512,9
+2014,Cleveland Cavaliers,Eastern,33,49,0.402439024,10
+2014,Detroit Pistons,Eastern,29,53,0.353658537,11
+2014,Boston Celtics,Eastern,25,57,0.304878049,12
+2014,Orlando Magic,Eastern,23,59,0.280487805,13
+2014,Philadelphia 76ers,Eastern,19,63,0.231707317,14
+2014,Milwaukee Bucks,Eastern,15,67,0.182926829,15
+2013,Oklahoma City Thunder,Western,60,22,0.731707317,1
+2013,San Antonio Spurs,Western,58,24,0.707317073,2
+2013,Denver Nuggets,Western,57,25,0.695121951,3
+2013,Los Angeles Clippers,Western,56,26,0.682926829,4
+2013,Memphis Grizzlies,Western,56,26,0.682926829,5
+2013,Golden State Warriors,Western,47,35,0.573170732,6
+2013,Los Angeles Lakers,Western,45,37,0.548780488,7
+2013,Houston Rockets,Western,45,37,0.548780488,8
+2013,Utah Jazz,Western,43,39,0.524390244,9
+2013,Dallas Mavericks,Western,41,41,0.5,10
+2013,Portland Trail Blazers,Western,33,49,0.402439024,11
+2013,Minnesota Timberwolves,Western,31,51,0.37804878,12
+2013,Sacramento Kings,Western,28,54,0.341463415,13
+2013,New Orleans Hornets,Western,27,55,0.329268293,14
+2013,Phoenix Suns,Western,25,57,0.304878049,15
+2013,Miami Heat,Eastern,66,16,0.804878049,1
+2013,New York Knicks,Eastern,54,28,0.658536585,2
+2013,Indiana Pacers,Eastern,49,32,0.604938272,3
+2013,Brooklyn Nets,Eastern,49,33,0.597560976,4
+2013,Chicago Bulls,Eastern,45,37,0.548780488,5
+2013,Atlanta Hawks,Eastern,44,38,0.536585366,6
+2013,Boston Celtics,Eastern,41,40,0.50617284,7
+2013,Milwaukee Bucks,Eastern,38,44,0.463414634,8
+2013,Philadelphia 76ers,Eastern,34,48,0.414634146,9
+2013,Toronto Raptors,Eastern,34,48,0.414634146,10
+2013,Detroit Pistons,Eastern,29,53,0.353658537,11
+2013,Washington Wizards,Eastern,29,53,0.353658537,12
+2013,Cleveland Cavaliers,Eastern,24,58,0.292682927,13
+2013,Charlotte Bobcats,Eastern,21,61,0.256097561,14
+2013,Orlando Magic,Eastern,20,62,0.243902439,15
+2012,San Antonio Spurs,Western,50,16,0.757575758,1
+2012,Oklahoma City Thunder,Western,47,19,0.712121212,2
+2012,Los Angeles Lakers,Western,41,25,0.621212121,3
+2012,Memphis Grizzlies,Western,41,25,0.621212121,4
+2012,Los Angeles Clippers,Western,40,26,0.606060606,5
+2012,Denver Nuggets,Western,38,28,0.575757576,6
+2012,Utah Jazz,Western,36,30,0.545454545,7
+2012,Dallas Mavericks,Western,36,30,0.545454545,8
+2012,Houston Rockets,Western,34,32,0.515151515,9
+2012,Phoenix Suns,Western,33,33,0.5,10
+2012,Portland Trail Blazers,Western,28,38,0.424242424,11
+2012,Minnesota Timberwolves,Western,26,40,0.393939394,12
+2012,Golden State Warriors,Western,23,43,0.348484848,13
+2012,Sacramento Kings,Western,22,44,0.333333333,14
+2012,New Orleans Hornets,Western,21,45,0.318181818,15
 2012,,Western,,,,16
-2012,Chicago Bulls,Eastern,50.0,16.0,0.7575757575757576,1
-2012,Miami Heat,Eastern,46.0,20.0,0.696969696969697,2
-2012,Indiana Pacers,Eastern,42.0,24.0,0.6363636363636364,3
-2012,Atlanta Hawks,Eastern,40.0,26.0,0.6060606060606061,4
-2012,Boston Celtics,Eastern,39.0,27.0,0.5909090909090909,5
-2012,Orlando Magic,Eastern,37.0,29.0,0.5606060606060606,6
-2012,New York Knicks,Eastern,36.0,30.0,0.5454545454545454,7
-2012,Philadelphia 76ers,Eastern,35.0,31.0,0.5303030303030303,8
-2012,Milwaukee Bucks,Eastern,31.0,35.0,0.4696969696969697,9
-2012,Detroit Pistons,Eastern,25.0,41.0,0.3787878787878788,10
-2012,Toronto Raptors,Eastern,23.0,43.0,0.3484848484848485,11
-2012,New Jersey Nets,Eastern,22.0,44.0,0.3333333333333333,12
-2012,Cleveland Cavaliers,Eastern,21.0,45.0,0.3181818181818182,13
-2012,Washington Wizards,Eastern,20.0,46.0,0.30303030303030304,14
-2012,Charlotte Bobcats,Eastern,7.0,59.0,0.10606060606060606,15
-2011,Antonio Spurs,Western,61.0,21.0,0.7439024390243902,1
-2011,Los Angeles Lakers,Western,57.0,25.0,0.6951219512195121,2
-2011,Dallas Mavericks,Western,57.0,25.0,0.6951219512195121,3
-2011,Oklahoma City Thunder,Western,55.0,27.0,0.6707317073170732,4
-2011,Denver Nuggets,Western,50.0,32.0,0.6097560975609756,5
-2011,Portland Trail Blazers,Western,48.0,34.0,0.5853658536585366,6
-2011,New Orleans Hornets,Western,46.0,36.0,0.5609756097560976,7
-2011,Memphis Grizzlies,Western,46.0,36.0,0.5609756097560976,8
-2011,Houston Rockets,Western,43.0,39.0,0.524390243902439,9
-2011,Phoenix Suns,Western,40.0,42.0,0.4878048780487805,10
-2011,Utah Jazz,Western,39.0,43.0,0.47560975609756095,11
-2011,Golden State Warriors,Western,36.0,46.0,0.43902439024390244,12
-2011,Los Angeles Clippers,Western,32.0,50.0,0.3902439024390244,13
-2011,Sacramento Kings,Western,24.0,58.0,0.2926829268292683,14
-2011,Minnesota Timberwolves,Western,17.0,65.0,0.2073170731707317,15
-2011,Chicago Bulls,Eastern,62.0,20.0,0.7560975609756098,1
-2011,Miami Heat,Eastern,58.0,24.0,0.7073170731707317,2
-2011,Boston Celtics,Eastern,56.0,26.0,0.6829268292682927,3
-2011,Orlando Magic,Eastern,52.0,30.0,0.6341463414634146,4
-2011,Atlanta Hawks,Eastern,44.0,38.0,0.5365853658536586,5
-2011,New York Knicks,Eastern,42.0,40.0,0.5121951219512195,6
-2011,Philadelphia 76ers,Eastern,41.0,41.0,0.5,7
-2011,Indiana Pacers,Eastern,37.0,45.0,0.45121951219512196,8
-2011,Milwaukee Bucks,Eastern,35.0,47.0,0.4268292682926829,9
-2011,Charlotte Bobcats,Eastern,34.0,48.0,0.4146341463414634,10
-2011,Detroit Pistons,Eastern,30.0,52.0,0.36585365853658536,11
-2011,New Jersey Nets,Eastern,24.0,58.0,0.2926829268292683,12
-2011,Washington Wizards,Eastern,23.0,59.0,0.2804878048780488,13
-2011,Toronto Raptors,Eastern,22.0,60.0,0.2682926829268293,14
-2011,Cleveland Cavaliers,Eastern,19.0,63.0,0.23170731707317074,15
-2010,Los Angeles Lakers,Western,57.0,25.0,0.6951219512195121,1
-2010,Dallas Mavericks,Western,55.0,27.0,0.6707317073170732,2
-2010,Phoenix Suns,Western,54.0,28.0,0.6585365853658537,3
-2010,Denver Nuggets,Western,53.0,29.0,0.6463414634146342,4
-2010,Utah Jazz,Western,53.0,29.0,0.6463414634146342,5
-2010,Portland Trail Blazers,Western,50.0,32.0,0.6097560975609756,6
-2010,Oklahoma City Thunder,Western,50.0,32.0,0.6097560975609756,7
-2010,San Antonio Spurs,Western,50.0,32.0,0.6097560975609756,8
-2010,Houston Rockets,Western,42.0,40.0,0.5121951219512195,9
-2010,Memphis Grizzlies,Western,40.0,42.0,0.4878048780487805,10
-2010,New Orleans Hornets,Western,37.0,45.0,0.45121951219512196,11
-2010,Los Angeles Clippers,Western,29.0,53.0,0.35365853658536583,12
-2010,Golden State Warriors,Western,26.0,56.0,0.3170731707317073,13
-2010,Sacramento Kings,Western,25.0,57.0,0.3048780487804878,14
-2010,Minnesota Timberwolves,Western,15.0,67.0,0.18292682926829268,15
-2010,Cleveland Cavaliers,Eastern,61.0,21.0,0.7439024390243902,1
-2010,Orlando Magic,Eastern,59.0,23.0,0.7195121951219512,2
-2010,Atlanta Hawks,Eastern,53.0,29.0,0.6463414634146342,3
-2010,Boston Celtics,Eastern,50.0,32.0,0.6097560975609756,4
-2010,Miami Heat,Eastern,47.0,35.0,0.573170731707317,5
-2010,Milwaukee Bucks,Eastern,46.0,36.0,0.5609756097560976,6
-2010,Charlotte Bobcats,Eastern,44.0,38.0,0.5365853658536586,7
-2010,Chicago Bulls,Eastern,41.0,41.0,0.5,8
-2010,Toronto Raptors,Eastern,40.0,42.0,0.4878048780487805,9
-2010,Indiana Pacers,Eastern,32.0,50.0,0.3902439024390244,10
-2010,New York Knicks,Eastern,29.0,53.0,0.35365853658536583,11
-2010,Philadelphia 76ers,Eastern,27.0,55.0,0.32926829268292684,12
-2010,Detroit Pistons,Eastern,27.0,55.0,0.32926829268292684,13
-2010,Washington Wizards,Eastern,26.0,56.0,0.3170731707317073,14
-2010,New Jersey Nets,Eastern,12.0,70.0,0.14634146341463414,15
+2012,Chicago Bulls,Eastern,50,16,0.757575758,1
+2012,Miami Heat,Eastern,46,20,0.696969697,2
+2012,Indiana Pacers,Eastern,42,24,0.636363636,3
+2012,Atlanta Hawks,Eastern,40,26,0.606060606,4
+2012,Boston Celtics,Eastern,39,27,0.590909091,5
+2012,Orlando Magic,Eastern,37,29,0.560606061,6
+2012,New York Knicks,Eastern,36,30,0.545454545,7
+2012,Philadelphia 76ers,Eastern,35,31,0.53030303,8
+2012,Milwaukee Bucks,Eastern,31,35,0.46969697,9
+2012,Detroit Pistons,Eastern,25,41,0.378787879,10
+2012,Toronto Raptors,Eastern,23,43,0.348484848,11
+2012,New Jersey Nets,Eastern,22,44,0.333333333,12
+2012,Cleveland Cavaliers,Eastern,21,45,0.318181818,13
+2012,Washington Wizards,Eastern,20,46,0.303030303,14
+2012,Charlotte Bobcats,Eastern,7,59,0.106060606,15
+2011,Antonio Spurs,Western,61,21,0.743902439,1
+2011,Los Angeles Lakers,Western,57,25,0.695121951,2
+2011,Dallas Mavericks,Western,57,25,0.695121951,3
+2011,Oklahoma City Thunder,Western,55,27,0.670731707,4
+2011,Denver Nuggets,Western,50,32,0.609756098,5
+2011,Portland Trail Blazers,Western,48,34,0.585365854,6
+2011,New Orleans Hornets,Western,46,36,0.56097561,7
+2011,Memphis Grizzlies,Western,46,36,0.56097561,8
+2011,Houston Rockets,Western,43,39,0.524390244,9
+2011,Phoenix Suns,Western,40,42,0.487804878,10
+2011,Utah Jazz,Western,39,43,0.475609756,11
+2011,Golden State Warriors,Western,36,46,0.43902439,12
+2011,Los Angeles Clippers,Western,32,50,0.390243902,13
+2011,Sacramento Kings,Western,24,58,0.292682927,14
+2011,Minnesota Timberwolves,Western,17,65,0.207317073,15
+2011,Chicago Bulls,Eastern,62,20,0.756097561,1
+2011,Miami Heat,Eastern,58,24,0.707317073,2
+2011,Boston Celtics,Eastern,56,26,0.682926829,3
+2011,Orlando Magic,Eastern,52,30,0.634146341,4
+2011,Atlanta Hawks,Eastern,44,38,0.536585366,5
+2011,New York Knicks,Eastern,42,40,0.512195122,6
+2011,Philadelphia 76ers,Eastern,41,41,0.5,7
+2011,Indiana Pacers,Eastern,37,45,0.451219512,8
+2011,Milwaukee Bucks,Eastern,35,47,0.426829268,9
+2011,Charlotte Bobcats,Eastern,34,48,0.414634146,10
+2011,Detroit Pistons,Eastern,30,52,0.365853659,11
+2011,New Jersey Nets,Eastern,24,58,0.292682927,12
+2011,Washington Wizards,Eastern,23,59,0.280487805,13
+2011,Toronto Raptors,Eastern,22,60,0.268292683,14
+2011,Cleveland Cavaliers,Eastern,19,63,0.231707317,15
+2010,Los Angeles Lakers,Western,57,25,0.695121951,1
+2010,Dallas Mavericks,Western,55,27,0.670731707,2
+2010,Phoenix Suns,Western,54,28,0.658536585,3
+2010,Denver Nuggets,Western,53,29,0.646341463,4
+2010,Utah Jazz,Western,53,29,0.646341463,5
+2010,Portland Trail Blazers,Western,50,32,0.609756098,6
+2010,Oklahoma City Thunder,Western,50,32,0.609756098,7
+2010,San Antonio Spurs,Western,50,32,0.609756098,8
+2010,Houston Rockets,Western,42,40,0.512195122,9
+2010,Memphis Grizzlies,Western,40,42,0.487804878,10
+2010,New Orleans Hornets,Western,37,45,0.451219512,11
+2010,Los Angeles Clippers,Western,29,53,0.353658537,12
+2010,Golden State Warriors,Western,26,56,0.317073171,13
+2010,Sacramento Kings,Western,25,57,0.304878049,14
+2010,Minnesota Timberwolves,Western,15,67,0.182926829,15
+2010,Cleveland Cavaliers,Eastern,61,21,0.743902439,1
+2010,Orlando Magic,Eastern,59,23,0.719512195,2
+2010,Atlanta Hawks,Eastern,53,29,0.646341463,3
+2010,Boston Celtics,Eastern,50,32,0.609756098,4
+2010,Miami Heat,Eastern,47,35,0.573170732,5
+2010,Milwaukee Bucks,Eastern,46,36,0.56097561,6
+2010,Charlotte Bobcats,Eastern,44,38,0.536585366,7
+2010,Chicago Bulls,Eastern,41,41,0.5,8
+2010,Toronto Raptors,Eastern,40,42,0.487804878,9
+2010,Indiana Pacers,Eastern,32,50,0.390243902,10
+2010,New York Knicks,Eastern,29,53,0.353658537,11
+2010,Philadelphia 76ers,Eastern,27,55,0.329268293,12
+2010,Detroit Pistons,Eastern,27,55,0.329268293,13
+2010,Washington Wizards,Eastern,26,56,0.317073171,14
+2010,New Jersey Nets,Eastern,12,70,0.146341463,15
