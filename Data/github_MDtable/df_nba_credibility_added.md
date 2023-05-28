@@ -1,0 +1,14 @@
+|    | title                                                                    |   time | author                               |   credit_article |   credit_followers |   credit_tweets |
+|---:|:-------------------------------------------------------------------------|-------:|:-------------------------------------|-----------------:|-------------------:|----------------:|
+| 22 | Grizzlies Expecting Jaren Jackson Jr., Justise Winslow Back By Next Week |   2020 | NBA Media Reports                    |            21996 |              84859 |           93866 |
+| 23 | LeBron James, Norman Powell Named Week 20 Players Of The Week            |   2020 | Official Release                     |            21996 |              84859 |           93866 |
+| 24 | Power Rankings, Week 20: Lakers End Bucks’ 14-Week Run At Top            |   2020 | John Schuhmann                       |              890 |              84859 |           48341 |
+| 25 | 5 Can’t-Miss Matchups: James Harden vs. LeBron James                     |   2020 | Michael C. Wright                    |               13 |                 91 |              42 |
+| 26 | 4 NBA Things To Know For 9 March                                         |   2020 | Jeff Case                            |              122 |                 91 |              42 |
+| 27 | Crowning LeBron: Will Lakers Take The Throne?                            |   2020 | Shaun Powell | NBA.com               |              651 |                 91 |              42 |
+| 28 | Raptors Top Kings Behind Starters’ 111 Total PTS                         |   2020 | NBA News                             |            21996 |              84859 |           93866 |
+| 29 | Cavaliers Hang On To Outlast Spurs In Overtime, 132-129                  |   2020 | Tom Withers | AP Sports Writer       |               13 |                 91 |              42 |
+| 30 | Knicks Pull Away In 4th Quarter, Beat Pistons 96-84                      |   2020 | Brian Mahoney | AP Basketball Writer |               52 |                 91 |              42 |
+| 31 | Robinson, Adebayo Lift Heat Over Wizards After Butler Leaves             |   2020 | Howard Fendrich | AP Sports Writer   |                5 |                 91 |              42 |
+| 32 | Magic Use Six Double-Digit Scorers To Top Rockets                        |   2020 | Kristie Rieken | AP Sports Writer    |               13 |                 91 |              42 |
+| 33 | Sabonis, Oladipo Lead Pacers Past Mavericks, 112-109                     |   2020 | Dave Jackson | Associated Press      |               13 |                 91 |              42 |
