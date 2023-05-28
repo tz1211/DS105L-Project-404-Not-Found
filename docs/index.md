@@ -22,7 +22,7 @@ date-meta: 20 March 2023
 
 ## 📊 Data
 
-### Table 1:First ten rows from merged_data_2010_to_2023   
+### Table 1: First ten rows from merged_data_2010_to_2023   
 |    |   year | name                    |   minutes_played |   games_played |   points | team                   |   age |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls | positions          | slug      |   steals |   turnovers |
 |---:|-------:|:------------------------|-----------------:|---------------:|---------:|:-----------------------|------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|:-------------------|:----------|---------:|------------:|
 |  0 |   2023 | Jayson Tatum            |             2508 |             67 |     2008 | BOSTON CELTICS         |    24 |       317 |                    1424 |                     568 |                                 632 |       50 |                  524 |              67 |                651 |                488 |                            218 |                   73 |              144 | ['POWER FORWARD']  | tatumja01 |       68 |         198 |
