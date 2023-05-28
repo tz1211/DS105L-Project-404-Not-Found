@@ -32,6 +32,8 @@ Data Source:
 * [ESPN Sports](espn.com/nba)   
 * [NBA News Archive](https://global.nba.com/news)
 * [BBC Sports News](https://www.bbc.co.uk/sport) 
+* [Muck Rack](https://muckrack.com/)
+* [Hugging Face](https://huggingface.co/)
 
 
 ## 📊 Data
@@ -135,9 +137,8 @@ Data Source:
 |  9 |   2020 | Buddy Hield          |            0.0858989 |        0.0858989 |         0.0941537 |         0.554056 |          23624.3 |            49410.2 |         60888.5 |          26 |
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
 
-
-### Table 2: Distribution of accessible  "credit_article", "credit_followers" and "credit_tweets" from Muck Rack
-* *(The distributions are used to determine a small number of missing values for few authors and the best number that represents "Default" for official and the press)*  
+### Table 2: Quantified BBC Sports News - Sentiments and Relevance  
+* *(Taking the 2012-2023 season from the merged table, the top 10 samples)* 
 
 
 
@@ -147,6 +148,98 @@ Data Source:
 
 
 ## 📈 Analysis
+### 🧐 Qualitative Data Analysis - Part 1: NBA News
+
+NBA news provides a wealth of relevant information about players' performances, team dynamics, injuries, and other factors that can influence MVP selection. Its coverage offers insights from expert analysts, journalists, and commentators who closely follow the league. These professionals often provide valuable perspectives and evaluations of players' performances. Further, NBA is characterized by constantly evolving strategies, player performances, and team dynamics throughout a season. NBA news stay updated with the latest developments and make informed analysis that align with the current landscape of the league. Therefore, NBA news provides an opportunity to discover hidden insights and correlations that might not be apparent through traditional statistical analysis alone. By incorporating unstructured textual data, the model can uncover nuanced relationships between players, teams, playing styles, and other factors that contribute to MVP performances.
+
+Intuitively by leveraging this vast amount of data, the model can learn patterns and relationships that contribute to MVP prediction.
+
+
+**❓🤔️ However, what are the potential problems** 
+
+**1-** The accuracy and quality of the news can be influenced by the **knowledge, biases, and perspectives of authors**, which can ultimately impact the reliability of data. The experience and expertise of authors can vary significantly, ranging from seasoned sports journalists to inexperienced contributors or even fan-generated content. This variability introduces potential inconsistencies and biases in the reporting, analysis, and interpretation of player performances. 
+
+**2-** Another factor to consider is the **sentiment expressed in the news articles**. NBA news encompasses a wide range of sources, including articles, interviews, social media posts, and press conferences. News coverage often includes subjective opinions, narratives, and emotional tones that can shape the perception of players' performances. Positive or negative sentiment towards a player can influence the overall portrayal and evaluation of their MVP candidacy. If the sentiment within the news data is imbalanced or biased towards certain players or teams, the model may inadvertently learn and amplify these biases, leading to skewed predictions.
+
+**3-** Assessing the **relevance of the news articles** is crucial. Not all news articles will directly contribute to determining the MVP. Some articles may focus on off-court events, rumors, or unrelated topics, which may not provide valuable information for predicting MVP performances accurately. 
+
+**To mitigate these concerns, NBA news are carefully assessed and quantifies into indexes.**
+
+
+### :one: Credibility of NBA News
+[Muck Rack](https://muckrack.com/)
+ is a platform that provides insights into the credibility and influence of authors in journalism. 
+By considering various metrics such as the number of followers, number of articles published, and number of tweets, Muck Rack can help define the credibility of authors and news:
+
+- **Number of articles published**: 
+The number of articles an author has published can provide insights into their experience and productivity. Authors who have consistently published a substantial number of articles may have a deeper understanding of their subject matter and possess a wealth of knowledge and expertise. It indicates their commitment to their profession and suggests they have been actively contributing to the industry.
+
+
+- **Number of followers**: 
+The number of followers an author has on Twitter can be an indicator of their reach and influence. Authors with a large number of followers often have a wider audience and may have established themselves as experts in their respective fields. 
+Higher follower counts can suggest that the author's content resonates with readers and that they have built a reputation over time.
+
+
+- **Number of tweets**: 
+The number of tweets an author has shared on Twitter can give an indication of their engagement and activity level in the online community. Regularly posting tweets shows that the author actively participates in discussions, shares valuable insights, and keeps up with current events. 
+
+#### Table: Preliminary Data of "credit_article", "credit_followers" and "credit_tweets" from Muck Rack
+* *(Taking the sample from 2019-20 season). This sample is selected intentionally that contains all the cases for this part.* 
+
+|    | title                                                                    |   time | author                               | credit_article   | credit_followers   | credit_tweets   | most_frequent_name    |
+|---:|:-------------------------------------------------------------------------|-------:|:-------------------------------------|:-----------------|:-------------------|:----------------|:----------------------|
+| 23 | LeBron James, Norman Powell Named Week 20 Players Of The Week            |   2020 | Official Release                     | Default          | Default            | Default         | Luka Dončić           |
+| 24 | Power Rankings, Week 20: Lakers End Bucks’ 14-Week Run At Top            |   2020 | John Schuhmann                       | 890              | 84859              | 48341           | Giannis Antetokounmpo |
+| 25 | 5 Can’t-Miss Matchups: James Harden vs. LeBron James                     |   2020 | Michael C. Wright                    | None             | None               | None            | James Harden          |
+| 26 | 4 NBA Things To Know For 9 March                                         |   2020 | Jeff Case                            | 122              | 91                 | 42              | Giannis Antetokounmpo |
+| 27 | Crowning LeBron: Will Lakers Take The Throne?                            |   2020 | Shaun Powell NBA.com               | 651              | None               | None            | Giannis Antetokounmpo |
+| 28 | Raptors Top Kings Behind Starters’ 111 Total PTS                         |   2020 | NBA News                             | Default          | Default            | Default         | CJ McCollum           |
+| 29 | Cavaliers Hang On To Outlast Spurs In Overtime, 132-129                  |   2020 | Tom Withers AP Sports Writer       | None             | None               | None            | DeMar DeRozan         |
+| 30 | Knicks Pull Away In 4th Quarter, Beat Pistons 96-84                      |   2020 | Brian Mahoney AP Basketball Writer | 52               | None               | None            | Julius Randle         |
+
+🧠 What are the **Issues and Challenges?**
+- Some News are written anonymously, with the name of the press only.
+- The website misses part of the information of a few authors. ie In the sample, Shaun Powell's number of articles published is gathered, but number of followers and tweets are missing.
+- Some authors have different more multiple twitter accounts/usernames, which is protected and not accessible via real name only.
+  - referred: [Twitter API](https://developer.twitter.com/en/docs/twitter-api)
+  
+
+**Inspired during the second presentation, the distribution of data can be used to select the value to replace missing parts.**
+  - Statistical Imputation
+- For news from "the press", "Official", they are assumed to be generally reliable, if not the most reliable. 
+  - "Default" replaced by the 95 percentile from the distribution.
+
+- For authors with part of or all missing data, choose mean, median or mode depending on the corresponding distribution.
+
+
+#### Graphs: Distribution of Data:  "credit_article", "credit_followers" and "credit_tweets" from Muck Rack
+* *(The distributions are used to determine a small number of missing values for few authors and the best number that represents "Default" for official and the press)*  
+
+* Graph 1 Number of Articles
+- The distribution is highly skewed, hence medium is used for missing values for authors.
+![images - 2](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/github_MDtable/article.png)
+
+* Graph 2 Number of Followers 
+- The distribution is reasonably skewed, hence mean is used for missing values for authors.
+![images - 3](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/github_MDtable/follower.png)
+
+* Graph 3 Number of Followers 
+- The distribution is reasonably skewed, hence mean is used for missing values for authors.
+![images - 4](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/github_MDtable/tweets.png)
+
+
+
+### :two: Sentiment and Relevance of NBA News
+
+
+
+
+
+
+
+
+
+
 
 ## 🖼️ Results
 
