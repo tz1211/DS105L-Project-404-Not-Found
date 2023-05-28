@@ -29,10 +29,13 @@ Whether you are a die-hard basketball enthusiast or just starting to explore the
 Data Source: 
 * [Basketball Reference](https://www.basketball-reference.com/)  
 * [NBA Official Website](skysports.com/nba)  
-* [ESPN Sports](espn.com/nba)    
+* [ESPN Sports](espn.com/nba)   
+* [NBA News Archive](https://global.nba.com/news)
+* [BBC Sports News](https://www.bbc.co.uk/sport) 
 
 
 ## 📊 Data
+### :one: Sports Matrix
 
 ### Table 1: First ten rows from merged_data_2010_to_2023   
 |    |   year | name                    |   minutes_played |   games_played |   points | team                   |   age |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls | positions          | slug      |   steals |   turnovers |
@@ -111,6 +114,37 @@ Data Source:
 * *It count all the NBA MVP in the history, and also record who won the MVP a year past and two years past. This table is used for import to the machine learning algorithm for further analysis*  
 
  * Table 4 ----> [MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv)
+
+
+### :two: Sports News and Media Narratives
+
+### Table 1: Quantified NBA Sports News - Sentiments and Relevance  
+* *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  
+
+|    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
+|---:|-------:|:---------------------|---------------------:|-----------------:|------------------:|-----------------:|-----------------:|-------------------:|----------------:|------------:|
+|  0 |   2020 | Aaron Gordon         |            0.0923111 |        0.0923111 |         0.131483  |         0.567671 |          39434.8 |            34372.6 |         40798   |           5 |
+|  1 |   2020 | Al Horford           |            0.05169   |        0.05169   |         0.117488  |         0.54677  |          10781.7 |            34700.3 |         62255.7 |           3 |
+|  2 |   2020 | Andre Drummond       |            0.0369387 |        0.0369387 |         0.158727  |         0.532269 |          15995.6 |            60639.6 |         67059.1 |          14 |
+|  3 |   2020 | Andrew Wiggins       |            0.0904019 |        0.0904019 |         0.0992229 |         0.573194 |          28212.4 |            36785   |         42379.9 |           7 |
+|  4 |   2020 | Anthony Davis        |            0.120779  |        0.120779  |         0.189062  |         0.548409 |          11444.1 |            47184.3 |         50480.3 |          27 |
+|  5 |   2020 | Bam Adebayo          |            0.0589134 |        0.0589134 |         0.0640164 |         0.599966 |          21996   |            84859   |         93866   |           1 |
+|  6 |   2020 | Ben Simmons          |            0.0598212 |        0.0598212 |         0.196928  |         0.552685 |          16923   |            65297.2 |         72214.3 |          13 |
+|  7 |   2020 | Bradley Beal         |            0.0754871 |        0.0754871 |         0.102333  |         0.557063 |          11668.2 |            36245.4 |         45089   |          50 |
+|  8 |   2020 | Brandon Ingram       |            0.0879199 |        0.0879199 |         0.0901602 |         0.544744 |          15613.1 |            50384.1 |         56001   |          27 |
+|  9 |   2020 | Buddy Hield          |            0.0858989 |        0.0858989 |         0.0941537 |         0.554056 |          23624.3 |            49410.2 |         60888.5 |          26 |
+| 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
+
+
+### Table 2: Distribution of accessible  "credit_article", "credit_followers" and "credit_tweets" from Muck Rack
+* *(The distributions are used to determine a small number of missing values for few authors and the best number that represents "Default" for official and the press)*  
+
+
+
+
+
+
+
 
 ## 📈 Analysis
 
