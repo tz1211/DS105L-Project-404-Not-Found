@@ -215,21 +215,42 @@ The number of tweets an author has shared on Twitter can give an indication of t
 #### Graphs: Distribution of Data:  "credit_article", "credit_followers" and "credit_tweets" from Muck Rack
 * *(The distributions are used to determine a small number of missing values for few authors and the best number that represents "Default" for official and the press)*  
 
-* Graph 1 Number of Articles
-- The distribution is highly skewed, hence medium is used for missing values for authors.
+**Graph 1 Number of Articles**
+  - The distribution is highly skewed, hence medium is used for missing values for authors.
 ![images - 2](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/github_MDtable/article.png)
 
-* Graph 2 Number of Followers 
-- The distribution is reasonably skewed, hence mean is used for missing values for authors.
+**Graph 2 Number of Followers **
+  - The distribution is reasonably skewed, hence mean is used for missing values for authors.
 ![images - 3](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/github_MDtable/follower.png)
 
-* Graph 3 Number of Followers 
-- The distribution is reasonably skewed, hence mean is used for missing values for authors.
+**Graph 3 Number of Followers **
+  - The distribution is reasonably skewed, hence mean is used for missing values for authors.
 ![images - 4](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/github_MDtable/tweets.png)
 
 
 
 ### :two: Sentiment and Relevance of NBA News
+
+For NBA News, there are four indexes that analyse the sentiments and relevance of news in addition to the three indicater for credibility.
+They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance_score". 
+
+- **[NLTK](https://www.nltk.org/) and [TextBlob](https://pypi.org/project/textblob/) provide accessible and straightforward sentiment analysis capabilities. They are chosen for several reasons:**
+
+    - **Availability of Pretrained Models**: NLTK and TextBlob come with default pretrained models for sentiment analysis, which can be suitable for basic sentiment classification tasks. These models have been trained on large corpora and can provide reasonable results for general sentiment analysis in NBA sports news without the need for extensive customization or fine-tuning.
+
+    - **Focus on General Sentiment Analysis and Domain-Specific Lexicons** : NLTK and TextBlob are designed to provide general sentiment analysis capabilities. They provide sentiment analysis models that include domain-specific lexicons, which have been trained on a wide range of texts, including sports-related content. These lexicons contain words and phrases commonly used in NBA sports news, enabling them to capture sentiment nuances specific to the NBA and the sports domain more effectively.
+
+    - **Performance on Informal Language** : NBA sports news sometimes contains informal language, slang, and sports-specific jargon. NLTK and TextBlob models are trained on diverse text sources, including social media and online forums, where informal language prevails. They can better handle and interpret the informal language commonly found in NBA sports news, leading to more accurate sentiment analysis results.
+
+    - **Interpretability for Analysts** : NLTK and TextBlob sentiment analysis models often rely on simple rule-based approaches, making the process more interpretable. It is easy to explain how sentiments are determined based on the presence of positive or negative words in the text. This transparency can be valuable for NBA sports analysts when presenting sentiment analysis results to stakeholders or discussing the sentiment trends in the NBA.
+
+- **BERT relevance is beneficial for sports news analysis due to the following reasons:**
+
+    - **Contextual Understanding**: BERT (Bidirectional Encoder Representations from Transformers) is a powerful language model that utilizes a deep neural network architecture. It can capture the contextual understanding of words and phrases within a sentence or document. In sports news analysis, where context plays a crucial role, BERT can effectively grasp the relationships between different terms, player names, team names, and game events. This contextual understanding enhances the relevance assessment of sports news articles.
+
+    - **Handling Ambiguity** : Sports news often contains ambiguous references, such as player names that can be shared by multiple athletes or events with similar descriptions. BERT's contextual understanding helps disambiguate such references by considering the surrounding context. It can distinguish between different players with the same name or identify specific events within a broader context, leading to more precise relevance scoring.
+
+
 
 
 
