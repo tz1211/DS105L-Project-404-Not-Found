@@ -1,0 +1,145 @@
+title,date,url,player,textblob_sentiment,sentiment_bert_average_score,sentiment_xlnet_average_score,bert_relevance
+NBA: Russell Westbrook breaks 55 year-old triple-double season record,2017,https://www.bbc.co.uk/sport/av/basketball/39581387,Russell Westbrook,0.0,0.6194518208503723,0.606735110282898,0.6057978868484497
+Russell Westbrook sets NBA triple-double record,2017,http://www.bbc.co.uk/sport/basketball/39551418,Russell Westbrook,0.1362499999999999,0.5875425040721893,0.576484203338623,0.6057978868484497
+Russell Westbrook makes NBA history with triple-double high score,2017,https://www.bbc.co.uk/sport/basketball/39441465,Russell Westbrook,0.2224263038548752,0.578679621219635,0.5886183083057404,0.6057978868484497
+Chicago Cubs win World Series: 'Baseball will never be the same again',2017,https://www.bbc.co.uk/sport/baseball/37857919,Russell Westbrook,0.1085238534075743,0.5733219981193542,0.5586544871330261,0.6057978868484497
+Patriots stun Falcons to win Super Bowl,2017,https://www.bbc.co.uk/sport/american-football/38877420,James Harden,0.1396694214876032,0.6500799059867859,0.5820091366767883,0.6377131342887878
+North v South: Mark Wood strikes on return while Ben Duckett makes century,2017,https://www.bbc.co.uk/sport/cricket/39281294,James Harden,0.1545454545454545,0.577562133471171,0.5373923182487488,0.6377131342887878
+BBL Cup Final 2017: Newcastle Eagles beat Glasgow Rocks for third success,2017,https://www.bbc.co.uk/sport/basketball/38584775,Isaiah Thomas,0.0643264143264143,0.5973367889722189,0.5656873981157938,0.6185659766197205
+Wrexham murder suspect hunt after disabled man's death,2017,https://www.bbc.co.uk/news/uk-wales-39418374,Anthony Davis,-0.2,0.6139578223228455,0.5419602394104004,0.6219444870948792
+Africa Cup of Nations 2017: Which Premier League players are involved?,2017,https://www.bbc.co.uk/sport/football/38500696,Karl-Anthony Towns,0.1270676691729323,0.5828629044386057,0.5765783213652097,0.6640822887420654
+Stephen Curry shoots NBA three-point record in Warriors win,2017,https://www.bbc.co.uk/sport/basketball/37906636,Stephen Curry,-0.0681998556998557,0.5206297636032104,0.6548457741737366,0.6148076057434082
+Stephen Curry scores record 13 three-pointers in single game,2017,https://www.bbc.co.uk/sport/av/basketball/37914817,Stephen Curry,-0.2357142857142857,0.6180531978607178,0.8268777132034302,0.6148076057434082
+Father and son 'high up in organised crime gang',2017,https://www.bbc.co.uk/news/uk-northern-ireland-38162785,Stephen Curry,0.16,0.6025987863540649,0.6019934415817261,0.6148076057434082
+"Mid-Ulster crime gang 'took huge financial hit', court told",2017,https://www.bbc.co.uk/news/uk-northern-ireland-37976541,Stephen Curry,0.2,0.5627779960632324,0.6485729217529297,0.6148076057434082
+Niall Currie seals first win as Portadown manager,2017,https://www.bbc.co.uk/sport/av/northern-ireland/38352670,Stephen Curry,0.525,0.5986036062240601,0.5724084377288818,0.6148076057434082
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,Stephen Curry,0.1404705369257608,0.5628489341054644,0.5647526042801994,0.6148076057434082
+Irish Premiership: Ten-man Reds edge Ports as top four win,2017,https://www.bbc.co.uk/sport/football/38277481,Stephen Curry,0.1339814814814814,0.6048721671104431,0.5708483904600143,0.6148076057434082
+Warrenpoint Town clinch promotion to Irish Premiership,2017,https://www.bbc.co.uk/sport/football/39467258,Stephen Curry,0.1349673202614379,0.5964730679988861,0.640436440706253,0.6148076057434082
+County Antrim Shield: Crusaders and Linfield favourites to make final,2017,https://www.bbc.co.uk/sport/football/38133278,Stephen Curry,0.1718452380952381,0.6024701992670695,0.5432868202527364,0.6148076057434082
+"LeBron James: First Cleveland Cavaliers player to score 20,000 points",2017,https://www.bbc.co.uk/sport/basketball/38795157,LeBron James,0.1409090909090909,0.6072858273983002,0.644550621509552,0.6385841965675354
+NBA: LeBron James' 'jaw-dropping' three-pointer,2017,https://www.bbc.co.uk/sport/av/basketball/38887735,LeBron James,0.0,0.7282785773277283,0.5698842406272888,0.6385841965675354
+NBA plays of the week featuring Cleveland Cavaliers star LeBron James,2017,https://www.bbc.co.uk/sport/av/basketball/39267634,LeBron James,0.0,0.5830931663513184,0.6548869609832764,0.6385841965675354
+Sir Bradley Wiggins edged out at Six Day London in 'final' British race,2017,https://www.bbc.co.uk/sport/cycling/37818188,Andrew Wiggins,0.1140624999999999,0.5712972084681193,0.5529957413673401,0.6292762756347656
+British Cycling chiefs to face MPs over TUEs,2017,https://www.bbc.co.uk/sport/cycling/37796716,Andrew Wiggins,0.1119047619047618,0.5565189917882284,0.5739344557126363,0.6292762756347656
+Sir Bradley Wiggins: Five-time Olympic gold medallist to compete in 2017,2017,https://www.bbc.co.uk/sport/cycling/38168363,Andrew Wiggins,0.2667753623188406,0.5888090848922729,0.6429866671562194,0.6292762756347656
+MPs demand action on 'dangerous' A34,2017,http://www.bbc.co.uk/news/uk-england-37780203,Andrew Wiggins,-0.25,0.642625629901886,0.6724398732185364,0.6292762756347656
+Five Welsh riders named in British Cycling's elite squad,2017,https://www.bbc.co.uk/sport/wales/38168096,Andrew Wiggins,0.1299603174603174,0.6087039709091187,0.5575363039970398,0.6292762756347656
+BBL is 'UK's best kept sporting secret' - BBC live games to start on Friday,2017,https://www.bbc.co.uk/sport/basketball/38146864,Andrew Wiggins,0.1741411653480619,0.59171781369618,0.5369933247566223,0.6292762756347656
+Jason Kenny: BBC Sports Personality 2016 contender,2017,https://www.bbc.co.uk/sport/sports-personality/38134245,Andrew Wiggins,0.3192780337941628,0.5640414357185364,0.5521962493658066,0.6292762756347656
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Andrew Wiggins,0.0562766554433221,0.5629119873046875,0.5599749684333801,0.6292762756347656
+"Arise, Sir Andy? Is Murray too young to be knighted?",2017,https://www.bbc.co.uk/news/uk-38064142,Andrew Wiggins,0.1,0.6275411248207092,0.6041316986083984,0.6292762756347656
+NBA: Buzzer-beater baskets in plays of the week,2017,https://www.bbc.co.uk/sport/av/basketball/38554236,Giannis Antetokounmpo,0.0,0.6687843799591064,0.7188336849212646,0.634962260723114
+Crawley Town 0-0 Doncaster Rovers,2017,https://www.bbc.co.uk/sport/football/39086526,Jimmy Butler,0.0798691548691548,0.5893966436386109,0.625837755203247,0.5795349478721619
+Young Lego expert makes film for Paisley city of culture bid,2017,https://www.bbc.co.uk/news/uk-scotland-glasgow-west-38831043,Jimmy Butler,0.1,0.5928152203559875,0.5540895462036133,0.5795349478721619
+NI Assembly election 2017: Candidates,2017,http://www.bbc.co.uk/news/election-2016-northern-ireland-38916812,Jimmy Butler,0.0,0.7373654842376709,0.6092232465744019,0.5795349478721619
+NBA Plays of the Week: Kyrie Irving's sensational solo dribble,2017,https://www.bbc.co.uk/sport/av/basketball/39193795,Kyrie Irving,0.6666666666666666,0.5415332913398743,0.6797254085540771,0.6369346976280212
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,Kyrie Irving,0.1404705369257608,0.570924733366285,0.5982122761862618,0.6369346976280212
+"John Derrick tribute: He was Mr Welsh Cricket, says Mark Wallace",2017,https://www.bbc.co.uk/sport/cricket/39378304,John Wall,0.1849824778396206,0.5924211314746312,0.5856122119086129,0.6002962589263916
+Alex Dyke: 18/11/2016,2017,https://www.bbc.co.uk/programmes/p04d5vpj,John Wall,0.0,0.5287508368492126,0.6737573146820068,0.6002962589263916
+Alex Dyke: 07/11/2016,2017,https://www.bbc.co.uk/programmes/p04cdg64,John Wall,0.0,0.5428423285484314,0.6502050161361694,0.6002962589263916
+Jane Austen: Northanger Abbey: 5. Conflict,2017,https://www.bbc.co.uk/programmes/b085b9t1,John Wall,0.0,0.5498857498168945,0.6080077886581421,0.6002962589263916
+Jane Austen: Northanger Abbey: 3. Third Wheel,2017,https://www.bbc.co.uk/programmes/b0858kz2,John Wall,0.25,0.541782021522522,0.6089928150177002,0.6002962589263916
+Jane Austen: Northanger Abbey (Omnibus): Episode 2,2017,https://www.bbc.co.uk/programmes/b087kz86,John Wall,0.0,0.7010457515716553,0.5910260081291199,0.6002962589263916
+Jane Austen: Northanger Abbey: 6. Gothic Mysteries,2017,https://www.bbc.co.uk/programmes/b085t3f6,John Wall,0.0,0.6792037487030029,0.581475555896759,0.6002962589263916
+Jane Austen: Northanger Abbey: 4. Fears,2017,https://www.bbc.co.uk/programmes/b0858w47,John Wall,0.0,0.5189233422279358,0.5678696036338806,0.6002962589263916
+Jane Austen: Northanger Abbey: 2. The Disappearance,2017,https://www.bbc.co.uk/programmes/b08584jr,John Wall,0.0,0.6108020544052124,0.626553475856781,0.6002962589263916
+Jane Austen: Northanger Abbey (Omnibus): Episode 1,2017,https://www.bbc.co.uk/programmes/b0868bq6,John Wall,0.0,0.5597895979881287,0.5177785158157349,0.6002962589263916
+Jane Austen: Northanger Abbey: 1. The Season,2017,https://www.bbc.co.uk/programmes/b08575fp,John Wall,0.0,0.56784588098526,0.5062833428382874,0.6002962589263916
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Bradley Beal,0.0562766554433221,0.5502849419911703,0.5657134254773458,0.6203228831291199
+George Michael: Paul Young pays tribute,2017,https://www.bbc.co.uk/news/entertainment-arts-38436441,Paul George,0.1,0.5557705760002136,0.518808901309967,0.6207422018051147
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,Klay Thompson,0.1404705369257608,0.5477132797241211,0.6189684271812439,0.612940788269043
+Wayne Rooney break-in bid: Man jailed,2017,https://www.bbc.co.uk/news/uk-england-manchester-38389306,Klay Thompson,0.0,0.5690969824790955,0.5419769287109375,0.612940788269043
+NBA: Devin Booker's buzzer beater & tops plays of the week,2017,https://www.bbc.co.uk/sport/av/basketball/38892902,Devin Booker,0.0,0.5261799693107605,0.5046061873435974,0.6219554543495178
+Top 10 NBA plays of the Week: Carmelo's late show,2017,https://www.bbc.co.uk/sport/av/basketball/39127667,Carmelo Anthony,0.1,0.5055937767028809,0.7466484308242798,0.6505544185638428
+Chicago Cubs win World Series: 'Baseball will never be the same again',2017,https://www.bbc.co.uk/sport/baseball/37857919,Carmelo Anthony,0.1085238534075743,0.5739409923553467,0.580656187100844,0.6505544185638428
+"10,000 haulage firms on safety 'red list'",2017,http://www.bbc.co.uk/news/uk-39181441,Gordon Hayward,0.0,0.6606569290161133,0.7519683241844177,0.6193900108337402
+Golden State Warriors' Kevin Durant out 'indefinitely' with injured knee,2017,https://www.bbc.co.uk/sport/basketball/39125581,Kevin Durant,0.0233333333333333,0.6185006499290466,0.5492261052131653,0.6569287776947021
+New Year Honours List: MBEs for Rio 2016 stars Steph Slater and Scott Durant,2017,https://www.bbc.co.uk/news/uk-england-lancashire-38461366,Kevin Durant,0.1363636363636363,0.6578524708747864,0.5962947010993958,0.6569287776947021
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,Kevin Durant,0.1404705369257608,0.5917986971991402,0.5869613800730024,0.6569287776947021
+Sir Bradley Wiggins: Five-time Olympic gold medallist to compete in 2017,2017,https://www.bbc.co.uk/sport/cycling/38168363,Harrison Barnes,0.2667753623188406,0.5832400321960449,0.6145363330841065,0.6225186586380005
+Premiership: Bath Rugby 32 Northampton Saints 30,2017,https://www.bbc.co.uk/sport/rugby-union/38897216,Harrison Barnes,0.0943800943800943,0.5790236741304398,0.5520368218421936,0.6225186586380005
+Premiership: Saracens 24-10 Leicester Tigers,2017,https://www.bbc.co.uk/sport/rugby-union/37770546,Harrison Barnes,0.0319783197831978,0.5882596254348755,0.5908851861953736,0.6225186586380005
+Irish Premiership: Reds slip up as Crues and Blues march on,2017,https://www.bbc.co.uk/sport/football/38944884,Kyle Lowry,0.1326086956521739,0.6411687731742859,0.5694808959960938,0.6300653219223022
+Irish Premiership: Cushley strike clinches Crues victory,2017,https://www.bbc.co.uk/sport/football/38119221,Kyle Lowry,0.05727969348659,0.5622081905603409,0.5785052180290222,0.6300653219223022
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Kyle Lowry,0.0562766554433221,0.5619581275516086,0.5710477166705661,0.6300653219223022
+Scotland's papers: 'Terror grips Westminster',2017,https://www.bbc.co.uk/news/uk-scotland-39362633,Tobias Harris,0.0,0.7204865217208862,0.7930009365081787,0.5845129489898682
+"Scottish Gossip: Aberdeen, Niall McGinn, Rangers, Hibs",2017,https://www.bbc.co.uk/sport/football/39544196,Tobias Harris,0.1217320261437908,0.5698208212852478,0.582155954837799,0.5845129489898682
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Blake Griffin,0.0562766554433221,0.5711206992467245,0.5759527087211609,0.6261674165725708
+"2016 deaths: The great, the good and the lesser known",2017,https://www.bbc.co.uk/news/magazine-38418802,Blake Griffin,0.5,0.548981249332428,0.5827310085296631,0.6261674165725708
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Jeff Teague,0.0562766554433221,0.5603541135787964,0.5565018388960097,0.6035474538803101
+"LeBron James: First Cleveland Cavaliers player to score 20,000 points",2017,https://www.bbc.co.uk/sport/basketball/38795157,Paul Millsap,0.1409090909090909,0.6106964945793152,0.5860021710395813,0.6211535334587097
+North-South Series: Mason Crane helps South to victory in Abu Dhabi,2017,http://www.bbc.co.uk/sport/cricket/39338078,Paul Millsap,0.1333333333333333,0.5771964391072592,0.5921363433202108,0.6211535334587097
+South beat North to win three-match series in Dubai,2017,https://www.bbc.co.uk/sport/cricket/39322676,Paul Millsap,0.1016666666666666,0.548794150352478,0.5682865977287292,0.6211535334587097
+North v South: Mark Wood strikes on return while Ben Duckett makes century,2017,https://www.bbc.co.uk/sport/cricket/39281294,Paul Millsap,0.1545454545454545,0.5522506435712179,0.63077712059021,0.6211535334587097
+South beat North in series opener in Dubai,2017,https://www.bbc.co.uk/sport/cricket/39306683,Paul Millsap,0.0863636363636363,0.5910211801528931,0.5974173347155253,0.6211535334587097
+The people behind famous phrases,2017,http://www.bbc.co.uk/news/uk-england-38563240,Eric Gordon,0.0499999999999999,0.6192843914031982,0.8284520506858826,0.6198310256004333
+Challenge Cup: Cardiff Devils into final after 5-1 second-leg win over Belfast Giants,2017,https://www.bbc.co.uk/sport/ice-hockey/38914385,Derrick Rose,0.1097435897435897,0.5416714350382487,0.5626681447029114,0.6260275840759277
+New Zealand earthquake: Kaikoura evacuations under way,2017,https://www.bbc.co.uk/news/world-asia-37982395,Derrick Rose,0.1363636363636363,0.5922762155532837,0.7342259287834167,0.6260275840759277
+Kevin Love: Cleveland Cavaliers forward sets new NBA record,2017,https://www.bbc.co.uk/sport/basketball/38088850,Kevin Love,0.1401360544217687,0.5771008431911469,0.5623302161693573,0.5879965424537659
+Mark Steel Does Hip Hop,2017,https://www.bbc.co.uk/programmes/b08fgyb6,Kevin Love,0.0,0.564848005771637,0.5121819972991943,0.5879965424537659
+Nigel Farage Gets His Life Back,2017,https://www.bbc.co.uk/programmes/b081v8yc,Kevin Love,0.0,0.6464385390281677,0.5687823295593262,0.5879965424537659
+Grandfather killed in A4063 Tondu crash a 'gentle man',2017,https://www.bbc.co.uk/news/uk-wales-south-east-wales-37826986,Kevin Love,0.0,0.5232343077659607,0.5071098208427429,0.5879965424537659
+Anger over Buckfast wine sold with Easter egg,2017,https://www.bbc.co.uk/news/uk-england-devon-39382142,Wilson Chandler,-0.7,0.5268438458442688,0.6750431060791016,0.6217706799507141
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Wilson Chandler,0.0562766554433221,0.6022905045085483,0.5711441238721212,0.6217706799507141
+Oscars 2017: Best supporting actress nominees,2017,http://www.bbc.co.uk/news/entertainment-arts-38535289,Wilson Chandler,0.625,0.6537606120109558,0.7398928999900818,0.6217706799507141
+Chicago Cubs win World Series: 'Baseball will never be the same again',2017,https://www.bbc.co.uk/sport/baseball/37857919,Wilson Chandler,0.1085238534075743,0.5758679075674578,0.5783948410641063,0.6217706799507141
+Oscars 2017: Bluff your way through this year's best picture nominees,2017,http://www.bbc.co.uk/news/entertainment-arts-38586840,Wilson Chandler,1.0,0.5399166941642761,0.6796758770942688,0.6217706799507141
+Greater Manchester mayor: Communist League candidate Peter Clifford pulls out of race,2017,http://www.bbc.co.uk/news/uk-england-manchester-39210702,Marcus Morris,0.5,0.5366124510765076,0.6134673953056335,0.594759464263916
+Greater Manchester mayoral election: Candidates spell out key policies,2017,https://www.bbc.co.uk/news/uk-england-manchester-39492237,Marcus Morris,0.25,0.5389153957366943,0.6649792194366455,0.594759464263916
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Marcus Morris,0.0562766554433221,0.5656376878420512,0.5842975642946031,0.594759464263916
+Premiership: Newcastle Falcons 38-32 Harlequins,2017,https://www.bbc.co.uk/sport/rugby-union/38149936,Marcus Morris,0.1218390804597701,0.5627995580434799,0.5656536668539047,0.594759464263916
+Election 2017: English mayoral candidates,2017,https://www.bbc.co.uk/news/uk-politics-38236484,Marcus Morris,0.0,0.5693730115890503,0.6394933462142944,0.594759464263916
+"Front Row: Jake Gyllenhaal, Pauline Black, Christopher Wheeldon and the business of musicals",2017,https://www.bbc.co.uk/programmes/b08j99mz,Chris Paul,-0.1666666666666666,0.6753504872322083,0.760018527507782,0.6050068736076355
+The Countryside Hour: Bits and pieces from High Ash Farm,2017,https://www.bbc.co.uk/programmes/p04w2cpt,Chris Paul,0.16,0.5584890842437744,0.7917076349258423,0.6050068736076355
+Paul Trollope: Brighton name former Cardiff boss as assistant manager,2017,https://www.bbc.co.uk/sport/football/38091462,Chris Paul,0.196969696969697,0.6238677799701691,0.5589152872562408,0.6050068736076355
+Chicago Cubs win World Series: 'Baseball will never be the same again',2017,https://www.bbc.co.uk/sport/baseball/37857919,Victor Oladipo,0.1085238534075743,0.5476854335178029,0.5744649822061713,0.6319658160209656
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,DeAndre Jordan,0.0562766554433221,0.5866181320614285,0.6379431486129761,0.6056491136550903
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,DeAndre Jordan,0.1404705369257608,0.5834730267524719,0.638753490788596,0.6056491136550903
+Swansea Bay's Â£1.3bn city deal 'ready to sign',2017,http://www.bbc.co.uk/news/uk-wales-south-west-wales-39155976,Wesley Matthews,0.2,0.5170086622238159,0.7941296696662903,0.5964728593826294
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Avery Bradley,0.0562766554433221,0.5830469396379259,0.5607329938146803,0.609778642654419
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Zach LaVine,0.0562766554433221,0.5853015515539381,0.6011362671852112,0.6169470548629761
+Super Bowl LI: New England Patriots recover from record deficit to beat Atlanta Falcons,2017,https://www.bbc.co.uk/sport/american-football/38876834,Robert Covington,0.1248586393030838,0.597408307923211,0.54195636510849,0.580718457698822
+Welsh boxer Jay Harris gets title opportunity in 10th pro fight,2017,https://www.bbc.co.uk/sport/wales/38616524,Gary Harris,0.1095238095238095,0.6169760823249817,0.5910865664482117,0.6126839518547058
+Family make appeal over Gary Ferguson death in Myanmar,2017,https://www.bbc.co.uk/news/uk-38132621,Gary Harris,0.0,0.6022587418556213,0.5573528409004211,0.6126839518547058
+Harry Whitlam death: Tractor driver Gary Green jailed,2017,https://www.bbc.co.uk/news/uk-england-leeds-38304362,Gary Harris,-0.2,0.7869526743888855,0.565471351146698,0.6126839518547058
+Harry Pell: Cheltenham Town midfielder signs contract extension,2017,https://www.bbc.co.uk/sport/football/38763415,Gary Harris,0.2666666666666666,0.6266626119613647,0.5195804238319397,0.6126839518547058
+Liam Payne registers solo song called Myself,2017,https://www.bbc.co.uk/news/newsbeat-38388748,Gary Harris,0.0,0.6875273585319519,0.6170740723609924,0.6126839518547058
+Ikutaro Kakehashi: Roland founder and music pioneer dies aged 87,2017,https://www.bbc.co.uk/news/entertainment-arts-39471567,Marvin Williams,-0.1,0.5122759342193604,0.5121840238571167,0.6267818212509155
+Ed Sheeran settles Photograph copyright infringement claim,2017,http://www.bbc.co.uk/news/entertainment-arts-39556351,Marvin Williams,0.0,0.6166995763778687,0.6974202394485474,0.6267818212509155
+Bury 2-3 Oxford United,2017,https://www.bbc.co.uk/sport/football/38271877,Marvin Williams,0.1074891774891775,0.64139524102211,0.5630954653024673,0.6267818212509155
+Blackburn Rovers 2-2 Preston North End,2017,https://www.bbc.co.uk/sport/football/39239365,Marvin Williams,0.0770978001590246,0.6183610161145529,0.6094950437545776,0.6267818212509155
+McKenna Cup: Tyrone 0-14 0-11 Fermanagh,2017,https://www.bbc.co.uk/sport/gaelic-games/38699568,Courtney Lee,0.1131410256410256,0.5673866470654806,0.5572174787521362,0.603409469127655
+Carrie Fisher and Debbie Reynolds: Streep among stars at memorial,2017,http://www.bbc.co.uk/news/entertainment-arts-38528953,Courtney Lee,0.0,0.563326895236969,0.5595587491989136,0.603409469127655
+European Champions Cup: Northampton Saints 28-21 Castres,2017,https://www.bbc.co.uk/sport/rugby-union/38576523,Courtney Lee,0.1077294685990338,0.6116648465394974,0.5643806457519531,0.603409469127655
+Carrie Fisher's ashes carried in Prozac-shaped urn,2017,http://www.bbc.co.uk/news/world-us-canada-38541220,Courtney Lee,0.0,0.6398006081581116,0.5446028709411621,0.603409469127655
+Peterborough United 2-0 Charlton Athletic,2017,https://www.bbc.co.uk/sport/football/39389344,Marcus Smart,0.1264596273291925,0.5826527237892151,0.5463693857192993,0.5900148153305054
+Peterborough United 1-4 Southend United,2017,https://www.bbc.co.uk/sport/football/38474899,Marcus Smart,0.0,0.5799945394198099,0.6127608716487885,0.5900148153305054
+"Goldsmiths Prize: Single sentence novel wins Â£10,000 award",2017,https://www.bbc.co.uk/news/entertainment-arts-37925038,Marcus Smart,0.1142857142857142,0.5682170987129211,0.5291256904602051,0.5900148153305054
+Bristol school's no coats rule causes upset,2017,http://www.bbc.co.uk/news/uk-england-bristol-38520269,Marcus Smart,0.0,0.5300706028938293,0.6581079363822937,0.5900148153305054
+Oxford United 4-1 Coventry City,2017,https://www.bbc.co.uk/sport/football/37958938,Marcus Smart,0.1764361300075586,0.6133219361305237,0.5686118125915527,0.5900148153305054
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Marcus Smart,0.0562766554433221,0.5776185327106051,0.6000357005331252,0.5900148153305054
+Derby County 4-2 Fulham,2017,https://www.bbc.co.uk/sport/football/39414110,Marcus Smart,0.1164612827112827,0.5784978270530701,0.5709048509597778,0.5900148153305054
+England 2-0 Lithuania: How the players rated,2017,https://www.bbc.co.uk/sport/football/39400583,Marcus Smart,0.1771215986394558,0.6384764015674591,0.5458824038505554,0.5900148153305054
+Greater Manchester mayoral election: Candidates spell out key policies,2017,https://www.bbc.co.uk/news/uk-england-manchester-39492237,Marcus Smart,0.25,0.7754216194152832,0.6020733714103699,0.5900148153305054
+Russia-US row: Putin rules out tit-for-tat expulsion of diplomats,2017,https://www.bbc.co.uk/news/world-us-canada-38464612,Marcus Smart,0.0,0.6745347380638123,0.521308422088623,0.5900148153305054
+Chicago Cubs win World Series: 'Baseball will never be the same again',2017,https://www.bbc.co.uk/sport/baseball/37857919,Marcus Smart,0.1085238534075743,0.550859353759072,0.5687310370531949,0.5900148153305054
+US election daily dig: Is George W Bush voting for Hillary?,2017,https://www.bbc.co.uk/news/election-us-2016-37855894,George Hill,0.0,0.5217806100845337,0.5239176154136658,0.6028714179992676
+NFL play-offs: Patriots and Falcons win to move one game away from Super Bowl,2017,https://www.bbc.co.uk/sport/american-football/38627457,George Hill,0.0964646464646464,0.5640532374382019,0.6430322527885437,0.6028714179992676
+Six Nations: Anthony Watson included in 25-man England training camp,2017,https://www.bbc.co.uk/sport/rugby-union/38961752,George Hill,0.0249999999999999,0.6045431693394979,0.6645956238110861,0.6028714179992676
+NBA Africa academy to open in Senegal,2017,https://www.bbc.co.uk/news/world-africa-38403554,Gorgui Dieng,0.0,0.627209484577179,0.5076504349708557,0.5725382566452026
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Thaddeus Young,0.0562766554433221,0.6047996878623962,0.5607781343989902,0.5906133055686951
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,Thaddeus Young,0.0,0.5909715379987445,0.6362521818705967,0.5906133055686951
+Chicago Cubs win World Series: 'Baseball will never be the same again',2017,https://www.bbc.co.uk/sport/baseball/37857919,Thaddeus Young,0.1085238534075743,0.6244509978727861,0.5540033903988925,0.5906133055686951
+Super Bowl LI: New England Patriots recover from record deficit to beat Atlanta Falcons,2017,https://www.bbc.co.uk/sport/american-football/38876834,Thaddeus Young,0.1248586393030838,0.5879135065608554,0.5784616337882148,0.5906133055686951
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,Draymond Green,0.1404705369257608,0.5883280975478036,0.6069504192897252,0.5767537951469421
+NFL play-offs: Patriots and Falcons win to move one game away from Super Bowl,2017,https://www.bbc.co.uk/sport/american-football/38627457,Draymond Green,0.0964646464646464,0.6276085674762726,0.5445209741592407,0.5767537951469421
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Draymond Green,0.0562766554433221,0.5679724282688565,0.574082162645128,0.5767537951469421
+NFL play-offs: Patriots and Falcons win to move one game away from Super Bowl,2017,https://www.bbc.co.uk/sport/american-football/38627457,Dion Waiters,0.0964646464646464,0.5506170988082886,0.5684553980827332,0.6140668392181396
+NBA: Everything you need to know about the 2016-17 season,2017,https://www.bbc.co.uk/sport/basketball/37717478,Rudy Gay,0.1404705369257608,0.5826866200992039,0.6048885328429086,0.5957121253013611
+Trump presidency week two: Foot still on accelerator,2017,https://www.bbc.co.uk/news/world-us-canada-38830514,Rudy Gay,0.0,0.5386323928833008,0.5153307914733887,0.5957121253013611
+North v South: Mark Wood strikes on return while Ben Duckett makes century,2017,https://www.bbc.co.uk/sport/cricket/39281294,Josh Richardson,0.1545454545454545,0.6138297120730082,0.5976040760676066,0.6393991708755493
+"NFL week 9: Ajayi, Oakland, Luck and the 49ers feature in our mid-season awards",2017,https://www.bbc.co.uk/sport/american-football/37876336,Josh Richardson,0.0562766554433221,0.5469073520766364,0.5719981855816312,0.6393991708755493
+Tim Kneale and Mark Cavendish among Isle of Man sports awards nominees,2017,https://www.bbc.co.uk/sport/38905818,Josh Richardson,0.0833673469387755,0.5788413524627686,0.5373094558715821,0.6393991708755493
+Ice hockey: Dundee Stars head coach Marc LeFebvre hails Cale Tanaka contribution,2017,https://www.bbc.co.uk/sport/ice-hockey/39251618,Josh Richardson,0.0747826908541194,0.5623407363891602,0.5795698861281077,0.6393991708755493
+New Year Honours 2017: Olympic heroes and entertainers recognised,2017,https://www.bbc.co.uk/news/uk-38470732,Josh Richardson,0.1363636363636363,0.5482562184333801,0.5933109521865845,0.6393991708755493

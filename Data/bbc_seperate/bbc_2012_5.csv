@@ -1,0 +1,156 @@
+title,date,url,player,textblob_sentiment,sentiment_bert_average_score,sentiment_xlnet_average_score,bert_relevance
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Kevin Durant,0.2387205387205387,0.601533442735672,0.5998307019472122,0.6090393662452698
+LeBron James says Great Britain's Luol Deng is a 'great player',2012,https://www.bbc.co.uk/sport/av/basketball/17164521,LeBron James,0.8,0.6144254803657532,0.5186628699302673,0.592072606086731
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,LeBron James,0.2387205387205387,0.5444954037666321,0.5580364018678665,0.592072606086731
+NBA stars set for USA-Great Britain clash in Manchester,2012,https://www.bbc.co.uk/sport/basketball/17158534,LeBron James,0.2791666666666667,0.6080159246921539,0.5401510000228882,0.592072606086731
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Kobe Bryant,0.2387205387205387,0.6429310590028763,0.603821411728859,0.5715216398239136
+NBA stars set for USA-Great Britain clash in Manchester,2012,https://www.bbc.co.uk/sport/basketball/17158534,Kobe Bryant,0.2791666666666667,0.6338506639003754,0.6790898740291595,0.5715216398239136
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Russell Westbrook,0.2387205387205387,0.5995905995368958,0.5485106110572815,0.56707763671875
+Whitney,2012,https://www.bbc.co.uk/programmes/b01cvkgg,Kevin Love,0.0,0.5235180258750916,0.5578057169914246,0.5573082566261292
+Australia's Foreign Minister Kevin Rudd resigns,2012,https://www.bbc.co.uk/news/world-asia-pacific-17123813,Kevin Love,-0.125,0.7607427835464478,0.556633472442627,0.5573082566261292
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Blake Griffin,0.2387205387205387,0.6203545033931732,0.5771468132734299,0.5757060050964355
+Leeds 34-16 Hull KR,2012,https://www.bbc.co.uk/sport/rugby-league/16834123,Blake Griffin,0.1077901104063895,0.5536499857902527,0.5740336060523987,0.5757060050964355
+NFL highlights - Brandon Marshall stars in Pro Bowl,2012,https://www.bbc.co.uk/sport/av/american-football/16785493,Brandon Jennings,0.0,0.6471585035324097,0.5907844305038452,0.5610916018486023
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Carmelo Anthony,0.2387205387205387,0.6028899401426315,0.5552632510662079,0.599454402923584
+London 2012: Olympic sport this week,2012,https://www.bbc.co.uk/sport/olympics/16678808,Carmelo Anthony,0.2167136034255599,0.5842150178822604,0.5461111177097667,0.599454402923584
+Sportsday Live - Monday 16 January,2012,http://news.bbc.co.uk/sport1/hi/front_page/9678373.stm,Carmelo Anthony,0.1363636363636363,0.6346727609634399,0.5972176194190979,0.599454402923584
+Paul Wellens praises St Helens youngsters,2012,https://www.bbc.co.uk/sport/av/rugby-league/17740177,Josh Smith,0.0,0.5321632623672485,0.5484082698822021,0.5886355638504028
+Leicestershire quartet agree extended contracts,2012,https://www.bbc.co.uk/sport/cricket/16554007,Josh Smith,0.1340909090909091,0.6824671626091003,0.5081392526626587,0.5886355638504028
+London 2012: Scot Josh Taylor secures Team GB place,2012,https://www.bbc.co.uk/sport/olympics/17761624,Josh Smith,0.1554093567251462,0.5725120703379313,0.6367279291152954,0.5886355638504028
+London 2012: Callum Smith fails to qualify for Team GB boxing squad,2012,https://www.bbc.co.uk/sport/olympics/17802106,Josh Smith,-0.0444444444444444,0.5805848836898804,0.5423780381679535,0.5886355638504028
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Rudy Gay,0.2387205387205387,0.5713963061571121,0.5717892497777939,0.5740440487861633
+Friday's Scottish gossip,2012,https://www.bbc.co.uk/sport/scotland/16543067,Rudy Gay,0.0146090534979423,0.5808093249797821,0.5434930771589279,0.5740440487861633
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,LaMarcus Aldridge,0.2387205387205387,0.5718684941530228,0.5393542796373367,0.5741922855377197
+Port Vale sign Chris Shuker and Paul Marshall,2012,http://www.bbc.co.uk/sport/0/football/17029461,Chris Paul,0.175,0.6407262682914734,0.5180558562278748,0.5747167468070984
+Oxford United boss Chris Wilder urges Jon-Paul Pittman to improve,2012,https://www.bbc.co.uk/sport/football/16492407,Chris Paul,0.0982886904761904,0.6502896845340729,0.5445363521575928,0.5747167468070984
+Nigeria deaths: McManus's former boss tried to make him stay,2012,https://www.bbc.co.uk/news/uk-17315653,Chris Paul,0.0,0.5730311274528503,0.6692198514938354,0.5747167468070984
+Ipswich could not stop Iwelumo - Paul Jewell,2012,https://www.bbc.co.uk/sport/av/football/17502030,Chris Paul,0.0,0.589091420173645,0.6394109725952148,0.5747167468070984
+Micky Adams hails impact of Port Vale substitutes,2012,https://www.bbc.co.uk/sport/av/football/17088399,Chris Paul,0.0,0.6154904365539551,0.6130352020263672,0.5747167468070984
+Crystal Palace sign Kwesi Appiah and Michael Chambers,2012,https://www.bbc.co.uk/sport/football/16821640,Chris Paul,0.0,0.5155580043792725,0.6227266788482666,0.5747167468070984
+Arbroath 6-1 Albion Rovers,2012,https://www.bbc.co.uk/sport/football/16631000,Paul Pierce,0.0795454545454545,0.5549398958683014,0.607543557882309,0.5850349068641663
+Edinburgh Capitals lose to Coventry Blaze in the Elite League,2012,https://www.bbc.co.uk/sport/ice-hockey/17433383,Paul Pierce,-0.0612654320987654,0.5744140386581421,0.5410481572151185,0.5850349068641663
+Nature: Series 5: The Water Boatman's Song,2012,https://www.bbc.co.uk/programmes/b0194mvq,Paul Pierce,0.0,0.7221418619155884,0.5172104835510254,0.5850349068641663
+Golden Globes: winners in full,2012,https://www.bbc.co.uk/news/entertainment-arts-16570820,Paul Pierce,0.3249999999999999,0.5392184853553772,0.6656803488731384,0.5850349068641663
+"A Point of View: Past, present and future",2012,https://www.bbc.co.uk/news/magazine-16347803,Al Jefferson,-0.0833333333333333,0.5627864003181458,0.7195838689804077,0.5845980644226074
+Grand National: Aintree runners and riders,2012,https://www.bbc.co.uk/sport/horse-racing/17371976,Al Jefferson,0.1611691737418482,0.5753698100646337,0.5650675942500433,0.5845980644226074
+EastEnders leads British Soap Award nominations,2012,https://www.bbc.co.uk/news/newsbeat-17628076,Danny Granger,0.0,0.5451956987380981,0.5476287603378296,0.5906211137771606
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Deron Williams,0.2387205387205387,0.5424899458885193,0.5592461377382278,0.6021370887756348
+London 2012: Olympic sport this week,2012,https://www.bbc.co.uk/sport/olympics/16678808,Deron Williams,0.2167136034255599,0.5752560604702343,0.5911006060513583,0.6021370887756348
+Sportsday Live - Monday 16 January,2012,http://news.bbc.co.uk/sport1/hi/front_page/9678373.stm,Deron Williams,0.1363636363636363,0.5297195911407471,0.6037989854812622,0.6021370887756348
+Ex-Chelmsford mayor David Lee fails in child pornography appeal,2012,https://www.bbc.co.uk/news/uk-england-essex-16661062,David Lee,-0.5,0.7305272221565247,0.5374429821968079,0.5735630393028259
+Six Nations: Lee Jones and David Denton start for Scotland,2012,https://www.bbc.co.uk/sport/rugby-union/16812153,David Lee,0.1784611992945326,0.5652868896722794,0.5292732417583466,0.5735630393028259
+David Cameron promises missing child Katrice Lee inquiry,2012,https://www.bbc.co.uk/news/uk-england-17767090,David Lee,-0.2,0.6490355134010315,0.6631223559379578,0.5735630393028259
+David Leeman denies shooting his Devon wife Jennie Leeman,2012,https://www.bbc.co.uk/news/uk-england-devon-16425416,David Lee,0.0,0.5078637003898621,0.5138577818870544,0.5735630393028259
+David Cameron holds Q&A in Leeds,2012,https://www.bbc.co.uk/news/uk-politics-16682190,David Lee,0.0,0.5096299052238464,0.5286630988121033,0.5735630393028259
+Manager Steve Davis welcomes back experienced Crewe duo,2012,https://www.bbc.co.uk/sport/av/football/17076787,David Lee,0.4,0.5727360844612122,0.6650572419166565,0.5735630393028259
+Inside F1 - Malaysian Grand Prix qualifying,2012,https://www.bbc.co.uk/sport/av/formula1/17498504,David Lee,0.5,0.7192721366882324,0.6799861192703247,0.5735630393028259
+Inside F1 - Australian Grand Prix qualifying,2012,https://www.bbc.co.uk/sport/av/formula1/17414181,David Lee,0.25,0.5183030366897583,0.5327078700065613,0.5735630393028259
+Your Letters,2012,http://www.bbc.co.uk/blogs/magazinemonitor/2012/03/your_letters_1361.shtml,David Lee,0.0,0.5395849347114563,0.7405863404273987,0.5735630393028259
+Barnsley complete signing of Lee Collins from Port Vale,2012,https://www.bbc.co.uk/sport/football/17369649,David Lee,0.1166666666666666,0.5235037803649902,0.5348846912384033,0.5735630393028259
+TV and Radio Round up on the BBC iPlayer - In Touch with a new town and more,2012,http://www.bbc.co.uk/blogs/ouch/2012/02/tv_and_radio_round_up_on_the_b.html,David Lee,0.1454545454545454,0.5461463928222656,0.589347779750824,0.5735630393028259
+Gary Johnson sees potential in Reading's Lawson D'Ath,2012,https://www.bbc.co.uk/sport/football/17049179,Joe Johnson,0.1095588235294117,0.5317084789276123,0.5963559548060099,0.5884259343147278
+Worcestershire set to lose Gareth Andrew to injury,2012,https://www.bbc.co.uk/sport/cricket/16414383,Andrew Bynum,0.0549999999999999,0.5369302034378052,0.6391513347625732,0.5800080895423889
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Dwight Howard,0.2387205387205387,0.5489899516105652,0.567321166396141,0.5625699758529663
+London 2012: Olympic sport this week,2012,https://www.bbc.co.uk/sport/olympics/16678808,Dwight Howard,0.2167136034255599,0.5888709209182046,0.5777850801294501,0.5625699758529663
+Sportsday Live - Monday 16 January,2012,http://news.bbc.co.uk/sport1/hi/front_page/9678373.stm,Dwight Howard,0.1363636363636363,0.543326199054718,0.5431708693504333,0.5625699758529663
+Dag and Red 0-1 Northampton,2012,https://www.bbc.co.uk/sport/football/17268059,Tony Parker,0.2126377410468319,0.5930675864219666,0.5442891120910645,0.5841730237007141
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Dwyane Wade,0.2387205387205387,0.5577898770570755,0.5381107032299042,0.5753130316734314
+Great Britain's Luol Deng to make NBA history,2012,https://www.bbc.co.uk/sport/basketball/16982141,Dwyane Wade,0.0590402703536184,0.5691293676694235,0.5582027435302734,0.5753130316734314
+London 2012: Olympic sport this week,2012,https://www.bbc.co.uk/sport/olympics/16678808,Dwyane Wade,0.2167136034255599,0.5771400061520663,0.582701715556058,0.5753130316734314
+Sportsday Live - Monday 16 January,2012,http://news.bbc.co.uk/sport1/hi/front_page/9678373.stm,Dwyane Wade,0.1363636363636363,0.611154317855835,0.5213891863822937,0.5753130316734314
+"CBE for Professor John Wallwork, retired Papworth surgeon",2012,https://www.bbc.co.uk/news/uk-england-cambridgeshire-16355355,John Wall,0.0,0.6264897584915161,0.5701456069946289,0.5764533281326294
+British Soap Awards 2012 - show your support,2012,http://www.bbc.co.uk/blogs/eastenders/2012/02/british-soap-awards-2012---sho.shtml,John Wall,0.0,0.579257071018219,0.5926761627197266,0.5764533281326294
+Major Peirson painting returns to Jersey for exhibition,2012,http://www.bbc.co.uk/news/world-europe-jersey-17608278,John Wall,0.0625,0.5334894061088562,0.5237398147583008,0.5764533281326294
+Front Row: World Book Night; Mark Ravenhill; Winning Words at Olympic Park,2012,https://www.bbc.co.uk/programmes/b01gf5ww,John Wall,0.5,0.519444465637207,0.5066235661506653,0.5764533281326294
+Gloucester 19-24 Sale,2012,https://www.bbc.co.uk/sport/rugby-union/17749428,James Harden,0.118491796269574,0.5461082220077514,0.5474067211151123,0.5816807746887207
+Gloucester 29-23 Harlequins,2012,https://www.bbc.co.uk/sport/rugby-union/17106624,James Harden,0.1333109152752009,0.5893811242921012,0.5801106776509967,0.5816807746887207
+Leicester 36-3 Gloucester,2012,https://www.bbc.co.uk/sport/rugby-union/17196209,James Harden,0.0957981310803891,0.564056658744812,0.5491120338439941,0.5816807746887207
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Chris Bosh,0.2387205387205387,0.5659633427858353,0.6163017451763153,0.5798805952072144
+London 2012: Olympic sport this week,2012,https://www.bbc.co.uk/sport/olympics/16678808,Chris Bosh,0.2167136034255599,0.5947471802884882,0.5789594379338351,0.5798805952072144
+Sportsday Live - Monday 16 January,2012,http://news.bbc.co.uk/sport1/hi/front_page/9678373.stm,Chris Bosh,0.1363636363636363,0.5280417203903198,0.537777841091156,0.5798805952072144
+Hamilton 0-1 Falkirk,2012,https://www.bbc.co.uk/sport/football/17086210,Ryan Anderson,-0.0642857142857143,0.592654675245285,0.5885965824127197,0.5659393072128296
+Morton 1-2 Hamilton,2012,https://www.bbc.co.uk/sport/football/17162133,Ryan Anderson,0.1,0.5832888782024384,0.5993974804878235,0.5659393072128296
+Hamilton 2-1 Raith Rovers,2012,https://www.bbc.co.uk/sport/football/17108476,Ryan Anderson,0.2590909090909091,0.5892834067344666,0.5428500374158224,0.5659393072128296
+Rawtenstall death: Ryan Anderton window fall theory,2012,https://www.bbc.co.uk/news/uk-england-lancashire-17054534,Ryan Anderson,0.0,0.5444962382316589,0.501345694065094,0.5659393072128296
+Hamilton 1-2 Morton,2012,https://www.bbc.co.uk/sport/football/17036143,Ryan Anderson,0.0952777777777778,0.5413208603858948,0.5413219928741455,0.5659393072128296
+Clyde 1-2 Queen's Park,2012,https://www.bbc.co.uk/sport/football/16375139,Ryan Anderson,-0.0282738095238095,0.581032395362854,0.5265670716762543,0.5659393072128296
+Question Time,2012,http://news.bbc.co.uk/democracylive/hi/northern_ireland/newsid_9681000/9681783.stm,Ryan Anderson,0.0,0.6499050855636597,0.6859827041625977,0.5659393072128296
+Alloa Athletic 1-0 Clyde,2012,https://www.bbc.co.uk/sport/football/17162199,Ryan Anderson,0.1086805555555555,0.5697380701700846,0.5734964807828268,0.5659393072128296
+Worcestershire set to lose Gareth Andrew to injury,2012,https://www.bbc.co.uk/sport/cricket/16414383,Marcus Thornton,0.0549999999999999,0.5901605188846588,0.6199195683002472,0.5763582587242126
+AFC Wimbledon boss Terry Brown says Jason Prior has suffered broken leg,2012,https://www.bbc.co.uk/sport/av/football/17706601,Jason Terry,-0.2,0.5382584929466248,0.5518388152122498,0.5591647624969482
+Calls for John Terry to step down as England captain,2012,https://www.bbc.co.uk/newsround/16849460,Jason Terry,-0.1555555555555555,0.5211457014083862,0.6565213203430176,0.5591647624969482
+Ex-Wimbledon striker Jason Euell joins AFC Wimbledon on loan,2012,https://www.bbc.co.uk/sport/football/16494258,Jason Terry,0.2987179487179487,0.5579270521799723,0.5707828203837076,0.5591647624969482
+Crawley Town 1-1 AFC Wimbledon,2012,https://www.bbc.co.uk/sport/football/17643359,Jason Terry,-0.0330578512396694,0.5401556491851807,0.5436590909957886,0.5591647624969482
+John Terry's role as England captain debated by FA bosses,2012,https://www.bbc.co.uk/sport/football/16846990,Jason Terry,0.0840110286538858,0.5713950097560883,0.5614988803863525,0.5591647624969482
+AFC Wimbledon sign Byron Harrison from Stevenage,2012,https://www.bbc.co.uk/sport/football/16497505,Jason Terry,0.2,0.5745383203029633,0.5571425259113312,0.5591647624969482
+"Pakistan v England, third one-day international, as it happened",2012,https://www.bbc.co.uk/sport/cricket/17080332,Kevin Garnett,0.1266573336489382,0.5746139403312437,0.5650846717819091,0.600888192653656
+Linfield and Portadown wait for news of injured strikers,2012,https://www.bbc.co.uk/sport/football/17074135,Wesley Matthews,0.0925407925407925,0.5828008850415548,0.5277674595514933,0.571195125579834
+Friday's gossip column,2012,http://news.bbc.co.uk/sport1/hi/football/gossip_and_transfers/9672259.stm,Wesley Matthews,0.1533170995670995,0.5643635392189026,0.6373186707496643,0.571195125579834
+Blaenau Gwent web TV channel backed by Sir Terry Matthews,2012,https://www.bbc.co.uk/news/uk-wales-south-east-wales-16142500,Wesley Matthews,0.0,0.5481644868850708,0.6869316697120667,0.571195125579834
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Derrick Rose,0.2387205387205387,0.5622703433036804,0.6177651435136795,0.5896608829498291
+Great Britain's Luol Deng to make NBA history,2012,https://www.bbc.co.uk/sport/basketball/16982141,Derrick Rose,0.0590402703536184,0.5559654037157694,0.5690151453018188,0.5896608829498291
+NBA big names back Luol Deng to star for Great Britain,2012,https://www.bbc.co.uk/sport/basketball/17176959,Derrick Rose,0.2623327430145613,0.5634580751260122,0.5742992560068766,0.5896608829498291
+NFL highlights - Brandon Marshall stars in Pro Bowl,2012,https://www.bbc.co.uk/sport/av/american-football/16785493,Brandon Knight,0.0,0.5418964624404907,0.5237256288528442,0.5680654048919678
+UEA chancellor Sir Brandon Gough dies,2012,https://www.bbc.co.uk/news/uk-england-norfolk-17862969,Brandon Knight,0.0,0.5334526300430298,0.5283054709434509,0.5680654048919678
+Panthers forward David Clarke passes goalscoring record,2012,https://www.bbc.co.uk/sport/ice-hockey/16366040,Brandon Knight,0.2848214285714285,0.5546717047691345,0.5837377309799194,0.5680654048919678
+London 2012: Luol Deng's journey to the Olympics,2012,https://www.bbc.co.uk/sport/olympics/17480700,Luol Deng,0.1522638146167558,0.5708475708961487,0.6119782626628876,0.5595824718475342
+Latest news Luol Deng,2012,http://news.bbc.co.uk/sport1/hi/olympic_games/world_olympic_dreams/8978032.stm,Luol Deng,0.1324357707509881,0.5801466703414917,0.56641526222229,0.5595824718475342
+Luol Deng 'honoured' by All-Star call-up,2012,https://www.bbc.co.uk/sport/av/basketball/17168611,Luol Deng,0.0,0.7322427034378052,0.6382095217704773,0.5595824718475342
+Britain's Luol Deng explains All-Star T-shirt gesture,2012,https://www.bbc.co.uk/sport/av/basketball/17178117,Luol Deng,0.0,0.5843114852905273,0.6463167071342468,0.5595824718475342
+London 2012: Luol Deng wrist injury worry for GB Olympic team,2012,https://www.bbc.co.uk/sport/basketball/16712536,Luol Deng,0.2092908346134152,0.5141433676083883,0.5985487699508667,0.5595824718475342
+LeBron James says Great Britain's Luol Deng is a 'great player',2012,https://www.bbc.co.uk/sport/av/basketball/17164521,Luol Deng,0.8,0.5296540856361389,0.7650799751281738,0.5595824718475342
+Great Britain's Luol Deng to make NBA history,2012,https://www.bbc.co.uk/sport/basketball/16982141,Luol Deng,0.0590402703536184,0.6237675150235494,0.6266369223594666,0.5595824718475342
+Injured Luol Deng risks fine for Africa T-shirt in NBA All-Star Game,2012,https://www.bbc.co.uk/sport/basketball/17176233,Luol Deng,0.2469977553310886,0.5814396540323893,0.5338664849599203,0.5595824718475342
+NBA big names back Luol Deng to star for Great Britain,2012,https://www.bbc.co.uk/sport/basketball/17176959,Luol Deng,0.2623327430145613,0.5722021659215292,0.6024947861830393,0.5595824718475342
+NBA superstar Deng returns to his Sudan roots,2012,http://www.bbc.co.uk/sport/0/olympics/17314096,Luol Deng,0.1434045459012292,0.5757743782467313,0.563570413324568,0.5595824718475342
+Hoops star given hero's welcome home,2012,https://www.bbc.co.uk/sport/av/olympics/17314104,Luol Deng,0.8,0.5836997032165527,0.6022759675979614,0.5595824718475342
+London 2012: Great Britain announce men's basketball squad,2012,https://www.bbc.co.uk/sport/olympics/17668619,Luol Deng,0.2333333333333333,0.6305077075958252,0.5571746230125427,0.5595824718475342
+Drexler talks up GB Olympic chances,2012,https://www.bbc.co.uk/sport/av/olympics/17289812,Luol Deng,0.0,0.7632158994674683,0.637067973613739,0.5595824718475342
+World Olympic Dreams: November 2011,2012,http://news.bbc.co.uk/sport1/hi/olympic_games/world_olympic_dreams/9677418.stm,Luol Deng,0.0,0.6172922849655151,0.5966448187828064,0.5595824718475342
+World Olympic Dreams: November 2011,2012,https://www.bbc.co.uk/sport/av/olympics/17382531,Luol Deng,0.0,0.5805888772010803,0.5183681845664978,0.5595824718475342
+World's newest nation South Sudan rejoices in basketball,2012,https://www.bbc.co.uk/news/world-africa-17064104,Luol Deng,0.0,0.561638355255127,0.5039846897125244,0.5595824718475342
+NBA star Byron Mullens confirms GB eligibility for London 2012,2012,https://www.bbc.co.uk/sport/basketball/17240669,Luol Deng,0.3103030303030302,0.6082462072372437,0.5670672655105591,0.5595824718475342
+World Olympic Dreams: May 2011,2012,https://www.bbc.co.uk/sport/av/olympics/17382528,Luol Deng,0.0,0.5284023880958557,0.5783291459083557,0.5595824718475342
+GB captain Drew Sullivan on discovering basketball by chance,2012,https://www.bbc.co.uk/sport/olympics/17693107,Luol Deng,0.1874103174603174,0.5843224644660949,0.5502678990364075,0.5595824718475342
+More acts for Stendhal Festival!,2012,http://www.bbc.co.uk/blogs/acrosstheline/2012/04/more_acts_for_stendhal_festiva.html,Steve Nash,0.625,0.5355216860771179,0.5037354826927185,0.6029580235481262
+Worcestershire set to lose Gareth Andrew to injury,2012,https://www.bbc.co.uk/sport/cricket/16414383,Steve Nash,0.0549999999999999,0.6273470222949982,0.5364939272403717,0.6029580235481262
+Catalan Dragons 28-20 Castleford,2012,https://www.bbc.co.uk/sport/rugby-league/17031551,Steve Nash,0.0229032258064516,0.5983239650726319,0.605372941493988,0.6029580235481262
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Andre Iguodala,0.2387205387205387,0.5688521265983582,0.5683818310499191,0.6066184639930725
+NFL highlights - Brandon Marshall stars in Pro Bowl,2012,https://www.bbc.co.uk/sport/av/american-football/16785493,Brandon Bass,0.0,0.6413968205451965,0.5071455836296082,0.5587308406829834
+Results from 2011,2012,http://news.bbc.co.uk/sport1/hi/boxing/statistics/9353537.stm,Brandon Bass,0.0379406307977736,0.5763124084472656,0.5727974700927735,0.5587308406829834
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Tyson Chandler,0.2387205387205387,0.5976075977087021,0.5735227316617966,0.5743522047996521
+Sunderland boss O'Neill confirms bid for Davies rejected,2012,https://www.bbc.co.uk/sport/football/16783028,Kevin Martin,0.1308928571428571,0.5672256648540497,0.5213285684585571,0.5758121609687805
+PC Debra Martin 'coerced to change Hillsborough notes',2012,https://www.bbc.co.uk/news/uk-england-south-yorkshire-17126678,Kevin Martin,0.0,0.5127633810043335,0.5186812877655029,0.5758121609687805
+Broadway director Theodore Mann dies aged 87,2012,https://www.bbc.co.uk/news/entertainment-arts-17189590,Kevin Martin,-0.1,0.5896090269088745,0.6265506148338318,0.5758121609687805
+Crewe's Nick Powell wins Football League Young Player of the Month award,2012,https://www.bbc.co.uk/sport/av/football/16623553,Nick Young,0.2,0.6456193923950195,0.6395381093025208,0.5711488127708435
+Crewe Alexandra's Nick Powell wins League's young player award,2012,https://www.bbc.co.uk/sport/football/16561789,Nick Young,0.196668729905572,0.565160870552063,0.5583392381668091,0.5711488127708435
+Meet the Author: Moira Young,2012,https://www.bbc.co.uk/news/entertainment-arts-16604528,Nick Young,0.1,0.6443166732788086,0.7153089046478271,0.5711488127708435
+Producing players a joint effort - academy boss Nick Cox,2012,https://www.bbc.co.uk/sport/av/football/17444138,Nick Young,0.0,0.5370264053344727,0.778529942035675,0.5711488127708435
+Deputy PM Nick Clegg makes youth jobs pledge,2012,https://www.bbc.co.uk/news/business-17584148,Nick Young,0.0,0.6312214732170105,0.5856196284294128,0.5711488127708435
+Met officers were 'rude and aggressive',2012,http://news.bbc.co.uk/today/hi/today/newsid_9711000/9711645.stm,Nick Young,-0.3,0.5003156661987305,0.55271315574646,0.5711488127708435
+Nick Clegg urges bosses to back Â£1bn youth jobs plan,2012,http://www.bbc.co.uk/news/uk-politics-17010683,Nick Young,0.0,0.593923807144165,0.6809484362602234,0.5711488127708435
+Are you singing The People's Passion?,2012,http://www.bbc.co.uk/blogs/radio4/2012/03/are_you_singing_the_peoples_pa.html,Nick Young,0.0,0.557928740978241,0.6974833607673645,0.5711488127708435
+Who's Angry Now?,2012,https://www.bbc.co.uk/programmes/b01fjx67,Nick Young,-0.5,0.5891210436820984,0.535522997379303,0.5711488127708435
+PMQs: Harriet Harman and Nick Clegg on unemployment,2012,https://www.bbc.co.uk/news/uk-politics-17368276,Nick Young,0.0,0.6029977202415466,0.7834851145744324,0.5711488127708435
+Northampton's Jim Mallinder hails Dowson and Dickson,2012,https://www.bbc.co.uk/sport/rugby-union/16947907,Courtney Lee,0.2271666666666666,0.5552244583765665,0.6062332987785339,0.5719954967498779
+Welsh Premier & non-league round-up,2012,https://www.bbc.co.uk/sport/football/17794862,Courtney Lee,0.079040404040404,0.5724532902240753,0.5500316023826599,0.5719954967498779
+Six Nations: Manu Tuilagi set for England recall says Lancaster,2012,https://www.bbc.co.uk/sport/rugby-union/17049773,Courtney Lee,0.1089304373787132,0.594649076461792,0.6197441220283508,0.5719954967498779
+St Michael's Enniskillen lose Hogan Cup final at Croke Park,2012,https://www.bbc.co.uk/sport/northern-ireland/17627856,Courtney Lee,0.0897727272727272,0.5342032611370087,0.5458098948001862,0.5719954967498779
+Six Nations: Manu Tuilagi returns as England make four changes,2012,https://www.bbc.co.uk/sport/rugby-union/17113046,Courtney Lee,0.1488776524022425,0.5539214238524437,0.6294123232364655,0.5719954967498779
+England coach Lancaster cuts Toby Flood from Italy squad,2012,https://www.bbc.co.uk/sport/rugby-union/16899092,Courtney Lee,0.1184523809523809,0.584688276052475,0.5679252594709396,0.5719954967498779
+Six Nations: Toby Flood released by England ahead of France clash,2012,https://www.bbc.co.uk/sport/rugby-union/17277936,Courtney Lee,0.0272727272727272,0.554075300693512,0.5411166946093241,0.5719954967498779
+England draft in Quins scrum-half Karl Dickson,2012,https://www.bbc.co.uk/sport/rugby-union/17263511,Courtney Lee,0.1749074074074073,0.6436374286810557,0.5707869033018748,0.5719954967498779
+Six Nations: Jim Mallinder welcomes exodus of players to England,2012,https://www.bbc.co.uk/sport/rugby-union/16513472,Courtney Lee,0.1242592592592592,0.5730642080307007,0.5583556294441223,0.5719954967498779
+Six Nations: England name unchanged side to face Italy,2012,https://www.bbc.co.uk/sport/rugby-union/16962216,Courtney Lee,0.0795454545454545,0.580608586470286,0.5477877259254456,0.5719954967498779
+Martin Allen looks to improve Notts County squad,2012,https://www.bbc.co.uk/sport/football/16356849,Ray Allen,0.4260276679841897,0.5615166425704956,0.570405920346578,0.5728529691696167
+Soutik Biswas,2012,https://www.bbc.co.uk/news/correspondents/soutikbiswas,Ray Allen,0.0,0.5802071690559387,0.6151783466339111,0.5728529691696167
+BBC pound-for-pound British rankings,2012,http://news.bbc.co.uk/sport1/hi/boxing/4184227.stm,Darren Collison,0.1045454545454545,0.5925752073526382,0.587389200925827,0.5863546133041382
+Mexico ex-President Miguel de la Madrid dies at 77,2012,https://www.bbc.co.uk/news/world-latin-america-17579644,José Calderón,0.0,0.6521204113960266,0.6232541799545288,0.5973782539367676
+Race to Mexico's presidential palace begins,2012,https://www.bbc.co.uk/news/world-latin-america-17565234,José Calderón,0.0,0.5436744689941406,0.5073403716087341,0.5973782539367676
+Sportsday Live - breaking sports news,2012,http://news.bbc.co.uk/sport1/hi/front_page/9681499.stm,José Calderón,0.156060606060606,0.6594377756118774,0.5175045132637024,0.5973782539367676
+Results from 2011,2012,http://news.bbc.co.uk/sport1/hi/boxing/statistics/9353537.stm,José Calderón,0.0379406307977736,0.5723576569557189,0.5698839044570922,0.5973782539367676
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Chauncey Billups,0.2387205387205387,0.6010068506002426,0.5299033224582672,0.6047782301902771
+London 2012: Great Britain announce men's basketball squad,2012,https://www.bbc.co.uk/sport/olympics/17668619,Eric Gordon,0.2333333333333333,0.582363486289978,0.5569239854812622,0.5842200517654419
+London 2012: LeBron James and Kobe Bryant in US Olympic squad,2012,https://www.bbc.co.uk/sport/basketball/16586122,Eric Gordon,0.2387205387205387,0.5513185113668442,0.6141970604658127,0.5842200517654419
+"Oldest woman in Scotland Janet Roberts dies, aged 110",2012,https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-17675827,Eric Gordon,-0.1,0.6154345273971558,0.5203195214271545,0.5842200517654419
+Worcestershire set to lose Gareth Andrew to injury,2012,https://www.bbc.co.uk/sport/cricket/16414383,Andrew Bogut,0.0549999999999999,0.5405017137527466,0.605532705783844,0.5645127296447754
