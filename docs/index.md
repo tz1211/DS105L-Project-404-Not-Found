@@ -40,7 +40,11 @@ Data Source:
 
 ### Approach 
 
-Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: **individual performance** (how good is the player?), **team performance** (can the player carry a winning team?), and **media narrative** (is there a strong story behind a player's MVP bid?). Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
+Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: 
+* **individual performance**: how good is the player? 
+* **team performance**: can the player carry a winning team?
+* **media narrative**: is there a strong story behind a player's MVP bid? 
+Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
 ### :one: Quantitative Data (Individual performance + team performance) 
 
