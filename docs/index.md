@@ -345,7 +345,7 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
    - Utilizing cosine similarity helps measure the similarity between the content and statement vectors, providing a quantitative measure of how closely the news article aligns with the MVP statement. This similarity score reflects the relevance of the article to the MVP prediction and enables ranking or filtering of articles based on their relevance.
    - Normalizing the similarity scores ensures a consistent range of values between 0 and 1, facilitating easier interpretation and comparison of relevance scores. This normalization enables ranking articles based on their relevance scores and assists in distinguishing highly relevant articles from less relevant ones in the sports news analysis.
 
-**What does the data look like 🤔️ **
+**What does the data look like** 🤔️
 #### Table: Sample Final Data of NBA NEWS
 * *(Taking the sample from 2019-20 season). * 
 
