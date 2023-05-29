@@ -16,11 +16,7 @@ date-meta: 20 March 2023
 
 Are you curious about who will be crowned the next NBA MVP? Our MVP prediction website has got you covered! Get ready for an exciting journey where we dive into the world of elite basketball performance and statistical analysis to forecast the NBA's most valuable player.  
 
-With the NBA showcasing the pinnacle of basketball talent, predicting the MVP award is a thrilling challenge. We crunch the numbers, analyze player stats, and examine historical trends to make insightful predictions. Our goal is to uncover the standout players who have the potential to rise above the competition and leave a lasting impact on the game.
-
-But it doesn't stop there! The MVP race is always full of surprises, with unforeseen developments and breakout performances shaking things up. We'll keep you updated on the latest news, injuries, and team dynamics that could influence the MVP race.
-
-Join our passionate community of fans, experts, and analysts who love nothing more than engaging in lively debates and speculation about the NBA MVP. We provide a platform for sharing opinions, insights, and predictions, fueling the excitement and anticipation surrounding this prestigious award.
+With the NBA showcasing the pinnacle of basketball talent, predicting the MVP award is a thrilling challenge. We crunch the numbers, analyze player statistics, and examine historical trends to make insightful predictions. Our goal is to uncover the standout players who have the potential to rise above the competition and leave a lasting impact on the game.
 
 Whether you are a die-hard basketball enthusiast or just starting to explore the world of NBA MVP predictions, our user-friendly website is designed to make the experience enjoyable for everyone. So come on board and embark on this thrilling journey with us as we try to unravel the captivating mystery of the next NBA MVP!  
 
@@ -42,10 +38,13 @@ Data Source:
 
 <img width="2378" alt="Group Report: 404-not-found" src="https://github.com/tz1211/DS105L-Project-404-Not-Found/assets/114760508/7058c6c0-c454-4bd2-bbf5-8c515871542b">
 
+### Approach 
 
-### :one: Sports Matrix
+Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: **individual performance** (how good is the player?), **team performance** (can the player carry a winning team?), and **media narrative** (is there a strong story behind a player's MVP bid?). Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
-### Table 1: Basic data
+### :one: Quantitative Data (Individual performance + team performance) 
+
+### Table 1: Basic data ([player_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11592102/player_data.csv))
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
