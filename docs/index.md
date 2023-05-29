@@ -1,3 +1,11 @@
+<head>
+  <style>
+    td, th {
+    text-align: right;
+    }
+  </style>
+<head>
+
 ---
 title: "📚 Project Title"
 date: 20 March 2023
@@ -55,12 +63,6 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 <details>
 <summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
-
-<style>
-  td {
-  text-align: center;
-  }
-</style>
 
 <table>
 <thead>
