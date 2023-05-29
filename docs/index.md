@@ -12,7 +12,7 @@ date-meta: 20 March 2023
 - [Chengchao Lu (Spark)](https://github.com/Spark-LuC)
 - [Yan Zhou (Terry)](https://github.com/tz1211)
 
-## 📝 Project Description   
+# 📝 Project Description   
 
 Are you curious about who will be crowned the next NBA MVP? Our MVP prediction website has got you covered! Get ready for an exciting journey where we dive into the world of elite basketball performance and statistical analysis to forecast the NBA's most valuable player.  
 
@@ -32,13 +32,13 @@ Data Source:
 * [Hugging Face](https://huggingface.co/)
 
 
-## 📊 Data
+# 📊 Data
 
-### PROCEDURE MAP
+## PROCEDURE MAP
 
 <img width="2378" alt="Group Report: 404-not-found" src="https://github.com/tz1211/DS105L-Project-404-Not-Found/assets/114760508/7058c6c0-c454-4bd2-bbf5-8c515871542b">
 
-### Approach 
+## Approach 
 
 Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: 
 * **Individual performance**: How good is the player? 
@@ -47,9 +47,9 @@ Converntional basketball wisdom dictates that the MVP award is traditionally det
 
 Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
-### :one: Quantitative Data (Individual performance + team performance) 
+## :one: Quantitative Data (Individual performance + Team performance) 
 
-### Table 1: Individual Player Data ([player_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11592102/player_data.csv))
+### Table 1: Individual Player Data ([player_data.csv](../Data/player_data.csv))
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
@@ -66,7 +66,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 
-### Table 2: Team Data ([team_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv))
+### Table 2: Team Data ([team_data.csv](../Data/team_data.csv))
 
 |      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
 |------|------|---------|---------------------|-------------------|---|------------------|-------------------|
@@ -101,10 +101,11 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |58    |2022  |DETROIT PISTONS|Eastern              |23                 |59 |0.2804878048780488|14                 |
 |59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |
 
+* *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 
-### :two: Sports News and Media Narratives
+### :two: Qualitative Data (Sports News and Media Narratives)
 
-### Table 1: Quantified NBA Sports News - Sentiments and Relevance  
+### Table 3: Quantified NBA Sports News - Sentiments and Relevance  
 * *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  
 
 |    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
@@ -121,13 +122,14 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |  9 |   2020 | Buddy Hield          |            0.0858989 |        0.0858989 |         0.0941537 |         0.554056 |          23624.3 |            49410.2 |         60888.5 |          26 |
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
 
-### Table 2: Quantified BBC Sports News - Sentiments and Relevance  
+### Table 4: Quantified BBC Sports News - Sentiments and Relevance  
 * *(Taking the 2012-2023 season from the merged table, the top 10 samples)* 
 
-### Table 3: Count for MVP  
-* *It count all the NBA MVP in the history, and also record who won the MVP a year past and two years past. This table is used for import to the machine learning algorithm for further analysis*  
+### Table 5: MVP Count ([MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv))
 
- * Table 3 ----> [MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv)
+
+
+ * `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
 
 
 
