@@ -66,6 +66,40 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 
+### Table 2: Team Data ([team_data.csv](../Data/team_data.csv))
+
+|      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
+|------|------|---------|---------------------|-------------------|---|------------------|-------------------|
+|30    |2022  |PHOENIX SUNS|Western              |64                 |18 |0.7804878048780488|1                  |
+|31    |2022  |MEMPHIS GRIZZLIES|Western              |56                 |26 |0.6829268292682927|2                  |
+|32    |2022  |GOLDEN STATE WARRIORS|Western              |53                 |29 |0.6463414634146342|3                  |
+|33    |2022  |DALLAS MAVERICKS|Western              |52                 |30 |0.6341463414634146|4                  |
+|34    |2022  |UTAH JAZZ|Western              |49                 |33 |0.5975609756097561|5                  |
+|35    |2022  |DENVER NUGGETS|Western              |48                 |34 |0.5853658536585366|6                  |
+|36    |2022  |MINNESOTA TIMBERWOLVES|Western              |46                 |36 |0.5609756097560976|7                  |
+|37    |2022  |LOS ANGELES CLIPPERS|Western              |42                 |40 |0.5121951219512195|8                  |
+|38    |2022  |NEW ORLEANS PELICANS|Western              |36                 |46 |0.4390243902439024|9                  |
+|39    |2022  |SAN ANTONIO SPURS|Western              |34                 |48 |0.4146341463414634|10                 |
+|40    |2022  |LOS ANGELES LAKERS|Western              |33                 |49 |0.4024390243902439|11                 |
+|41    |2022  |SACRAMENTO KINGS|Western              |30                 |52 |0.3658536585365853|12                 |
+|42    |2022  |PORTLAND TRAIL BLAZERS|Western              |27                 |55 |0.3292682926829268|13                 |
+|43    |2022  |OKLAHOMA CITY THUNDER|Western              |24                 |58 |0.2926829268292683|14                 |
+|44    |2022  |HOUSTON ROCKETS|Western              |20                 |62 |0.2439024390243902|15                 |
+|45    |2022  |MIAMI HEAT|Eastern              |53                 |29 |0.6463414634146342|1                  |
+|46    |2022  |BOSTON CELTICS|Eastern              |51                 |31 |0.6219512195121951|2                  |
+|47    |2022  |MILWAUKEE BUCKS|Eastern              |51                 |31 |0.6219512195121951|3                  |
+|48    |2022  |PHILADELPHIA 76ERS|Eastern              |51                 |31 |0.6219512195121951|4                  |
+|49    |2022  |TORONTO RAPTORS|Eastern              |48                 |34 |0.5853658536585366|5                  |
+|50    |2022  |CHICAGO BULLS|Eastern              |46                 |36 |0.5609756097560976|6                  |
+|51    |2022  |BROOKLYN NETS|Eastern              |44                 |38 |0.5365853658536586|7                  |
+|52    |2022  |CLEVELAND CAVALIERS|Eastern              |44                 |38 |0.5365853658536586|8                  |
+|53    |2022  |ATLANTA HAWKS|Eastern              |43                 |39 |0.524390243902439 |9                  |
+|54    |2022  |CHARLOTTE HORNETS|Eastern              |43                 |39 |0.524390243902439 |10                 |
+|55    |2022  |NEW YORK KNICKS|Eastern              |37                 |45 |0.4512195121951219|11                 |
+|56    |2022  |WASHINGTON WIZARDS|Eastern              |35                 |47 |0.4268292682926829|12                 |
+|57    |2022  |INDIANA PACERS|Eastern              |25                 |57 |0.3048780487804878|13                 |
+|58    |2022  |DETROIT PISTONS|Eastern              |23                 |59 |0.2804878048780488|14                 |
+|59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |
 
 
 ### :two: Sports News and Media Narratives
