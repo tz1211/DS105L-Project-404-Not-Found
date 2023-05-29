@@ -891,7 +891,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <th align="right"></th>
 <th align="right">time</th>
-<th align="left">most_frequent_name</th>
+<th align="right">most_frequent_name</th>
 <th align="right">textblob_Sentiment</th>
 <th align="right">nltk_Sentiment</th>
 <th align="right">relevance_score</th>
@@ -905,7 +905,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tbody><tr>
 <td align="right">0</td>
 <td align="right">2020</td>
-<td align="left">Aaron Gordon</td>
+<td align="right">Aaron Gordon</td>
 <td align="right">0.0923111</td>
 <td align="right">0.0923111</td>
 <td align="right">0.131483</td>
@@ -918,7 +918,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">1</td>
 <td align="right">2020</td>
-<td align="left">Al Horford</td>
+<td align="right">Al Horford</td>
 <td align="right">0.05169</td>
 <td align="right">0.05169</td>
 <td align="right">0.117488</td>
@@ -931,7 +931,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">2</td>
 <td align="right">2020</td>
-<td align="left">Andre Drummond</td>
+<td align="right">Andre Drummond</td>
 <td align="right">0.0369387</td>
 <td align="right">0.0369387</td>
 <td align="right">0.158727</td>
@@ -944,7 +944,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">3</td>
 <td align="right">2020</td>
-<td align="left">Andrew Wiggins</td>
+<td align="right">Andrew Wiggins</td>
 <td align="right">0.0904019</td>
 <td align="right">0.0904019</td>
 <td align="right">0.0992229</td>
@@ -957,7 +957,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">4</td>
 <td align="right">2020</td>
-<td align="left">Anthony Davis</td>
+<td align="right">Anthony Davis</td>
 <td align="right">0.120779</td>
 <td align="right">0.120779</td>
 <td align="right">0.189062</td>
@@ -970,7 +970,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">5</td>
 <td align="right">2020</td>
-<td align="left">Bam Adebayo</td>
+<td align="right">Bam Adebayo</td>
 <td align="right">0.0589134</td>
 <td align="right">0.0589134</td>
 <td align="right">0.0640164</td>
@@ -983,7 +983,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">6</td>
 <td align="right">2020</td>
-<td align="left">Ben Simmons</td>
+<td align="right">Ben Simmons</td>
 <td align="right">0.0598212</td>
 <td align="right">0.0598212</td>
 <td align="right">0.196928</td>
@@ -996,7 +996,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">7</td>
 <td align="right">2020</td>
-<td align="left">Bradley Beal</td>
+<td align="right">Bradley Beal</td>
 <td align="right">0.0754871</td>
 <td align="right">0.0754871</td>
 <td align="right">0.102333</td>
@@ -1009,7 +1009,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">8</td>
 <td align="right">2020</td>
-<td align="left">Brandon Ingram</td>
+<td align="right">Brandon Ingram</td>
 <td align="right">0.0879199</td>
 <td align="right">0.0879199</td>
 <td align="right">0.0901602</td>
@@ -1022,7 +1022,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">9</td>
 <td align="right">2020</td>
-<td align="left">Buddy Hield</td>
+<td align="right">Buddy Hield</td>
 <td align="right">0.0858989</td>
 <td align="right">0.0858989</td>
 <td align="right">0.0941537</td>
@@ -1035,7 +1035,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">10</td>
 <td align="right">2020</td>
-<td align="left">CJ McCollum</td>
+<td align="right">CJ McCollum</td>
 <td align="right">0.0737269</td>
 <td align="right">0.0737269</td>
 <td align="right">0.276422</td>
@@ -1058,7 +1058,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <th align="right"></th>
 <th align="right">time</th>
-<th align="left">most_frequent_name</th>
+<th align="right">most_frequent_name</th>
 <th align="right">textblob_sentiment</th>
 <th align="right">sentiment_bert_average_score</th>
 <th align="right">sentiment_xlnet_average_score</th>
@@ -1070,7 +1070,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tbody><tr>
 <td align="right">0</td>
 <td align="right">2023</td>
-<td align="left">Aaron Gordon</td>
+<td align="right">Aaron Gordon</td>
 <td align="right">0.107826</td>
 <td align="right">0.580768</td>
 <td align="right">0.569642</td>
@@ -1081,7 +1081,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">1</td>
 <td align="right">2023</td>
-<td align="left">Al Horford</td>
+<td align="right">Al Horford</td>
 <td align="right">0.0902433</td>
 <td align="right">0.560702</td>
 <td align="right">0.602442</td>
@@ -1092,7 +1092,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">2</td>
 <td align="right">2023</td>
-<td align="left">Andrew Wiggins</td>
+<td align="right">Andrew Wiggins</td>
 <td align="right">0.141368</td>
 <td align="right">0.597014</td>
 <td align="right">0.580687</td>
@@ -1103,7 +1103,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">3</td>
 <td align="right">2023</td>
-<td align="left">Anfernee Simons</td>
+<td align="right">Anfernee Simons</td>
 <td align="right">0.109778</td>
 <td align="right">0.557983</td>
 <td align="right">0.569789</td>
@@ -1114,7 +1114,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">4</td>
 <td align="right">2023</td>
-<td align="left">Anthony Davis</td>
+<td align="right">Anthony Davis</td>
 <td align="right">0.102784</td>
 <td align="right">0.592395</td>
 <td align="right">0.570054</td>
@@ -1125,7 +1125,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">5</td>
 <td align="right">2023</td>
-<td align="left">Anthony Edwards</td>
+<td align="right">Anthony Edwards</td>
 <td align="right">0.0561825</td>
 <td align="right">0.602159</td>
 <td align="right">0.6101</td>
@@ -1136,7 +1136,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">6</td>
 <td align="right">2023</td>
-<td align="left">Bam Adebayo</td>
+<td align="right">Bam Adebayo</td>
 <td align="right">0.192308</td>
 <td align="right">0.513591</td>
 <td align="right">0.590492</td>
@@ -1147,7 +1147,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">7</td>
 <td align="right">2023</td>
-<td align="left">Bojan Bogdanović</td>
+<td align="right">Bojan Bogdanović</td>
 <td align="right">0.138098</td>
 <td align="right">0.577742</td>
 <td align="right">0.575943</td>
@@ -1158,7 +1158,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">8</td>
 <td align="right">2023</td>
-<td align="left">Bradley Beal</td>
+<td align="right">Bradley Beal</td>
 <td align="right">0.122245</td>
 <td align="right">0.584892</td>
 <td align="right">0.581959</td>
@@ -1169,7 +1169,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">9</td>
 <td align="right">2023</td>
-<td align="left">Brandon Ingram</td>
+<td align="right">Brandon Ingram</td>
 <td align="right">0.0912451</td>
 <td align="right">0.608591</td>
 <td align="right">0.591863</td>
@@ -1181,35 +1181,137 @@ This table includes the win percentage and conference standing for each team. (S
 
 </details>
 
-{::options parse_block_html="true" /}
 <details>
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
-{::options parse_block_html="false" /}
 Sample MVP count for Stephen Curry  
 
-|Name         |Year|value|won_last_yr|won_2_yrs_before|
-|-------------|----|-----|-----------|----------------|
-|Stephen Curry|2023|2    |0          |0               |
-|Stephen Curry|2022|2    |0          |0               |
-|Stephen Curry|2021|2    |0          |0               |
-|Stephen Curry|2020|2    |0          |0               |
-|Stephen Curry|2019|2    |0          |0               |
-|Stephen Curry|2018|2    |0          |1               |
-|Stephen Curry|2017|2    |1          |1               |
-|Stephen Curry|2016|1    |1          |0               |
-|Stephen Curry|2015|0    |0          |0               |
-|Stephen Curry|2014|0    |0          |0               |
-|Stephen Curry|2013|0    |0          |0               |
-|Stephen Curry|2012|0    |0          |0               |
-|Stephen Curry|2011|0    |0          |0               |
-|Stephen Curry|2010|0    |0          |0               |
-|Stephen Curry|2009|0    |0          |0               |
-|Stephen Curry|2008|0    |0          |0               |  
+<table style="text-align: right">
+<thead>
+<tr>
+<th>Name</th>
+<th>Year</th>
+<th>value</th>
+<th>won_last_yr</th>
+<th>won_2_yrs_before</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Stephen Curry</td>
+<td>2023</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2022</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2021</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2020</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2019</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2018</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2017</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2016</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2015</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2014</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2013</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2012</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2011</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2010</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2009</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2008</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody></table>
 
 * `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
-{::options parse_block_html="true" /}
 </details>
-{::options parse_block_html="false" /}
+
 
 ## Final Merged Data 
 
@@ -1409,7 +1511,7 @@ One limitation of using BBC sports news for sentiment analysis is from gathering
 In situations where the web scraping fails to retrieve the content, the code will relying solely on the news title for sentiment analysis which poses a limitation. While the title can provide some insight, it may not capture the full sentiment or context present in the article's body. 
 
 
-## 🧠 Random Forest Algorithm 
+## 🧠 Random Forest Algorithm 
 
 
 
