@@ -128,18 +128,35 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
 </details>
 
-### Table 4: Quantified BBC Sports News - Sentiments and Relevance  
+<details>
+<summary><strong>Table 4: Quantified BBC Sports News - Sentiments and Relevance</strong></summary>
 * *(Taking the 2010-2023 season from the merged table, the top 10 samples)* 
+</details>
 
-### Table 5: MVP Count ([MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv))
+<details>
+<summary><strong>Table 5: MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 
-
-
+|Name         |Year|value|won_last_yr|won_2_yrs_before|
+|-------------|----|-----|-----------|----------------|
+|Stephen Curry|2023|2    |0          |0               |
+|Stephen Curry|2022|2    |0          |0               |
+|Stephen Curry|2021|2    |0          |0               |
+|Stephen Curry|2020|2    |0          |0               |
+|Stephen Curry|2019|2    |0          |0               |
+|Stephen Curry|2018|2    |0          |1               |
+|Stephen Curry|2017|2    |1          |1               |
+|Stephen Curry|2016|1    |1          |0               |
+|Stephen Curry|2015|0    |0          |0               |
+|Stephen Curry|2014|0    |0          |0               |
+|Stephen Curry|2013|0    |0          |0               |
+|Stephen Curry|2012|0    |0          |0               |
+|Stephen Curry|2011|0    |0          |0               |
+|Stephen Curry|2010|0    |0          |0               |
+|Stephen Curry|2009|0    |0          |0               |
+|Stephen Curry|2008|0    |0          |0               |
+ * Sample MVP count for Stephen Curry 
  * `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
-
-
-
-
+</details>
 
 
 ## 📈 Analysis
