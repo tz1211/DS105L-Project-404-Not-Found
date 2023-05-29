@@ -8,7 +8,7 @@ date-meta: 20 March 2023
 
 **Team members:** 
 
-- [Member 1]()
+- [Litong Zhong(Annabel)](https://github.com/Litong-Annabel)
 - [Member 2]()
 - [Member 3]()
 
