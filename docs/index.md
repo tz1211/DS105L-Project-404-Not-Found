@@ -153,7 +153,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 <details>
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
-
+ * Sample MVP count for Stephen Curry 
 |Name         |Year|value|won_last_yr|won_2_yrs_before|
 |-------------|----|-----|-----------|----------------|
 |Stephen Curry|2023|2    |0          |0               |
@@ -172,7 +172,6 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |Stephen Curry|2010|0    |0          |0               |
 |Stephen Curry|2009|0    |0          |0               |
 |Stephen Curry|2008|0    |0          |0               |
- * Sample MVP count for Stephen Curry 
  * `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
 </details>
 
