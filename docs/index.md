@@ -54,7 +54,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 ### :one: Quantitative Data (Individual performance + Team performance) 
 
 <details>
-<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
+<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary><br>
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
@@ -73,7 +73,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 </details>
 
 <details>
-<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>  
+<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary><br>
 
 |      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
 |------|------|---------|---------------------|-------------------|---|------------------|-------------------|
@@ -115,7 +115,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 <details>
 <summary><strong>Quantified NBA Sports News - Sentiments and Relevance</strong></summary>
-* *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  
+* *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  <br>
 
 |    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
 |---:|-------:|:---------------------|---------------------:|-----------------:|------------------:|-----------------:|-----------------:|-------------------:|----------------:|------------:|
@@ -135,7 +135,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 <details>
 <summary><strong>Quantified BBC Sports News - Sentiments and Relevance</strong></summary>
-* *(Taking the 2010-2023 season from the merged table, the top 10 samples)* 
+* *(Taking the 2010-2023 season from the merged table, the top 10 samples)* <br>
 
 |    |   time | most_frequent_name      |   textblob_sentiment |   sentiment_bert_average_score |   sentiment_xlnet_average_score |   bert_relevance |   relevance_score |   frequency |
 |---:|-------:|:------------------------|---------------------:|-------------------------------:|--------------------------------:|-----------------:|------------------:|------------:|
@@ -154,7 +154,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 <details>
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
-Sample MVP count for Stephen Curry 
+Sample MVP count for Stephen Curry <br>
 
 |Name         |Year|value|won_last_yr|won_2_yrs_before|
 |-------------|----|-----|-----------|----------------|
@@ -199,7 +199,7 @@ Full df shape: 1216 x 54
 * Final dataframe with individual, team, and media narrative data all merged together 
 * Used as training set for the Machine Learning algorithm (with column `is_mvp` acting as the label) 
 
-### Merged data for 2023 season ([final_cleaned_data_2023.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data_2023.csv)) 
+### Merged data for 2023 season ([final_cleaned_data_2023.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data_2023.csv))
 
 |      |season|slug     |name             |team                  |age|%games_played     |minutes_played    |points            |assists           |attempted_field_goals|attempted_free_throws|attempted_three_point_field_goals|blocks            |defensive_rebounds|games_started     |made_field_goals  |made_free_throws  |made_three_point_field_goals|offensive_rebounds|personal_fouls    |steals            |turnovers         |field_goal%       |free_throw%       |3pt%              |assist_percentage|block_percentage|box_plus_minus|defensive_box_plus_minus|defensive_rebound_percentage|free_throw_attempt_rate|offensive_box_plus_minus|offensive_rebound_percentage|player_efficiency_rating|steal_percentage|three_point_attempt_rate|total_rebound_percentage|true_shooting_percentage|turnover_percentage|usage_percentage|value_over_replacement_player|win_shares_per_48_minutes|win_rate          |conference_standing|num_mvp|won_last_yr|won_2_yrs_before|textblob_sentiment|sentiment_bert_average_score|sentiment_xlnet_average_score|bert_relevance    |relevance_score   |frequency|
 |------|------|---------|-----------------|----------------------|---|------------------|------------------|------------------|------------------|---------------------|---------------------|---------------------------------|------------------|------------------|------------------|------------------|------------------|----------------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|-----------------|----------------|--------------|------------------------|----------------------------|-----------------------|------------------------|----------------------------|------------------------|----------------|------------------------|------------------------|------------------------|-------------------|----------------|-----------------------------|-------------------------|------------------|-------------------|-------|-----------|----------------|------------------|----------------------------|-----------------------------|------------------|------------------|---------|
