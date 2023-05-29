@@ -8,9 +8,9 @@ date-meta: 20 March 2023
 
 **Team members:** 
 
-- [Litong Zhong(Annabel)](https://github.com/Litong-Annabel)
-- [Chengchao Lu(Spark)]()
-- [Member 3]()
+- [Litong Zhong (Annabel)](https://github.com/Litong-Annabel)
+- [Chengchao Lu (Spark)]()
+- [Yan Zhou (Terry)](https://github.com/tz1211)
 
 ## 📝 Project Description   
 
