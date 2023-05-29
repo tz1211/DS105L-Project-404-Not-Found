@@ -54,7 +54,8 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 ### :one: Quantitative Data (Individual performance + Team performance) 
 
 <details>
-<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>
+<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
+ 
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
@@ -68,12 +69,14 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 1128 |     2022 | Harrison Barnes       | SACRAMENTO KINGS    |    29 |        0.939024 |          33.5974 |  16.4286 |   2.41558 |                10.8312  |                 5.36364 |                            4.67532  | 0.181818 |              4.54545 |               1 |            5.07792 |            4.42857 |                      1.84416   |             1.06494  |          1.22078 | 0.688312 |     1.53247 |      0.468825 |      0.825666 | 0.394444 |                10.5 |                0.5 |              0.2 |                       -1.3 |                           14.9 |                     0.495 |                        1.5 |                            3.4 |                       15.7 |                1   |                      0.432 |                        9.1 |                      0.623 |                  10.4 |               18.8 |                             1.4 |                       0.112 |        0 |
 | 1129 |     2022 | Scottie Barnes        | TORONTO RAPTORS     |    20 |        0.902439 |          35.3649 |  15.3243 |   3.45946 |                12.5946  |                 2.90541 |                            2.60811  | 0.743243 |              4.89189 |               1 |            6.2027  |            2.13514 |                      0.783784  |             2.63514  |          2.59459 | 1.08108  |     1.83784 |      0.492489 |      0.734884 | 0.300518 |                14.7 |                2.1 |              0.9 |                        0.4 |                           15.8 |                     0.231 |                        0.5 |                            7.7 |                       16.3 |                1.5 |                      0.207 |                       11.5 |                      0.552 |                  11.7 |               19   |                             1.9 |                       0.122 |        0 |
 | 1130 |     2022 | RJ Barrett            | NEW YORK KNICKS     |    21 |        0.853659 |          34.5286 |  20.0286 |   2.97143 |                17.0571  |                 5.8     |                            5.77143  | 0.228571 |              4.88571 |               1 |            6.95714 |            4.14286 |                      1.97143   |             0.942857 |          2.02857 | 0.614286 |     2.15714 |      0.407873 |      0.714286 | 0.341584 |                14.9 |                0.7 |             -1.6 |                       -1.3 |                           15.5 |                     0.34  |                       -0.3 |                            2.9 |                       13.7 |                0.9 |                      0.338 |                        9.1 |                      0.511 |                   9.9 |               27.6 |                             0.2 |                       0.046 |        0 |  
+ 
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
 
 <details>
-<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>
+<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>  
+ 
 
 |      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
 |------|------|---------|---------------------|-------------------|---|------------------|-------------------|
@@ -106,7 +109,9 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |56    |2022  |WASHINGTON WIZARDS|Eastern              |35                 |47 |0.4268292682926829|12                 |
 |57    |2022  |INDIANA PACERS|Eastern              |25                 |57 |0.3048780487804878|13                 |
 |58    |2022  |DETROIT PISTONS|Eastern              |23                 |59 |0.2804878048780488|14                 |
-|59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |
+|59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |  
+ 
+ 
 
 * *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
