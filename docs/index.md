@@ -66,7 +66,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 
-### Table 2: Team Data ([team_data.csv](../Data/team_data.csv))
+### Table 2: Team Data ([team_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv))
 
 |      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
 |------|------|---------|---------------------|-------------------|---|------------------|-------------------|
