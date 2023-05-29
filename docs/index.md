@@ -57,502 +57,504 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
 
 <table>
-    <tr>
-        <th></th>
-        <td>season</td>
-        <td>name</td>
-        <td>team</td>
-        <td>age</td>
-        <td>%games_played</td>
-        <td>minutes_played</td>
-        <td>points</td>
-        <td>assists</td>
-        <td>attempted_field_goals</td>
-        <td>attempted_free_throws</td>
-        <td>attempted_three_point_field_goals</td>
-        <td>blocks</td>
-        <td>defensive_rebounds</td>
-        <td>games_started</td>
-        <td>made_field_goals</td>
-        <td>made_free_throws</td>
-        <td>made_three_point_field_goals</td>
-        <td>offensive_rebounds</td>
-        <td>personal_fouls</td>
-        <td>steals</td>
-        <td>turnovers</td>
-        <td>field_goal%</td>
-        <td>free_throw%</td>
-        <td>3pt%</td>
-        <td>assist_percentage</td>
-        <td>block_percentage</td>
-        <td>box_plus_minus</td>
-        <td>defensive_box_plus_minus</td>
-        <td>defensive_rebound_percentage</td>
-        <td>free_throw_attempt_rate</td>
-        <td>offensive_box_plus_minus</td>
-        <td>offensive_rebound_percentage</td>
-        <td>player_efficiency_rating</td>
-        <td>steal_percentage</td>
-        <td>three_point_attempt_rate</td>
-        <td>total_rebound_percentage</td>
-        <td>true_shooting_percentage</td>
-        <td>turnover_percentage</td>
-        <td>usage_percentage</td>
-        <td>value_over_replacement_player</td>
-        <td>win_shares_per_48_minutes</td>
-        <td>is_mvp</td>
-    </tr>
-    <tr>
-        <th>1121</th>
-        <td>2022</td>
-        <td>Bam Adebayo</td>
-        <td>MIAMI HEAT</td>
-        <td>24</td>
-        <td>0.682927</td>
-        <td>32.5893</td>
-        <td>19.0714</td>
-        <td>3.39286</td>
-        <td>13.0179</td>
-        <td>6.07143</td>
-        <td>0.107143</td>
-        <td>0.785714</td>
-        <td>7.625</td>
-        <td>1</td>
-        <td>7.25</td>
-        <td>4.57143</td>
-        <td>0</td>
-        <td>2.44643</td>
-        <td>3.05357</td>
-        <td>1.42857</td>
-        <td>2.64286</td>
-        <td>0.556927</td>
-        <td>0.752941</td>
-        <td>0</td>
-        <td>17.5</td>
-        <td>2.6</td>
-        <td>3.8</td>
-        <td>2.1</td>
-        <td>26.1</td>
-        <td>0.466</td>
-        <td>1.7</td>
-        <td>8.7</td>
-        <td>21.8</td>
-        <td>2.2</td>
-        <td>0.008</td>
-        <td>17.5</td>
-        <td>0.608</td>
-        <td>14.4</td>
-        <td>25</td>
-        <td>2.7</td>
-        <td>0.188</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1122</th>
-        <td>2022</td>
-        <td>Jarrett Allen</td>
-        <td>CLEVELAND CAVALIERS</td>
-        <td>23</td>
-        <td>0.682927</td>
-        <td>32.3036</td>
-        <td>16.1429</td>
-        <td>1.64286</td>
-        <td>9.73214</td>
-        <td>4.16071</td>
-        <td>0.178571</td>
-        <td>1.33929</td>
-        <td>7.32143</td>
-        <td>1</td>
-        <td>6.58929</td>
-        <td>2.94643</td>
-        <td>0.0178571</td>
-        <td>3.42857</td>
-        <td>1.73214</td>
-        <td>0.785714</td>
-        <td>1.67857</td>
-        <td>0.677064</td>
-        <td>0.708155</td>
-        <td>0.1</td>
-        <td>8.2</td>
-        <td>3.7</td>
-        <td>3.9</td>
-        <td>1.2</td>
-        <td>24.5</td>
-        <td>0.428</td>
-        <td>2.7</td>
-        <td>12</td>
-        <td>23</td>
-        <td>1.2</td>
-        <td>0.018</td>
-        <td>18.4</td>
-        <td>0.698</td>
-        <td>12.7</td>
-        <td>18.1</td>
-        <td>2.7</td>
-        <td>0.225</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1123</th>
-        <td>2022</td>
-        <td>Giannis Antetokounmpo</td>
-        <td>MILWAUKEE BUCKS</td>
-        <td>27</td>
-        <td>0.817073</td>
-        <td>32.8955</td>
-        <td>29.8806</td>
-        <td>5.79104</td>
-        <td>18.5821</td>
-        <td>11.4328</td>
-        <td>3.61194</td>
-        <td>1.35821</td>
-        <td>9.61194</td>
-        <td>1</td>
-        <td>10.2836</td>
-        <td>8.25373</td>
-        <td>1.0597</td>
-        <td>2</td>
-        <td>3.16418</td>
-        <td>1.07463</td>
-        <td>3.26866</td>
-        <td>0.553414</td>
-        <td>0.721932</td>
-        <td>0.293388</td>
-        <td>31.7</td>
-        <td>4</td>
-        <td>11.2</td>
-        <td>3.5</td>
-        <td>30.4</td>
-        <td>0.615</td>
-        <td>7.6</td>
-        <td>6.6</td>
-        <td>32.1</td>
-        <td>1.6</td>
-        <td>0.194</td>
-        <td>18.7</td>
-        <td>0.633</td>
-        <td>12.2</td>
-        <td>34.9</td>
-        <td>7.4</td>
-        <td>0.281</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1124</th>
-        <td>2022</td>
-        <td>Cole Anthony</td>
-        <td>ORLANDO MAGIC</td>
-        <td>21</td>
-        <td>0.792683</td>
-        <td>31.6769</td>
-        <td>16.3385</td>
-        <td>5.67692</td>
-        <td>14.0308</td>
-        <td>3.89231</td>
-        <td>6.01538</td>
-        <td>0.261538</td>
-        <td>4.86154</td>
-        <td>1</td>
-        <td>5.49231</td>
-        <td>3.32308</td>
-        <td>2.03077</td>
-        <td>0.492308</td>
-        <td>2.63077</td>
-        <td>0.707692</td>
-        <td>2.61538</td>
-        <td>0.391447</td>
-        <td>0.853755</td>
-        <td>0.337596</td>
-        <td>28.9</td>
-        <td>0.8</td>
-        <td>-1.2</td>
-        <td>-0.6</td>
-        <td>16.2</td>
-        <td>0.277</td>
-        <td>-0.6</td>
-        <td>1.6</td>
-        <td>13.5</td>
-        <td>1.1</td>
-        <td>0.429</td>
-        <td>8.9</td>
-        <td>0.519</td>
-        <td>14.2</td>
-        <td>25.1</td>
-        <td>0.4</td>
-        <td>0.038</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1125</th>
-        <td>2022</td>
-        <td>OG Anunoby</td>
-        <td>TORONTO RAPTORS</td>
-        <td>24</td>
-        <td>0.585366</td>
-        <td>36</td>
-        <td>17.125</td>
-        <td>2.60417</td>
-        <td>14.5208</td>
-        <td>2.45833</td>
-        <td>6.60417</td>
-        <td>0.520833</td>
-        <td>3.95833</td>
-        <td>1</td>
-        <td>6.4375</td>
-        <td>1.85417</td>
-        <td>2.39583</td>
-        <td>1.54167</td>
-        <td>2.72917</td>
-        <td>1.47917</td>
-        <td>1.66667</td>
-        <td>0.443329</td>
-        <td>0.754237</td>
-        <td>0.362776</td>
-        <td>11</td>
-        <td>1.4</td>
-        <td>0.5</td>
-        <td>0.1</td>
-        <td>12.6</td>
-        <td>0.169</td>
-        <td>0.4</td>
-        <td>4.4</td>
-        <td>14.8</td>
-        <td>2.1</td>
-        <td>0.455</td>
-        <td>8.3</td>
-        <td>0.549</td>
-        <td>9.7</td>
-        <td>20.5</td>
-        <td>1.1</td>
-        <td>0.104</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1126</th>
-        <td>2022</td>
-        <td>LaMelo Ball</td>
-        <td>CHARLOTTE HORNETS</td>
-        <td>20</td>
-        <td>0.914634</td>
-        <td>32.2933</td>
-        <td>20.1067</td>
-        <td>7.61333</td>
-        <td>16.72</td>
-        <td>3.24</td>
-        <td>7.53333</td>
-        <td>0.4</td>
-        <td>5.24</td>
-        <td>1</td>
-        <td>7.17333</td>
-        <td>2.82667</td>
-        <td>2.93333</td>
-        <td>1.44</td>
-        <td>3.16</td>
-        <td>1.58667</td>
-        <td>3.26667</td>
-        <td>0.429027</td>
-        <td>0.872428</td>
-        <td>0.389381</td>
-        <td>35.7</td>
-        <td>1.2</td>
-        <td>3.4</td>
-        <td>0.1</td>
-        <td>17.4</td>
-        <td>0.194</td>
-        <td>3.3</td>
-        <td>4.7</td>
-        <td>19.7</td>
-        <td>2.4</td>
-        <td>0.451</td>
-        <td>11</td>
-        <td>0.554</td>
-        <td>15.3</td>
-        <td>28.2</td>
-        <td>3.3</td>
-        <td>0.116</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1127</th>
-        <td>2022</td>
-        <td>Lonzo Ball</td>
-        <td>CHICAGO BULLS</td>
-        <td>24</td>
-        <td>0.426829</td>
-        <td>34.6286</td>
-        <td>13</td>
-        <td>5.08571</td>
-        <td>10.9429</td>
-        <td>0.8</td>
-        <td>7.42857</td>
-        <td>0.885714</td>
-        <td>4.42857</td>
-        <td>1</td>
-        <td>4.62857</td>
-        <td>0.6</td>
-        <td>3.14286</td>
-        <td>1</td>
-        <td>2.42857</td>
-        <td>1.82857</td>
-        <td>2.34286</td>
-        <td>0.422977</td>
-        <td>0.75</td>
-        <td>0.423077</td>
-        <td>20</td>
-        <td>2.2</td>
-        <td>2.5</td>
-        <td>1.6</td>
-        <td>14.3</td>
-        <td>0.073</td>
-        <td>0.9</td>
-        <td>3.3</td>
-        <td>14.5</td>
-        <td>2.6</td>
-        <td>0.679</td>
-        <td>8.8</td>
-        <td>0.575</td>
-        <td>17.2</td>
-        <td>17.4</td>
-        <td>1.4</td>
-        <td>0.088</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1128</th>
-        <td>2022</td>
-        <td>Harrison Barnes</td>
-        <td>SACRAMENTO KINGS</td>
-        <td>29</td>
-        <td>0.939024</td>
-        <td>33.5974</td>
-        <td>16.4286</td>
-        <td>2.41558</td>
-        <td>10.8312</td>
-        <td>5.36364</td>
-        <td>4.67532</td>
-        <td>0.181818</td>
-        <td>4.54545</td>
-        <td>1</td>
-        <td>5.07792</td>
-        <td>4.42857</td>
-        <td>1.84416</td>
-        <td>1.06494</td>
-        <td>1.22078</td>
-        <td>0.688312</td>
-        <td>1.53247</td>
-        <td>0.468825</td>
-        <td>0.825666</td>
-        <td>0.394444</td>
-        <td>10.5</td>
-        <td>0.5</td>
-        <td>0.2</td>
-        <td>-1.3</td>
-        <td>14.9</td>
-        <td>0.495</td>
-        <td>1.5</td>
-        <td>3.4</td>
-        <td>15.7</td>
-        <td>1</td>
-        <td>0.432</td>
-        <td>9.1</td>
-        <td>0.623</td>
-        <td>10.4</td>
-        <td>18.8</td>
-        <td>1.4</td>
-        <td>0.112</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1129</th>
-        <td>2022</td>
-        <td>Scottie Barnes</td>
-        <td>TORONTO RAPTORS</td>
-        <td>20</td>
-        <td>0.902439</td>
-        <td>35.3649</td>
-        <td>15.3243</td>
-        <td>3.45946</td>
-        <td>12.5946</td>
-        <td>2.90541</td>
-        <td>2.60811</td>
-        <td>0.743243</td>
-        <td>4.89189</td>
-        <td>1</td>
-        <td>6.2027</td>
-        <td>2.13514</td>
-        <td>0.783784</td>
-        <td>2.63514</td>
-        <td>2.59459</td>
-        <td>1.08108</td>
-        <td>1.83784</td>
-        <td>0.492489</td>
-        <td>0.734884</td>
-        <td>0.300518</td>
-        <td>14.7</td>
-        <td>2.1</td>
-        <td>0.9</td>
-        <td>0.4</td>
-        <td>15.8</td>
-        <td>0.231</td>
-        <td>0.5</td>
-        <td>7.7</td>
-        <td>16.3</td>
-        <td>1.5</td>
-        <td>0.207</td>
-        <td>11.5</td>
-        <td>0.552</td>
-        <td>11.7</td>
-        <td>19</td>
-        <td>1.9</td>
-        <td>0.122</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <th>1130</th>
-        <td>2022</td>
-        <td>RJ Barrett</td>
-        <td>NEW YORK KNICKS</td>
-        <td>21</td>
-        <td>0.853659</td>
-        <td>34.5286</td>
-        <td>20.0286</td>
-        <td>2.97143</td>
-        <td>17.0571</td>
-        <td>5.8</td>
-        <td>5.77143</td>
-        <td>0.228571</td>
-        <td>4.88571</td>
-        <td>1</td>
-        <td>6.95714</td>
-        <td>4.14286</td>
-        <td>1.97143</td>
-        <td>0.942857</td>
-        <td>2.02857</td>
-        <td>0.614286</td>
-        <td>2.15714</td>
-        <td>0.407873</td>
-        <td>0.714286</td>
-        <td>0.341584</td>
-        <td>14.9</td>
-        <td>0.7</td>
-        <td>-1.6</td>
-        <td>-1.3</td>
-        <td>15.5</td>
-        <td>0.34</td>
-        <td>-0.3</td>
-        <td>2.9</td>
-        <td>13.7</td>
-        <td>0.9</td>
-        <td>0.338</td>
-        <td>9.1</td>
-        <td>0.511</td>
-        <td>9.9</td>
-        <td>27.6</td>
-        <td>0.2</td>
-        <td>0.046</td>
-        <td>0</td>
-    </tr>
-</table>
+<thead>
+<tr>
+<th></th>
+<th>season</th>
+<th>name</th>
+<th>team</th>
+<th>age</th>
+<th>%games_played</th>
+<th>minutes_played</th>
+<th>points</th>
+<th>assists</th>
+<th>attempted_field_goals</th>
+<th>attempted_free_throws</th>
+<th>attempted_three_point_field_goals</th>
+<th>blocks</th>
+<th>defensive_rebounds</th>
+<th>games_started</th>
+<th>made_field_goals</th>
+<th>made_free_throws</th>
+<th>made_three_point_field_goals</th>
+<th>offensive_rebounds</th>
+<th>personal_fouls</th>
+<th>steals</th>
+<th>turnovers</th>
+<th>field_goal%</th>
+<th>free_throw%</th>
+<th>3pt%</th>
+<th>assist_percentage</th>
+<th>block_percentage</th>
+<th>box_plus_minus</th>
+<th>defensive_box_plus_minus</th>
+<th>defensive_rebound_percentage</th>
+<th>free_throw_attempt_rate</th>
+<th>offensive_box_plus_minus</th>
+<th>offensive_rebound_percentage</th>
+<th>player_efficiency_rating</th>
+<th>steal_percentage</th>
+<th>three_point_attempt_rate</th>
+<th>total_rebound_percentage</th>
+<th>true_shooting_percentage</th>
+<th>turnover_percentage</th>
+<th>usage_percentage</th>
+<th>value_over_replacement_player</th>
+<th>win_shares_per_48_minutes</th>
+<th>is_mvp</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1121</td>
+<td>2022</td>
+<td>Bam Adebayo</td>
+<td>MIAMI HEAT</td>
+<td>24</td>
+<td>0.682927</td>
+<td>32.5893</td>
+<td>19.0714</td>
+<td>3.39286</td>
+<td>13.0179</td>
+<td>6.07143</td>
+<td>0.107143</td>
+<td>0.785714</td>
+<td>7.625</td>
+<td>1</td>
+<td>7.25</td>
+<td>4.57143</td>
+<td>0</td>
+<td>2.44643</td>
+<td>3.05357</td>
+<td>1.42857</td>
+<td>2.64286</td>
+<td>0.556927</td>
+<td>0.752941</td>
+<td>0</td>
+<td>17.5</td>
+<td>2.6</td>
+<td>3.8</td>
+<td>2.1</td>
+<td>26.1</td>
+<td>0.466</td>
+<td>1.7</td>
+<td>8.7</td>
+<td>21.8</td>
+<td>2.2</td>
+<td>0.008</td>
+<td>17.5</td>
+<td>0.608</td>
+<td>14.4</td>
+<td>25</td>
+<td>2.7</td>
+<td>0.188</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1122</td>
+<td>2022</td>
+<td>Jarrett Allen</td>
+<td>CLEVELAND CAVALIERS</td>
+<td>23</td>
+<td>0.682927</td>
+<td>32.3036</td>
+<td>16.1429</td>
+<td>1.64286</td>
+<td>9.73214</td>
+<td>4.16071</td>
+<td>0.178571</td>
+<td>1.33929</td>
+<td>7.32143</td>
+<td>1</td>
+<td>6.58929</td>
+<td>2.94643</td>
+<td>0.0178571</td>
+<td>3.42857</td>
+<td>1.73214</td>
+<td>0.785714</td>
+<td>1.67857</td>
+<td>0.677064</td>
+<td>0.708155</td>
+<td>0.1</td>
+<td>8.2</td>
+<td>3.7</td>
+<td>3.9</td>
+<td>1.2</td>
+<td>24.5</td>
+<td>0.428</td>
+<td>2.7</td>
+<td>12</td>
+<td>23</td>
+<td>1.2</td>
+<td>0.018</td>
+<td>18.4</td>
+<td>0.698</td>
+<td>12.7</td>
+<td>18.1</td>
+<td>2.7</td>
+<td>0.225</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1123</td>
+<td>2022</td>
+<td>Giannis Antetokounmpo</td>
+<td>MILWAUKEE BUCKS</td>
+<td>27</td>
+<td>0.817073</td>
+<td>32.8955</td>
+<td>29.8806</td>
+<td>5.79104</td>
+<td>18.5821</td>
+<td>11.4328</td>
+<td>3.61194</td>
+<td>1.35821</td>
+<td>9.61194</td>
+<td>1</td>
+<td>10.2836</td>
+<td>8.25373</td>
+<td>1.0597</td>
+<td>2</td>
+<td>3.16418</td>
+<td>1.07463</td>
+<td>3.26866</td>
+<td>0.553414</td>
+<td>0.721932</td>
+<td>0.293388</td>
+<td>31.7</td>
+<td>4</td>
+<td>11.2</td>
+<td>3.5</td>
+<td>30.4</td>
+<td>0.615</td>
+<td>7.6</td>
+<td>6.6</td>
+<td>32.1</td>
+<td>1.6</td>
+<td>0.194</td>
+<td>18.7</td>
+<td>0.633</td>
+<td>12.2</td>
+<td>34.9</td>
+<td>7.4</td>
+<td>0.281</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1124</td>
+<td>2022</td>
+<td>Cole Anthony</td>
+<td>ORLANDO MAGIC</td>
+<td>21</td>
+<td>0.792683</td>
+<td>31.6769</td>
+<td>16.3385</td>
+<td>5.67692</td>
+<td>14.0308</td>
+<td>3.89231</td>
+<td>6.01538</td>
+<td>0.261538</td>
+<td>4.86154</td>
+<td>1</td>
+<td>5.49231</td>
+<td>3.32308</td>
+<td>2.03077</td>
+<td>0.492308</td>
+<td>2.63077</td>
+<td>0.707692</td>
+<td>2.61538</td>
+<td>0.391447</td>
+<td>0.853755</td>
+<td>0.337596</td>
+<td>28.9</td>
+<td>0.8</td>
+<td>-1.2</td>
+<td>-0.6</td>
+<td>16.2</td>
+<td>0.277</td>
+<td>-0.6</td>
+<td>1.6</td>
+<td>13.5</td>
+<td>1.1</td>
+<td>0.429</td>
+<td>8.9</td>
+<td>0.519</td>
+<td>14.2</td>
+<td>25.1</td>
+<td>0.4</td>
+<td>0.038</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1125</td>
+<td>2022</td>
+<td>OG Anunoby</td>
+<td>TORONTO RAPTORS</td>
+<td>24</td>
+<td>0.585366</td>
+<td>36</td>
+<td>17.125</td>
+<td>2.60417</td>
+<td>14.5208</td>
+<td>2.45833</td>
+<td>6.60417</td>
+<td>0.520833</td>
+<td>3.95833</td>
+<td>1</td>
+<td>6.4375</td>
+<td>1.85417</td>
+<td>2.39583</td>
+<td>1.54167</td>
+<td>2.72917</td>
+<td>1.47917</td>
+<td>1.66667</td>
+<td>0.443329</td>
+<td>0.754237</td>
+<td>0.362776</td>
+<td>11</td>
+<td>1.4</td>
+<td>0.5</td>
+<td>0.1</td>
+<td>12.6</td>
+<td>0.169</td>
+<td>0.4</td>
+<td>4.4</td>
+<td>14.8</td>
+<td>2.1</td>
+<td>0.455</td>
+<td>8.3</td>
+<td>0.549</td>
+<td>9.7</td>
+<td>20.5</td>
+<td>1.1</td>
+<td>0.104</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1126</td>
+<td>2022</td>
+<td>LaMelo Ball</td>
+<td>CHARLOTTE HORNETS</td>
+<td>20</td>
+<td>0.914634</td>
+<td>32.2933</td>
+<td>20.1067</td>
+<td>7.61333</td>
+<td>16.72</td>
+<td>3.24</td>
+<td>7.53333</td>
+<td>0.4</td>
+<td>5.24</td>
+<td>1</td>
+<td>7.17333</td>
+<td>2.82667</td>
+<td>2.93333</td>
+<td>1.44</td>
+<td>3.16</td>
+<td>1.58667</td>
+<td>3.26667</td>
+<td>0.429027</td>
+<td>0.872428</td>
+<td>0.389381</td>
+<td>35.7</td>
+<td>1.2</td>
+<td>3.4</td>
+<td>0.1</td>
+<td>17.4</td>
+<td>0.194</td>
+<td>3.3</td>
+<td>4.7</td>
+<td>19.7</td>
+<td>2.4</td>
+<td>0.451</td>
+<td>11</td>
+<td>0.554</td>
+<td>15.3</td>
+<td>28.2</td>
+<td>3.3</td>
+<td>0.116</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1127</td>
+<td>2022</td>
+<td>Lonzo Ball</td>
+<td>CHICAGO BULLS</td>
+<td>24</td>
+<td>0.426829</td>
+<td>34.6286</td>
+<td>13</td>
+<td>5.08571</td>
+<td>10.9429</td>
+<td>0.8</td>
+<td>7.42857</td>
+<td>0.885714</td>
+<td>4.42857</td>
+<td>1</td>
+<td>4.62857</td>
+<td>0.6</td>
+<td>3.14286</td>
+<td>1</td>
+<td>2.42857</td>
+<td>1.82857</td>
+<td>2.34286</td>
+<td>0.422977</td>
+<td>0.75</td>
+<td>0.423077</td>
+<td>20</td>
+<td>2.2</td>
+<td>2.5</td>
+<td>1.6</td>
+<td>14.3</td>
+<td>0.073</td>
+<td>0.9</td>
+<td>3.3</td>
+<td>14.5</td>
+<td>2.6</td>
+<td>0.679</td>
+<td>8.8</td>
+<td>0.575</td>
+<td>17.2</td>
+<td>17.4</td>
+<td>1.4</td>
+<td>0.088</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1128</td>
+<td>2022</td>
+<td>Harrison Barnes</td>
+<td>SACRAMENTO KINGS</td>
+<td>29</td>
+<td>0.939024</td>
+<td>33.5974</td>
+<td>16.4286</td>
+<td>2.41558</td>
+<td>10.8312</td>
+<td>5.36364</td>
+<td>4.67532</td>
+<td>0.181818</td>
+<td>4.54545</td>
+<td>1</td>
+<td>5.07792</td>
+<td>4.42857</td>
+<td>1.84416</td>
+<td>1.06494</td>
+<td>1.22078</td>
+<td>0.688312</td>
+<td>1.53247</td>
+<td>0.468825</td>
+<td>0.825666</td>
+<td>0.394444</td>
+<td>10.5</td>
+<td>0.5</td>
+<td>0.2</td>
+<td>-1.3</td>
+<td>14.9</td>
+<td>0.495</td>
+<td>1.5</td>
+<td>3.4</td>
+<td>15.7</td>
+<td>1</td>
+<td>0.432</td>
+<td>9.1</td>
+<td>0.623</td>
+<td>10.4</td>
+<td>18.8</td>
+<td>1.4</td>
+<td>0.112</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1129</td>
+<td>2022</td>
+<td>Scottie Barnes</td>
+<td>TORONTO RAPTORS</td>
+<td>20</td>
+<td>0.902439</td>
+<td>35.3649</td>
+<td>15.3243</td>
+<td>3.45946</td>
+<td>12.5946</td>
+<td>2.90541</td>
+<td>2.60811</td>
+<td>0.743243</td>
+<td>4.89189</td>
+<td>1</td>
+<td>6.2027</td>
+<td>2.13514</td>
+<td>0.783784</td>
+<td>2.63514</td>
+<td>2.59459</td>
+<td>1.08108</td>
+<td>1.83784</td>
+<td>0.492489</td>
+<td>0.734884</td>
+<td>0.300518</td>
+<td>14.7</td>
+<td>2.1</td>
+<td>0.9</td>
+<td>0.4</td>
+<td>15.8</td>
+<td>0.231</td>
+<td>0.5</td>
+<td>7.7</td>
+<td>16.3</td>
+<td>1.5</td>
+<td>0.207</td>
+<td>11.5</td>
+<td>0.552</td>
+<td>11.7</td>
+<td>19</td>
+<td>1.9</td>
+<td>0.122</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1130</td>
+<td>2022</td>
+<td>RJ Barrett</td>
+<td>NEW YORK KNICKS</td>
+<td>21</td>
+<td>0.853659</td>
+<td>34.5286</td>
+<td>20.0286</td>
+<td>2.97143</td>
+<td>17.0571</td>
+<td>5.8</td>
+<td>5.77143</td>
+<td>0.228571</td>
+<td>4.88571</td>
+<td>1</td>
+<td>6.95714</td>
+<td>4.14286</td>
+<td>1.97143</td>
+<td>0.942857</td>
+<td>2.02857</td>
+<td>0.614286</td>
+<td>2.15714</td>
+<td>0.407873</td>
+<td>0.714286</td>
+<td>0.341584</td>
+<td>14.9</td>
+<td>0.7</td>
+<td>-1.6</td>
+<td>-1.3</td>
+<td>15.5</td>
+<td>0.34</td>
+<td>-0.3</td>
+<td>2.9</td>
+<td>13.7</td>
+<td>0.9</td>
+<td>0.338</td>
+<td>9.1</td>
+<td>0.511</td>
+<td>9.9</td>
+<td>27.6</td>
+<td>0.2</td>
+<td>0.046</td>
+<td>0</td>
+</tr>
+</tbody></table>
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
