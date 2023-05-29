@@ -265,11 +265,22 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
   - The TF-IDF vectors for the content and statement are passed to the cosine_similarity() function to calculate the cosine similarity score. Cosine similarity measures the similarity between two vectors by considering the angle between them. A higher score indicates a higher degree of similarity.
   - The similarity score is divided by the sum of the TF-IDF vector for the content (tfidf_matrix[0].sum()) to normalize it to a range between 0 and 1. Normalization allows for better comparison and interpretation of relevance scores across different articles.
 
-**It also suits sports news analysis and provide an additional perspective regarding relevance**. 
-- By representing the content and statement as TF-IDF vectors, the code captures the importance of specific terms within the sports news articles and the statement. This approach is particularly useful in sports news analysis, as it allows the identification of relevant articles based on the significance of terms related to players, game events, team dynamics, and other sports-specific information.
-- Utilizing cosine similarity helps measure the similarity between the content and statement vectors, providing a quantitative measure of how closely the news article aligns with the MVP statement. This similarity score reflects the relevance of the article to the MVP prediction and enables ranking or filtering of articles based on their relevance.
-- Normalizing the similarity scores ensures a consistent range of values between 0 and 1, facilitating easier interpretation and comparison of relevance scores. This normalization enables ranking articles based on their relevance scores and assists in distinguishing highly relevant articles from less relevant ones in the sports news analysis.
+   **It also suits sports news analysis and provide an additional perspective regarding relevance**. 
+   - By representing the content and statement as TF-IDF vectors, the code captures the importance of specific terms within the sports news articles and the statement. This approach is particularly useful in sports news analysis, as it allows the identification of relevant articles based on the significance of terms related to players, game events, team dynamics, and other sports-specific information.
+   - Utilizing cosine similarity helps measure the similarity between the content and statement vectors, providing a quantitative measure of how closely the news article aligns with the MVP statement. This similarity score reflects the relevance of the article to the MVP prediction and enables ranking or filtering of articles based on their relevance.
+   - Normalizing the similarity scores ensures a consistent range of values between 0 and 1, facilitating easier interpretation and comparison of relevance scores. This normalization enables ranking articles based on their relevance scores and assists in distinguishing highly relevant articles from less relevant ones in the sports news analysis.
 
+**How does the data look like 🤔️ **
+#### Table: Sample Final Data of NBA NEWS
+* *(Taking the sample from 2019-20 season). * 
+
+|    |   time | most_frequent_name      |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
+|---:|-------:|:------------------------|---------------------:|-----------------:|------------------:|-----------------:|-----------------:|-------------------:|----------------:|------------:|
+|  0 |   2020 | Aaron Gordon            |           0.0923111  |       0.0923111  |         0.131483  |         0.567671 |         39434.8  |           34372.6  |         40798   |           5 |
+|  1 |   2020 | Al Horford              |           0.05169    |       0.05169    |         0.117488  |         0.54677  |         10781.7  |           34700.3  |         62255.7 |           3 |
+|  2 |   2020 | Andre Drummond          |           0.0369387  |       0.0369387  |         0.158727  |         0.532269 |         15995.6  |           60639.6  |         67059.1 |          14 |
+|  3 |   2020 | Andrew Wiggins          |           0.0904019  |       0.0904019  |         0.0992229 |         0.573194 |         28212.4  |           36785    |         42379.9 |           7 |
+|  4 |   2020 | Anthony Davis           |           0.120779   |       0.120779   |         0.189062  |         0.548409 |         11444.1  |           47184.3  |         50480.3 |          27 |
 
 
 
