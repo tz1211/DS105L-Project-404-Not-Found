@@ -49,7 +49,8 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 ## :one: Quantitative Data (Individual performance + Team performance) 
 
-### Table 1: Individual Player Data ([player_data.csv](../Data/player_data.csv))
+<details>
+<summary>### Table 1: Individual Player Data ([player_data.csv](../Data/player_data.csv))</summary>
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
@@ -65,6 +66,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 1130 |     2022 | RJ Barrett            | NEW YORK KNICKS     |    21 |        0.853659 |          34.5286 |  20.0286 |   2.97143 |                17.0571  |                 5.8     |                            5.77143  | 0.228571 |              4.88571 |               1 |            6.95714 |            4.14286 |                      1.97143   |             0.942857 |          2.02857 | 0.614286 |     2.15714 |      0.407873 |      0.714286 | 0.341584 |                14.9 |                0.7 |             -1.6 |                       -1.3 |                           15.5 |                     0.34  |                       -0.3 |                            2.9 |                       13.7 |                0.9 |                      0.338 |                        9.1 |                      0.511 |                   9.9 |               27.6 |                             0.2 |                       0.046 |        0 |  
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
+</details>
 
 ### Table 2: Team Data ([team_data.csv](../Data/team_data.csv))
 
@@ -123,7 +125,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
 
 ### Table 4: Quantified BBC Sports News - Sentiments and Relevance  
-* *(Taking the 2012-2023 season from the merged table, the top 10 samples)* 
+* *(Taking the 2010-2023 season from the merged table, the top 10 samples)* 
 
 ### Table 5: MVP Count ([MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv))
 
