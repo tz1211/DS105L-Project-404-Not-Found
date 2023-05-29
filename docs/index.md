@@ -44,6 +44,7 @@ Converntional basketball wisdom dictates that the MVP award is traditionally det
 * **individual performance**: how good is the player? 
 * **team performance**: can the player carry a winning team?
 * **media narrative**: is there a strong story behind a player's MVP bid? 
+
 Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
 ### :one: Quantitative Data (Individual performance + team performance) 
