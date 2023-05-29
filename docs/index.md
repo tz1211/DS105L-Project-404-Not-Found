@@ -153,7 +153,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 <details>
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
- * Sample MVP count for Stephen Curry 
+Sample MVP count for Stephen Curry 
 
 |Name         |Year|value|won_last_yr|won_2_yrs_before|
 |-------------|----|-----|-----------|----------------|
