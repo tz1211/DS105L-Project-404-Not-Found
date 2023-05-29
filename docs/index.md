@@ -360,14 +360,13 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
 ### Part 2: BBC News
 
 
-While BBC News tends to be more objective and focused on reporting factual information, it doesn't mean that sentiment-free. Nuances can still be hidden within the text. To ensure that these nuances are discovered, more advanced sentiment analysis techniques in addition to TextBlob.
+**While [BBC Sports News](https://www.bbc.co.uk/sport) tends to be more objective and focused on reporting factual information, it doesn't mean that sentiment-free. Nuances can still be hidden within the text. To ensure that these nuances are discovered, more advanced sentiment analysis techniques in addition to TextBlob**.
 
-In the project, sentiment_bert_average_score and sentiment_xlnet_average_score alongside TextBlob can provide a more comprehensive understanding of the sentiment in BBC News articles. These models, BERT and XLNet, are designed to capture more nuanced and contextual sentiment information. 
+In this part, **sentiment_bert_average_score and sentiment_xlnet_average_score alongside TextBlob can provide a more comprehensive understanding of the sentiment in BBC News articles**. These models, BERT and XLNet, are designed to capture more nuanced and contextual sentiment information. 
 Leveraging these models enhances the accuracy of sentiment analysis and uncover subtle sentiment variations that may contribute to predicting the NBA MVP more effectively.
 
-
+**BUT**🤔️
 One limitation of using BBC sports news for sentiment analysis is from gathering news content using web scraping. Since the website formatting may over time, this becomes especially challenging when the timeframe being analyzed is broad.
-
 In situations where the web scraping fails to retrieve the content, the code will relying solely on the news title for sentiment analysis which poses a limitation. While the title can provide some insight, it may not capture the full sentiment or context present in the article's body. 
 
 ## 🖼️ Results
