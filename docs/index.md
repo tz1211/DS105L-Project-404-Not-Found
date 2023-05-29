@@ -2,8 +2,9 @@
 title: "📚 Predicting NBA MVP Winner"
 date: 20 March 2023
 date-meta: 20 March 2023
-favicon: "/favicon.png"
 ---
+
+<link rel="icon" href="/favicon.png" type="image/png">
 
 # 🤖 Predicting NBA MVP Winner
 
