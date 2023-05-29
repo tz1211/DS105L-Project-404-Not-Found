@@ -1438,7 +1438,7 @@ The number of tweets an author has shared on Twitter can give an indication of t
 
 **Graph 1 Number of Articles**
   - The distribution is highly skewed, hence medium is used for missing values for authors.  
-![images - 2](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/article.png)
+![images - 2](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/Data/news_data/github_MDtable/article.png)
 
 **Graph 2 Number of Followers**
   - The distribution is reasonably skewed, hence mean is used for missing values for authors.  
