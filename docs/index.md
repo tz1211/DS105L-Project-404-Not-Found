@@ -1185,7 +1185,8 @@ This table includes the win percentage and conference standing for each team. (S
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 Sample MVP count for Stephen Curry  
 
-<table style="text-align: right">
+<td style="text-align: right">
+<table>
 <thead>
 <tr>
 <th>Name</th>
