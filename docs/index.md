@@ -56,6 +56,13 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <details>
 <summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
 
+<style>
+  .right-align-table {
+    margin-left: auto;
+    margin-right: 0;
+  }
+</style>
+
 <table>
 <thead>
 <tr>
@@ -1185,7 +1192,6 @@ This table includes the win percentage and conference standing for each team. (S
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 Sample MVP count for Stephen Curry  
 
-<td style="text-align: right">
 <table>
 <thead>
 <tr>
