@@ -41,9 +41,14 @@ Data Source:
 ## Approach 
 
 Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: 
-* **Individual performance**: How good is the player? 
-* **Team performance**: Can the player carry a winning team?
-* **Media narrative**: Is there a strong story behind a player's MVP bid? 
+* **Individual performance** (How good is the player?) 
+  * Includes basic boxscore (e.g. points per game, assists per game) as well as advanced player metrics such as win share per 48, value over replacement player, player efficiency rating, etc. 
+* **Team performance** (Can the player carry a winning team?)
+  * Includes the team's win percentage and conference standing 
+* **Media narrative** (Is there a strong story behind a player's MVP bid?) 
+  * Includes aspects such as voter fatigue (people don't like to award MVP to the same player over and over again), intriguing story for winning MVP (e.g. youngest MVP ever), and amount of media attention a player is getting. 
+
+Usually, the MVP award goes to players who are high on both individual performance and team performance (i.e. "best player on the best team"). However, media narratives and factors such as voter fatigue plays a big role sometimes in determining the ultimate winner of the award (e.g. Derrick Rose won the MVP award in 2011 as the youngest ever MVP winner even though many people believed that Lebron James had a more impressive season statistically). 
 
 Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
@@ -189,7 +194,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 Full df shape: 1216 x 54
 * Final dataframe with individual, team, and media narrative data all merged together 
-* Used as training set for the Machine Learning algorithm 
+* Used as training set for the Machine Learning algorithm (with column `is_mvp` acting as the label) 
 
 ### Merged data for 2023 season ([final_cleaned_data_2023.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data_2023.csv)) 
 |      |season|slug     |name             |team                  |age|%games_played     |minutes_played    |points            |assists           |attempted_field_goals|attempted_free_throws|attempted_three_point_field_goals|blocks            |defensive_rebounds|games_started     |made_field_goals  |made_free_throws  |made_three_point_field_goals|offensive_rebounds|personal_fouls    |steals            |turnovers         |field_goal%       |free_throw%       |3pt%              |assist_percentage|block_percentage|box_plus_minus|defensive_box_plus_minus|defensive_rebound_percentage|free_throw_attempt_rate|offensive_box_plus_minus|offensive_rebound_percentage|player_efficiency_rating|steal_percentage|three_point_attempt_rate|total_rebound_percentage|true_shooting_percentage|turnover_percentage|usage_percentage|value_over_replacement_player|win_shares_per_48_minutes|win_rate          |conference_standing|num_mvp|won_last_yr|won_2_yrs_before|textblob_sentiment|sentiment_bert_average_score|sentiment_xlnet_average_score|bert_relevance    |relevance_score   |frequency|
