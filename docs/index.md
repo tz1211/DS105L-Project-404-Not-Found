@@ -1,13 +1,3 @@
-<html>
-  <head>
-    <style>
-      td, th {
-      text-align: right;
-      }
-    </style>
-  <head>
-</html>
-
 ---
 title: "📚 Project Title"
 date: 20 March 2023
@@ -69,500 +59,500 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <table>
 <thead>
 <tr>
-<th></th>
-<th>season</th>
-<th>name</th>
-<th>team</th>
-<th>age</th>
-<th>%games_played</th>
-<th>minutes_played</th>
-<th>points</th>
-<th>assists</th>
-<th>attempted_field_goals</th>
-<th>attempted_free_throws</th>
-<th>attempted_three_point_field_goals</th>
-<th>blocks</th>
-<th>defensive_rebounds</th>
-<th>games_started</th>
-<th>made_field_goals</th>
-<th>made_free_throws</th>
-<th>made_three_point_field_goals</th>
-<th>offensive_rebounds</th>
-<th>personal_fouls</th>
-<th>steals</th>
-<th>turnovers</th>
-<th>field_goal%</th>
-<th>free_throw%</th>
-<th>3pt%</th>
-<th>assist_percentage</th>
-<th>block_percentage</th>
-<th>box_plus_minus</th>
-<th>defensive_box_plus_minus</th>
-<th>defensive_rebound_percentage</th>
-<th>free_throw_attempt_rate</th>
-<th>offensive_box_plus_minus</th>
-<th>offensive_rebound_percentage</th>
-<th>player_efficiency_rating</th>
-<th>steal_percentage</th>
-<th>three_point_attempt_rate</th>
-<th>total_rebound_percentage</th>
-<th>true_shooting_percentage</th>
-<th>turnover_percentage</th>
-<th>usage_percentage</th>
-<th>value_over_replacement_player</th>
-<th>win_shares_per_48_minutes</th>
-<th>is_mvp</th>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">%games_played</th>
+<th align="right">minutes_played</th>
+<th align="right">points</th>
+<th align="right">assists</th>
+<th align="right">attempted_field_goals</th>
+<th align="right">attempted_free_throws</th>
+<th align="right">attempted_three_point_field_goals</th>
+<th align="right">blocks</th>
+<th align="right">defensive_rebounds</th>
+<th align="right">games_started</th>
+<th align="right">made_field_goals</th>
+<th align="right">made_free_throws</th>
+<th align="right">made_three_point_field_goals</th>
+<th align="right">offensive_rebounds</th>
+<th align="right">personal_fouls</th>
+<th align="right">steals</th>
+<th align="right">turnovers</th>
+<th align="right">field_goal%</th>
+<th align="right">free_throw%</th>
+<th align="right">3pt%</th>
+<th align="right">assist_percentage</th>
+<th align="right">block_percentage</th>
+<th align="right">box_plus_minus</th>
+<th align="right">defensive_box_plus_minus</th>
+<th align="right">defensive_rebound_percentage</th>
+<th align="right">free_throw_attempt_rate</th>
+<th align="right">offensive_box_plus_minus</th>
+<th align="right">offensive_rebound_percentage</th>
+<th align="right">player_efficiency_rating</th>
+<th align="right">steal_percentage</th>
+<th align="right">three_point_attempt_rate</th>
+<th align="right">total_rebound_percentage</th>
+<th align="right">true_shooting_percentage</th>
+<th align="right">turnover_percentage</th>
+<th align="right">usage_percentage</th>
+<th align="right">value_over_replacement_player</th>
+<th align="right">win_shares_per_48_minutes</th>
+<th align="right">is_mvp</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>1121</td>
-<td>2022</td>
-<td>Bam Adebayo</td>
-<td>MIAMI HEAT</td>
-<td>24</td>
-<td>0.682927</td>
-<td>32.5893</td>
-<td>19.0714</td>
-<td>3.39286</td>
-<td>13.0179</td>
-<td>6.07143</td>
-<td>0.107143</td>
-<td>0.785714</td>
-<td>7.625</td>
-<td>1</td>
-<td>7.25</td>
-<td>4.57143</td>
-<td>0</td>
-<td>2.44643</td>
-<td>3.05357</td>
-<td>1.42857</td>
-<td>2.64286</td>
-<td>0.556927</td>
-<td>0.752941</td>
-<td>0</td>
-<td>17.5</td>
-<td>2.6</td>
-<td>3.8</td>
-<td>2.1</td>
-<td>26.1</td>
-<td>0.466</td>
-<td>1.7</td>
-<td>8.7</td>
-<td>21.8</td>
-<td>2.2</td>
-<td>0.008</td>
-<td>17.5</td>
-<td>0.608</td>
-<td>14.4</td>
-<td>25</td>
-<td>2.7</td>
-<td>0.188</td>
-<td>0</td>
+<td align="right">1121</td>
+<td align="right">2022</td>
+<td align="right">Bam Adebayo</td>
+<td align="right">MIAMI HEAT</td>
+<td align="right">24</td>
+<td align="right">0.682927</td>
+<td align="right">32.5893</td>
+<td align="right">19.0714</td>
+<td align="right">3.39286</td>
+<td align="right">13.0179</td>
+<td align="right">6.07143</td>
+<td align="right">0.107143</td>
+<td align="right">0.785714</td>
+<td align="right">7.625</td>
+<td align="right">1</td>
+<td align="right">7.25</td>
+<td align="right">4.57143</td>
+<td align="right">0</td>
+<td align="right">2.44643</td>
+<td align="right">3.05357</td>
+<td align="right">1.42857</td>
+<td align="right">2.64286</td>
+<td align="right">0.556927</td>
+<td align="right">0.752941</td>
+<td align="right">0</td>
+<td align="right">17.5</td>
+<td align="right">2.6</td>
+<td align="right">3.8</td>
+<td align="right">2.1</td>
+<td align="right">26.1</td>
+<td align="right">0.466</td>
+<td align="right">1.7</td>
+<td align="right">8.7</td>
+<td align="right">21.8</td>
+<td align="right">2.2</td>
+<td align="right">0.008</td>
+<td align="right">17.5</td>
+<td align="right">0.608</td>
+<td align="right">14.4</td>
+<td align="right">25</td>
+<td align="right">2.7</td>
+<td align="right">0.188</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1122</td>
-<td>2022</td>
-<td>Jarrett Allen</td>
-<td>CLEVELAND CAVALIERS</td>
-<td>23</td>
-<td>0.682927</td>
-<td>32.3036</td>
-<td>16.1429</td>
-<td>1.64286</td>
-<td>9.73214</td>
-<td>4.16071</td>
-<td>0.178571</td>
-<td>1.33929</td>
-<td>7.32143</td>
-<td>1</td>
-<td>6.58929</td>
-<td>2.94643</td>
-<td>0.0178571</td>
-<td>3.42857</td>
-<td>1.73214</td>
-<td>0.785714</td>
-<td>1.67857</td>
-<td>0.677064</td>
-<td>0.708155</td>
-<td>0.1</td>
-<td>8.2</td>
-<td>3.7</td>
-<td>3.9</td>
-<td>1.2</td>
-<td>24.5</td>
-<td>0.428</td>
-<td>2.7</td>
-<td>12</td>
-<td>23</td>
-<td>1.2</td>
-<td>0.018</td>
-<td>18.4</td>
-<td>0.698</td>
-<td>12.7</td>
-<td>18.1</td>
-<td>2.7</td>
-<td>0.225</td>
-<td>0</td>
+<td align="right">1122</td>
+<td align="right">2022</td>
+<td align="right">Jarrett Allen</td>
+<td align="right">CLEVELAND CAVALIERS</td>
+<td align="right">23</td>
+<td align="right">0.682927</td>
+<td align="right">32.3036</td>
+<td align="right">16.1429</td>
+<td align="right">1.64286</td>
+<td align="right">9.73214</td>
+<td align="right">4.16071</td>
+<td align="right">0.178571</td>
+<td align="right">1.33929</td>
+<td align="right">7.32143</td>
+<td align="right">1</td>
+<td align="right">6.58929</td>
+<td align="right">2.94643</td>
+<td align="right">0.0178571</td>
+<td align="right">3.42857</td>
+<td align="right">1.73214</td>
+<td align="right">0.785714</td>
+<td align="right">1.67857</td>
+<td align="right">0.677064</td>
+<td align="right">0.708155</td>
+<td align="right">0.1</td>
+<td align="right">8.2</td>
+<td align="right">3.7</td>
+<td align="right">3.9</td>
+<td align="right">1.2</td>
+<td align="right">24.5</td>
+<td align="right">0.428</td>
+<td align="right">2.7</td>
+<td align="right">12</td>
+<td align="right">23</td>
+<td align="right">1.2</td>
+<td align="right">0.018</td>
+<td align="right">18.4</td>
+<td align="right">0.698</td>
+<td align="right">12.7</td>
+<td align="right">18.1</td>
+<td align="right">2.7</td>
+<td align="right">0.225</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1123</td>
-<td>2022</td>
-<td>Giannis Antetokounmpo</td>
-<td>MILWAUKEE BUCKS</td>
-<td>27</td>
-<td>0.817073</td>
-<td>32.8955</td>
-<td>29.8806</td>
-<td>5.79104</td>
-<td>18.5821</td>
-<td>11.4328</td>
-<td>3.61194</td>
-<td>1.35821</td>
-<td>9.61194</td>
-<td>1</td>
-<td>10.2836</td>
-<td>8.25373</td>
-<td>1.0597</td>
-<td>2</td>
-<td>3.16418</td>
-<td>1.07463</td>
-<td>3.26866</td>
-<td>0.553414</td>
-<td>0.721932</td>
-<td>0.293388</td>
-<td>31.7</td>
-<td>4</td>
-<td>11.2</td>
-<td>3.5</td>
-<td>30.4</td>
-<td>0.615</td>
-<td>7.6</td>
-<td>6.6</td>
-<td>32.1</td>
-<td>1.6</td>
-<td>0.194</td>
-<td>18.7</td>
-<td>0.633</td>
-<td>12.2</td>
-<td>34.9</td>
-<td>7.4</td>
-<td>0.281</td>
-<td>0</td>
+<td align="right">1123</td>
+<td align="right">2022</td>
+<td align="right">Giannis Antetokounmpo</td>
+<td align="right">MILWAUKEE BUCKS</td>
+<td align="right">27</td>
+<td align="right">0.817073</td>
+<td align="right">32.8955</td>
+<td align="right">29.8806</td>
+<td align="right">5.79104</td>
+<td align="right">18.5821</td>
+<td align="right">11.4328</td>
+<td align="right">3.61194</td>
+<td align="right">1.35821</td>
+<td align="right">9.61194</td>
+<td align="right">1</td>
+<td align="right">10.2836</td>
+<td align="right">8.25373</td>
+<td align="right">1.0597</td>
+<td align="right">2</td>
+<td align="right">3.16418</td>
+<td align="right">1.07463</td>
+<td align="right">3.26866</td>
+<td align="right">0.553414</td>
+<td align="right">0.721932</td>
+<td align="right">0.293388</td>
+<td align="right">31.7</td>
+<td align="right">4</td>
+<td align="right">11.2</td>
+<td align="right">3.5</td>
+<td align="right">30.4</td>
+<td align="right">0.615</td>
+<td align="right">7.6</td>
+<td align="right">6.6</td>
+<td align="right">32.1</td>
+<td align="right">1.6</td>
+<td align="right">0.194</td>
+<td align="right">18.7</td>
+<td align="right">0.633</td>
+<td align="right">12.2</td>
+<td align="right">34.9</td>
+<td align="right">7.4</td>
+<td align="right">0.281</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1124</td>
-<td>2022</td>
-<td>Cole Anthony</td>
-<td>ORLANDO MAGIC</td>
-<td>21</td>
-<td>0.792683</td>
-<td>31.6769</td>
-<td>16.3385</td>
-<td>5.67692</td>
-<td>14.0308</td>
-<td>3.89231</td>
-<td>6.01538</td>
-<td>0.261538</td>
-<td>4.86154</td>
-<td>1</td>
-<td>5.49231</td>
-<td>3.32308</td>
-<td>2.03077</td>
-<td>0.492308</td>
-<td>2.63077</td>
-<td>0.707692</td>
-<td>2.61538</td>
-<td>0.391447</td>
-<td>0.853755</td>
-<td>0.337596</td>
-<td>28.9</td>
-<td>0.8</td>
-<td>-1.2</td>
-<td>-0.6</td>
-<td>16.2</td>
-<td>0.277</td>
-<td>-0.6</td>
-<td>1.6</td>
-<td>13.5</td>
-<td>1.1</td>
-<td>0.429</td>
-<td>8.9</td>
-<td>0.519</td>
-<td>14.2</td>
-<td>25.1</td>
-<td>0.4</td>
-<td>0.038</td>
-<td>0</td>
+<td align="right">1124</td>
+<td align="right">2022</td>
+<td align="right">Cole Anthony</td>
+<td align="right">ORLANDO MAGIC</td>
+<td align="right">21</td>
+<td align="right">0.792683</td>
+<td align="right">31.6769</td>
+<td align="right">16.3385</td>
+<td align="right">5.67692</td>
+<td align="right">14.0308</td>
+<td align="right">3.89231</td>
+<td align="right">6.01538</td>
+<td align="right">0.261538</td>
+<td align="right">4.86154</td>
+<td align="right">1</td>
+<td align="right">5.49231</td>
+<td align="right">3.32308</td>
+<td align="right">2.03077</td>
+<td align="right">0.492308</td>
+<td align="right">2.63077</td>
+<td align="right">0.707692</td>
+<td align="right">2.61538</td>
+<td align="right">0.391447</td>
+<td align="right">0.853755</td>
+<td align="right">0.337596</td>
+<td align="right">28.9</td>
+<td align="right">0.8</td>
+<td align="right">-1.2</td>
+<td align="right">-0.6</td>
+<td align="right">16.2</td>
+<td align="right">0.277</td>
+<td align="right">-0.6</td>
+<td align="right">1.6</td>
+<td align="right">13.5</td>
+<td align="right">1.1</td>
+<td align="right">0.429</td>
+<td align="right">8.9</td>
+<td align="right">0.519</td>
+<td align="right">14.2</td>
+<td align="right">25.1</td>
+<td align="right">0.4</td>
+<td align="right">0.038</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1125</td>
-<td>2022</td>
-<td>OG Anunoby</td>
-<td>TORONTO RAPTORS</td>
-<td>24</td>
-<td>0.585366</td>
-<td>36</td>
-<td>17.125</td>
-<td>2.60417</td>
-<td>14.5208</td>
-<td>2.45833</td>
-<td>6.60417</td>
-<td>0.520833</td>
-<td>3.95833</td>
-<td>1</td>
-<td>6.4375</td>
-<td>1.85417</td>
-<td>2.39583</td>
-<td>1.54167</td>
-<td>2.72917</td>
-<td>1.47917</td>
-<td>1.66667</td>
-<td>0.443329</td>
-<td>0.754237</td>
-<td>0.362776</td>
-<td>11</td>
-<td>1.4</td>
-<td>0.5</td>
-<td>0.1</td>
-<td>12.6</td>
-<td>0.169</td>
-<td>0.4</td>
-<td>4.4</td>
-<td>14.8</td>
-<td>2.1</td>
-<td>0.455</td>
-<td>8.3</td>
-<td>0.549</td>
-<td>9.7</td>
-<td>20.5</td>
-<td>1.1</td>
-<td>0.104</td>
-<td>0</td>
+<td align="right">1125</td>
+<td align="right">2022</td>
+<td align="right">OG Anunoby</td>
+<td align="right">TORONTO RAPTORS</td>
+<td align="right">24</td>
+<td align="right">0.585366</td>
+<td align="right">36</td>
+<td align="right">17.125</td>
+<td align="right">2.60417</td>
+<td align="right">14.5208</td>
+<td align="right">2.45833</td>
+<td align="right">6.60417</td>
+<td align="right">0.520833</td>
+<td align="right">3.95833</td>
+<td align="right">1</td>
+<td align="right">6.4375</td>
+<td align="right">1.85417</td>
+<td align="right">2.39583</td>
+<td align="right">1.54167</td>
+<td align="right">2.72917</td>
+<td align="right">1.47917</td>
+<td align="right">1.66667</td>
+<td align="right">0.443329</td>
+<td align="right">0.754237</td>
+<td align="right">0.362776</td>
+<td align="right">11</td>
+<td align="right">1.4</td>
+<td align="right">0.5</td>
+<td align="right">0.1</td>
+<td align="right">12.6</td>
+<td align="right">0.169</td>
+<td align="right">0.4</td>
+<td align="right">4.4</td>
+<td align="right">14.8</td>
+<td align="right">2.1</td>
+<td align="right">0.455</td>
+<td align="right">8.3</td>
+<td align="right">0.549</td>
+<td align="right">9.7</td>
+<td align="right">20.5</td>
+<td align="right">1.1</td>
+<td align="right">0.104</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1126</td>
-<td>2022</td>
-<td>LaMelo Ball</td>
-<td>CHARLOTTE HORNETS</td>
-<td>20</td>
-<td>0.914634</td>
-<td>32.2933</td>
-<td>20.1067</td>
-<td>7.61333</td>
-<td>16.72</td>
-<td>3.24</td>
-<td>7.53333</td>
-<td>0.4</td>
-<td>5.24</td>
-<td>1</td>
-<td>7.17333</td>
-<td>2.82667</td>
-<td>2.93333</td>
-<td>1.44</td>
-<td>3.16</td>
-<td>1.58667</td>
-<td>3.26667</td>
-<td>0.429027</td>
-<td>0.872428</td>
-<td>0.389381</td>
-<td>35.7</td>
-<td>1.2</td>
-<td>3.4</td>
-<td>0.1</td>
-<td>17.4</td>
-<td>0.194</td>
-<td>3.3</td>
-<td>4.7</td>
-<td>19.7</td>
-<td>2.4</td>
-<td>0.451</td>
-<td>11</td>
-<td>0.554</td>
-<td>15.3</td>
-<td>28.2</td>
-<td>3.3</td>
-<td>0.116</td>
-<td>0</td>
+<td align="right">1126</td>
+<td align="right">2022</td>
+<td align="right">LaMelo Ball</td>
+<td align="right">CHARLOTTE HORNETS</td>
+<td align="right">20</td>
+<td align="right">0.914634</td>
+<td align="right">32.2933</td>
+<td align="right">20.1067</td>
+<td align="right">7.61333</td>
+<td align="right">16.72</td>
+<td align="right">3.24</td>
+<td align="right">7.53333</td>
+<td align="right">0.4</td>
+<td align="right">5.24</td>
+<td align="right">1</td>
+<td align="right">7.17333</td>
+<td align="right">2.82667</td>
+<td align="right">2.93333</td>
+<td align="right">1.44</td>
+<td align="right">3.16</td>
+<td align="right">1.58667</td>
+<td align="right">3.26667</td>
+<td align="right">0.429027</td>
+<td align="right">0.872428</td>
+<td align="right">0.389381</td>
+<td align="right">35.7</td>
+<td align="right">1.2</td>
+<td align="right">3.4</td>
+<td align="right">0.1</td>
+<td align="right">17.4</td>
+<td align="right">0.194</td>
+<td align="right">3.3</td>
+<td align="right">4.7</td>
+<td align="right">19.7</td>
+<td align="right">2.4</td>
+<td align="right">0.451</td>
+<td align="right">11</td>
+<td align="right">0.554</td>
+<td align="right">15.3</td>
+<td align="right">28.2</td>
+<td align="right">3.3</td>
+<td align="right">0.116</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1127</td>
-<td>2022</td>
-<td>Lonzo Ball</td>
-<td>CHICAGO BULLS</td>
-<td>24</td>
-<td>0.426829</td>
-<td>34.6286</td>
-<td>13</td>
-<td>5.08571</td>
-<td>10.9429</td>
-<td>0.8</td>
-<td>7.42857</td>
-<td>0.885714</td>
-<td>4.42857</td>
-<td>1</td>
-<td>4.62857</td>
-<td>0.6</td>
-<td>3.14286</td>
-<td>1</td>
-<td>2.42857</td>
-<td>1.82857</td>
-<td>2.34286</td>
-<td>0.422977</td>
-<td>0.75</td>
-<td>0.423077</td>
-<td>20</td>
-<td>2.2</td>
-<td>2.5</td>
-<td>1.6</td>
-<td>14.3</td>
-<td>0.073</td>
-<td>0.9</td>
-<td>3.3</td>
-<td>14.5</td>
-<td>2.6</td>
-<td>0.679</td>
-<td>8.8</td>
-<td>0.575</td>
-<td>17.2</td>
-<td>17.4</td>
-<td>1.4</td>
-<td>0.088</td>
-<td>0</td>
+<td align="right">1127</td>
+<td align="right">2022</td>
+<td align="right">Lonzo Ball</td>
+<td align="right">CHICAGO BULLS</td>
+<td align="right">24</td>
+<td align="right">0.426829</td>
+<td align="right">34.6286</td>
+<td align="right">13</td>
+<td align="right">5.08571</td>
+<td align="right">10.9429</td>
+<td align="right">0.8</td>
+<td align="right">7.42857</td>
+<td align="right">0.885714</td>
+<td align="right">4.42857</td>
+<td align="right">1</td>
+<td align="right">4.62857</td>
+<td align="right">0.6</td>
+<td align="right">3.14286</td>
+<td align="right">1</td>
+<td align="right">2.42857</td>
+<td align="right">1.82857</td>
+<td align="right">2.34286</td>
+<td align="right">0.422977</td>
+<td align="right">0.75</td>
+<td align="right">0.423077</td>
+<td align="right">20</td>
+<td align="right">2.2</td>
+<td align="right">2.5</td>
+<td align="right">1.6</td>
+<td align="right">14.3</td>
+<td align="right">0.073</td>
+<td align="right">0.9</td>
+<td align="right">3.3</td>
+<td align="right">14.5</td>
+<td align="right">2.6</td>
+<td align="right">0.679</td>
+<td align="right">8.8</td>
+<td align="right">0.575</td>
+<td align="right">17.2</td>
+<td align="right">17.4</td>
+<td align="right">1.4</td>
+<td align="right">0.088</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1128</td>
-<td>2022</td>
-<td>Harrison Barnes</td>
-<td>SACRAMENTO KINGS</td>
-<td>29</td>
-<td>0.939024</td>
-<td>33.5974</td>
-<td>16.4286</td>
-<td>2.41558</td>
-<td>10.8312</td>
-<td>5.36364</td>
-<td>4.67532</td>
-<td>0.181818</td>
-<td>4.54545</td>
-<td>1</td>
-<td>5.07792</td>
-<td>4.42857</td>
-<td>1.84416</td>
-<td>1.06494</td>
-<td>1.22078</td>
-<td>0.688312</td>
-<td>1.53247</td>
-<td>0.468825</td>
-<td>0.825666</td>
-<td>0.394444</td>
-<td>10.5</td>
-<td>0.5</td>
-<td>0.2</td>
-<td>-1.3</td>
-<td>14.9</td>
-<td>0.495</td>
-<td>1.5</td>
-<td>3.4</td>
-<td>15.7</td>
-<td>1</td>
-<td>0.432</td>
-<td>9.1</td>
-<td>0.623</td>
-<td>10.4</td>
-<td>18.8</td>
-<td>1.4</td>
-<td>0.112</td>
-<td>0</td>
+<td align="right">1128</td>
+<td align="right">2022</td>
+<td align="right">Harrison Barnes</td>
+<td align="right">SACRAMENTO KINGS</td>
+<td align="right">29</td>
+<td align="right">0.939024</td>
+<td align="right">33.5974</td>
+<td align="right">16.4286</td>
+<td align="right">2.41558</td>
+<td align="right">10.8312</td>
+<td align="right">5.36364</td>
+<td align="right">4.67532</td>
+<td align="right">0.181818</td>
+<td align="right">4.54545</td>
+<td align="right">1</td>
+<td align="right">5.07792</td>
+<td align="right">4.42857</td>
+<td align="right">1.84416</td>
+<td align="right">1.06494</td>
+<td align="right">1.22078</td>
+<td align="right">0.688312</td>
+<td align="right">1.53247</td>
+<td align="right">0.468825</td>
+<td align="right">0.825666</td>
+<td align="right">0.394444</td>
+<td align="right">10.5</td>
+<td align="right">0.5</td>
+<td align="right">0.2</td>
+<td align="right">-1.3</td>
+<td align="right">14.9</td>
+<td align="right">0.495</td>
+<td align="right">1.5</td>
+<td align="right">3.4</td>
+<td align="right">15.7</td>
+<td align="right">1</td>
+<td align="right">0.432</td>
+<td align="right">9.1</td>
+<td align="right">0.623</td>
+<td align="right">10.4</td>
+<td align="right">18.8</td>
+<td align="right">1.4</td>
+<td align="right">0.112</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1129</td>
-<td>2022</td>
-<td>Scottie Barnes</td>
-<td>TORONTO RAPTORS</td>
-<td>20</td>
-<td>0.902439</td>
-<td>35.3649</td>
-<td>15.3243</td>
-<td>3.45946</td>
-<td>12.5946</td>
-<td>2.90541</td>
-<td>2.60811</td>
-<td>0.743243</td>
-<td>4.89189</td>
-<td>1</td>
-<td>6.2027</td>
-<td>2.13514</td>
-<td>0.783784</td>
-<td>2.63514</td>
-<td>2.59459</td>
-<td>1.08108</td>
-<td>1.83784</td>
-<td>0.492489</td>
-<td>0.734884</td>
-<td>0.300518</td>
-<td>14.7</td>
-<td>2.1</td>
-<td>0.9</td>
-<td>0.4</td>
-<td>15.8</td>
-<td>0.231</td>
-<td>0.5</td>
-<td>7.7</td>
-<td>16.3</td>
-<td>1.5</td>
-<td>0.207</td>
-<td>11.5</td>
-<td>0.552</td>
-<td>11.7</td>
-<td>19</td>
-<td>1.9</td>
-<td>0.122</td>
-<td>0</td>
+<td align="right">1129</td>
+<td align="right">2022</td>
+<td align="right">Scottie Barnes</td>
+<td align="right">TORONTO RAPTORS</td>
+<td align="right">20</td>
+<td align="right">0.902439</td>
+<td align="right">35.3649</td>
+<td align="right">15.3243</td>
+<td align="right">3.45946</td>
+<td align="right">12.5946</td>
+<td align="right">2.90541</td>
+<td align="right">2.60811</td>
+<td align="right">0.743243</td>
+<td align="right">4.89189</td>
+<td align="right">1</td>
+<td align="right">6.2027</td>
+<td align="right">2.13514</td>
+<td align="right">0.783784</td>
+<td align="right">2.63514</td>
+<td align="right">2.59459</td>
+<td align="right">1.08108</td>
+<td align="right">1.83784</td>
+<td align="right">0.492489</td>
+<td align="right">0.734884</td>
+<td align="right">0.300518</td>
+<td align="right">14.7</td>
+<td align="right">2.1</td>
+<td align="right">0.9</td>
+<td align="right">0.4</td>
+<td align="right">15.8</td>
+<td align="right">0.231</td>
+<td align="right">0.5</td>
+<td align="right">7.7</td>
+<td align="right">16.3</td>
+<td align="right">1.5</td>
+<td align="right">0.207</td>
+<td align="right">11.5</td>
+<td align="right">0.552</td>
+<td align="right">11.7</td>
+<td align="right">19</td>
+<td align="right">1.9</td>
+<td align="right">0.122</td>
+<td align="right">0</td>
 </tr>
 <tr>
-<td>1130</td>
-<td>2022</td>
-<td>RJ Barrett</td>
-<td>NEW YORK KNICKS</td>
-<td>21</td>
-<td>0.853659</td>
-<td>34.5286</td>
-<td>20.0286</td>
-<td>2.97143</td>
-<td>17.0571</td>
-<td>5.8</td>
-<td>5.77143</td>
-<td>0.228571</td>
-<td>4.88571</td>
-<td>1</td>
-<td>6.95714</td>
-<td>4.14286</td>
-<td>1.97143</td>
-<td>0.942857</td>
-<td>2.02857</td>
-<td>0.614286</td>
-<td>2.15714</td>
-<td>0.407873</td>
-<td>0.714286</td>
-<td>0.341584</td>
-<td>14.9</td>
-<td>0.7</td>
-<td>-1.6</td>
-<td>-1.3</td>
-<td>15.5</td>
-<td>0.34</td>
-<td>-0.3</td>
-<td>2.9</td>
-<td>13.7</td>
-<td>0.9</td>
-<td>0.338</td>
-<td>9.1</td>
-<td>0.511</td>
-<td>9.9</td>
-<td>27.6</td>
-<td>0.2</td>
-<td>0.046</td>
-<td>0</td>
+<td align="right">1130</td>
+<td align="right">2022</td>
+<td align="right">RJ Barrett</td>
+<td align="right">NEW YORK KNICKS</td>
+<td align="right">21</td>
+<td align="right">0.853659</td>
+<td align="right">34.5286</td>
+<td align="right">20.0286</td>
+<td align="right">2.97143</td>
+<td align="right">17.0571</td>
+<td align="right">5.8</td>
+<td align="right">5.77143</td>
+<td align="right">0.228571</td>
+<td align="right">4.88571</td>
+<td align="right">1</td>
+<td align="right">6.95714</td>
+<td align="right">4.14286</td>
+<td align="right">1.97143</td>
+<td align="right">0.942857</td>
+<td align="right">2.02857</td>
+<td align="right">0.614286</td>
+<td align="right">2.15714</td>
+<td align="right">0.407873</td>
+<td align="right">0.714286</td>
+<td align="right">0.341584</td>
+<td align="right">14.9</td>
+<td align="right">0.7</td>
+<td align="right">-1.6</td>
+<td align="right">-1.3</td>
+<td align="right">15.5</td>
+<td align="right">0.34</td>
+<td align="right">-0.3</td>
+<td align="right">2.9</td>
+<td align="right">13.7</td>
+<td align="right">0.9</td>
+<td align="right">0.338</td>
+<td align="right">9.1</td>
+<td align="right">0.511</td>
+<td align="right">9.9</td>
+<td align="right">27.6</td>
+<td align="right">0.2</td>
+<td align="right">0.046</td>
+<td align="right">0</td>
 </tr>
 </tbody></table>
 
