@@ -29,7 +29,6 @@ Data Source:
 * [NBA News Archive](https://global.nba.com/news)
 * [BBC Sports News](https://www.bbc.co.uk/sport) 
 * [Muck Rack](https://muckrack.com/)
-* [Hugging Face](https://huggingface.co/)
 
 
 # 📊 Data
@@ -377,3 +376,5 @@ In situations where the web scraping fails to retrieve the content, the code wil
 
 * [markdown file editting instruction](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
 * [Basketball reference api use instruction](https://jaebradley.github.io/basketball_reference_web_scraper/api/ )
+* [Hugging Face](https://huggingface.co/)
+* [Sentiment Analysis](https://www.analyticsvidhya.com/blog/2021/11/web-scraping-a-news-article-and-performing-sentiment-analysis-using-nlp/)
