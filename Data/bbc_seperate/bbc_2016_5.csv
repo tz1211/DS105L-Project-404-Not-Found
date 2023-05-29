@@ -1,0 +1,188 @@
+title,date,url,player,textblob_sentiment,sentiment_bert_average_score,sentiment_xlnet_average_score,bert_relevance
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Carmelo Anthony,0.1588937145105976,0.5841354131698608,0.5617004752159118,0.573939859867096
+LeBron James in talks on David Beckham Miami MLS team,2014,https://www.bbc.co.uk/sport/football/24995887,LeBron James,0.2220588235294117,0.6312662561734518,0.578157881895701,0.587324321269989
+LeBron James to buy into David Beckham's Miami MLS team,2014,https://www.bbc.co.uk/newsround/25004049,LeBron James,0.0,0.7203869223594666,0.5113610625267029,0.587324321269989
+Can David Beckham bring Major League Soccer to Miami?,2014,https://www.bbc.co.uk/news/magazine-25770620,LeBron James,0.0625,0.5454798340797424,0.6084064841270447,0.587324321269989
+"Arthur Smith Sings Leonard Cohen, Again",2014,https://www.bbc.co.uk/programmes/b03vdl1v,Kevin Love,0.0,0.6648712754249573,0.532965898513794,0.6078924536705017
+Dead man fulfils comedy club wish,2014,http://www.bbc.co.uk/news/uk-northern-ireland-27041499,Kevin Love,-0.2,0.5462583303451538,0.6264769434928894,0.6078924536705017
+A Good Read: Michael Dobbs and Katie Puckrik,2014,https://www.bbc.co.uk/programmes/b03hvx6r,Kevin Love,0.7,0.6437149047851562,0.6212015151977539,0.6078924536705017
+Hillsborough stories: Martin Kevin Traynor,2014,https://www.bbc.co.uk/news/uk-england-26930226,Kevin Love,0.0,0.5187954902648926,0.7433257102966309,0.6078924536705017
+Hillsborough stories: Kevin Daniel Williams,2014,https://www.bbc.co.uk/news/uk-england-26952716,Kevin Love,0.0,0.6428841948509216,0.5986144542694092,0.6078924536705017
+Elizabeth Thomas: Oxted neighbours pay respects to stabbed girl,2014,https://www.bbc.co.uk/news/uk-england-surrey-25922004,Blake Griffin,0.0,0.5752755403518677,0.5329391360282898,0.5860344767570496
+Challenge Cup: Batley Bulldogs 10-48 Castleford Tigers,2014,http://www.bbc.co.uk/sport/rugby-league/26855154,Blake Griffin,0.1423765432098765,0.5665524005889893,0.571510374546051,0.5860344767570496
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Blake Griffin,0.1588937145105976,0.5754898905754089,0.5747221350669861,0.5860344767570496
+Selfie Day: Who do you think you are?,2014,https://www.bbc.co.uk/news/uk-26921977,Blake Griffin,0.0,0.5005447864532471,0.6436142325401306,0.5860344767570496
+Ten-man Coleraine beat Ards to end nine-game losing run,2014,https://www.bbc.co.uk/sport/av/football/25604618,Stephen Curry,0.0,0.5342749953269958,0.5330134034156799,0.5804030299186707
+Coach Stephen Keshi proud of Nigeria's CHAN campaign,2014,https://www.bbc.co.uk/sport/football/26007595,Stephen Curry,0.3156565656565657,0.5968477129936218,0.5841788649559021,0.5804030299186707
+Irish Premiership: Dungannon Swifts 0-4 Warrenpoint Town,2014,https://www.bbc.co.uk/sport/football/26995097,Stephen Curry,0.0249999999999999,0.6642018556594849,0.5983023643493652,0.5804030299186707
+Meet Mrs Grey from Fifty Shades,2014,https://www.bbc.co.uk/news/entertainment-arts-26547178,James Harden,-0.05,0.6093842387199402,0.6189507246017456,0.5953021049499512
+Marcia Gay Harden added to Fifty Shades Of Grey cast,2014,https://www.bbc.co.uk/news/newsbeat-25211987,James Harden,0.1833333333333333,0.524154782295227,0.6895937919616699,0.5953021049499512
+LV=Cup: Scarlets 13-7 Gloucester,2014,https://www.bbc.co.uk/sport/rugby-union/25885845,James Harden,0.06,0.5780295133590698,0.5579279959201813,0.5953021049499512
+Men jailed for fight before Shrewsbury and Walsall fixture,2014,https://www.bbc.co.uk/news/uk-england-shropshire-24746826,James Harden,0.0,0.5698128938674927,0.5421594381332397,0.5953021049499512
+Boy who raped sister after watching pornography sentenced,2014,https://www.bbc.co.uk/news/uk-england-lancashire-26418508,James Harden,0.0,0.6479170322418213,0.5287330746650696,0.5953021049499512
+Fifty Shades of Grey actor Jamie Dornan becomes father,2014,https://www.bbc.co.uk/news/newsbeat-25428385,James Harden,-0.05,0.5121892094612122,0.6154764294624329,0.5953021049499512
+Jamaica faces serious questions in the fight against doping,2014,https://www.bbc.co.uk/sport/athletics/24906369,DeMar DeRozan,0.047257313393677,0.5787236467003822,0.6105274707078934,0.584285318851471
+Celtic midfielder Paul George moves to Hamilton on loan,2014,https://www.bbc.co.uk/sport/football/25736730,Paul George,-0.0166666666666666,0.5429524183273315,0.5410916805267334,0.5808157324790955
+King George VI: Can Al Ferof bring Paul Nicholls more success?,2014,https://www.bbc.co.uk/sport/horse-racing/25498836,Paul George,0.1044612794612794,0.5912436485290528,0.5592164874076844,0.5808157324790955
+George Joseph guilty of murdering son Paul in rent row,2014,https://www.bbc.co.uk/news/uk-england-london-26856441,Paul George,-0.5,0.6309565901756287,0.6637603044509888,0.5808157324790955
+"Any Questions?: Keith Vaz MP, Pauline Black, George Eustice MP, Lisa Duffy",2014,https://www.bbc.co.uk/programmes/b03ttmf6,Paul George,-0.1666666666666666,0.5788705945014954,0.6648826003074646,0.5808157324790955
+World Cup 2014: Guide to Switzerland's Group E,2014,https://www.bbc.co.uk/sport/football/25180409,Al Jefferson,0.1095268337783307,0.5966177195310592,0.5721725791692733,0.5856603980064392
+Inventor John Wall's Crayford eyepiece 'revolutionary',2014,https://www.bbc.co.uk/news/uk-england-25657557,John Wall,0.0,0.6198901534080505,0.7056729793548584,0.5903730392456055
+John's Shoe Repairs damaged by car crashing through wall,2014,https://www.bbc.co.uk/news/uk-england-derbyshire-26836148,John Wall,0.0,0.5351175665855408,0.7019672989845276,0.5903730392456055
+Clydach wall crash death driver named as John Williams,2014,https://www.bbc.co.uk/news/uk-wales-south-west-wales-24750770,John Wall,0.0,0.6692168116569519,0.6931573152542114,0.5903730392456055
+Front Row: The Coen Brothers; The Wolf of Wall Street; TS Eliot Prize winner; John Donnelly,2014,https://www.bbc.co.uk/programmes/b03phd4r,John Wall,0.0,0.5679026246070862,0.5475078821182251,0.5903730392456055
+John Mooney laments Irish batting on first day of Dubai final,2014,https://www.bbc.co.uk/sport/av/cricket/25322741,John Wall,0.0833333333333333,0.7266055345535278,0.6897561550140381,0.5903730392456055
+Sound City,2014,https://www.bbc.co.uk/programmes/b03sltyb,John Wall,0.4,0.6050755977630615,0.8042505383491516,0.5903730392456055
+John's Shoe Repairs in Derby destroyed in car crash,2014,https://www.bbc.co.uk/news/uk-england-derbyshire-26832705,John Wall,0.0,0.6134321093559265,0.5382870435714722,0.5903730392456055
+Wildflowers for Guernsey Loafers' Wall to mark WW1 anniversary,2014,https://www.bbc.co.uk/news/world-europe-guernsey-26720179,John Wall,0.0,0.6336031556129456,0.7045794725418091,0.5903730392456055
+Stargazing Live: Astronomy invention given away free,2014,https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-25638639,John Wall,0.2681818181818182,0.5797113180160522,0.5318079590797424,0.5903730392456055
+The invention that revolutionised amateur astronomy,2014,https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-25639015,John Wall,-0.25,0.754401683807373,0.5389003753662109,0.5903730392456055
+Shanghai's only graffiti wall set for demolition,2014,https://www.bbc.co.uk/news/world-asia-china-25513912,John Wall,0.0,0.5214623808860779,0.5643066763877869,0.5903730392456055
+Coventry Cathedral: Work starts on bombed ruins,2014,https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-26735086,John Wall,-0.15,0.7353269457817078,0.5088072419166565,0.5903730392456055
+UK storms: Dawlish sea wall collapses under the railway line,2014,https://www.bbc.co.uk/news/uk-26044426,John Wall,0.0,0.6595609784126282,0.6043013334274292,0.5903730392456055
+Spitting Image's 30th anniversary,2014,https://www.bbc.co.uk/news/entertainment-arts-26348848,John Wall,0.0,0.790368914604187,0.5305284857749939,0.5903730392456055
+Bay Psalm Book is most expensive printed work at $14.2m,2014,https://www.bbc.co.uk/news/world-us-canada-25115524,Isaiah Thomas,0.0,0.5630224347114563,0.6846306324005127,0.5930413007736206
+Bay Psalm Book: Why the Â£18m price tag?,2014,http://www.bbc.co.uk/news/magazine-25045283,Isaiah Thomas,0.0,0.5037444233894348,0.5910417437553406,0.5930413007736206
+Rob Paternostro: British basketball riding wave of momentum,2014,https://www.bbc.co.uk/sport/basketball/25827898,Thaddeus Young,0.147335594035594,0.5638275572231838,0.5660593083926609,0.5985239148139954
+League Cup: Crusaders beat Linfield in Windsor shoot-out,2014,https://www.bbc.co.uk/sport/football/24917316,Kyle Lowry,0.1765151515151514,0.5755906999111176,0.5730898529291153,0.6042789816856384
+Irish Cup sixth round photos,2014,https://www.bbc.co.uk/sport/football/26104620,Kyle Lowry,0.0,0.5614045858383179,0.6388431787490845,0.6042789816856384
+Focus on Irish Premiership action,2014,https://www.bbc.co.uk/sport/football/25797514,Kyle Lowry,0.0,0.5963904857635498,0.7566481232643127,0.6042789816856384
+Irish Cup fifth round photos,2014,https://www.bbc.co.uk/sport/football/25700825,Kyle Lowry,0.0,0.5021878480911255,0.5210155248641968,0.6042789816856384
+Irish Premiership: Linfield 5-1 Warrenpoint Town,2014,https://www.bbc.co.uk/sport/football/24881890,Kyle Lowry,0.162663906142167,0.5615322589874268,0.5464146733283997,0.6042789816856384
+Irish Cup: Ballymena United and Ballinamallard face replays,2014,https://www.bbc.co.uk/sport/football/25696596,Kyle Lowry,0.0981762065095398,0.5423418283462524,0.5469808280467987,0.6042789816856384
+Clash with Reds mouthwatering - Linfield boss Jeffrey,2014,https://www.bbc.co.uk/sport/football/25154132,Kyle Lowry,0.1405947227375799,0.5405182739098867,0.5564593076705933,0.6042789816856384
+'Underrated' fifth Beatle becomes comic book and film star,2014,http://www.bbc.co.uk/news/entertainment-arts-25243897,Kyle Lowry,0.25,0.5020968317985535,0.5672811269760132,0.6042789816856384
+Anthony Marsh and Lee Davis jailed for child sex crimes,2014,https://www.bbc.co.uk/news/uk-england-south-yorkshire-25185190,Anthony Davis,0.0,0.5344980359077454,0.747587263584137,0.5899397134780884
+Crewe Alexandra: Brad Inman and Anthony Grant available for loan,2014,https://www.bbc.co.uk/sport/football/25089401,Anthony Davis,0.1276679841897233,0.5762173136075338,0.559973140557607,0.5899397134780884
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Anthony Davis,0.1588937145105976,0.594849419593811,0.5704235076904297,0.5899397134780884
+Jay Rayner Gets Stuffed,2014,https://www.bbc.co.uk/programmes/b03tr1fv,Anthony Davis,0.0,0.5658493041992188,0.5710793733596802,0.5899397134780884
+Man jailed for killing friend in Aston tower block,2014,https://www.bbc.co.uk/news/uk-england-birmingham-25271320,Anthony Davis,0.0,0.6373445391654968,0.698243260383606,0.5899397134780884
+Anthony Perrett: Relief for freed Newport Greenpeace activist,2014,https://www.bbc.co.uk/news/uk-wales-25058119,Anthony Davis,0.0,0.647506833076477,0.5941288471221924,0.5899397134780884
+Welsh activist Anthony Perrett free from detention in Russia,2014,https://www.bbc.co.uk/news/uk-wales-25055515,Anthony Davis,0.4,0.5971500873565674,0.6727262139320374,0.5899397134780884
+Billy Davies: Nottingham Forest boss looks to control passion,2014,https://www.bbc.co.uk/sport/av/football/26512729,Anthony Davis,0.0,0.5552210807800293,0.5364781022071838,0.5899397134780884
+Billy Davies: Nottingham Forest receives five-game touchline ban,2014,https://www.bbc.co.uk/sport/football/26436619,Anthony Davis,-0.3,0.5737108290195465,0.586540549993515,0.5899397134780884
+Billy Davies: Nottingham Forest appeal against touchline ban,2014,https://www.bbc.co.uk/sport/football/26584993,Anthony Davis,-0.0444444444444444,0.6247462034225464,0.5482794642448425,0.5899397134780884
+Christian B&B takes gay 'discrimination' case to European court,2014,https://www.bbc.co.uk/news/uk-wales-26658486,Jeff Green,0.1388888888888889,0.7229408621788025,0.550927460193634,0.5957431197166443
+Ballymena church with big ambitions,2014,https://www.bbc.co.uk/news/uk-northern-ireland-25006000,Jeff Green,0.0,0.6363043785095215,0.6088441610336304,0.5957431197166443
+Christian B&B takes gay 'discrimination' case to European court,2014,https://www.bbc.co.uk/news/uk-wales-mid-wales-26632753,Jeff Green,0.1388888888888889,0.6605899333953857,0.5263314247131348,0.5957431197166443
+Children and mother stabbed in Birmingham house,2014,https://www.bbc.co.uk/news/uk-england-birmingham-26642057,Jeff Green,0.0,0.5637472867965698,0.7192684412002563,0.5957431197166443
+Retailers oppose Green Pastures shop development,2014,http://www.bbc.co.uk/news/uk-northern-ireland-24805406,Jeff Green,-0.2,0.6283626556396484,0.5811207890510559,0.5957431197166443
+BBL Cup final: Leicester overcome Newcastle in tense finish,2014,https://www.bbc.co.uk/sport/basketball/25706951,Paul Millsap,0.1090130568356375,0.5957367916901907,0.5674311816692352,0.5891050696372986
+Jamaica faces serious questions in the fight against doping,2014,https://www.bbc.co.uk/sport/athletics/24906369,Paul Millsap,0.047257313393677,0.6133140027523041,0.5890490040183067,0.5891050696372986
+Capital One Cup: Semi-final preview with Martin Keown & Kevin Kilbane,2014,https://www.bbc.co.uk/sport/av/football/25603410,Kevin Martin,0.0,0.6530780792236328,0.5484232306480408,0.5895755290985107
+Hillsborough stories: Martin Kevin Traynor,2014,https://www.bbc.co.uk/news/uk-england-26930226,Kevin Martin,0.0,0.5183934569358826,0.599851667881012,0.5895755290985107
+Man City v Chelsea: Focus Forum looks ahead to Monday's clash,2014,https://www.bbc.co.uk/sport/av/football/25997936,Kevin Martin,0.0,0.5637144446372986,0.717184841632843,0.5895755290985107
+Dennehy: 'It is absolutely right she won't come out of prison' - police,2014,https://www.bbc.co.uk/news/uk-26390616,Kevin Martin,0.2857142857142857,0.5815610885620117,0.5833712816238403,0.5895755290985107
+Swansea City 1-2 Everton,2014,https://www.bbc.co.uk/sport/football/25387089,Dwight Howard,0.1597976190476191,0.5863312035799026,0.5612270757555962,0.597209095954895
+Missing in action: The films affected by actors' deaths,2014,https://www.bbc.co.uk/news/entertainment-arts-26039225,Brandon Knight,-0.05,0.733952522277832,0.6125028133392334,0.5918086171150208
+David Cameron: Lee Rigby murder 'shocked whole country',2014,https://www.bbc.co.uk/news/uk-25444082,David Lee,-0.2499999999999999,0.5746978521347046,0.7753687500953674,0.5819942355155945
+David Leech family pay tribute to Leyland motorcyclist,2014,https://www.bbc.co.uk/news/uk-england-lancashire-25261356,David Lee,0.0,0.7081102132797241,0.6612125635147095,0.5819942355155945
+Leeds United: Managing director David Haigh resigns,2014,https://www.bbc.co.uk/sport/football/26995315,David Lee,0.0846074380165289,0.6099981268246969,0.5507320562998453,0.5819942355155945
+Leeds United: David Haigh-led takeover bid falls through,2014,https://www.bbc.co.uk/sport/football/25830046,David Lee,0.0782967032967033,0.5699922641118368,0.5894777576128641,0.5819942355155945
+Campaign to honour Thorne soldier Sgt Lee Davidson,2014,https://www.bbc.co.uk/news/uk-england-south-yorkshire-25279820,David Lee,0.0,0.5574343204498291,0.5670149922370911,0.5819942355155945
+Leeds United boosted by new investment from David Haigh,2014,https://www.bbc.co.uk/sport/football/25103010,David Lee,0.09,0.5905107259750366,0.5017246007919312,0.5819942355155945
+Inside F1 - Bahrain Grand Prix qualifying,2014,https://www.bbc.co.uk/sport/av/formula1/26904900,David Lee,0.5,0.5274617075920105,0.6142429709434509,0.5819942355155945
+Inside F1 from Australian GP qualifying with Christian Horner,2014,https://www.bbc.co.uk/sport/av/formula1/26592637,David Lee,0.0,0.657891035079956,0.5998289585113525,0.5819942355155945
+Hollie Gazzard: Ex-boyfriend arrested over Gloucester hairdresser death,2014,https://www.bbc.co.uk/news/uk-england-gloucestershire-26252934,Mike Conley,0.0,0.6082484722137451,0.5741094350814819,0.5919866561889648
+The UK artists making the leap into film direction,2014,http://www.bbc.co.uk/news/entertainment-arts-26186945,Gordon Hayward,0.0,0.6114857196807861,0.8563621640205383,0.5790219306945801
+Wild weather and Only Fools return in newspapers,2014,https://www.bbc.co.uk/news/blogs-the-papers-25598398,Gordon Hayward,0.05,0.562804639339447,0.8532310724258423,0.5790219306945801
+Ashes 2013-14: Mitchell Johnson on Joe Root's 'cute smile',2014,https://www.bbc.co.uk/sport/av/cricket/25329562,Joe Johnson,0.4,0.6272178292274475,0.6652205586433411,0.584282636642456
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Joe Johnson,0.1588937145105976,0.583596271276474,0.6039299547672272,0.584282636642456
+Transfer window: Yeovil Town extend Joe Ralls loan from Cardiff,2014,https://www.bbc.co.uk/sport/football/25697194,Joe Johnson,0.3556926406926406,0.5323194861412048,0.5589099228382111,0.584282636642456
+Brighton woman's gym session ends in hospital stay,2014,https://www.bbc.co.uk/news/uk-england-sussex-25326448,Joe Johnson,0.0,0.7355185747146606,0.7602126002311707,0.584282636642456
+Front Row: Jean Paul Gaultier; Christy Moore; The Raid 2,2014,https://www.bbc.co.uk/programmes/b03zy4hl,Chris Paul,0.0,0.5927706360816956,0.7194715738296509,0.5870979428291321
+St Boniface's former bursar Christopher Paul Gorman cleared of fraud,2014,https://www.bbc.co.uk/news/uk-england-devon-24888931,Chris Paul,0.0,0.5045863389968872,0.5656837821006775,0.5870979428291321
+Wythenshawe by-election: 'Labour holds safe seat',2014,https://www.bbc.co.uk/news/world-asia-china-26193238,Chris Paul,0.5,0.5287138223648071,0.7578340172767639,0.5870979428291321
+Wythenshawe by-election interview: Michael Kane,2014,https://www.bbc.co.uk/news/uk-politics-26064303,Chris Paul,0.0,0.6004385352134705,0.5301616787910461,0.5870979428291321
+Wythenshawe by-election interview: Nigel Woodcock,2014,https://www.bbc.co.uk/news/uk-politics-26064308,Chris Paul,0.0,0.6560403108596802,0.6302589774131775,0.5870979428291321
+Wythenshawe by-election interview: John Bickley,2014,https://www.bbc.co.uk/news/uk-politics-26064305,Chris Paul,0.0,0.5407183170318604,0.5266855955123901,0.5870979428291321
+Wythenshawe by-election interview: Eddy O'Sullivan,2014,https://www.bbc.co.uk/news/uk-politics-26064306,Chris Paul,0.0,0.6580086946487427,0.6671732068061829,0.5870979428291321
+Wythenshawe by-election interview: Daniel Critchlow,2014,https://www.bbc.co.uk/news/uk-politics-26064307,Chris Paul,0.0,0.6048135757446289,0.6360625624656677,0.5870979428291321
+Wythenshawe by-election interview: Mary Di Mauro,2014,https://www.bbc.co.uk/news/uk-politics-26064304,Chris Paul,0.0,0.5042189359664917,0.5691421031951904,0.5870979428291321
+Mark Allen suffers defeat to Ali Carter at Welsh Open,2014,https://www.bbc.co.uk/sport/snooker/26361195,Michael Carter-Williams,0.0005263157894736,0.5989460706710815,0.5994173645973205,0.5679683685302734
+China Open: Jimmy White and Peter Ebdon win second-round ties,2014,http://www.bbc.co.uk/sport/0/snooker/26862252,Michael Carter-Williams,0.1333333333333333,0.5630179643630981,0.5663813352584839,0.5679683685302734
+China Open 2014: Results,2014,https://www.bbc.co.uk/sport/snooker/26824285,Michael Carter-Williams,-0.0388888888888888,0.6017897367477417,0.6017160892486573,0.5679683685302734
+Welsh Open 2014: O'Sullivan and Trump into last 16,2014,https://www.bbc.co.uk/sport/wales/26361677,Michael Carter-Williams,0.1473429951690821,0.6331201990445455,0.6110594073931376,0.5679683685302734
+The Queen welcomes A-list actors at palace celebration,2014,https://www.bbc.co.uk/news/entertainment-arts-26238572,Michael Carter-Williams,0.0,0.676530122756958,0.505632221698761,0.5679683685302734
+"Welsh Open 2014: Scores, results and schedule",2014,https://www.bbc.co.uk/sport/snooker/26312932,Michael Carter-Williams,0.0124999999999999,0.5557090143362681,0.540023535490036,0.5679683685302734
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Michael Carter-Williams,0.1588937145105976,0.5954716682434082,0.5916568219661713,0.5679683685302734
+UK Snooker Championship 2013: Ali Carter upset with new format,2014,https://www.bbc.co.uk/sport/snooker/25139954,Michael Carter-Williams,0.1714920367698146,0.5828098654747009,0.5451422452926635,0.5679683685302734
+Front Row: Vikings at British Museum; John Carter Cash; 37 Days,2014,https://www.bbc.co.uk/programmes/b03wpjjn,Michael Carter-Williams,0.0,0.5605201125144958,0.502712070941925,0.5679683685302734
+UK Snooker Championship 2013 results,2014,https://www.bbc.co.uk/sport/snooker/25072326,Michael Carter-Williams,-0.1138888888888888,0.576223760843277,0.5578971445560456,0.5679683685302734
+Yorkshire stars photographed for Le Tour exhibition,2014,https://www.bbc.co.uk/news/uk-england-26801155,Michael Carter-Williams,0.0,0.5129119157791138,0.5022966861724854,0.5679683685302734
+UK Championship: Ronnie O'Sullivan reaches third round,2014,https://www.bbc.co.uk/sport/snooker/25190202,Michael Carter-Williams,0.0920987654320987,0.5975172400474549,0.5997120261192321,0.5679683685302734
+MCC v Durham: Mark Stoneman century keeps champions in hunt,2014,https://www.bbc.co.uk/sport/cricket/26738288,Andre Drummond,0.1484409310496267,0.5838865637779236,0.5689903299013773,0.5923861861228943
+MCC: Sehwag and Muralitharan to captain squad for curtain raiser,2014,https://www.bbc.co.uk/sport/cricket/26273236,Andre Drummond,0.2946666666666667,0.5977877229452133,0.5891480445861816,0.5923861861228943
+BBL Cup final: Leicester overcome Newcastle in tense finish,2014,https://www.bbc.co.uk/sport/basketball/25706951,J.R. Smith,0.1090130568356375,0.543767660856247,0.5806929667790731,0.5546296834945679
+'Unpopular' Torbay CCTV car to be scrapped,2014,https://www.bbc.co.uk/news/uk-england-devon-25795526,Eric Gordon,0.0,0.5930803418159485,0.5695322155952454,0.581859827041626
+"Alan and Gary Mitchell jailed for Â£400,000 Rolex raid",2014,https://www.bbc.co.uk/news/uk-scotland-glasgow-west-25198798,Eric Gordon,0.0,0.5967071652412415,0.6763977408409119,0.581859827041626
+World Twenty20 qualifiers: Scotland suffer defeat by Kenya,2014,https://www.bbc.co.uk/sport/cricket/24999016,Eric Gordon,0.1800734618916437,0.5526466965675354,0.6178285280863444,0.581859827041626
+Black Sabbath pick up Classic Rock's legend award,2014,https://www.bbc.co.uk/news/entertainment-arts-24946622,Eric Gordon,0.0,0.5207498669624329,0.6119372844696045,0.581859827041626
+Premiership: Harlequins 23-9 London Irish,2014,https://www.bbc.co.uk/sport/rugby-union/26731104,Evan Turner,0.1225252525252525,0.5959267914295197,0.6246139109134674,0.5853409767150879
+Wales Women announce squad for World Cup qualifiers,2014,https://www.bbc.co.uk/sport/football/26721212,Evan Turner,-0.16,0.6026502450307211,0.5360132654507955,0.5853409767150879
+Barbarians confirm squad to face Combined Services,2014,https://www.bbc.co.uk/sport/rugby-union/24873421,Evan Turner,-0.08,0.5630748271942139,0.6493328511714935,0.5853409767150879
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,José Calderón,0.1588937145105976,0.547104823589325,0.5657638311386108,0.5807986855506897
+Cristiano Ronaldo scores twice as Real Madrid reach cup final,2014,https://www.bbc.co.uk/sport/football/26143037,José Calderón,0.0772145417306707,0.5875531435012817,0.5755039850870768,0.5807986855506897
+Champions League: Chelsea drawn against Atletico Madrid,2014,https://www.bbc.co.uk/sport/football/26966141,José Calderón,0.1436868686868686,0.5932765126228332,0.5549202561378479,0.5807986855506897
+Atletico Madrid v Real Madrid: La Liga rivals set for 'do or die' derby,2014,https://www.bbc.co.uk/sport/football/26357670,José Calderón,0.161743919064361,0.5816047112147014,0.5887808283170064,0.5807986855506897
+"Champions League draw: Man Utd v Bayern Munich, PSG v Chelsea",2014,https://www.bbc.co.uk/sport/football/26682665,José Calderón,0.0999007936507936,0.5778623478753226,0.5579881242343357,0.5807986855506897
+Atletico Madrid: Diego Simeone's side are stern test for Chelsea,2014,https://www.bbc.co.uk/sport/football/26966304,José Calderón,0.1006089809661238,0.5881480038166046,0.6015870571136475,0.5807986855506897
+The country where exorcisms are on the rise,2014,http://www.bbc.co.uk/news/magazine-25032305,José Calderón,0.0,0.5136476159095764,0.505996823310852,0.5807986855506897
+World Cup 2014: Belgium legends rule out glory in Brazil,2014,https://www.bbc.co.uk/sport/football/25210495,José Calderón,0.2126138433515483,0.5642780462900797,0.5886933207511902,0.5807986855506897
+"Gossip column: Kroos, Rodriguez, Casillas, Azmoun, Hazard",2014,https://www.bbc.co.uk/sport/26965549,José Calderón,0.1195704295704295,0.5454288959503174,0.5816594302654267,0.5807986855506897
+Champions League draw: Bayern Munich & PSG face English sides,2014,https://www.bbc.co.uk/sport/football/26664718,José Calderón,0.1502134024978852,0.579953670501709,0.5782381471465615,0.5807986855506897
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Deron Williams,0.1588937145105976,0.5741638481616974,0.5955975890159607,0.5722136497497559
+Leopoldo LÃ³pez: Venezuela's maverick opposition leader,2014,https://www.bbc.co.uk/news/world-latin-america-26238612,Robin Lopez,0.0,0.503511369228363,0.711624264717102,0.5953910946846008
+Luke Freeman: Stevenage open to offers for winger,2014,https://www.bbc.co.uk/sport/football/25552205,Robin Lopez,0.1137377173091458,0.5499730904897054,0.52668829758962,0.5953910946846008
+Andy Murray beats Matthew Ebden in Sony Open second round,2014,https://www.bbc.co.uk/sport/tennis/26695849,Robin Lopez,0.0731981981981981,0.5424189964930216,0.5701176325480143,0.5953910946846008
+Sony Open: Rafael Nadal and Stanislas Wawrinka win in Miami,2014,https://www.bbc.co.uk/sport/tennis/26725362,Robin Lopez,0.0822822822822822,0.5723638981580734,0.562928095459938,0.5953910946846008
+Golden Globes 2014: Winners,2014,http://www.bbc.co.uk/news/entertainment-arts-25351307,Robin Lopez,0.3,0.5936254858970642,0.7347164750099182,0.5953910946846008
+"Gossip column: Shaw, Podolski, Lopez, van Persie, Gaitan, Lamela",2014,https://www.bbc.co.uk/sport/26477822,Robin Lopez,0.0993451463790446,0.5821636517842611,0.5752537051836649,0.5953910946846008
+12 Years A Slave leads Golden Globe nominations,2014,https://www.bbc.co.uk/news/entertainment-arts-25351325,Robin Lopez,0.3,0.557343065738678,0.5649280548095703,0.5953910946846008
+Boxing schedule and results 2013,2014,https://www.bbc.co.uk/sport/boxing/25622907,Robin Lopez,0.0431818181818181,0.5681803799592532,0.5763375300627488,0.5953910946846008
+Pro12: Connacht 38-6 Treviso,2014,https://www.bbc.co.uk/sport/rugby-union/26389304,Tobias Harris,0.1710285285285285,0.5804562568664551,0.564723813533783,0.5909668803215027
+Sochi 2014: Winter Olympics sports this week,2014,https://www.bbc.co.uk/sport/winter-olympics/25374020,Tobias Harris,0.1349953735831599,0.5577878355979919,0.5554671486218771,0.5909668803215027
+Bafta TV awards 2014: Winners in full,2014,https://www.bbc.co.uk/news/entertainment-arts-26918912,Tobias Harris,0.35,0.6955944895744324,0.6655052304267883,0.5909668803215027
+Pigs 'shot with crossbow' at Blythburgh farm,2014,http://www.bbc.co.uk/news/uk-england-suffolk-25200146,Jimmy Butler,0.0,0.6269739270210266,0.5420100688934326,0.6061094999313354
+Reward offered after Blythburgh pigs shot with crossbow,2014,https://www.bbc.co.uk/news/uk-england-suffolk-25368496,Jimmy Butler,0.0,0.5670908689498901,0.6109733581542969,0.6061094999313354
+Not reporting child abuse 'should be criminal offence',2014,http://www.bbc.co.uk/news/uk-24772777,Jimmy Butler,-0.4,0.5982924103736877,0.5329998731613159,0.6061094999313354
+Carmen (Omnibus),2014,https://www.bbc.co.uk/programmes/b03p83r7,Wilson Chandler,0.0,0.6331748962402344,0.5073438286781311,0.5925119519233704
+Carmen: 3. Introductions,2014,https://www.bbc.co.uk/programmes/b03nt9vh,Wilson Chandler,0.5,0.5585692524909973,0.8865289092063904,0.5925119519233704
+Carmen: 4. Rivalry,2014,https://www.bbc.co.uk/programmes/b03nt8bc,Wilson Chandler,0.0,0.5437361598014832,0.5798192620277405,0.5925119519233704
+Carmen: 1. Imprisoned,2014,https://www.bbc.co.uk/programmes/b03nsrj2,Wilson Chandler,0.0,0.6113687753677368,0.6733015179634094,0.5925119519233704
+Carmen: 5. Destiny,2014,https://www.bbc.co.uk/programmes/b03ntb2b,Wilson Chandler,0.0,0.7067099213600159,0.6105626225471497,0.5925119519233704
+Carmen: 2. Reunion,2014,https://www.bbc.co.uk/programmes/b03nt8hs,Wilson Chandler,0.0,0.6683536171913147,0.6393582224845886,0.5925119519233704
+Front Row: Kings of the Dance; John Banville; Yves Saint Laurent biopic,2014,https://www.bbc.co.uk/programmes/b03y38kt,Wilson Chandler,0.0,0.7435162663459778,0.7519091367721558,0.5925119519233704
+Police Scotland apologise in Buckfast tonic wine case,2014,https://www.bbc.co.uk/news/uk-scotland-25989700,Wilson Chandler,0.0,0.595445454120636,0.5807435512542725,0.5925119519233704
+Front Row: Harry Hill on I Can't Sing; George Michael's Symphonica album; A Long Way Down,2014,https://www.bbc.co.uk/programmes/b03y0n8d,George Hill,-0.1027777777777778,0.6229045391082764,0.5371719598770142,0.5900371074676514
+Hillsborough stories: Derrick George Godwin,2014,https://www.bbc.co.uk/news/uk-england-27024949,George Hill,0.0,0.542105495929718,0.5728499889373779,0.5900371074676514
+Vanessa Feltz's Review of the Year,2014,https://www.bbc.co.uk/programmes/b03m7jv5,George Hill,0.0,0.5448615550994873,0.5145615935325623,0.5900371074676514
+Kelvin MacKenzie in council Elmbridge election,2014,https://www.bbc.co.uk/news/uk-england-surrey-26644092,George Hill,0.0,0.7170594334602356,0.6235251426696777,0.5900371074676514
+Luol Deng joins Cleveland Cavaliers from Chicago Bulls,2014,https://www.bbc.co.uk/sport/basketball/25634383,Luol Deng,-0.0513888888888888,0.6062286496162415,0.6199967861175537,0.5968868732452393
+Luol Deng plans return for Great Britain qualifiers,2014,https://www.bbc.co.uk/sport/basketball/25753052,Luol Deng,0.3472222222222222,0.6047466397285461,0.5318260490894318,0.5968868732452393
+Historical Institutional Abuse Inquiry members,2014,http://www.bbc.co.uk/news/uk-northern-ireland-25709564,Patrick Beverley,0.0,0.5346589088439941,0.576862633228302,0.590692400932312
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Glen Davis,0.1588937145105976,0.5815695524215698,0.5753207325935363,0.5862239003181458
+Cyclist Graeme Obree backs new Yorkhill charity cycle,2014,https://www.bbc.co.uk/news/uk-scotland-glasgow-west-26351827,Glen Davis,0.1363636363636363,0.5210573077201843,0.6185392141342163,0.5862239003181458
+BBC to use Top Gear to target male viewers globally,2014,https://www.bbc.co.uk/news/entertainment-arts-25926774,Glen Davis,0.1666666666666666,0.5983061194419861,0.5583398342132568,0.5862239003181458
+Stirling Albion 1-1 Annan Athletic,2014,https://www.bbc.co.uk/sport/football/25790731,Jordan Crawford,0.1540079365079365,0.5951482355594635,0.5475140511989594,0.5863513350486755
+Turriff United 0-3 Stirling Albion,2014,https://www.bbc.co.uk/sport/football/24681641,Jordan Crawford,0.1444885361552028,0.5576067119836807,0.605375200510025,0.5863513350486755
+Stirling Albion 1-1 Clyde,2014,https://www.bbc.co.uk/sport/football/25475099,Jordan Crawford,0.1774250440917107,0.5718981822331747,0.624783476193746,0.5863513350486755
+Monday's Scottish Gossip,2014,https://www.bbc.co.uk/sport/football/24895591,Jordan Crawford,0.1372727272727272,0.5893746614456177,0.6466811299324036,0.5863513350486755
+Dunfermline Athletic 0-4 Rangers,2014,https://www.bbc.co.uk/sport/football/25489573,Jordan Crawford,0.1231440781440781,0.573553591966629,0.6071168333292007,0.5863513350486755
+Kilmarnock 2-2 Ross County,2014,https://www.bbc.co.uk/sport/football/25892141,Jordan Crawford,0.0727342389411354,0.594898555959974,0.6251385637692043,0.5863513350486755
+Transfer window gossip: Thursday,2014,https://www.bbc.co.uk/sport/25753029,Ramon Sessions,0.0823294521570384,0.5760875278049045,0.5778695278697543,0.5956099629402161
+Luol Deng joins Cleveland Cavaliers from Chicago Bulls,2014,https://www.bbc.co.uk/sport/basketball/25634383,Luol Deng,-0.0513888888888888,0.6013933718204498,0.583307296037674,0.5968868732452393
+Luol Deng plans return for Great Britain qualifiers,2014,https://www.bbc.co.uk/sport/basketball/25753052,Luol Deng,0.3472222222222222,0.5682908296585083,0.5482607185840607,0.5968868732452393
+Dunfermline Athletic 3-1 Brechin City,2014,https://www.bbc.co.uk/sport/football/24969483,Ryan Anderson,0.1602292768959435,0.5863367915153503,0.6055999100208282,0.5851845741271973
+Ten-man Ballinamallard draw at Coleraine,2014,https://www.bbc.co.uk/sport/av/football/26050274,Ryan Anderson,0.0,0.6166753172874451,0.5314948558807373,0.5851845741271973
+St Johnstone to appeal over Steven Anderson's red card,2014,https://www.bbc.co.uk/sport/football/25817234,Ryan Anderson,-0.0187037037037037,0.6289123098055521,0.621539294719696,0.5851845741271973
+Irish Cup fifth round: Ballinamallard Utd 1-0 Strabane Athletic,2014,https://www.bbc.co.uk/sport/football/25835879,Ryan Anderson,-0.0501388888888889,0.516167402267456,0.6538799405097961,0.5851845741271973
+In pictures: Aberdeen win Scottish League Cup final,2014,https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-26610193,Ryan Anderson,0.4,0.6078477501869202,0.564460277557373,0.5851845741271973
+Matt Ryan: Wakefield sign Parramatta Eels second row,2014,https://www.bbc.co.uk/sport/rugby-league/25219325,Ryan Anderson,0.2055555555555555,0.5790315866470337,0.6100552380084991,0.5851845741271973
+World Taekwondo Grand Prix: Lutalo Muhammad wins gold,2014,https://www.bbc.co.uk/sport/taekwondo/25379517,Brook Lopez,0.1367753623188406,0.5689481735229492,0.5949426889419556,0.6153861284255981
+Day in pictures: 6 November 2013,2014,https://www.bbc.co.uk/news/in-pictures-24833707,Brook Lopez,0.0,0.5936956405639648,0.8041384816169739,0.6153861284255981
+Boxing schedule and results 2013,2014,https://www.bbc.co.uk/sport/boxing/25622907,Brook Lopez,0.0431818181818181,0.603806007366914,0.5780733136030344,0.6153861284255981
+James Blake and Steve Angello for Radio 1 shows in 2014,2014,https://www.bbc.co.uk/news/newsbeat-25315063,Steve Blake,0.0,0.5713861584663391,0.5208540558815002,0.5802996158599854
+Glasgow 2014: The Jamaican university that changed athletics,2014,https://www.bbc.co.uk/sport/commonwealth-games/26986280,Steve Blake,0.1588937145105976,0.5845720589160919,0.5509643673896789,0.5802996158599854
+Justin Edinburgh: Newport County manager irked by referee display,2014,https://www.bbc.co.uk/sport/football/26876332,Steve Blake,-0.0416431510875955,0.6191792090733846,0.6504994034767151,0.5802996158599854
+Ipswich Town 2-1 Derby County,2014,https://www.bbc.co.uk/sport/football/26623188,Steve Blake,0.0811335978835978,0.5685144662857056,0.6020013491312662,0.5802996158599854
