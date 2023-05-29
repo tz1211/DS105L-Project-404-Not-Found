@@ -57,9 +57,8 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
 
 <style>
-  .right-align-table {
-    margin-left: auto;
-    margin-right: 0;
+  td {
+  text-align: center;
   }
 </style>
 
