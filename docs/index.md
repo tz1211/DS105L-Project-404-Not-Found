@@ -562,86 +562,622 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <details>
 <summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>  
 
+<table>
+<thead>
+<tr>
+<th></th>
+<th>season</th>
+<th>team</th>
+<th>conference</th>
+<th>W</th>
+<th>L</th>
+<th>win_rate</th>
+<th>conference_standing</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>30</td>
+<td>2022</td>
+<td>PHOENIX SUNS</td>
+<td>Western</td>
+<td>64</td>
+<td>18</td>
+<td>0.7804878048780488</td>
+<td>1</td>
+</tr>
+<tr>
+<td>31</td>
+<td>2022</td>
+<td>MEMPHIS GRIZZLIES</td>
+<td>Western</td>
+<td>56</td>
+<td>26</td>
+<td>0.6829268292682927</td>
+<td>2</td>
+</tr>
+<tr>
+<td>32</td>
+<td>2022</td>
+<td>GOLDEN STATE WARRIORS</td>
+<td>Western</td>
+<td>53</td>
+<td>29</td>
+<td>0.6463414634146342</td>
+<td>3</td>
+</tr>
+<tr>
+<td>33</td>
+<td>2022</td>
+<td>DALLAS MAVERICKS</td>
+<td>Western</td>
+<td>52</td>
+<td>30</td>
+<td>0.6341463414634146</td>
+<td>4</td>
+</tr>
+<tr>
+<td>34</td>
+<td>2022</td>
+<td>UTAH JAZZ</td>
+<td>Western</td>
+<td>49</td>
+<td>33</td>
+<td>0.5975609756097561</td>
+<td>5</td>
+</tr>
+<tr>
+<td>35</td>
+<td>2022</td>
+<td>DENVER NUGGETS</td>
+<td>Western</td>
+<td>48</td>
+<td>34</td>
+<td>0.5853658536585366</td>
+<td>6</td>
+</tr>
+<tr>
+<td>36</td>
+<td>2022</td>
+<td>MINNESOTA TIMBERWOLVES</td>
+<td>Western</td>
+<td>46</td>
+<td>36</td>
+<td>0.5609756097560976</td>
+<td>7</td>
+</tr>
+<tr>
+<td>37</td>
+<td>2022</td>
+<td>LOS ANGELES CLIPPERS</td>
+<td>Western</td>
+<td>42</td>
+<td>40</td>
+<td>0.5121951219512195</td>
+<td>8</td>
+</tr>
+<tr>
+<td>38</td>
+<td>2022</td>
+<td>NEW ORLEANS PELICANS</td>
+<td>Western</td>
+<td>36</td>
+<td>46</td>
+<td>0.4390243902439024</td>
+<td>9</td>
+</tr>
+<tr>
+<td>39</td>
+<td>2022</td>
+<td>SAN ANTONIO SPURS</td>
+<td>Western</td>
+<td>34</td>
+<td>48</td>
+<td>0.4146341463414634</td>
+<td>10</td>
+</tr>
+<tr>
+<td>40</td>
+<td>2022</td>
+<td>LOS ANGELES LAKERS</td>
+<td>Western</td>
+<td>33</td>
+<td>49</td>
+<td>0.4024390243902439</td>
+<td>11</td>
+</tr>
+<tr>
+<td>41</td>
+<td>2022</td>
+<td>SACRAMENTO KINGS</td>
+<td>Western</td>
+<td>30</td>
+<td>52</td>
+<td>0.3658536585365853</td>
+<td>12</td>
+</tr>
+<tr>
+<td>42</td>
+<td>2022</td>
+<td>PORTLAND TRAIL BLAZERS</td>
+<td>Western</td>
+<td>27</td>
+<td>55</td>
+<td>0.3292682926829268</td>
+<td>13</td>
+</tr>
+<tr>
+<td>43</td>
+<td>2022</td>
+<td>OKLAHOMA CITY THUNDER</td>
+<td>Western</td>
+<td>24</td>
+<td>58</td>
+<td>0.2926829268292683</td>
+<td>14</td>
+</tr>
+<tr>
+<td>44</td>
+<td>2022</td>
+<td>HOUSTON ROCKETS</td>
+<td>Western</td>
+<td>20</td>
+<td>62</td>
+<td>0.2439024390243902</td>
+<td>15</td>
+</tr>
+<tr>
+<td>45</td>
+<td>2022</td>
+<td>MIAMI HEAT</td>
+<td>Eastern</td>
+<td>53</td>
+<td>29</td>
+<td>0.6463414634146342</td>
+<td>1</td>
+</tr>
+<tr>
+<td>46</td>
+<td>2022</td>
+<td>BOSTON CELTICS</td>
+<td>Eastern</td>
+<td>51</td>
+<td>31</td>
+<td>0.6219512195121951</td>
+<td>2</td>
+</tr>
+<tr>
+<td>47</td>
+<td>2022</td>
+<td>MILWAUKEE BUCKS</td>
+<td>Eastern</td>
+<td>51</td>
+<td>31</td>
+<td>0.6219512195121951</td>
+<td>3</td>
+</tr>
+<tr>
+<td>48</td>
+<td>2022</td>
+<td>PHILADELPHIA 76ERS</td>
+<td>Eastern</td>
+<td>51</td>
+<td>31</td>
+<td>0.6219512195121951</td>
+<td>4</td>
+</tr>
+<tr>
+<td>49</td>
+<td>2022</td>
+<td>TORONTO RAPTORS</td>
+<td>Eastern</td>
+<td>48</td>
+<td>34</td>
+<td>0.5853658536585366</td>
+<td>5</td>
+</tr>
+<tr>
+<td>50</td>
+<td>2022</td>
+<td>CHICAGO BULLS</td>
+<td>Eastern</td>
+<td>46</td>
+<td>36</td>
+<td>0.5609756097560976</td>
+<td>6</td>
+</tr>
+<tr>
+<td>51</td>
+<td>2022</td>
+<td>BROOKLYN NETS</td>
+<td>Eastern</td>
+<td>44</td>
+<td>38</td>
+<td>0.5365853658536586</td>
+<td>7</td>
+</tr>
+<tr>
+<td>52</td>
+<td>2022</td>
+<td>CLEVELAND CAVALIERS</td>
+<td>Eastern</td>
+<td>44</td>
+<td>38</td>
+<td>0.5365853658536586</td>
+<td>8</td>
+</tr>
+<tr>
+<td>53</td>
+<td>2022</td>
+<td>ATLANTA HAWKS</td>
+<td>Eastern</td>
+<td>43</td>
+<td>39</td>
+<td>0.524390243902439</td>
+<td>9</td>
+</tr>
+<tr>
+<td>54</td>
+<td>2022</td>
+<td>CHARLOTTE HORNETS</td>
+<td>Eastern</td>
+<td>43</td>
+<td>39</td>
+<td>0.524390243902439</td>
+<td>10</td>
+</tr>
+<tr>
+<td>55</td>
+<td>2022</td>
+<td>NEW YORK KNICKS</td>
+<td>Eastern</td>
+<td>37</td>
+<td>45</td>
+<td>0.4512195121951219</td>
+<td>11</td>
+</tr>
+<tr>
+<td>56</td>
+<td>2022</td>
+<td>WASHINGTON WIZARDS</td>
+<td>Eastern</td>
+<td>35</td>
+<td>47</td>
+<td>0.4268292682926829</td>
+<td>12</td>
+</tr>
+<tr>
+<td>57</td>
+<td>2022</td>
+<td>INDIANA PACERS</td>
+<td>Eastern</td>
+<td>25</td>
+<td>57</td>
+<td>0.3048780487804878</td>
+<td>13</td>
+</tr>
+<tr>
+<td>58</td>
+<td>2022</td>
+<td>DETROIT PISTONS</td>
+<td>Eastern</td>
+<td>23</td>
+<td>59</td>
+<td>0.2804878048780488</td>
+<td>14</td>
+</tr>
+<tr>
+<td>59</td>
+<td>2022</td>
+<td>ORLANDO MAGIC</td>
+<td>Eastern</td>
+<td>22</td>
+<td>60</td>
+<td>0.2682926829268293</td>
+<td>15</td>
+</tr>
+</tbody></table>
 
-|      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
-|------|------|---------|---------------------|-------------------|---|------------------|-------------------|
-|30    |2022  |PHOENIX SUNS|Western              |64                 |18 |0.7804878048780488|1                  |
-|31    |2022  |MEMPHIS GRIZZLIES|Western              |56                 |26 |0.6829268292682927|2                  |
-|32    |2022  |GOLDEN STATE WARRIORS|Western              |53                 |29 |0.6463414634146342|3                  |
-|33    |2022  |DALLAS MAVERICKS|Western              |52                 |30 |0.6341463414634146|4                  |
-|34    |2022  |UTAH JAZZ|Western              |49                 |33 |0.5975609756097561|5                  |
-|35    |2022  |DENVER NUGGETS|Western              |48                 |34 |0.5853658536585366|6                  |
-|36    |2022  |MINNESOTA TIMBERWOLVES|Western              |46                 |36 |0.5609756097560976|7                  |
-|37    |2022  |LOS ANGELES CLIPPERS|Western              |42                 |40 |0.5121951219512195|8                  |
-|38    |2022  |NEW ORLEANS PELICANS|Western              |36                 |46 |0.4390243902439024|9                  |
-|39    |2022  |SAN ANTONIO SPURS|Western              |34                 |48 |0.4146341463414634|10                 |
-|40    |2022  |LOS ANGELES LAKERS|Western              |33                 |49 |0.4024390243902439|11                 |
-|41    |2022  |SACRAMENTO KINGS|Western              |30                 |52 |0.3658536585365853|12                 |
-|42    |2022  |PORTLAND TRAIL BLAZERS|Western              |27                 |55 |0.3292682926829268|13                 |
-|43    |2022  |OKLAHOMA CITY THUNDER|Western              |24                 |58 |0.2926829268292683|14                 |
-|44    |2022  |HOUSTON ROCKETS|Western              |20                 |62 |0.2439024390243902|15                 |
-|45    |2022  |MIAMI HEAT|Eastern              |53                 |29 |0.6463414634146342|1                  |
-|46    |2022  |BOSTON CELTICS|Eastern              |51                 |31 |0.6219512195121951|2                  |
-|47    |2022  |MILWAUKEE BUCKS|Eastern              |51                 |31 |0.6219512195121951|3                  |
-|48    |2022  |PHILADELPHIA 76ERS|Eastern              |51                 |31 |0.6219512195121951|4                  |
-|49    |2022  |TORONTO RAPTORS|Eastern              |48                 |34 |0.5853658536585366|5                  |
-|50    |2022  |CHICAGO BULLS|Eastern              |46                 |36 |0.5609756097560976|6                  |
-|51    |2022  |BROOKLYN NETS|Eastern              |44                 |38 |0.5365853658536586|7                  |
-|52    |2022  |CLEVELAND CAVALIERS|Eastern              |44                 |38 |0.5365853658536586|8                  |
-|53    |2022  |ATLANTA HAWKS|Eastern              |43                 |39 |0.524390243902439 |9                  |
-|54    |2022  |CHARLOTTE HORNETS|Eastern              |43                 |39 |0.524390243902439 |10                 |
-|55    |2022  |NEW YORK KNICKS|Eastern              |37                 |45 |0.4512195121951219|11                 |
-|56    |2022  |WASHINGTON WIZARDS|Eastern              |35                 |47 |0.4268292682926829|12                 |
-|57    |2022  |INDIANA PACERS|Eastern              |25                 |57 |0.3048780487804878|13                 |
-|58    |2022  |DETROIT PISTONS|Eastern              |23                 |59 |0.2804878048780488|14                 |
-|59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |  
-
-
-* *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
+This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
 
 ### 2️⃣ Qualitative Data (Sports News and Media Narratives)
 
 <details>
 <summary><strong>Quantified NBA Sports News - Sentiments and Relevance</strong></summary>
-* *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  
+(Taking the 2019-2020 season from the merged table, the top 10 samples) 
 
-
-|    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
-|---:|-------:|:---------------------|---------------------:|-----------------:|------------------:|-----------------:|-----------------:|-------------------:|----------------:|------------:|
-|  0 |   2020 | Aaron Gordon         |            0.0923111 |        0.0923111 |         0.131483  |         0.567671 |          39434.8 |            34372.6 |         40798   |           5 |
-|  1 |   2020 | Al Horford           |            0.05169   |        0.05169   |         0.117488  |         0.54677  |          10781.7 |            34700.3 |         62255.7 |           3 |
-|  2 |   2020 | Andre Drummond       |            0.0369387 |        0.0369387 |         0.158727  |         0.532269 |          15995.6 |            60639.6 |         67059.1 |          14 |
-|  3 |   2020 | Andrew Wiggins       |            0.0904019 |        0.0904019 |         0.0992229 |         0.573194 |          28212.4 |            36785   |         42379.9 |           7 |
-|  4 |   2020 | Anthony Davis        |            0.120779  |        0.120779  |         0.189062  |         0.548409 |          11444.1 |            47184.3 |         50480.3 |          27 |
-|  5 |   2020 | Bam Adebayo          |            0.0589134 |        0.0589134 |         0.0640164 |         0.599966 |          21996   |            84859   |         93866   |           1 |
-|  6 |   2020 | Ben Simmons          |            0.0598212 |        0.0598212 |         0.196928  |         0.552685 |          16923   |            65297.2 |         72214.3 |          13 |
-|  7 |   2020 | Bradley Beal         |            0.0754871 |        0.0754871 |         0.102333  |         0.557063 |          11668.2 |            36245.4 |         45089   |          50 |
-|  8 |   2020 | Brandon Ingram       |            0.0879199 |        0.0879199 |         0.0901602 |         0.544744 |          15613.1 |            50384.1 |         56001   |          27 |
-|  9 |   2020 | Buddy Hield          |            0.0858989 |        0.0858989 |         0.0941537 |         0.554056 |          23624.3 |            49410.2 |         60888.5 |          26 |
-| 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |  
-
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">time</th>
+<th align="left">most_frequent_name</th>
+<th align="right">textblob_Sentiment</th>
+<th align="right">nltk_Sentiment</th>
+<th align="right">relevance_score</th>
+<th align="right">bert_relevance</th>
+<th align="right">credit_article</th>
+<th align="right">credit_followers</th>
+<th align="right">credit_tweets</th>
+<th align="right">frequency</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">0</td>
+<td align="right">2020</td>
+<td align="left">Aaron Gordon</td>
+<td align="right">0.0923111</td>
+<td align="right">0.0923111</td>
+<td align="right">0.131483</td>
+<td align="right">0.567671</td>
+<td align="right">39434.8</td>
+<td align="right">34372.6</td>
+<td align="right">40798</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">1</td>
+<td align="right">2020</td>
+<td align="left">Al Horford</td>
+<td align="right">0.05169</td>
+<td align="right">0.05169</td>
+<td align="right">0.117488</td>
+<td align="right">0.54677</td>
+<td align="right">10781.7</td>
+<td align="right">34700.3</td>
+<td align="right">62255.7</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">2020</td>
+<td align="left">Andre Drummond</td>
+<td align="right">0.0369387</td>
+<td align="right">0.0369387</td>
+<td align="right">0.158727</td>
+<td align="right">0.532269</td>
+<td align="right">15995.6</td>
+<td align="right">60639.6</td>
+<td align="right">67059.1</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">2020</td>
+<td align="left">Andrew Wiggins</td>
+<td align="right">0.0904019</td>
+<td align="right">0.0904019</td>
+<td align="right">0.0992229</td>
+<td align="right">0.573194</td>
+<td align="right">28212.4</td>
+<td align="right">36785</td>
+<td align="right">42379.9</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">2020</td>
+<td align="left">Anthony Davis</td>
+<td align="right">0.120779</td>
+<td align="right">0.120779</td>
+<td align="right">0.189062</td>
+<td align="right">0.548409</td>
+<td align="right">11444.1</td>
+<td align="right">47184.3</td>
+<td align="right">50480.3</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">2020</td>
+<td align="left">Bam Adebayo</td>
+<td align="right">0.0589134</td>
+<td align="right">0.0589134</td>
+<td align="right">0.0640164</td>
+<td align="right">0.599966</td>
+<td align="right">21996</td>
+<td align="right">84859</td>
+<td align="right">93866</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">2020</td>
+<td align="left">Ben Simmons</td>
+<td align="right">0.0598212</td>
+<td align="right">0.0598212</td>
+<td align="right">0.196928</td>
+<td align="right">0.552685</td>
+<td align="right">16923</td>
+<td align="right">65297.2</td>
+<td align="right">72214.3</td>
+<td align="right">13</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">2020</td>
+<td align="left">Bradley Beal</td>
+<td align="right">0.0754871</td>
+<td align="right">0.0754871</td>
+<td align="right">0.102333</td>
+<td align="right">0.557063</td>
+<td align="right">11668.2</td>
+<td align="right">36245.4</td>
+<td align="right">45089</td>
+<td align="right">50</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">2020</td>
+<td align="left">Brandon Ingram</td>
+<td align="right">0.0879199</td>
+<td align="right">0.0879199</td>
+<td align="right">0.0901602</td>
+<td align="right">0.544744</td>
+<td align="right">15613.1</td>
+<td align="right">50384.1</td>
+<td align="right">56001</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">2020</td>
+<td align="left">Buddy Hield</td>
+<td align="right">0.0858989</td>
+<td align="right">0.0858989</td>
+<td align="right">0.0941537</td>
+<td align="right">0.554056</td>
+<td align="right">23624.3</td>
+<td align="right">49410.2</td>
+<td align="right">60888.5</td>
+<td align="right">26</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td align="right">2020</td>
+<td align="left">CJ McCollum</td>
+<td align="right">0.0737269</td>
+<td align="right">0.0737269</td>
+<td align="right">0.276422</td>
+<td align="right">0.557982</td>
+<td align="right">14814.5</td>
+<td align="right">70731</td>
+<td align="right">70641.2</td>
+<td align="right">6</td>
+</tr>
+</tbody></table>
 
 </details>
 
 <details>
 <summary><strong>Quantified BBC Sports News - Sentiments and Relevance</strong></summary>
-* *(Taking the 2010-2023 season from the merged table, the top 10 samples)*  
+(Taking the 2010-2023 season from the merged table, the top 10 samples) 
 
-
-|    |   time | most_frequent_name      |   textblob_sentiment |   sentiment_bert_average_score |   sentiment_xlnet_average_score |   bert_relevance |   relevance_score |   frequency |
-|---:|-------:|:------------------------|---------------------:|-------------------------------:|--------------------------------:|-----------------:|------------------:|------------:|
-|  0 |   2023 | Aaron Gordon            |            0.107826  |                       0.580768 |                        0.569642 |         0.592284 |        0.00804037 |          22 |
-|  1 |   2023 | Al Horford              |            0.0902433 |                       0.560702 |                        0.602442 |         0.588029 |        0.00175832 |           2 |
-|  2 |   2023 | Andrew Wiggins          |            0.141368  |                       0.597014 |                        0.580687 |         0.587998 |        0.0106417  |           8 |
-|  3 |   2023 | Anfernee Simons         |            0.109778  |                       0.557983 |                        0.569789 |         0.593048 |        0.0138669  |           2 |
-|  4 |   2023 | Anthony Davis           |            0.102784  |                       0.592395 |                        0.570054 |         0.587705 |        0.0162172  |          22 |
-|  5 |   2023 | Anthony Edwards         |            0.0561825 |                       0.602159 |                        0.6101   |         0.590135 |        0.0545278  |          14 |
-|  6 |   2023 | Bam Adebayo             |            0.192308  |                       0.513591 |                        0.590492 |         0.597262 |        0.00980593 |           1 |
-|  7 |   2023 | Bojan Bogdanović        |            0.138098  |                       0.577742 |                        0.575943 |         0.59157  |        0.00184185 |           2 |
-|  8 |   2023 | Bradley Beal            |            0.122245  |                       0.584892 |                        0.581959 |         0.58885  |        0.0030606  |           1 |
-|  9 |   2023 | Brandon Ingram          |            0.0912451 |                       0.608591 |                        0.591863 |         0.576785 |        0.00785333 |           5 |  
-
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">time</th>
+<th align="left">most_frequent_name</th>
+<th align="right">textblob_sentiment</th>
+<th align="right">sentiment_bert_average_score</th>
+<th align="right">sentiment_xlnet_average_score</th>
+<th align="right">bert_relevance</th>
+<th align="right">relevance_score</th>
+<th align="right">frequency</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">0</td>
+<td align="right">2023</td>
+<td align="left">Aaron Gordon</td>
+<td align="right">0.107826</td>
+<td align="right">0.580768</td>
+<td align="right">0.569642</td>
+<td align="right">0.592284</td>
+<td align="right">0.00804037</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="right">1</td>
+<td align="right">2023</td>
+<td align="left">Al Horford</td>
+<td align="right">0.0902433</td>
+<td align="right">0.560702</td>
+<td align="right">0.602442</td>
+<td align="right">0.588029</td>
+<td align="right">0.00175832</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">2023</td>
+<td align="left">Andrew Wiggins</td>
+<td align="right">0.141368</td>
+<td align="right">0.597014</td>
+<td align="right">0.580687</td>
+<td align="right">0.587998</td>
+<td align="right">0.0106417</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">2023</td>
+<td align="left">Anfernee Simons</td>
+<td align="right">0.109778</td>
+<td align="right">0.557983</td>
+<td align="right">0.569789</td>
+<td align="right">0.593048</td>
+<td align="right">0.0138669</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td align="right">2023</td>
+<td align="left">Anthony Davis</td>
+<td align="right">0.102784</td>
+<td align="right">0.592395</td>
+<td align="right">0.570054</td>
+<td align="right">0.587705</td>
+<td align="right">0.0162172</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td align="right">2023</td>
+<td align="left">Anthony Edwards</td>
+<td align="right">0.0561825</td>
+<td align="right">0.602159</td>
+<td align="right">0.6101</td>
+<td align="right">0.590135</td>
+<td align="right">0.0545278</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td align="right">2023</td>
+<td align="left">Bam Adebayo</td>
+<td align="right">0.192308</td>
+<td align="right">0.513591</td>
+<td align="right">0.590492</td>
+<td align="right">0.597262</td>
+<td align="right">0.00980593</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="right">2023</td>
+<td align="left">Bojan Bogdanović</td>
+<td align="right">0.138098</td>
+<td align="right">0.577742</td>
+<td align="right">0.575943</td>
+<td align="right">0.59157</td>
+<td align="right">0.00184185</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td align="right">2023</td>
+<td align="left">Bradley Beal</td>
+<td align="right">0.122245</td>
+<td align="right">0.584892</td>
+<td align="right">0.581959</td>
+<td align="right">0.58885</td>
+<td align="right">0.0030606</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="right">2023</td>
+<td align="left">Brandon Ingram</td>
+<td align="right">0.0912451</td>
+<td align="right">0.608591</td>
+<td align="right">0.591863</td>
+<td align="right">0.576785</td>
+<td align="right">0.00785333</td>
+<td align="right">5</td>
+</tr>
+</tbody></table>
 
 </details>
 
@@ -649,28 +1185,131 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 Sample MVP count for Stephen Curry  
 
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Year</th>
+<th>value</th>
+<th>won_last_yr</th>
+<th>won_2_yrs_before</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Stephen Curry</td>
+<td>2023</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2022</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2021</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2020</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2019</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2018</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2017</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2016</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2015</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2014</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2013</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2012</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2011</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2010</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2009</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stephen Curry</td>
+<td>2008</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody></table>
 
-|Name         |Year|value|won_last_yr|won_2_yrs_before|
-|-------------|----|-----|-----------|----------------|
-|Stephen Curry|2023|2    |0          |0               |
-|Stephen Curry|2022|2    |0          |0               |
-|Stephen Curry|2021|2    |0          |0               |
-|Stephen Curry|2020|2    |0          |0               |
-|Stephen Curry|2019|2    |0          |0               |
-|Stephen Curry|2018|2    |0          |1               |
-|Stephen Curry|2017|2    |1          |1               |
-|Stephen Curry|2016|1    |1          |0               |
-|Stephen Curry|2015|0    |0          |0               |
-|Stephen Curry|2014|0    |0          |0               |
-|Stephen Curry|2013|0    |0          |0               |
-|Stephen Curry|2012|0    |0          |0               |
-|Stephen Curry|2011|0    |0          |0               |
-|Stephen Curry|2010|0    |0          |0               |
-|Stephen Curry|2009|0    |0          |0               |
-|Stephen Curry|2008|0    |0          |0               |  
-
-
-* `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
+`MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
 </details>
 
 ## Final Merged Data 
