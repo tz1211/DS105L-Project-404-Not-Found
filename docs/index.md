@@ -345,6 +345,8 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
    - Normalizing the similarity scores ensures a consistent range of values between 0 and 1, facilitating easier interpretation and comparison of relevance scores. This normalization enables ranking articles based on their relevance scores and assists in distinguishing highly relevant articles from less relevant ones in the sports news analysis.
 
 **What does the data look like** 🤔️
+
+**After all the data are gathered, they are combined with unique combination of "time" + " most frequent name", the quantitative data take the average, and the number of dataset of same player is called frequency**.
 #### Table: Sample Final Data of NBA NEWS
 * *(Taking the sample from 2019-20 season). * 
 
