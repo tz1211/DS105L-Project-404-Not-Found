@@ -8,10 +8,10 @@ The purpose of this project is to try and create a machine learning algorithm th
 ## Team Members 
 - Annabel Zhong (Litong-Annabel) 
   - responsibility:
-    - 1️⃣ Scraping media data (e.g articles, twitters) for quantitave analysis
-    - 2️⃣ Clean the data and using 
-    - 3️⃣ 
-    - 4️⃣ 
+    - 1️⃣ Qualitative data sourcing
+    - 2️⃣ Sports news web scraping and extracting news contents for textual analysis
+    - 3️⃣ Assessing and quantifying credibility, relevance and sentiments of news
+    - 4️⃣ Finalizing data, using data distribution to address missing data issues and ensure completeness
 - Spark Lu (Spark-LuC) 
   - responsibility:
     - 1️⃣ Preliminary scraping individual and team data
