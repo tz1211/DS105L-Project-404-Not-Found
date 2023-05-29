@@ -56,7 +56,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <details>
 <summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
 
-<table>
+<table align="right">
 <thead>
 <tr>
 <th></th>
@@ -562,7 +562,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <details>
 <summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>  
 
-<table>
+<table align="right">
 <thead>
 <tr>
 <th></th>
@@ -891,7 +891,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <th align="right"></th>
 <th align="right">time</th>
-<th align="left">most_frequent_name</th>
+<th align="right">most_frequent_name</th>
 <th align="right">textblob_Sentiment</th>
 <th align="right">nltk_Sentiment</th>
 <th align="right">relevance_score</th>
@@ -905,7 +905,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tbody><tr>
 <td align="right">0</td>
 <td align="right">2020</td>
-<td align="left">Aaron Gordon</td>
+<td align="right">Aaron Gordon</td>
 <td align="right">0.0923111</td>
 <td align="right">0.0923111</td>
 <td align="right">0.131483</td>
@@ -918,7 +918,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">1</td>
 <td align="right">2020</td>
-<td align="left">Al Horford</td>
+<td align="right">Al Horford</td>
 <td align="right">0.05169</td>
 <td align="right">0.05169</td>
 <td align="right">0.117488</td>
@@ -931,7 +931,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">2</td>
 <td align="right">2020</td>
-<td align="left">Andre Drummond</td>
+<td align="right">Andre Drummond</td>
 <td align="right">0.0369387</td>
 <td align="right">0.0369387</td>
 <td align="right">0.158727</td>
@@ -944,7 +944,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">3</td>
 <td align="right">2020</td>
-<td align="left">Andrew Wiggins</td>
+<td align="right">Andrew Wiggins</td>
 <td align="right">0.0904019</td>
 <td align="right">0.0904019</td>
 <td align="right">0.0992229</td>
@@ -957,7 +957,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">4</td>
 <td align="right">2020</td>
-<td align="left">Anthony Davis</td>
+<td align="right">Anthony Davis</td>
 <td align="right">0.120779</td>
 <td align="right">0.120779</td>
 <td align="right">0.189062</td>
@@ -970,7 +970,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">5</td>
 <td align="right">2020</td>
-<td align="left">Bam Adebayo</td>
+<td align="right">Bam Adebayo</td>
 <td align="right">0.0589134</td>
 <td align="right">0.0589134</td>
 <td align="right">0.0640164</td>
@@ -983,7 +983,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">6</td>
 <td align="right">2020</td>
-<td align="left">Ben Simmons</td>
+<td align="right">Ben Simmons</td>
 <td align="right">0.0598212</td>
 <td align="right">0.0598212</td>
 <td align="right">0.196928</td>
@@ -996,7 +996,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">7</td>
 <td align="right">2020</td>
-<td align="left">Bradley Beal</td>
+<td align="right">Bradley Beal</td>
 <td align="right">0.0754871</td>
 <td align="right">0.0754871</td>
 <td align="right">0.102333</td>
@@ -1009,7 +1009,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">8</td>
 <td align="right">2020</td>
-<td align="left">Brandon Ingram</td>
+<td align="right">Brandon Ingram</td>
 <td align="right">0.0879199</td>
 <td align="right">0.0879199</td>
 <td align="right">0.0901602</td>
@@ -1035,7 +1035,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">10</td>
 <td align="right">2020</td>
-<td align="left">CJ McCollum</td>
+<td align="right">CJ McCollum</td>
 <td align="right">0.0737269</td>
 <td align="right">0.0737269</td>
 <td align="right">0.276422</td>
@@ -1058,7 +1058,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <th align="right"></th>
 <th align="right">time</th>
-<th align="left">most_frequent_name</th>
+<th align="right">most_frequent_name</th>
 <th align="right">textblob_sentiment</th>
 <th align="right">sentiment_bert_average_score</th>
 <th align="right">sentiment_xlnet_average_score</th>
@@ -1070,7 +1070,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tbody><tr>
 <td align="right">0</td>
 <td align="right">2023</td>
-<td align="left">Aaron Gordon</td>
+<td align="right">Aaron Gordon</td>
 <td align="right">0.107826</td>
 <td align="right">0.580768</td>
 <td align="right">0.569642</td>
@@ -1081,7 +1081,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">1</td>
 <td align="right">2023</td>
-<td align="left">Al Horford</td>
+<td align="right">Al Horford</td>
 <td align="right">0.0902433</td>
 <td align="right">0.560702</td>
 <td align="right">0.602442</td>
@@ -1092,7 +1092,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">2</td>
 <td align="right">2023</td>
-<td align="left">Andrew Wiggins</td>
+<td align="right">Andrew Wiggins</td>
 <td align="right">0.141368</td>
 <td align="right">0.597014</td>
 <td align="right">0.580687</td>
@@ -1103,7 +1103,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">3</td>
 <td align="right">2023</td>
-<td align="left">Anfernee Simons</td>
+<td align="right">Anfernee Simons</td>
 <td align="right">0.109778</td>
 <td align="right">0.557983</td>
 <td align="right">0.569789</td>
@@ -1114,7 +1114,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">4</td>
 <td align="right">2023</td>
-<td align="left">Anthony Davis</td>
+<td align="right">Anthony Davis</td>
 <td align="right">0.102784</td>
 <td align="right">0.592395</td>
 <td align="right">0.570054</td>
@@ -1125,7 +1125,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">5</td>
 <td align="right">2023</td>
-<td align="left">Anthony Edwards</td>
+<td align="right">Anthony Edwards</td>
 <td align="right">0.0561825</td>
 <td align="right">0.602159</td>
 <td align="right">0.6101</td>
@@ -1136,7 +1136,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">6</td>
 <td align="right">2023</td>
-<td align="left">Bam Adebayo</td>
+<td align="right">Bam Adebayo</td>
 <td align="right">0.192308</td>
 <td align="right">0.513591</td>
 <td align="right">0.590492</td>
@@ -1147,7 +1147,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">7</td>
 <td align="right">2023</td>
-<td align="left">Bojan Bogdanović</td>
+<td align="right">Bojan Bogdanović</td>
 <td align="right">0.138098</td>
 <td align="right">0.577742</td>
 <td align="right">0.575943</td>
@@ -1158,7 +1158,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">8</td>
 <td align="right">2023</td>
-<td align="left">Bradley Beal</td>
+<td align="right">Bradley Beal</td>
 <td align="right">0.122245</td>
 <td align="right">0.584892</td>
 <td align="right">0.581959</td>
@@ -1169,7 +1169,7 @@ This table includes the win percentage and conference standing for each team. (S
 <tr>
 <td align="right">9</td>
 <td align="right">2023</td>
-<td align="left">Brandon Ingram</td>
+<td align="right">Brandon Ingram</td>
 <td align="right">0.0912451</td>
 <td align="right">0.608591</td>
 <td align="right">0.591863</td>
@@ -1185,7 +1185,7 @@ This table includes the win percentage and conference standing for each team. (S
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 Sample MVP count for Stephen Curry  
 
-<table>
+<table align="right">
 <thead>
 <tr>
 <th>Name</th>
@@ -1316,18 +1316,637 @@ Sample MVP count for Stephen Curry
 
 ### Historical data from 2010-2022 season ([final_cleaned_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data.csv)) 
 
-|      |season|slug     |name             |team                  |age|%games_played     |minutes_played    |points            |assists           |attempted_field_goals|attempted_free_throws|attempted_three_point_field_goals|blocks            |defensive_rebounds|games_started     |made_field_goals  |made_free_throws  |made_three_point_field_goals|offensive_rebounds|personal_fouls    |steals            |turnovers         |field_goal%       |free_throw%       |3pt%              |assist_percentage|block_percentage|box_plus_minus|defensive_box_plus_minus|defensive_rebound_percentage|free_throw_attempt_rate|offensive_box_plus_minus|offensive_rebound_percentage|player_efficiency_rating|steal_percentage|three_point_attempt_rate|total_rebound_percentage|true_shooting_percentage|turnover_percentage|usage_percentage|value_over_replacement_player|win_shares_per_48_minutes|win_rate          |conference_standing|num_mvp|won_last_yr|won_2_yrs_before|textblob_sentiment|sentiment_bert_average_score|sentiment_xlnet_average_score|bert_relevance    |relevance_score   |frequency|is_mvp|
-|------|------|---------|-----------------|----------------------|---|------------------|------------------|------------------|------------------|---------------------|---------------------|---------------------------------|------------------|------------------|------------------|------------------|------------------|----------------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|-----------------|----------------|--------------|------------------------|----------------------------|-----------------------|------------------------|----------------------------|------------------------|----------------|------------------------|------------------------|------------------------|-------------------|----------------|-----------------------------|-------------------------|------------------|-------------------|-------|-----------|----------------|------------------|----------------------------|-----------------------------|------------------|------------------|---------|------|
-|0     |2010  |aldrila01|LaMarcus Aldridge|PORTLAND TRAIL BLAZERS|24 |0.951219512195122 |37.46153846153846 |17.858974358974358|2.051282051282051 |14.987179487179487   |3.897435897435898    |0.2051282051282051               |0.6153846153846154|5.576923076923077 |1.0               |7.423076923076923 |2.948717948717949 |0.0641025641025641          |2.4615384615384617|2.9615384615384617|0.8589743589743589|1.3333333333333333|0.495295124037639 |0.7565789473684211|0.3125            |9.9              |1.3             |1.2           |-0.2                    |18.6                        |0.26                   |1.4                     |8.1                         |18.2                    |1.3             |0.014                   |13.3                    |0.535                   |7.4                |22.9            |2.3                          |0.145                    |0.6097560975609756|6                  |0      |0          |0               |0.0               |0.0                         |0.0                          |0.0               |0.0               |0        |0     |
-|1     |2010  |allenra02|Ray Allen        |BOSTON CELTICS        |34 |0.975609756097561 |35.2375           |16.3              |2.625             |12.1625              |3.1625               |4.9875                           |0.3125            |2.6               |1.0               |5.8               |2.8875            |1.8125                      |0.5625            |2.275             |0.8               |1.6125            |0.4768756423432682|0.9130434782608696|0.3634085213032582|12.3             |0.7             |1.2           |-0.3                    |8.8                         |0.26                   |1.5                     |2.0                         |15.2                    |1.2             |0.41                    |5.5                     |0.601                   |10.6               |20.2            |2.3                          |0.135                    |0.6097560975609756|4                  |0      |0          |0               |0.046541415714644 |0.5710958358314302          |0.5737237615717782           |0.5190211534500122|0.0038996330971015|4        |0     |
-|2     |2010  |anthoca01|Carmelo Anthony  |DENVER NUGGETS        |25 |0.8414634146341463|38.17391304347826 |28.159420289855078|3.217391304347826 |21.768115942028984   |8.869565217391305    |2.710144927536232                |0.4347826086956521|4.376811594202898 |1.0               |9.971014492753625 |7.36231884057971  |0.855072463768116           |2.2028985507246377|3.260869565217391 |1.2753623188405796|3.028985507246377 |0.4580559254327563|0.8300653594771241|0.3155080213903743|15.9             |0.9             |2.3           |-1.2                    |13.1                        |0.407                  |3.5                     |6.7                         |22.2                    |1.7             |0.125                   |9.9                     |0.548                   |10.6               |33.4            |2.9                          |0.145                    |0.6463414634146342|4                  |0      |0          |0               |0.0659319821592549|0.5807402985436576          |0.576524725982121            |0.531563937664032 |0.0585006792499055|5        |0     |
-|3     |2010  |arenagi01|Gilbert Arenas   |WASHINGTON WIZARDS    |28 |0.3902439024390244|36.53125          |22.5625           |7.1875            |19.25                |6.46875              |5.65625                          |0.28125           |3.625             |1.0               |7.90625           |4.78125           |1.96875                     |0.53125           |2.96875           |1.28125           |3.65625           |0.4107142857142857|0.7391304347826086|0.3480662983425414|36.3             |0.6             |1.7           |-1.2                    |11.6                        |0.336                  |2.9                     |1.6                         |18.7                    |1.8             |0.294                   |6.5                     |0.511                   |14.2               |31.9            |1.1                          |0.072                    |0.3170731707317073|14                 |0      |0          |0               |0.132288557912325 |0.6023474167263697          |0.5754024456890803           |0.523616373538971 |0.0043846670048157|6        |0     |
-|4     |2010  |arizatr01|Trevor Ariza     |HOUSTON ROCKETS       |24 |0.8780487804878049|36.513888888888886|14.88888888888889 |3.8333333333333335|13.875               |3.1666666666666665   |5.652777777777778                |0.5555555555555556|4.513888888888889 |0.9861111111111112|5.472222222222222 |2.055555555555556 |1.8888888888888888          |1.0833333333333333|2.25              |1.75              |2.236111111111111 |0.3943943943943944|0.6491228070175439|0.3341523341523341|16.7             |1.1             |0.5           |0.9                     |14.7                        |0.228                  |-0.4                    |3.3                         |13.3                    |2.4             |0.407                   |8.8                     |0.488                   |12.8               |21.2            |1.7                          |0.058                    |0.5121951219512195|9                  |0      |0          |0               |0.0               |0.0                         |0.0                          |0.0               |0.0               |0        |0     |
-|5     |2010  |artesro01|Metta World Peace|LOS ANGELES LAKERS    |30 |0.9390243902439024|33.83116883116883 |10.974025974025974|3.038961038961039 |9.61038961038961     |2.415584415584416    |3.844155844155844                |0.2727272727272727|3.012987012987013 |1.0               |3.9740259740259742|1.6623376623376624|1.3636363636363635          |1.2857142857142858|2.142857142857143 |1.3766233766233766|1.5714285714285714|0.4135135135135135|0.6881720430107527|0.3547297297297297|13.3             |0.6             |0.5           |1.1                     |9.9                         |0.251                  |-0.6                    |4.3                         |12.1                    |2.1             |0.4                     |7.1                     |0.514                   |12.8               |16.2            |1.6                          |0.098                    |0.6951219512195121|1                  |0      |0          |0               |0.0               |0.0                         |0.0                          |0.0               |0.0               |0        |0     |
-|6     |2010  |bargnan01|Andrea Bargnani  |TORONTO RAPTORS       |24 |0.975609756097561 |34.9875           |17.2              |1.1625            |14.2875              |2.925                |4.0625                           |1.3875            |4.85              |1.0               |6.7125            |2.2625            |1.5125                      |1.3125            |2.6875            |0.3125            |1.5               |0.4698162729658793|0.7735042735042736|0.3723076923076923|5.4              |3.0             |-0.8          |-1.7                    |15.9                        |0.205                  |0.9                     |4.6                         |15.5                    |0.5             |0.284                   |10.4                    |0.552                   |8.8                |22.3            |0.9                          |0.072                    |0.4878048780487805|9                  |0      |0          |0               |0.2366198865733748|0.5677419097527213          |0.5666976000951685           |0.5314929485321045|0.0018285459338642|1        |0     |
-|7     |2010  |barroea01|Earl Barron      |NEW YORK KNICKS       |28 |0.0853658536585365|33.142857142857146|11.714285714285714|1.1428571428571428|9.714285714285714    |4.142857142857143    |0.0                              |0.5714285714285714|6.571428571428571 |0.8571428571428571|4.285714285714286 |3.142857142857143 |0.0                         |4.428571428571429 |3.4285714285714284|0.5714285714285714|1.5714285714285714|0.4411764705882353|0.7586206896551724|0.0               |5.2              |1.3             |-4.5          |-2.9                    |22.9                        |0.426                  |-1.5                    |14.9                        |14.7                    |0.9             |0.0                     |18.9                    |0.508                   |12.0               |17.9            |-0.1                         |0.091                    |0.3536585365853658|11                 |0      |0          |0               |0.2366198865733748|0.5935538048329561          |0.5683303993681202           |0.513433039188385 |0.0018285459338642|1        |0     |
-|8     |2010  |battish01|Shane Battier    |HOUSTON ROCKETS       |31 |0.8170731707317073|32.35820895522388 |7.970149253731344 |2.4477611940298507|6.6716417910447765   |1.582089552238806    |4.164179104477612                |1.1343283582089552|3.5522388059701493|0.9253731343283582|2.656716417910448 |1.1492537313432836|1.507462686567164           |1.1044776119402986|2.074626865671642 |0.7910447761194029|0.9552238805970148|0.3982102908277405|0.7264150943396227|0.3620071684587813|10.9             |2.6             |1.5           |1.4                     |13.1                        |0.237                  |0.1                     |3.8                         |11.1                    |1.2             |0.624                   |8.2                     |0.541                   |11.5               |11.4            |1.9                          |0.095                    |0.5121951219512195|9                  |0      |0          |0               |0.0               |0.0                         |0.0                          |0.0               |0.0               |0        |0     |
-|9     |2010  |bellra01 |Raja Bell        |CHARLOTTE BOBCATS     |33 |0.0609756097560975|31.4              |12.0              |2.0               |11.0                 |0.6                  |4.8                              |0.4               |3.2               |1.0               |4.8               |0.6               |1.8                         |1.0               |2.6               |0.8               |1.0               |0.4363636363636363|1.0               |0.375             |11.3             |1.0             |2.5           |2.0                     |12.1                        |0.055                  |0.5                     |3.9                         |12.8                    |1.4             |0.436                   |8.1                     |0.533                   |8.2                |18.2            |0.2                          |0.113                    |0.5365853658536586|7                  |0      |0          |0               |0.2366198865733748|0.5702846050262451          |0.5683994526448457           |0.5285742878913879|0.0018285459338642|1        |0     |
+<table align="right">
+<thead>
+<tr>
+<th></th>
+<th>season</th>
+<th>slug</th>
+<th>name</th>
+<th>team</th>
+<th>age</th>
+<th>%games_played</th>
+<th>minutes_played</th>
+<th>points</th>
+<th>assists</th>
+<th>attempted_field_goals</th>
+<th>attempted_free_throws</th>
+<th>attempted_three_point_field_goals</th>
+<th>blocks</th>
+<th>defensive_rebounds</th>
+<th>games_started</th>
+<th>made_field_goals</th>
+<th>made_free_throws</th>
+<th>made_three_point_field_goals</th>
+<th>offensive_rebounds</th>
+<th>personal_fouls</th>
+<th>steals</th>
+<th>turnovers</th>
+<th>field_goal%</th>
+<th>free_throw%</th>
+<th>3pt%</th>
+<th>assist_percentage</th>
+<th>block_percentage</th>
+<th>box_plus_minus</th>
+<th>defensive_box_plus_minus</th>
+<th>defensive_rebound_percentage</th>
+<th>free_throw_attempt_rate</th>
+<th>offensive_box_plus_minus</th>
+<th>offensive_rebound_percentage</th>
+<th>player_efficiency_rating</th>
+<th>steal_percentage</th>
+<th>three_point_attempt_rate</th>
+<th>total_rebound_percentage</th>
+<th>true_shooting_percentage</th>
+<th>turnover_percentage</th>
+<th>usage_percentage</th>
+<th>value_over_replacement_player</th>
+<th>win_shares_per_48_minutes</th>
+<th>win_rate</th>
+<th>conference_standing</th>
+<th>num_mvp</th>
+<th>won_last_yr</th>
+<th>won_2_yrs_before</th>
+<th>textblob_sentiment</th>
+<th>sentiment_bert_average_score</th>
+<th>sentiment_xlnet_average_score</th>
+<th>bert_relevance</th>
+<th>relevance_score</th>
+<th>frequency</th>
+<th>is_mvp</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>2010</td>
+<td>aldrila01</td>
+<td>LaMarcus Aldridge</td>
+<td>PORTLAND TRAIL BLAZERS</td>
+<td>24</td>
+<td>0.951219512195122</td>
+<td>37.46153846153846</td>
+<td>17.858974358974358</td>
+<td>2.051282051282051</td>
+<td>14.987179487179487</td>
+<td>3.897435897435898</td>
+<td>0.2051282051282051</td>
+<td>0.6153846153846154</td>
+<td>5.576923076923077</td>
+<td>1.0</td>
+<td>7.423076923076923</td>
+<td>2.948717948717949</td>
+<td>0.0641025641025641</td>
+<td>2.4615384615384617</td>
+<td>2.9615384615384617</td>
+<td>0.8589743589743589</td>
+<td>1.3333333333333333</td>
+<td>0.495295124037639</td>
+<td>0.7565789473684211</td>
+<td>0.3125</td>
+<td>9.9</td>
+<td>1.3</td>
+<td>1.2</td>
+<td>-0.2</td>
+<td>18.6</td>
+<td>0.26</td>
+<td>1.4</td>
+<td>8.1</td>
+<td>18.2</td>
+<td>1.3</td>
+<td>0.014</td>
+<td>13.3</td>
+<td>0.535</td>
+<td>7.4</td>
+<td>22.9</td>
+<td>2.3</td>
+<td>0.145</td>
+<td>0.6097560975609756</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2010</td>
+<td>allenra02</td>
+<td>Ray Allen</td>
+<td>BOSTON CELTICS</td>
+<td>34</td>
+<td>0.975609756097561</td>
+<td>35.2375</td>
+<td>16.3</td>
+<td>2.625</td>
+<td>12.1625</td>
+<td>3.1625</td>
+<td>4.9875</td>
+<td>0.3125</td>
+<td>2.6</td>
+<td>1.0</td>
+<td>5.8</td>
+<td>2.8875</td>
+<td>1.8125</td>
+<td>0.5625</td>
+<td>2.275</td>
+<td>0.8</td>
+<td>1.6125</td>
+<td>0.4768756423432682</td>
+<td>0.9130434782608696</td>
+<td>0.3634085213032582</td>
+<td>12.3</td>
+<td>0.7</td>
+<td>1.2</td>
+<td>-0.3</td>
+<td>8.8</td>
+<td>0.26</td>
+<td>1.5</td>
+<td>2.0</td>
+<td>15.2</td>
+<td>1.2</td>
+<td>0.41</td>
+<td>5.5</td>
+<td>0.601</td>
+<td>10.6</td>
+<td>20.2</td>
+<td>2.3</td>
+<td>0.135</td>
+<td>0.6097560975609756</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.046541415714644</td>
+<td>0.5710958358314302</td>
+<td>0.5737237615717782</td>
+<td>0.5190211534500122</td>
+<td>0.0038996330971015</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2010</td>
+<td>anthoca01</td>
+<td>Carmelo Anthony</td>
+<td>DENVER NUGGETS</td>
+<td>25</td>
+<td>0.8414634146341463</td>
+<td>38.17391304347826</td>
+<td>28.159420289855078</td>
+<td>3.217391304347826</td>
+<td>21.768115942028984</td>
+<td>8.869565217391305</td>
+<td>2.710144927536232</td>
+<td>0.4347826086956521</td>
+<td>4.376811594202898</td>
+<td>1.0</td>
+<td>9.971014492753625</td>
+<td>7.36231884057971</td>
+<td>0.855072463768116</td>
+<td>2.2028985507246377</td>
+<td>3.260869565217391</td>
+<td>1.2753623188405796</td>
+<td>3.028985507246377</td>
+<td>0.4580559254327563</td>
+<td>0.8300653594771241</td>
+<td>0.3155080213903743</td>
+<td>15.9</td>
+<td>0.9</td>
+<td>2.3</td>
+<td>-1.2</td>
+<td>13.1</td>
+<td>0.407</td>
+<td>3.5</td>
+<td>6.7</td>
+<td>22.2</td>
+<td>1.7</td>
+<td>0.125</td>
+<td>9.9</td>
+<td>0.548</td>
+<td>10.6</td>
+<td>33.4</td>
+<td>2.9</td>
+<td>0.145</td>
+<td>0.6463414634146342</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0659319821592549</td>
+<td>0.5807402985436576</td>
+<td>0.576524725982121</td>
+<td>0.531563937664032</td>
+<td>0.0585006792499055</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2010</td>
+<td>arenagi01</td>
+<td>Gilbert Arenas</td>
+<td>WASHINGTON WIZARDS</td>
+<td>28</td>
+<td>0.3902439024390244</td>
+<td>36.53125</td>
+<td>22.5625</td>
+<td>7.1875</td>
+<td>19.25</td>
+<td>6.46875</td>
+<td>5.65625</td>
+<td>0.28125</td>
+<td>3.625</td>
+<td>1.0</td>
+<td>7.90625</td>
+<td>4.78125</td>
+<td>1.96875</td>
+<td>0.53125</td>
+<td>2.96875</td>
+<td>1.28125</td>
+<td>3.65625</td>
+<td>0.4107142857142857</td>
+<td>0.7391304347826086</td>
+<td>0.3480662983425414</td>
+<td>36.3</td>
+<td>0.6</td>
+<td>1.7</td>
+<td>-1.2</td>
+<td>11.6</td>
+<td>0.336</td>
+<td>2.9</td>
+<td>1.6</td>
+<td>18.7</td>
+<td>1.8</td>
+<td>0.294</td>
+<td>6.5</td>
+<td>0.511</td>
+<td>14.2</td>
+<td>31.9</td>
+<td>1.1</td>
+<td>0.072</td>
+<td>0.3170731707317073</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.132288557912325</td>
+<td>0.6023474167263697</td>
+<td>0.5754024456890803</td>
+<td>0.523616373538971</td>
+<td>0.0043846670048157</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2010</td>
+<td>arizatr01</td>
+<td>Trevor Ariza</td>
+<td>HOUSTON ROCKETS</td>
+<td>24</td>
+<td>0.8780487804878049</td>
+<td>36.513888888888886</td>
+<td>14.88888888888889</td>
+<td>3.8333333333333335</td>
+<td>13.875</td>
+<td>3.1666666666666665</td>
+<td>5.652777777777778</td>
+<td>0.5555555555555556</td>
+<td>4.513888888888889</td>
+<td>0.9861111111111112</td>
+<td>5.472222222222222</td>
+<td>2.055555555555556</td>
+<td>1.8888888888888888</td>
+<td>1.0833333333333333</td>
+<td>2.25</td>
+<td>1.75</td>
+<td>2.236111111111111</td>
+<td>0.3943943943943944</td>
+<td>0.6491228070175439</td>
+<td>0.3341523341523341</td>
+<td>16.7</td>
+<td>1.1</td>
+<td>0.5</td>
+<td>0.9</td>
+<td>14.7</td>
+<td>0.228</td>
+<td>-0.4</td>
+<td>3.3</td>
+<td>13.3</td>
+<td>2.4</td>
+<td>0.407</td>
+<td>8.8</td>
+<td>0.488</td>
+<td>12.8</td>
+<td>21.2</td>
+<td>1.7</td>
+<td>0.058</td>
+<td>0.5121951219512195</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2010</td>
+<td>artesro01</td>
+<td>Metta World Peace</td>
+<td>LOS ANGELES LAKERS</td>
+<td>30</td>
+<td>0.9390243902439024</td>
+<td>33.83116883116883</td>
+<td>10.974025974025974</td>
+<td>3.038961038961039</td>
+<td>9.61038961038961</td>
+<td>2.415584415584416</td>
+<td>3.844155844155844</td>
+<td>0.2727272727272727</td>
+<td>3.012987012987013</td>
+<td>1.0</td>
+<td>3.9740259740259742</td>
+<td>1.6623376623376624</td>
+<td>1.3636363636363635</td>
+<td>1.2857142857142858</td>
+<td>2.142857142857143</td>
+<td>1.3766233766233766</td>
+<td>1.5714285714285714</td>
+<td>0.4135135135135135</td>
+<td>0.6881720430107527</td>
+<td>0.3547297297297297</td>
+<td>13.3</td>
+<td>0.6</td>
+<td>0.5</td>
+<td>1.1</td>
+<td>9.9</td>
+<td>0.251</td>
+<td>-0.6</td>
+<td>4.3</td>
+<td>12.1</td>
+<td>2.1</td>
+<td>0.4</td>
+<td>7.1</td>
+<td>0.514</td>
+<td>12.8</td>
+<td>16.2</td>
+<td>1.6</td>
+<td>0.098</td>
+<td>0.6951219512195121</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>2010</td>
+<td>bargnan01</td>
+<td>Andrea Bargnani</td>
+<td>TORONTO RAPTORS</td>
+<td>24</td>
+<td>0.975609756097561</td>
+<td>34.9875</td>
+<td>17.2</td>
+<td>1.1625</td>
+<td>14.2875</td>
+<td>2.925</td>
+<td>4.0625</td>
+<td>1.3875</td>
+<td>4.85</td>
+<td>1.0</td>
+<td>6.7125</td>
+<td>2.2625</td>
+<td>1.5125</td>
+<td>1.3125</td>
+<td>2.6875</td>
+<td>0.3125</td>
+<td>1.5</td>
+<td>0.4698162729658793</td>
+<td>0.7735042735042736</td>
+<td>0.3723076923076923</td>
+<td>5.4</td>
+<td>3.0</td>
+<td>-0.8</td>
+<td>-1.7</td>
+<td>15.9</td>
+<td>0.205</td>
+<td>0.9</td>
+<td>4.6</td>
+<td>15.5</td>
+<td>0.5</td>
+<td>0.284</td>
+<td>10.4</td>
+<td>0.552</td>
+<td>8.8</td>
+<td>22.3</td>
+<td>0.9</td>
+<td>0.072</td>
+<td>0.4878048780487805</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.2366198865733748</td>
+<td>0.5677419097527213</td>
+<td>0.5666976000951685</td>
+<td>0.5314929485321045</td>
+<td>0.0018285459338642</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>7</td>
+<td>2010</td>
+<td>barroea01</td>
+<td>Earl Barron</td>
+<td>NEW YORK KNICKS</td>
+<td>28</td>
+<td>0.0853658536585365</td>
+<td>33.142857142857146</td>
+<td>11.714285714285714</td>
+<td>1.1428571428571428</td>
+<td>9.714285714285714</td>
+<td>4.142857142857143</td>
+<td>0.0</td>
+<td>0.5714285714285714</td>
+<td>6.571428571428571</td>
+<td>0.8571428571428571</td>
+<td>4.285714285714286</td>
+<td>3.142857142857143</td>
+<td>0.0</td>
+<td>4.428571428571429</td>
+<td>3.4285714285714284</td>
+<td>0.5714285714285714</td>
+<td>1.5714285714285714</td>
+<td>0.4411764705882353</td>
+<td>0.7586206896551724</td>
+<td>0.0</td>
+<td>5.2</td>
+<td>1.3</td>
+<td>-4.5</td>
+<td>-2.9</td>
+<td>22.9</td>
+<td>0.426</td>
+<td>-1.5</td>
+<td>14.9</td>
+<td>14.7</td>
+<td>0.9</td>
+<td>0.0</td>
+<td>18.9</td>
+<td>0.508</td>
+<td>12.0</td>
+<td>17.9</td>
+<td>-0.1</td>
+<td>0.091</td>
+<td>0.3536585365853658</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.2366198865733748</td>
+<td>0.5935538048329561</td>
+<td>0.5683303993681202</td>
+<td>0.513433039188385</td>
+<td>0.0018285459338642</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td>2010</td>
+<td>battish01</td>
+<td>Shane Battier</td>
+<td>HOUSTON ROCKETS</td>
+<td>31</td>
+<td>0.8170731707317073</td>
+<td>32.35820895522388</td>
+<td>7.970149253731344</td>
+<td>2.4477611940298507</td>
+<td>6.6716417910447765</td>
+<td>1.582089552238806</td>
+<td>4.164179104477612</td>
+<td>1.1343283582089552</td>
+<td>3.5522388059701493</td>
+<td>0.9253731343283582</td>
+<td>2.656716417910448</td>
+<td>1.1492537313432836</td>
+<td>1.507462686567164</td>
+<td>1.1044776119402986</td>
+<td>2.074626865671642</td>
+<td>0.7910447761194029</td>
+<td>0.9552238805970148</td>
+<td>0.3982102908277405</td>
+<td>0.7264150943396227</td>
+<td>0.3620071684587813</td>
+<td>10.9</td>
+<td>2.6</td>
+<td>1.5</td>
+<td>1.4</td>
+<td>13.1</td>
+<td>0.237</td>
+<td>0.1</td>
+<td>3.8</td>
+<td>11.1</td>
+<td>1.2</td>
+<td>0.624</td>
+<td>8.2</td>
+<td>0.541</td>
+<td>11.5</td>
+<td>11.4</td>
+<td>1.9</td>
+<td>0.095</td>
+<td>0.5121951219512195</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>2010</td>
+<td>bellra01</td>
+<td>Raja Bell</td>
+<td>CHARLOTTE BOBCATS</td>
+<td>33</td>
+<td>0.0609756097560975</td>
+<td>31.4</td>
+<td>12.0</td>
+<td>2.0</td>
+<td>11.0</td>
+<td>0.6</td>
+<td>4.8</td>
+<td>0.4</td>
+<td>3.2</td>
+<td>1.0</td>
+<td>4.8</td>
+<td>0.6</td>
+<td>1.8</td>
+<td>1.0</td>
+<td>2.6</td>
+<td>0.8</td>
+<td>1.0</td>
+<td>0.4363636363636363</td>
+<td>1.0</td>
+<td>0.375</td>
+<td>11.3</td>
+<td>1.0</td>
+<td>2.5</td>
+<td>2.0</td>
+<td>12.1</td>
+<td>0.055</td>
+<td>0.5</td>
+<td>3.9</td>
+<td>12.8</td>
+<td>1.4</td>
+<td>0.436</td>
+<td>8.1</td>
+<td>0.533</td>
+<td>8.2</td>
+<td>18.2</td>
+<td>0.2</td>
+<td>0.113</td>
+<td>0.5365853658536586</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.2366198865733748</td>
+<td>0.5702846050262451</td>
+<td>0.5683994526448457</td>
+<td>0.5285742878913879</td>
+<td>0.0018285459338642</td>
+<td>1</td>
+<td>0</td>
+</tr>
+</tbody></table>
 
 Full df shape: 1216 x 54
 * Final dataframe with individual, team, and media narrative data all merged together 
@@ -1335,18 +1954,626 @@ Full df shape: 1216 x 54
 
 ### Merged data for 2023 season ([final_cleaned_data_2023.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data_2023.csv))
 
-|      |season|slug     |name             |team                  |age|%games_played     |minutes_played    |points            |assists           |attempted_field_goals|attempted_free_throws|attempted_three_point_field_goals|blocks            |defensive_rebounds|games_started     |made_field_goals  |made_free_throws  |made_three_point_field_goals|offensive_rebounds|personal_fouls    |steals            |turnovers         |field_goal%       |free_throw%       |3pt%              |assist_percentage|block_percentage|box_plus_minus|defensive_box_plus_minus|defensive_rebound_percentage|free_throw_attempt_rate|offensive_box_plus_minus|offensive_rebound_percentage|player_efficiency_rating|steal_percentage|three_point_attempt_rate|total_rebound_percentage|true_shooting_percentage|turnover_percentage|usage_percentage|value_over_replacement_player|win_shares_per_48_minutes|win_rate          |conference_standing|num_mvp|won_last_yr|won_2_yrs_before|textblob_sentiment|sentiment_bert_average_score|sentiment_xlnet_average_score|bert_relevance    |relevance_score   |frequency|
-|------|------|---------|-----------------|----------------------|---|------------------|------------------|------------------|------------------|---------------------|---------------------|---------------------------------|------------------|------------------|------------------|------------------|------------------|----------------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|-----------------|----------------|--------------|------------------------|----------------------------|-----------------------|------------------------|----------------------------|------------------------|----------------|------------------------|------------------------|------------------------|-------------------|----------------|-----------------------------|-------------------------|------------------|-------------------|-------|-----------|----------------|------------------|----------------------------|-----------------------------|------------------|------------------|---------|
-|0     |2023  |adebaba01|Bam Adebayo      |MIAMI HEAT            |25 |0.918918918918919 |35.13235294117647 |21.058823529411764|3.2794117647058822|15.25                |5.588235294117647    |0.1764705882352941               |0.8676470588235294|6.926470588235294 |1.0               |8.279411764705882 |4.485294117647059 |0.0147058823529411          |2.426470588235294 |2.867647058823529 |1.1911764705882353|2.588235294117647 |0.5429122468659595|0.8026315789473685|0.0833333333333333|16.4             |2.5             |1.8           |0.9                     |23.9                        |0.366                  |0.9                     |7.8                         |20.4                    |1.7             |0.012                   |15.5                    |0.595                   |12.8               |25.5            |2.3                          |0.142                    |0.5342465753424658|7                  |0      |0          |0               |0.1923076923076923|0.5135908424854279          |0.5904920101165771           |0.5972620844841003|0.00980592516144  |1        |
-|1     |2023  |allenja01|Jarrett Allen    |CLEVELAND CAVALIERS   |24 |0.8378378378378378|33.03225806451613 |14.35483870967742 |1.6774193548387095|9.225806451612904    |3.2580645161290325   |0.1451612903225806               |1.2096774193548387|6.693548387096774 |1.0               |5.983870967741935 |2.370967741935484 |0.0161290322580645          |3.1129032258064515|2.2419354838709675|0.8225806451612904|1.403225806451613 |0.6486013986013985|0.7277227722772277|0.1111111111111111|7.5              |3.4             |2.3           |1.1                     |23.9                        |0.353                  |1.3                     |11.1                        |19.8                    |1.3             |0.016                   |17.5                    |0.673                   |11.6               |16.3            |2.2                          |0.204                    |0.6164383561643836|4                  |0      |0          |0               |0.1528338695853003|0.6097304433025151          |0.5730694161542568           |0.5885380506515503|0.0065960140888307|7        |
-|2     |2023  |antetgi01|Giannis Antetokounmpo|MILWAUKEE BUCKS       |28 |0.7777777777777778|32.5              |31.25             |5.571428571428571 |20.392857142857142   |12.625               |2.7857142857142856               |0.8035714285714286|9.607142857142858 |1.0               |11.125            |8.196428571428571 |0.8035714285714286          |2.25              |3.196428571428572 |0.7321428571428571|3.9107142857142856|0.5455341506129597|0.6492220650636492|0.2884615384615385|32.3             |2.0             |8.2           |2.6                     |29.5                        |0.619                  |5.6                     |7.5                         |28.6                    |1.1             |0.137                   |18.9                    |0.602                   |13.1               |38.7            |4.7                          |0.204                    |0.7183098591549296|1                  |2      |0          |0               |0.1511246958443137|0.5856197835898947          |0.5833562986432821           |0.5941260457038879|0.0251025381228857|29       |
-|3     |2023  |anunoog01|OG Anunoby       |TORONTO RAPTORS       |25 |0.7945205479452054|35.724137931034484|16.775862068965516|1.896551724137931 |13.10344827586207    |2.7413793103448274   |5.258620689655173                |0.7241379310344828|3.655172413793104 |1.0               |6.224137931034483 |2.293103448275862 |2.034482758620689           |1.4137931034482758|3.034482758620689 |1.9655172413793105|2.155172413793104 |0.475             |0.8364779874213837|0.3868852459016393|7.7              |2.0             |0.1           |0.7                     |12.5                        |0.209                  |-0.6                    |4.2                         |14.4                    |2.7             |0.401                   |8.0                     |0.586                   |13.1               |19.6            |1.1                          |0.085                    |0.4861111111111111|9                  |0      |0          |0               |0.0               |0.0                         |0.0                          |0.0               |0.0               |0        |
-|4     |2023  |aytonde01|Deandre Ayton    |PHOENIX SUNS          |24 |0.8472222222222222|30.442622950819672|18.311475409836067|1.819672131147541 |13.557377049180328   |2.9672131147540983   |0.3934426229508196               |0.7704918032786885|7.508196721311475 |1.0               |7.983606557377049 |2.2295081967213117|0.1147540983606557          |2.639344262295082 |2.836065573770492 |0.5573770491803278|1.819672131147541 |0.5888754534461911|0.7513812154696132|0.2916666666666667|9.8              |2.3             |1.1           |-0.1                    |28.0                        |0.219                  |1.2                     |9.5                         |20.3                    |0.9             |0.029                   |18.5                    |0.616                   |10.9               |23.4            |1.5                          |0.15                     |0.5352112676056338|4                  |0      |0          |0               |0.1912495627268354|0.5799142109023201          |0.5558537509706286           |0.5947425961494446|0.0145873656148506|3        |
-|5     |2023  |ballla01 |LaMelo Ball      |CHARLOTTE HORNETS     |21 |0.4931506849315068|35.22222222222222 |23.27777777777778 |8.444444444444445 |20.02777777777778    |3.388888888888889    |10.63888888888889                |0.3055555555555556|5.25              |1.0               |8.222222222222221 |2.833333333333333 |4.0                         |1.1666666666666667|3.2777777777777777|1.2777777777777777|3.583333333333333 |0.4105409153952842|0.8360655737704918|0.3759791122715404|38.5             |0.8             |2.3           |-0.9                    |16.3                        |0.169                  |3.2                     |3.4                         |18.0                    |1.7             |0.531                   |9.7                     |0.541                   |14.3               |29.9            |1.4                          |0.07                     |0.3055555555555556|14                 |0      |0          |0               |0.1414080785448697|0.5672962308853059          |0.5853009911068591           |0.57403165102005  |0.0066773602960005|14       |
-|6     |2023  |banchpa01|Paolo Banchero   |ORLANDO MAGIC         |20 |0.8904109589041096|33.84615384615385 |19.984615384615385|3.615384615384616 |15.738461538461538   |7.4                  |4.030769230769231                |0.5076923076923077|5.507692307692308 |1.0               |6.676923076923077 |5.492307692307692 |1.1384615384615384          |1.123076923076923 |2.246153846153846 |0.8615384615384616|2.7384615384615385|0.4242424242424242|0.7422037422037422|0.282442748091603 |16.6             |1.4             |-1.8          |-0.9                    |18.6                        |0.47                   |-0.9                    |3.7                         |14.7                    |1.2             |0.256                   |11.1                    |0.526                   |12.6               |27.6            |0.1                          |0.041                    |0.4027777777777778|13                 |0      |0          |0               |0.2453216374269005|0.5700385173161825          |0.5779234568277994           |0.5979455709457397|0.0147364798689941|1        |
-|7     |2023  |banede01 |Desmond Bane     |MEMPHIS GRIZZLIES     |24 |0.6805555555555556|31.306122448979597|21.081632653061224|4.224489795918367 |16.142857142857142   |3.5510204081632653   |6.959183673469388                |0.3877551020408163|4.387755102040816 |1.0               |7.571428571428571 |3.142857142857143 |2.795918367346939           |0.7142857142857143|2.489795918367347 |0.9387755102040816|2.204081632653061 |0.4690265486725664|0.8850574712643678|0.4017595307917889|20.5             |1.1             |3.2           |0.2                     |14.8                        |0.22                   |3.0                     |2.4                         |18.7                    |1.4             |0.431                   |8.6                     |0.595                   |11.1               |26.3            |2.0                          |0.145                    |0.6142857142857143|2                  |0      |0          |0               |0.2637310606060606|0.5798526207605997          |0.5645423928896586           |0.5514346957206726|0.0135044907831952|1        |
-|8     |2023  |barneha02|Harrison Barnes  |SACRAMENTO KINGS      |30 |0.9861111111111112|32.816901408450704|14.985915492957746|1.591549295774648 |9.661971830985916    |5.0                  |4.422535211267606                |0.1408450704225352|3.704225352112676 |1.0               |4.549295774647887 |4.23943661971831  |1.647887323943662           |0.971830985915493 |1.3380281690140845|0.676056338028169 |1.0845070422535212|0.4708454810495626|0.847887323943662 |0.3726114649681528|6.4              |0.4             |-1.0          |-1.5                    |12.8                        |0.517                  |0.4                     |3.4                         |13.9                    |1.0             |0.458                   |8.2                     |0.632                   |8.4                |16.9            |0.6                          |0.114                    |0.6142857142857143|3                  |0      |0          |0               |0.1073367736760593|0.5629069045186043          |0.620891147851944            |0.5879122018814087|0.007478692578949 |5        |
-|9     |2023  |barnesc01|Scottie Barnes   |TORONTO RAPTORS       |21 |0.9452054794520548|34.91304347826087 |15.492753623188406|4.72463768115942  |13.27536231884058    |3.333333333333333    |2.971014492753623                |0.8115942028985508|4.463768115942029 |0.9855072463768116|6.0144927536231885|2.579710144927536 |0.8840579710144928          |2.391304347826087 |2.231884057971014 |0.9855072463768116|2.028985507246377 |0.4530567685589519|0.7739130434782608|0.2975609756097561|19.6             |2.2             |0.3           |-0.3                    |15.7                        |0.251                  |0.6                     |7.2                         |15.5                    |1.4             |0.224                   |11.1                    |0.525                   |12.1               |20.5            |1.4                          |0.087                    |0.4861111111111111|9                  |0      |0          |0               |0.0               |0.0                         |0.0                          |0.0               |0.0               |0        |
+<table align="right">
+<thead>
+<tr>
+<th></th>
+<th>season</th>
+<th>slug</th>
+<th>name</th>
+<th>team</th>
+<th>age</th>
+<th>%games_played</th>
+<th>minutes_played</th>
+<th>points</th>
+<th>assists</th>
+<th>attempted_field_goals</th>
+<th>attempted_free_throws</th>
+<th>attempted_three_point_field_goals</th>
+<th>blocks</th>
+<th>defensive_rebounds</th>
+<th>games_started</th>
+<th>made_field_goals</th>
+<th>made_free_throws</th>
+<th>made_three_point_field_goals</th>
+<th>offensive_rebounds</th>
+<th>personal_fouls</th>
+<th>steals</th>
+<th>turnovers</th>
+<th>field_goal%</th>
+<th>free_throw%</th>
+<th>3pt%</th>
+<th>assist_percentage</th>
+<th>block_percentage</th>
+<th>box_plus_minus</th>
+<th>defensive_box_plus_minus</th>
+<th>defensive_rebound_percentage</th>
+<th>free_throw_attempt_rate</th>
+<th>offensive_box_plus_minus</th>
+<th>offensive_rebound_percentage</th>
+<th>player_efficiency_rating</th>
+<th>steal_percentage</th>
+<th>three_point_attempt_rate</th>
+<th>total_rebound_percentage</th>
+<th>true_shooting_percentage</th>
+<th>turnover_percentage</th>
+<th>usage_percentage</th>
+<th>value_over_replacement_player</th>
+<th>win_shares_per_48_minutes</th>
+<th>win_rate</th>
+<th>conference_standing</th>
+<th>num_mvp</th>
+<th>won_last_yr</th>
+<th>won_2_yrs_before</th>
+<th>textblob_sentiment</th>
+<th>sentiment_bert_average_score</th>
+<th>sentiment_xlnet_average_score</th>
+<th>bert_relevance</th>
+<th>relevance_score</th>
+<th>frequency</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>2023</td>
+<td>adebaba01</td>
+<td>Bam Adebayo</td>
+<td>MIAMI HEAT</td>
+<td>25</td>
+<td>0.918918918918919</td>
+<td>35.13235294117647</td>
+<td>21.058823529411764</td>
+<td>3.2794117647058822</td>
+<td>15.25</td>
+<td>5.588235294117647</td>
+<td>0.1764705882352941</td>
+<td>0.8676470588235294</td>
+<td>6.926470588235294</td>
+<td>1.0</td>
+<td>8.279411764705882</td>
+<td>4.485294117647059</td>
+<td>0.0147058823529411</td>
+<td>2.426470588235294</td>
+<td>2.867647058823529</td>
+<td>1.1911764705882353</td>
+<td>2.588235294117647</td>
+<td>0.5429122468659595</td>
+<td>0.8026315789473685</td>
+<td>0.0833333333333333</td>
+<td>16.4</td>
+<td>2.5</td>
+<td>1.8</td>
+<td>0.9</td>
+<td>23.9</td>
+<td>0.366</td>
+<td>0.9</td>
+<td>7.8</td>
+<td>20.4</td>
+<td>1.7</td>
+<td>0.012</td>
+<td>15.5</td>
+<td>0.595</td>
+<td>12.8</td>
+<td>25.5</td>
+<td>2.3</td>
+<td>0.142</td>
+<td>0.5342465753424658</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.1923076923076923</td>
+<td>0.5135908424854279</td>
+<td>0.5904920101165771</td>
+<td>0.5972620844841003</td>
+<td>0.00980592516144</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2023</td>
+<td>allenja01</td>
+<td>Jarrett Allen</td>
+<td>CLEVELAND CAVALIERS</td>
+<td>24</td>
+<td>0.8378378378378378</td>
+<td>33.03225806451613</td>
+<td>14.35483870967742</td>
+<td>1.6774193548387095</td>
+<td>9.225806451612904</td>
+<td>3.2580645161290325</td>
+<td>0.1451612903225806</td>
+<td>1.2096774193548387</td>
+<td>6.693548387096774</td>
+<td>1.0</td>
+<td>5.983870967741935</td>
+<td>2.370967741935484</td>
+<td>0.0161290322580645</td>
+<td>3.1129032258064515</td>
+<td>2.2419354838709675</td>
+<td>0.8225806451612904</td>
+<td>1.403225806451613</td>
+<td>0.6486013986013985</td>
+<td>0.7277227722772277</td>
+<td>0.1111111111111111</td>
+<td>7.5</td>
+<td>3.4</td>
+<td>2.3</td>
+<td>1.1</td>
+<td>23.9</td>
+<td>0.353</td>
+<td>1.3</td>
+<td>11.1</td>
+<td>19.8</td>
+<td>1.3</td>
+<td>0.016</td>
+<td>17.5</td>
+<td>0.673</td>
+<td>11.6</td>
+<td>16.3</td>
+<td>2.2</td>
+<td>0.204</td>
+<td>0.6164383561643836</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.1528338695853003</td>
+<td>0.6097304433025151</td>
+<td>0.5730694161542568</td>
+<td>0.5885380506515503</td>
+<td>0.0065960140888307</td>
+<td>7</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2023</td>
+<td>antetgi01</td>
+<td>Giannis Antetokounmpo</td>
+<td>MILWAUKEE BUCKS</td>
+<td>28</td>
+<td>0.7777777777777778</td>
+<td>32.5</td>
+<td>31.25</td>
+<td>5.571428571428571</td>
+<td>20.392857142857142</td>
+<td>12.625</td>
+<td>2.7857142857142856</td>
+<td>0.8035714285714286</td>
+<td>9.607142857142858</td>
+<td>1.0</td>
+<td>11.125</td>
+<td>8.196428571428571</td>
+<td>0.8035714285714286</td>
+<td>2.25</td>
+<td>3.196428571428572</td>
+<td>0.7321428571428571</td>
+<td>3.9107142857142856</td>
+<td>0.5455341506129597</td>
+<td>0.6492220650636492</td>
+<td>0.2884615384615385</td>
+<td>32.3</td>
+<td>2.0</td>
+<td>8.2</td>
+<td>2.6</td>
+<td>29.5</td>
+<td>0.619</td>
+<td>5.6</td>
+<td>7.5</td>
+<td>28.6</td>
+<td>1.1</td>
+<td>0.137</td>
+<td>18.9</td>
+<td>0.602</td>
+<td>13.1</td>
+<td>38.7</td>
+<td>4.7</td>
+<td>0.204</td>
+<td>0.7183098591549296</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0.1511246958443137</td>
+<td>0.5856197835898947</td>
+<td>0.5833562986432821</td>
+<td>0.5941260457038879</td>
+<td>0.0251025381228857</td>
+<td>29</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2023</td>
+<td>anunoog01</td>
+<td>OG Anunoby</td>
+<td>TORONTO RAPTORS</td>
+<td>25</td>
+<td>0.7945205479452054</td>
+<td>35.724137931034484</td>
+<td>16.775862068965516</td>
+<td>1.896551724137931</td>
+<td>13.10344827586207</td>
+<td>2.7413793103448274</td>
+<td>5.258620689655173</td>
+<td>0.7241379310344828</td>
+<td>3.655172413793104</td>
+<td>1.0</td>
+<td>6.224137931034483</td>
+<td>2.293103448275862</td>
+<td>2.034482758620689</td>
+<td>1.4137931034482758</td>
+<td>3.034482758620689</td>
+<td>1.9655172413793105</td>
+<td>2.155172413793104</td>
+<td>0.475</td>
+<td>0.8364779874213837</td>
+<td>0.3868852459016393</td>
+<td>7.7</td>
+<td>2.0</td>
+<td>0.1</td>
+<td>0.7</td>
+<td>12.5</td>
+<td>0.209</td>
+<td>-0.6</td>
+<td>4.2</td>
+<td>14.4</td>
+<td>2.7</td>
+<td>0.401</td>
+<td>8.0</td>
+<td>0.586</td>
+<td>13.1</td>
+<td>19.6</td>
+<td>1.1</td>
+<td>0.085</td>
+<td>0.4861111111111111</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2023</td>
+<td>aytonde01</td>
+<td>Deandre Ayton</td>
+<td>PHOENIX SUNS</td>
+<td>24</td>
+<td>0.8472222222222222</td>
+<td>30.442622950819672</td>
+<td>18.311475409836067</td>
+<td>1.819672131147541</td>
+<td>13.557377049180328</td>
+<td>2.9672131147540983</td>
+<td>0.3934426229508196</td>
+<td>0.7704918032786885</td>
+<td>7.508196721311475</td>
+<td>1.0</td>
+<td>7.983606557377049</td>
+<td>2.2295081967213117</td>
+<td>0.1147540983606557</td>
+<td>2.639344262295082</td>
+<td>2.836065573770492</td>
+<td>0.5573770491803278</td>
+<td>1.819672131147541</td>
+<td>0.5888754534461911</td>
+<td>0.7513812154696132</td>
+<td>0.2916666666666667</td>
+<td>9.8</td>
+<td>2.3</td>
+<td>1.1</td>
+<td>-0.1</td>
+<td>28.0</td>
+<td>0.219</td>
+<td>1.2</td>
+<td>9.5</td>
+<td>20.3</td>
+<td>0.9</td>
+<td>0.029</td>
+<td>18.5</td>
+<td>0.616</td>
+<td>10.9</td>
+<td>23.4</td>
+<td>1.5</td>
+<td>0.15</td>
+<td>0.5352112676056338</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.1912495627268354</td>
+<td>0.5799142109023201</td>
+<td>0.5558537509706286</td>
+<td>0.5947425961494446</td>
+<td>0.0145873656148506</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2023</td>
+<td>ballla01</td>
+<td>LaMelo Ball</td>
+<td>CHARLOTTE HORNETS</td>
+<td>21</td>
+<td>0.4931506849315068</td>
+<td>35.22222222222222</td>
+<td>23.27777777777778</td>
+<td>8.444444444444445</td>
+<td>20.02777777777778</td>
+<td>3.388888888888889</td>
+<td>10.63888888888889</td>
+<td>0.3055555555555556</td>
+<td>5.25</td>
+<td>1.0</td>
+<td>8.222222222222221</td>
+<td>2.833333333333333</td>
+<td>4.0</td>
+<td>1.1666666666666667</td>
+<td>3.2777777777777777</td>
+<td>1.2777777777777777</td>
+<td>3.583333333333333</td>
+<td>0.4105409153952842</td>
+<td>0.8360655737704918</td>
+<td>0.3759791122715404</td>
+<td>38.5</td>
+<td>0.8</td>
+<td>2.3</td>
+<td>-0.9</td>
+<td>16.3</td>
+<td>0.169</td>
+<td>3.2</td>
+<td>3.4</td>
+<td>18.0</td>
+<td>1.7</td>
+<td>0.531</td>
+<td>9.7</td>
+<td>0.541</td>
+<td>14.3</td>
+<td>29.9</td>
+<td>1.4</td>
+<td>0.07</td>
+<td>0.3055555555555556</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.1414080785448697</td>
+<td>0.5672962308853059</td>
+<td>0.5853009911068591</td>
+<td>0.57403165102005</td>
+<td>0.0066773602960005</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6</td>
+<td>2023</td>
+<td>banchpa01</td>
+<td>Paolo Banchero</td>
+<td>ORLANDO MAGIC</td>
+<td>20</td>
+<td>0.8904109589041096</td>
+<td>33.84615384615385</td>
+<td>19.984615384615385</td>
+<td>3.615384615384616</td>
+<td>15.738461538461538</td>
+<td>7.4</td>
+<td>4.030769230769231</td>
+<td>0.5076923076923077</td>
+<td>5.507692307692308</td>
+<td>1.0</td>
+<td>6.676923076923077</td>
+<td>5.492307692307692</td>
+<td>1.1384615384615384</td>
+<td>1.123076923076923</td>
+<td>2.246153846153846</td>
+<td>0.8615384615384616</td>
+<td>2.7384615384615385</td>
+<td>0.4242424242424242</td>
+<td>0.7422037422037422</td>
+<td>0.282442748091603</td>
+<td>16.6</td>
+<td>1.4</td>
+<td>-1.8</td>
+<td>-0.9</td>
+<td>18.6</td>
+<td>0.47</td>
+<td>-0.9</td>
+<td>3.7</td>
+<td>14.7</td>
+<td>1.2</td>
+<td>0.256</td>
+<td>11.1</td>
+<td>0.526</td>
+<td>12.6</td>
+<td>27.6</td>
+<td>0.1</td>
+<td>0.041</td>
+<td>0.4027777777777778</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.2453216374269005</td>
+<td>0.5700385173161825</td>
+<td>0.5779234568277994</td>
+<td>0.5979455709457397</td>
+<td>0.0147364798689941</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>2023</td>
+<td>banede01</td>
+<td>Desmond Bane</td>
+<td>MEMPHIS GRIZZLIES</td>
+<td>24</td>
+<td>0.6805555555555556</td>
+<td>31.306122448979597</td>
+<td>21.081632653061224</td>
+<td>4.224489795918367</td>
+<td>16.142857142857142</td>
+<td>3.5510204081632653</td>
+<td>6.959183673469388</td>
+<td>0.3877551020408163</td>
+<td>4.387755102040816</td>
+<td>1.0</td>
+<td>7.571428571428571</td>
+<td>3.142857142857143</td>
+<td>2.795918367346939</td>
+<td>0.7142857142857143</td>
+<td>2.489795918367347</td>
+<td>0.9387755102040816</td>
+<td>2.204081632653061</td>
+<td>0.4690265486725664</td>
+<td>0.8850574712643678</td>
+<td>0.4017595307917889</td>
+<td>20.5</td>
+<td>1.1</td>
+<td>3.2</td>
+<td>0.2</td>
+<td>14.8</td>
+<td>0.22</td>
+<td>3.0</td>
+<td>2.4</td>
+<td>18.7</td>
+<td>1.4</td>
+<td>0.431</td>
+<td>8.6</td>
+<td>0.595</td>
+<td>11.1</td>
+<td>26.3</td>
+<td>2.0</td>
+<td>0.145</td>
+<td>0.6142857142857143</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.2637310606060606</td>
+<td>0.5798526207605997</td>
+<td>0.5645423928896586</td>
+<td>0.5514346957206726</td>
+<td>0.0135044907831952</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>2023</td>
+<td>barneha02</td>
+<td>Harrison Barnes</td>
+<td>SACRAMENTO KINGS</td>
+<td>30</td>
+<td>0.9861111111111112</td>
+<td>32.816901408450704</td>
+<td>14.985915492957746</td>
+<td>1.591549295774648</td>
+<td>9.661971830985916</td>
+<td>5.0</td>
+<td>4.422535211267606</td>
+<td>0.1408450704225352</td>
+<td>3.704225352112676</td>
+<td>1.0</td>
+<td>4.549295774647887</td>
+<td>4.23943661971831</td>
+<td>1.647887323943662</td>
+<td>0.971830985915493</td>
+<td>1.3380281690140845</td>
+<td>0.676056338028169</td>
+<td>1.0845070422535212</td>
+<td>0.4708454810495626</td>
+<td>0.847887323943662</td>
+<td>0.3726114649681528</td>
+<td>6.4</td>
+<td>0.4</td>
+<td>-1.0</td>
+<td>-1.5</td>
+<td>12.8</td>
+<td>0.517</td>
+<td>0.4</td>
+<td>3.4</td>
+<td>13.9</td>
+<td>1.0</td>
+<td>0.458</td>
+<td>8.2</td>
+<td>0.632</td>
+<td>8.4</td>
+<td>16.9</td>
+<td>0.6</td>
+<td>0.114</td>
+<td>0.6142857142857143</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.1073367736760593</td>
+<td>0.5629069045186043</td>
+<td>0.620891147851944</td>
+<td>0.5879122018814087</td>
+<td>0.007478692578949</td>
+<td>5</td>
+</tr>
+<tr>
+<td>9</td>
+<td>2023</td>
+<td>barnesc01</td>
+<td>Scottie Barnes</td>
+<td>TORONTO RAPTORS</td>
+<td>21</td>
+<td>0.9452054794520548</td>
+<td>34.91304347826087</td>
+<td>15.492753623188406</td>
+<td>4.72463768115942</td>
+<td>13.27536231884058</td>
+<td>3.333333333333333</td>
+<td>2.971014492753623</td>
+<td>0.8115942028985508</td>
+<td>4.463768115942029</td>
+<td>0.9855072463768116</td>
+<td>6.0144927536231885</td>
+<td>2.579710144927536</td>
+<td>0.8840579710144928</td>
+<td>2.391304347826087</td>
+<td>2.231884057971014</td>
+<td>0.9855072463768116</td>
+<td>2.028985507246377</td>
+<td>0.4530567685589519</td>
+<td>0.7739130434782608</td>
+<td>0.2975609756097561</td>
+<td>19.6</td>
+<td>2.2</td>
+<td>0.3</td>
+<td>-0.3</td>
+<td>15.7</td>
+<td>0.251</td>
+<td>0.6</td>
+<td>7.2</td>
+<td>15.5</td>
+<td>1.4</td>
+<td>0.224</td>
+<td>11.1</td>
+<td>0.525</td>
+<td>12.1</td>
+<td>20.5</td>
+<td>1.4</td>
+<td>0.087</td>
+<td>0.4861111111111111</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+</tr>
+</tbody></table>
 
 Full df shape: 105 x 53
 * **Note**: The 2023 season data is collected up till 19/03/2023. Therefore, the subsequent predictions made based on this data will only reflect the information available up to that point. 
@@ -1435,15 +2662,15 @@ The number of tweets an author has shared on Twitter can give an indication of t
 * *(The distributions are used to determine a small number of missing values for few authors and the best number that represents "Default" for official and the press)*  
 
 **Graph 1 Number of Articles**
-  - The distribution is highly skewed, hence medium is used for missing values for authors.
+  - The distribution is highly skewed, hence medium is used for missing values for authors.  
 ![images - 2](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/article.png)
 
-**Graph 2 Number of Followers **
-  - The distribution is reasonably skewed, hence mean is used for missing values for authors.
+**Graph 2 Number of Followers**
+  - The distribution is reasonably skewed, hence mean is used for missing values for authors.  
 ![images - 3](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/follower.png)
 
-**Graph 3 Number of Tweets **
-  - The distribution is reasonably skewed, hence mean is used for missing values for authors.
+**Graph 3 Number of Tweets**
+  - The distribution is reasonably skewed, hence mean is used for missing values for authors.  
 ![images - 4](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/tweets.png)
 
 
