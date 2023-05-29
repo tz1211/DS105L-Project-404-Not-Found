@@ -41,9 +41,9 @@ Data Source:
 ### Approach 
 
 Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: 
-* **individual performance**: how good is the player? 
-* **team performance**: can the player carry a winning team?
-* **media narrative**: is there a strong story behind a player's MVP bid? 
+* **Individual performance**: How good is the player? 
+* **Team performance**: Can the player carry a winning team?
+* **Media narrative**: Is there a strong story behind a player's MVP bid? 
 
 Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
@@ -64,9 +64,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 1129 |     2022 | Scottie Barnes        | TORONTO RAPTORS     |    20 |        0.902439 |          35.3649 |  15.3243 |   3.45946 |                12.5946  |                 2.90541 |                            2.60811  | 0.743243 |              4.89189 |               1 |            6.2027  |            2.13514 |                      0.783784  |             2.63514  |          2.59459 | 1.08108  |     1.83784 |      0.492489 |      0.734884 | 0.300518 |                14.7 |                2.1 |              0.9 |                        0.4 |                           15.8 |                     0.231 |                        0.5 |                            7.7 |                       16.3 |                1.5 |                      0.207 |                       11.5 |                      0.552 |                  11.7 |               19   |                             1.9 |                       0.122 |        0 |
 | 1130 |     2022 | RJ Barrett            | NEW YORK KNICKS     |    21 |        0.853659 |          34.5286 |  20.0286 |   2.97143 |                17.0571  |                 5.8     |                            5.77143  | 0.228571 |              4.88571 |               1 |            6.95714 |            4.14286 |                      1.97143   |             0.942857 |          2.02857 | 0.614286 |     2.15714 |      0.407873 |      0.714286 | 0.341584 |                14.9 |                0.7 |             -1.6 |                       -1.3 |                           15.5 |                     0.34  |                       -0.3 |                            2.9 |                       13.7 |                0.9 |                      0.338 |                        9.1 |                      0.511 |                   9.9 |               27.6 |                             0.2 |                       0.046 |        0 |  
 
-* *This table include all the basic information and data of players for further analysis.  
-
- * Table 1 ----> [player_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11592102/player_data.csv)
+* *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 
 
 ### Table 2: Count for MVP  
