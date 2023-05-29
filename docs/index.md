@@ -1,9 +1,10 @@
----
-title: "📚 Predicting NBA MVP Winner"
-date: 20 March 2023
-date-meta: 20 March 2023
-favicon: "/favicon.png"
----
+<head>
+  <meta charset="UTF-8">
+  <title>"📚 Predicting NBA MVP Winner"</title>
+  <meta name="Date" content="2023-05-30">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+
 
 # 🤖 Predicting NBA MVP Winner
 
