@@ -47,10 +47,10 @@ Converntional basketball wisdom dictates that the MVP award is traditionally det
 
 Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
-## :one: Quantitative Data (Individual performance + Team performance) 
+### :one: Quantitative Data (Individual performance + Team performance) 
 
 <details>
-<summary><strong>Table 1: Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>
+<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
@@ -69,7 +69,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 </details>
 
 <details>
-<summary><strong>Table 2: Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>
+<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>
 
 |      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
 |------|------|---------|---------------------|-------------------|---|------------------|-------------------|
@@ -107,10 +107,10 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 * *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
 
-## :two: Qualitative Data (Sports News and Media Narratives)
+### :two: Qualitative Data (Sports News and Media Narratives)
 
 <details>
-<summary><strong>Table 3: Quantified NBA Sports News - Sentiments and Relevance</strong></summary>
+<summary><strong>Quantified NBA Sports News - Sentiments and Relevance</strong></summary>
 * *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  
 
 |    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
@@ -129,7 +129,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 </details>
 
 <details>
-<summary><strong>Table 4: Quantified BBC Sports News - Sentiments and Relevance</strong></summary>
+<summary><strong>Quantified BBC Sports News - Sentiments and Relevance</strong></summary>
 * *(Taking the 2010-2023 season from the merged table, the top 10 samples)* 
  
 |    |   time | most_frequent_name      |   textblob_sentiment |   sentiment_bert_average_score |   sentiment_xlnet_average_score |   bert_relevance |   relevance_score |   frequency |
@@ -147,7 +147,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 </details>
 
 <details>
-<summary><strong>Table 5: MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
+<summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 
 |Name         |Year|value|won_last_yr|won_2_yrs_before|
 |-------------|----|-----|-----------|----------------|
@@ -170,6 +170,10 @@ Therefore, in this section, we will be collecting and showing data that aim to c
  * Sample MVP count for Stephen Curry 
  * `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
 </details>
+
+## Final Merged Data 
+
+### Historical data from 2010-2022 season ([final_cleaned_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data.csv)) 
 
 
 ## 📈 Analysis
