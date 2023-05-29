@@ -7,5 +7,15 @@ The purpose of this project is to try and create a machine learning algorithm th
 - BBC.com 
 ## Team Members 
 - Annabel Zhong (Litong-Annabel) 
+  - responsibility:
+    - 1️⃣ Scraping media data (e.g articles, twitters) for quantitave analysis
+    - 2️⃣ Clean the data and using 
+    - 3️⃣ 
+    - 4️⃣ 
 - Spark Lu (Spark-LuC) 
+  - responsibility:
+    - 1️⃣ Preliminary scraping sports matrix data
+    - 2️⃣ Preliminary cleaning data and recording some data for further analysis
+    - 3️⃣ Simply analyze the relationship between the basic data and the probability of winning MVP
+    - 4️⃣ design the procedure map for planning
 - Terry Zhou (tz1211)

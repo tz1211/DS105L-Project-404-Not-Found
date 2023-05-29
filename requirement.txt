@@ -7,3 +7,9 @@ plotnine==0.10.1
 requests==2.27.1
 scikit-learn==1.0.2
 basketball_reference_web_scraper
+textblob==0.17.1
+nltk==3.7
+transformer-smaller-training-vocab==0.2.4
+transformers==4.27.3
+tqdm==4.64.0
+urllib3==1.26.9

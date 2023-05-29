@@ -12,15 +12,11 @@ date-meta: 20 March 2023
 - [Chengchao Lu (Spark)](https://github.com/Spark-LuC)
 - [Yan Zhou (Terry)](https://github.com/tz1211)
 
-## 📝 Project Description   
+# 📝 Project Description   
 
 Are you curious about who will be crowned the next NBA MVP? Our MVP prediction website has got you covered! Get ready for an exciting journey where we dive into the world of elite basketball performance and statistical analysis to forecast the NBA's most valuable player.  
 
-With the NBA showcasing the pinnacle of basketball talent, predicting the MVP award is a thrilling challenge. We crunch the numbers, analyze player stats, and examine historical trends to make insightful predictions. Our goal is to uncover the standout players who have the potential to rise above the competition and leave a lasting impact on the game.
-
-But it doesn't stop there! The MVP race is always full of surprises, with unforeseen developments and breakout performances shaking things up. We'll keep you updated on the latest news, injuries, and team dynamics that could influence the MVP race.
-
-Join our passionate community of fans, experts, and analysts who love nothing more than engaging in lively debates and speculation about the NBA MVP. We provide a platform for sharing opinions, insights, and predictions, fueling the excitement and anticipation surrounding this prestigious award.
+With the NBA showcasing the pinnacle of basketball talent, predicting the MVP award is a thrilling challenge. We crunch the numbers, analyze player statistics, and examine historical trends to make insightful predictions. Our goal is to uncover the standout players who have the potential to rise above the competition and leave a lasting impact on the game.
 
 Whether you are a die-hard basketball enthusiast or just starting to explore the world of NBA MVP predictions, our user-friendly website is designed to make the experience enjoyable for everyone. So come on board and embark on this thrilling journey with us as we try to unravel the captivating mystery of the next NBA MVP!  
 
@@ -36,16 +32,24 @@ Data Source:
 * [Hugging Face](https://huggingface.co/)
 
 
-## 📊 Data
+# 📊 Data
 
-### PROCEDURE MAP
+## PROCEDURE MAP
 
 <img width="2378" alt="Group Report: 404-not-found" src="https://github.com/tz1211/DS105L-Project-404-Not-Found/assets/114760508/7058c6c0-c454-4bd2-bbf5-8c515871542b">
 
+## Approach 
 
-### :one: Sports Matrix
+Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: 
+* **Individual performance**: How good is the player? 
+* **Team performance**: Can the player carry a winning team?
+* **Media narrative**: Is there a strong story behind a player's MVP bid? 
 
-### Table 1: Basic data
+Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
+
+## :one: Quantitative Data (Individual performance + Team performance) 
+
+### Table 1: Individual Player Data ([player_data.csv](../Data/player_data.csv))
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
@@ -60,20 +64,48 @@ Data Source:
 | 1129 |     2022 | Scottie Barnes        | TORONTO RAPTORS     |    20 |        0.902439 |          35.3649 |  15.3243 |   3.45946 |                12.5946  |                 2.90541 |                            2.60811  | 0.743243 |              4.89189 |               1 |            6.2027  |            2.13514 |                      0.783784  |             2.63514  |          2.59459 | 1.08108  |     1.83784 |      0.492489 |      0.734884 | 0.300518 |                14.7 |                2.1 |              0.9 |                        0.4 |                           15.8 |                     0.231 |                        0.5 |                            7.7 |                       16.3 |                1.5 |                      0.207 |                       11.5 |                      0.552 |                  11.7 |               19   |                             1.9 |                       0.122 |        0 |
 | 1130 |     2022 | RJ Barrett            | NEW YORK KNICKS     |    21 |        0.853659 |          34.5286 |  20.0286 |   2.97143 |                17.0571  |                 5.8     |                            5.77143  | 0.228571 |              4.88571 |               1 |            6.95714 |            4.14286 |                      1.97143   |             0.942857 |          2.02857 | 0.614286 |     2.15714 |      0.407873 |      0.714286 | 0.341584 |                14.9 |                0.7 |             -1.6 |                       -1.3 |                           15.5 |                     0.34  |                       -0.3 |                            2.9 |                       13.7 |                0.9 |                      0.338 |                        9.1 |                      0.511 |                   9.9 |               27.6 |                             0.2 |                       0.046 |        0 |  
 
-* *This table include all the basic information and data of players for further analysis.  
+* *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 
- * Table 1 ----> [player_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11592102/player_data.csv)
+### Table 2: Team Data ([team_data.csv](../Data/team_data.csv))
 
+|      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
+|------|------|---------|---------------------|-------------------|---|------------------|-------------------|
+|30    |2022  |PHOENIX SUNS|Western              |64                 |18 |0.7804878048780488|1                  |
+|31    |2022  |MEMPHIS GRIZZLIES|Western              |56                 |26 |0.6829268292682927|2                  |
+|32    |2022  |GOLDEN STATE WARRIORS|Western              |53                 |29 |0.6463414634146342|3                  |
+|33    |2022  |DALLAS MAVERICKS|Western              |52                 |30 |0.6341463414634146|4                  |
+|34    |2022  |UTAH JAZZ|Western              |49                 |33 |0.5975609756097561|5                  |
+|35    |2022  |DENVER NUGGETS|Western              |48                 |34 |0.5853658536585366|6                  |
+|36    |2022  |MINNESOTA TIMBERWOLVES|Western              |46                 |36 |0.5609756097560976|7                  |
+|37    |2022  |LOS ANGELES CLIPPERS|Western              |42                 |40 |0.5121951219512195|8                  |
+|38    |2022  |NEW ORLEANS PELICANS|Western              |36                 |46 |0.4390243902439024|9                  |
+|39    |2022  |SAN ANTONIO SPURS|Western              |34                 |48 |0.4146341463414634|10                 |
+|40    |2022  |LOS ANGELES LAKERS|Western              |33                 |49 |0.4024390243902439|11                 |
+|41    |2022  |SACRAMENTO KINGS|Western              |30                 |52 |0.3658536585365853|12                 |
+|42    |2022  |PORTLAND TRAIL BLAZERS|Western              |27                 |55 |0.3292682926829268|13                 |
+|43    |2022  |OKLAHOMA CITY THUNDER|Western              |24                 |58 |0.2926829268292683|14                 |
+|44    |2022  |HOUSTON ROCKETS|Western              |20                 |62 |0.2439024390243902|15                 |
+|45    |2022  |MIAMI HEAT|Eastern              |53                 |29 |0.6463414634146342|1                  |
+|46    |2022  |BOSTON CELTICS|Eastern              |51                 |31 |0.6219512195121951|2                  |
+|47    |2022  |MILWAUKEE BUCKS|Eastern              |51                 |31 |0.6219512195121951|3                  |
+|48    |2022  |PHILADELPHIA 76ERS|Eastern              |51                 |31 |0.6219512195121951|4                  |
+|49    |2022  |TORONTO RAPTORS|Eastern              |48                 |34 |0.5853658536585366|5                  |
+|50    |2022  |CHICAGO BULLS|Eastern              |46                 |36 |0.5609756097560976|6                  |
+|51    |2022  |BROOKLYN NETS|Eastern              |44                 |38 |0.5365853658536586|7                  |
+|52    |2022  |CLEVELAND CAVALIERS|Eastern              |44                 |38 |0.5365853658536586|8                  |
+|53    |2022  |ATLANTA HAWKS|Eastern              |43                 |39 |0.524390243902439 |9                  |
+|54    |2022  |CHARLOTTE HORNETS|Eastern              |43                 |39 |0.524390243902439 |10                 |
+|55    |2022  |NEW YORK KNICKS|Eastern              |37                 |45 |0.4512195121951219|11                 |
+|56    |2022  |WASHINGTON WIZARDS|Eastern              |35                 |47 |0.4268292682926829|12                 |
+|57    |2022  |INDIANA PACERS|Eastern              |25                 |57 |0.3048780487804878|13                 |
+|58    |2022  |DETROIT PISTONS|Eastern              |23                 |59 |0.2804878048780488|14                 |
+|59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |
 
-### Table 2: Count for MVP  
-* *It count all the NBA MVP in the history, and also record who won the MVP a year past and two years past. This table is used for import to the machine learning algorithm for further analysis*  
+* *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 
- * Table 2 ----> [MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv)
+### :two: Qualitative Data (Sports News and Media Narratives)
 
-
-### :two: Sports News and Media Narratives
-
-### Table 1: Quantified NBA Sports News - Sentiments and Relevance  
+### Table 3: Quantified NBA Sports News - Sentiments and Relevance  
 * *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  
 
 |    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
@@ -90,10 +122,14 @@ Data Source:
 |  9 |   2020 | Buddy Hield          |            0.0858989 |        0.0858989 |         0.0941537 |         0.554056 |          23624.3 |            49410.2 |         60888.5 |          26 |
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
 
-### Table 2: Quantified BBC Sports News - Sentiments and Relevance  
+### Table 4: Quantified BBC Sports News - Sentiments and Relevance  
 * *(Taking the 2012-2023 season from the merged table, the top 10 samples)* 
 
+### Table 5: MVP Count ([MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv))
 
+
+
+ * `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
 
 
 
@@ -217,7 +253,7 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
    - Utilizing cosine similarity helps measure the similarity between the content and statement vectors, providing a quantitative measure of how closely the news article aligns with the MVP statement. This similarity score reflects the relevance of the article to the MVP prediction and enables ranking or filtering of articles based on their relevance.
    - Normalizing the similarity scores ensures a consistent range of values between 0 and 1, facilitating easier interpretation and comparison of relevance scores. This normalization enables ranking articles based on their relevance scores and assists in distinguishing highly relevant articles from less relevant ones in the sports news analysis.
 
-**How does the data look like 🤔️ **
+**What does the data look like 🤔️ **
 #### Table: Sample Final Data of NBA NEWS
 * *(Taking the sample from 2019-20 season). * 
 
