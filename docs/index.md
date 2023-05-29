@@ -49,7 +49,8 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 
 ## :one: Quantitative Data (Individual performance + Team performance) 
 
-### Table 1: Individual Player Data ([player_data.csv](../Data/player_data.csv))
+<details>
+<summary><strong>Table 1: Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>
 
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
@@ -65,8 +66,10 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 1130 |     2022 | RJ Barrett            | NEW YORK KNICKS     |    21 |        0.853659 |          34.5286 |  20.0286 |   2.97143 |                17.0571  |                 5.8     |                            5.77143  | 0.228571 |              4.88571 |               1 |            6.95714 |            4.14286 |                      1.97143   |             0.942857 |          2.02857 | 0.614286 |     2.15714 |      0.407873 |      0.714286 | 0.341584 |                14.9 |                0.7 |             -1.6 |                       -1.3 |                           15.5 |                     0.34  |                       -0.3 |                            2.9 |                       13.7 |                0.9 |                      0.338 |                        9.1 |                      0.511 |                   9.9 |               27.6 |                             0.2 |                       0.046 |        0 |  
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
+</details>
 
-### Table 2: Team Data ([team_data.csv](../Data/team_data.csv))
+<details>
+<summary><strong>Table 2: Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>
 
 |      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
 |------|------|---------|---------------------|-------------------|---|------------------|-------------------|
@@ -102,10 +105,12 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |
 
 * *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
+</details>
 
-### :two: Qualitative Data (Sports News and Media Narratives)
+## :two: Qualitative Data (Sports News and Media Narratives)
 
-### Table 3: Quantified NBA Sports News - Sentiments and Relevance  
+<details>
+<summary><strong>Table 3: Quantified NBA Sports News - Sentiments and Relevance</strong></summary>
 * *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  
 
 |    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
@@ -121,9 +126,10 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |  8 |   2020 | Brandon Ingram       |            0.0879199 |        0.0879199 |         0.0901602 |         0.544744 |          15613.1 |            50384.1 |         56001   |          27 |
 |  9 |   2020 | Buddy Hield          |            0.0858989 |        0.0858989 |         0.0941537 |         0.554056 |          23624.3 |            49410.2 |         60888.5 |          26 |
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
+</details>
 
 ### Table 4: Quantified BBC Sports News - Sentiments and Relevance  
-* *(Taking the 2012-2023 season from the merged table, the top 10 samples)* 
+* *(Taking the 2010-2023 season from the merged table, the top 10 samples)* 
 
 ### Table 5: MVP Count ([MVP_count.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/files/11583297/MVP_count.csv))
 
