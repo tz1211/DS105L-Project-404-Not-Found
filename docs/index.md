@@ -75,39 +75,318 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <details>
 <summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>  
 
-|      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
-|------|------|---------|---------------------|-------------------|---|------------------|-------------------|
-|30    |2022  |PHOENIX SUNS|Western              |64                 |18 |0.7804878048780488|1                  |
-|31    |2022  |MEMPHIS GRIZZLIES|Western              |56                 |26 |0.6829268292682927|2                  |
-|32    |2022  |GOLDEN STATE WARRIORS|Western              |53                 |29 |0.6463414634146342|3                  |
-|33    |2022  |DALLAS MAVERICKS|Western              |52                 |30 |0.6341463414634146|4                  |
-|34    |2022  |UTAH JAZZ|Western              |49                 |33 |0.5975609756097561|5                  |
-|35    |2022  |DENVER NUGGETS|Western              |48                 |34 |0.5853658536585366|6                  |
-|36    |2022  |MINNESOTA TIMBERWOLVES|Western              |46                 |36 |0.5609756097560976|7                  |
-|37    |2022  |LOS ANGELES CLIPPERS|Western              |42                 |40 |0.5121951219512195|8                  |
-|38    |2022  |NEW ORLEANS PELICANS|Western              |36                 |46 |0.4390243902439024|9                  |
-|39    |2022  |SAN ANTONIO SPURS|Western              |34                 |48 |0.4146341463414634|10                 |
-|40    |2022  |LOS ANGELES LAKERS|Western              |33                 |49 |0.4024390243902439|11                 |
-|41    |2022  |SACRAMENTO KINGS|Western              |30                 |52 |0.3658536585365853|12                 |
-|42    |2022  |PORTLAND TRAIL BLAZERS|Western              |27                 |55 |0.3292682926829268|13                 |
-|43    |2022  |OKLAHOMA CITY THUNDER|Western              |24                 |58 |0.2926829268292683|14                 |
-|44    |2022  |HOUSTON ROCKETS|Western              |20                 |62 |0.2439024390243902|15                 |
-|45    |2022  |MIAMI HEAT|Eastern              |53                 |29 |0.6463414634146342|1                  |
-|46    |2022  |BOSTON CELTICS|Eastern              |51                 |31 |0.6219512195121951|2                  |
-|47    |2022  |MILWAUKEE BUCKS|Eastern              |51                 |31 |0.6219512195121951|3                  |
-|48    |2022  |PHILADELPHIA 76ERS|Eastern              |51                 |31 |0.6219512195121951|4                  |
-|49    |2022  |TORONTO RAPTORS|Eastern              |48                 |34 |0.5853658536585366|5                  |
-|50    |2022  |CHICAGO BULLS|Eastern              |46                 |36 |0.5609756097560976|6                  |
-|51    |2022  |BROOKLYN NETS|Eastern              |44                 |38 |0.5365853658536586|7                  |
-|52    |2022  |CLEVELAND CAVALIERS|Eastern              |44                 |38 |0.5365853658536586|8                  |
-|53    |2022  |ATLANTA HAWKS|Eastern              |43                 |39 |0.524390243902439 |9                  |
-|54    |2022  |CHARLOTTE HORNETS|Eastern              |43                 |39 |0.524390243902439 |10                 |
-|55    |2022  |NEW YORK KNICKS|Eastern              |37                 |45 |0.4512195121951219|11                 |
-|56    |2022  |WASHINGTON WIZARDS|Eastern              |35                 |47 |0.4268292682926829|12                 |
-|57    |2022  |INDIANA PACERS|Eastern              |25                 |57 |0.3048780487804878|13                 |
-|58    |2022  |DETROIT PISTONS|Eastern              |23                 |59 |0.2804878048780488|14                 |
-|59    |2022  |ORLANDO MAGIC|Eastern              |22                 |60 |0.2682926829268293|15                 |  
-
+<table>
+    <tr>
+        <td></td>
+        <td>season</td>
+        <td>team</td>
+        <td>conference</td>
+        <td>W</td>
+        <td>L</td>
+        <td>win_rate</td>
+        <td>conference_standing</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>2022</td>
+        <td>PHOENIX SUNS</td>
+        <td>Western</td>
+        <td>64</td>
+        <td>18</td>
+        <td>0.7804878048780488</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>2022</td>
+        <td>MEMPHIS GRIZZLIES</td>
+        <td>Western</td>
+        <td>56</td>
+        <td>26</td>
+        <td>0.6829268292682927</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>2022</td>
+        <td>GOLDEN STATE WARRIORS</td>
+        <td>Western</td>
+        <td>53</td>
+        <td>29</td>
+        <td>0.6463414634146342</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>2022</td>
+        <td>DALLAS MAVERICKS</td>
+        <td>Western</td>
+        <td>52</td>
+        <td>30</td>
+        <td>0.6341463414634146</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>2022</td>
+        <td>UTAH JAZZ</td>
+        <td>Western</td>
+        <td>49</td>
+        <td>33</td>
+        <td>0.5975609756097561</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>2022</td>
+        <td>DENVER NUGGETS</td>
+        <td>Western</td>
+        <td>48</td>
+        <td>34</td>
+        <td>0.5853658536585366</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>2022</td>
+        <td>MINNESOTA TIMBERWOLVES</td>
+        <td>Western</td>
+        <td>46</td>
+        <td>36</td>
+        <td>0.5609756097560976</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>2022</td>
+        <td>LOS ANGELES CLIPPERS</td>
+        <td>Western</td>
+        <td>42</td>
+        <td>40</td>
+        <td>0.5121951219512195</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>2022</td>
+        <td>NEW ORLEANS PELICANS</td>
+        <td>Western</td>
+        <td>36</td>
+        <td>46</td>
+        <td>0.4390243902439024</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>2022</td>
+        <td>SAN ANTONIO SPURS</td>
+        <td>Western</td>
+        <td>34</td>
+        <td>48</td>
+        <td>0.4146341463414634</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>2022</td>
+        <td>LOS ANGELES LAKERS</td>
+        <td>Western</td>
+        <td>33</td>
+        <td>49</td>
+        <td>0.4024390243902439</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>41</td>
+        <td>2022</td>
+        <td>SACRAMENTO KINGS</td>
+        <td>Western</td>
+        <td>30</td>
+        <td>52</td>
+        <td>0.3658536585365853</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td>2022</td>
+        <td>PORTLAND TRAIL BLAZERS</td>
+        <td>Western</td>
+        <td>27</td>
+        <td>55</td>
+        <td>0.3292682926829268</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>2022</td>
+        <td>OKLAHOMA CITY THUNDER</td>
+        <td>Western</td>
+        <td>24</td>
+        <td>58</td>
+        <td>0.2926829268292683</td>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>44</td>
+        <td>2022</td>
+        <td>HOUSTON ROCKETS</td>
+        <td>Western</td>
+        <td>20</td>
+        <td>62</td>
+        <td>0.2439024390243902</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td>45</td>
+        <td>2022</td>
+        <td>MIAMI HEAT</td>
+        <td>Eastern</td>
+        <td>53</td>
+        <td>29</td>
+        <td>0.6463414634146342</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td>2022</td>
+        <td>BOSTON CELTICS</td>
+        <td>Eastern</td>
+        <td>51</td>
+        <td>31</td>
+        <td>0.6219512195121951</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>2022</td>
+        <td>MILWAUKEE BUCKS</td>
+        <td>Eastern</td>
+        <td>51</td>
+        <td>31</td>
+        <td>0.6219512195121951</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>2022</td>
+        <td>PHILADELPHIA 76ERS</td>
+        <td>Eastern</td>
+        <td>51</td>
+        <td>31</td>
+        <td>0.6219512195121951</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>49</td>
+        <td>2022</td>
+        <td>TORONTO RAPTORS</td>
+        <td>Eastern</td>
+        <td>48</td>
+        <td>34</td>
+        <td>0.5853658536585366</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>2022</td>
+        <td>CHICAGO BULLS</td>
+        <td>Eastern</td>
+        <td>46</td>
+        <td>36</td>
+        <td>0.5609756097560976</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>2022</td>
+        <td>BROOKLYN NETS</td>
+        <td>Eastern</td>
+        <td>44</td>
+        <td>38</td>
+        <td>0.5365853658536586</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td>2022</td>
+        <td>CLEVELAND CAVALIERS</td>
+        <td>Eastern</td>
+        <td>44</td>
+        <td>38</td>
+        <td>0.5365853658536586</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>2022</td>
+        <td>ATLANTA HAWKS</td>
+        <td>Eastern</td>
+        <td>43</td>
+        <td>39</td>
+        <td>0.524390243902439</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>54</td>
+        <td>2022</td>
+        <td>CHARLOTTE HORNETS</td>
+        <td>Eastern</td>
+        <td>43</td>
+        <td>39</td>
+        <td>0.524390243902439</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>55</td>
+        <td>2022</td>
+        <td>NEW YORK KNICKS</td>
+        <td>Eastern</td>
+        <td>37</td>
+        <td>45</td>
+        <td>0.4512195121951219</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>56</td>
+        <td>2022</td>
+        <td>WASHINGTON WIZARDS</td>
+        <td>Eastern</td>
+        <td>35</td>
+        <td>47</td>
+        <td>0.4268292682926829</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>57</td>
+        <td>2022</td>
+        <td>INDIANA PACERS</td>
+        <td>Eastern</td>
+        <td>25</td>
+        <td>57</td>
+        <td>0.3048780487804878</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td>58</td>
+        <td>2022</td>
+        <td>DETROIT PISTONS</td>
+        <td>Eastern</td>
+        <td>23</td>
+        <td>59</td>
+        <td>0.2804878048780488</td>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>59</td>
+        <td>2022</td>
+        <td>ORLANDO MAGIC</td>
+        <td>Eastern</td>
+        <td>22</td>
+        <td>60</td>
+        <td>0.2682926829268293</td>
+        <td>15</td>
+    </tr>
+</table>
 
 * *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
