@@ -8,8 +8,8 @@ date-meta: 20 March 2023
 
 **Team members:** 
 
-- [Member 1]()
-- [Member 2]()
+- [Litong Zhong(Annabel)](https://github.com/Litong-Annabel)
+- [Chengchao Lu(Spark)]()
 - [Member 3]()
 
 ## 📝 Project Description   
@@ -37,6 +37,12 @@ Data Source:
 
 
 ## 📊 Data
+
+### PROCEDURE MAP
+
+<img width="2378" alt="Group Report: 404-not-found" src="https://github.com/tz1211/DS105L-Project-404-Not-Found/assets/114760508/7058c6c0-c454-4bd2-bbf5-8c515871542b">
+
+
 ### :one: Sports Matrix
 
 ### Table 1: First ten rows from merged_data_2010_to_2023   
@@ -248,22 +254,12 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
 
     - **Contextual Understanding**: BERT (Bidirectional Encoder Representations from Transformers) is a powerful language model that utilizes a deep neural network architecture. It can capture the contextual understanding of words and phrases within a sentence or document. In sports news analysis, where context plays a crucial role, BERT can effectively grasp the relationships between different terms, player names, team names, and game events. This contextual understanding enhances the relevance assessment of sports news articles.
 
-    - **Handling Ambiguity** : Sports news often contains ambiguous references, such as player names that can be shared by multiple athletes or events with similar descriptions. BERT's contextual understanding helps disambiguate such references by considering the surrounding context. It can distinguish between different players with the same name or identify specific events within a broader context, leading to more precise relevance scoring.
-
-
-
-
-
-
-
-
-
-
-
-
+    - **Handling Ambiguity** : Sports news often contains ambiguous references, such as player names that can be shared by multiple athletes or events with similar descriptions. BERT's contextual understanding helps disambiguate such references by considering the surrounding context. It can distinguish between different players with the same name or identify specific events within a broader context, leading to more precise relevance scoring.  
 
 ## 🖼️ Results
 
 ## 🖋️ Conclusions
 
 ## 📚 References
+
+*
