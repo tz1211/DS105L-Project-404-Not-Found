@@ -122,7 +122,21 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
 
 ### Table 2: Quantified BBC Sports News - Sentiments and Relevance  
-* *(Taking the 2012-2023 season from the merged table, the top 10 samples)* 
+* *(Taking the 2022-2023 season from the merged table, the top 10 samples)* 
+
+|    |   time | most_frequent_name      |   textblob_sentiment |   sentiment_bert_average_score |   sentiment_xlnet_average_score |   bert_relevance |   relevance_score |   frequency |
+|---:|-------:|:------------------------|---------------------:|-------------------------------:|--------------------------------:|-----------------:|------------------:|------------:|
+|  0 |   2023 | Aaron Gordon            |            0.107826  |                       0.580768 |                        0.569642 |         0.592284 |        0.00804037 |          22 |
+|  1 |   2023 | Al Horford              |            0.0902433 |                       0.560702 |                        0.602442 |         0.588029 |        0.00175832 |           2 |
+|  2 |   2023 | Andrew Wiggins          |            0.141368  |                       0.597014 |                        0.580687 |         0.587998 |        0.0106417  |           8 |
+|  3 |   2023 | Anfernee Simons         |            0.109778  |                       0.557983 |                        0.569789 |         0.593048 |        0.0138669  |           2 |
+|  4 |   2023 | Anthony Davis           |            0.102784  |                       0.592395 |                        0.570054 |         0.587705 |        0.0162172  |          22 |
+|  5 |   2023 | Anthony Edwards         |            0.0561825 |                       0.602159 |                        0.6101   |         0.590135 |        0.0545278  |          14 |
+|  6 |   2023 | Bam Adebayo             |            0.192308  |                       0.513591 |                        0.590492 |         0.597262 |        0.00980593 |           1 |
+|  7 |   2023 | Bojan Bogdanović        |            0.138098  |                       0.577742 |                        0.575943 |         0.59157  |        0.00184185 |           2 |
+|  8 |   2023 | Bradley Beal            |            0.122245  |                       0.584892 |                        0.581959 |         0.58885  |        0.0030606  |           1 |
+|  9 |   2023 | Brandon Ingram          |            0.0912451 |                       0.608591 |                        0.591863 |         0.576785 |        0.00785333 |           5 |
+| 10 |   2023 | Brook Lopez             |            0.128532  |                       0.594581 |                        0.592789 |         0.578866 |        0.0131008  |           3 |
 
 ### Table 3: Count for MVP  
 * *It count all the NBA MVP in the history, and also record who won the MVP a year past and two years past. This table is used for import to the machine learning algorithm for further analysis*  
