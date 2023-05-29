@@ -250,11 +250,28 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
 
     - **Interpretability for Analysts** : NLTK and TextBlob sentiment analysis models often rely on simple rule-based approaches, making the process more interpretable. It is easy to explain how sentiments are determined based on the presence of positive or negative words in the text. This transparency can be valuable for NBA sports analysts when presenting sentiment analysis results to stakeholders or discussing the sentiment trends in the NBA.
 
-- **BERT relevance is beneficial for sports news analysis due to the following reasons:**
+- **BERT relevance is useful for sports news analysis due to the following reasons:**
 
     - **Contextual Understanding**: BERT (Bidirectional Encoder Representations from Transformers) is a powerful language model that utilizes a deep neural network architecture. It can capture the contextual understanding of words and phrases within a sentence or document. In sports news analysis, where context plays a crucial role, BERT can effectively grasp the relationships between different terms, player names, team names, and game events. This contextual understanding enhances the relevance assessment of sports news articles.
 
     - **Handling Ambiguity** : Sports news often contains ambiguous references, such as player names that can be shared by multiple athletes or events with similar descriptions. BERT's contextual understanding helps disambiguate such references by considering the surrounding context. It can distinguish between different players with the same name or identify specific events within a broader context, leading to more precise relevance scoring.  
+
+
+- **In addition to BERT relevance, another definition is also used to assess to what extent is the news related to the topic that we care, who will be the MVP?**
+   - [Relevance_code](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/github_MDtable/relevance_code.ipynb)
+   - The code analyzes the relevance of sports news articles to a specific statement regarding a player being the MVP. 
+   - Both the content and the statement ("player_name + 'will be the MVP'") are preprocessed using the preprocess_text() function. This step involves text cleaning, lowercasing, removing stopwords, and any other necessary transformations to prepare the text for analysis.
+   - The code uses the TfidfVectorizer() from scikit-learn to convert the preprocessed content and statement into numerical feature vectors based on their term frequencies and inverse document frequencies (TF-IDF). This vectorization approach assigns higher weights to terms that are more important in a specific document (the news content) or the overall corpus (the statement).
+  - The TF-IDF vectors for the content and statement are passed to the cosine_similarity() function to calculate the cosine similarity score. Cosine similarity measures the similarity between two vectors by considering the angle between them. A higher score indicates a higher degree of similarity.
+  - The similarity score is divided by the sum of the TF-IDF vector for the content (tfidf_matrix[0].sum()) to normalize it to a range between 0 and 1. Normalization allows for better comparison and interpretation of relevance scores across different articles.
+
+**It also suits sports news analysis and provide an additional perspective regarding relevance**. 
+- By representing the content and statement as TF-IDF vectors, the code captures the importance of specific terms within the sports news articles and the statement. This approach is particularly useful in sports news analysis, as it allows the identification of relevant articles based on the significance of terms related to players, game events, team dynamics, and other sports-specific information.
+- Utilizing cosine similarity helps measure the similarity between the content and statement vectors, providing a quantitative measure of how closely the news article aligns with the MVP statement. This similarity score reflects the relevance of the article to the MVP prediction and enables ranking or filtering of articles based on their relevance.
+- Normalizing the similarity scores ensures a consistent range of values between 0 and 1, facilitating easier interpretation and comparison of relevance scores. This normalization enables ranking articles based on their relevance scores and assists in distinguishing highly relevant articles from less relevant ones in the sports news analysis.
+
+
+
 
 ## 🖼️ Results
 
