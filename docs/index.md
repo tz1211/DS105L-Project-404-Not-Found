@@ -67,7 +67,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 | 1127 |     2022 | Lonzo Ball            | CHICAGO BULLS       |    24 |        0.426829 |          34.6286 |  13      |   5.08571 |                10.9429  |                 0.8     |                            7.42857  | 0.885714 |              4.42857 |               1 |            4.62857 |            0.6     |                      3.14286   |             1        |          2.42857 | 1.82857  |     2.34286 |      0.422977 |      0.75     | 0.423077 |                20   |                2.2 |              2.5 |                        1.6 |                           14.3 |                     0.073 |                        0.9 |                            3.3 |                       14.5 |                2.6 |                      0.679 |                        8.8 |                      0.575 |                  17.2 |               17.4 |                             1.4 |                       0.088 |        0 |
 | 1128 |     2022 | Harrison Barnes       | SACRAMENTO KINGS    |    29 |        0.939024 |          33.5974 |  16.4286 |   2.41558 |                10.8312  |                 5.36364 |                            4.67532  | 0.181818 |              4.54545 |               1 |            5.07792 |            4.42857 |                      1.84416   |             1.06494  |          1.22078 | 0.688312 |     1.53247 |      0.468825 |      0.825666 | 0.394444 |                10.5 |                0.5 |              0.2 |                       -1.3 |                           14.9 |                     0.495 |                        1.5 |                            3.4 |                       15.7 |                1   |                      0.432 |                        9.1 |                      0.623 |                  10.4 |               18.8 |                             1.4 |                       0.112 |        0 |
 | 1129 |     2022 | Scottie Barnes        | TORONTO RAPTORS     |    20 |        0.902439 |          35.3649 |  15.3243 |   3.45946 |                12.5946  |                 2.90541 |                            2.60811  | 0.743243 |              4.89189 |               1 |            6.2027  |            2.13514 |                      0.783784  |             2.63514  |          2.59459 | 1.08108  |     1.83784 |      0.492489 |      0.734884 | 0.300518 |                14.7 |                2.1 |              0.9 |                        0.4 |                           15.8 |                     0.231 |                        0.5 |                            7.7 |                       16.3 |                1.5 |                      0.207 |                       11.5 |                      0.552 |                  11.7 |               19   |                             1.9 |                       0.122 |        0 |
-| 1130 |     2022 | RJ Barrett            | NEW YORK KNICKS     |    21 |        0.853659 |          34.5286 |  20.0286 |   2.97143 |                17.0571  |                 5.8     |                            5.77143  | 0.228571 |              4.88571 |               1 |            6.95714 |            4.14286 |                      1.97143   |             0.942857 |          2.02857 | 0.614286 |     2.15714 |      0.407873 |      0.714286 | 0.341584 |                14.9 |                0.7 |             -1.6 |                       -1.3 |                           15.5 |                     0.34  |                       -0.3 |                            2.9 |                       13.7 |                0.9 |                      0.338 |                        9.1 |                      0.511 |                   9.9 |               27.6 |                             0.2 |                       0.046 |        0 |  
+| 1130 |     2022 | RJ Barrett            | NEW YORK KNICKS     |    21 |        0.853659 |          34.5286 |  20.0286 |   2.97143 |                17.0571  |                 5.8     |                            5.77143  | 0.228571 |              4.88571 |               1 |            6.95714 |            4.14286 |                      1.97143   |             0.942857 |          2.02857 | 0.614286 |     2.15714 |      0.407873 |      0.714286 | 0.341584 |                14.9 |                0.7 |             -1.6 |                       -1.3 |                           15.5 |                     0.34  |                       -0.3 |                            2.9 |                       13.7 |                0.9 |                      0.338 |                        9.1 |                      0.511 |                   9.9 |               27.6 |                             0.2 |                       0.046 |        0 |
 
 * *This table include boxscore and advanced statistics that reflects players' individual performances. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
@@ -130,6 +130,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |  8 |   2020 | Brandon Ingram       |            0.0879199 |        0.0879199 |         0.0901602 |         0.544744 |          15613.1 |            50384.1 |         56001   |          27 |
 |  9 |   2020 | Buddy Hield          |            0.0858989 |        0.0858989 |         0.0941537 |         0.554056 |          23624.3 |            49410.2 |         60888.5 |          26 |
 | 10 |   2020 | CJ McCollum          |            0.0737269 |        0.0737269 |         0.276422  |         0.557982 |          14814.5 |            70731   |         70641.2 |           6 |
+
 </details>
 
 <details>
@@ -148,6 +149,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 |  7 |   2023 | Bojan Bogdanović        |            0.138098  |                       0.577742 |                        0.575943 |         0.59157  |        0.00184185 |           2 |
 |  8 |   2023 | Bradley Beal            |            0.122245  |                       0.584892 |                        0.581959 |         0.58885  |        0.0030606  |           1 |
 |  9 |   2023 | Brandon Ingram          |            0.0912451 |                       0.608591 |                        0.591863 |         0.576785 |        0.00785333 |           5 |
+
 </details>
 
 <details>
@@ -173,6 +175,7 @@ Sample MVP count for Stephen Curry
 |Stephen Curry|2009|0    |0          |0               |
 |Stephen Curry|2008|0    |0          |0               |
  * `MVP_count.csv` is designed to capture the number of time a player have won MVP and whether he has won it the previous year or previous 2 years. It is generally agreed upon that players who win their first MVP the previous year tend to win another MVP, whilst players who have won MVP 2 years in a row are highly unlikely to win a third one (sometimes termed "voter fatigue"). This dataset is designed to capture the aspect of "voter fatigue". 
+
 </details>
 
 ## Final Merged Data 
@@ -371,6 +374,10 @@ Leveraging these models enhances the accuracy of sentiment analysis and uncover 
 **BUT**🤔️
 One limitation of using BBC sports news for sentiment analysis is from gathering news content using web scraping. Since the website formatting may over time, this becomes especially challenging when the timeframe being analyzed is broad.
 In situations where the web scraping fails to retrieve the content, the code will relying solely on the news title for sentiment analysis which poses a limitation. While the title can provide some insight, it may not capture the full sentiment or context present in the article's body. 
+
+## 🧠 Random Forest Algorithm 
+
+
 
 ## 🖼️ Results
 
