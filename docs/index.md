@@ -234,4 +234,5 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
 
 ## 📚 References
 
-*
+* [markdown file editting instruction](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
+* [Basketball reference api use instruction](https://jaebradley.github.io/basketball_reference_web_scraper/api/ )
