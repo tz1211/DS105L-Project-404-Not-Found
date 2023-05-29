@@ -51,11 +51,11 @@ Usually, the MVP award goes to players who are high on both individual performan
 
 Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
-### :one: Quantitative Data (Individual performance + Team performance) 
+### 1️⃣ Quantitative Data (Individual performance + Team performance) 
 
 <details>
-<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary><br>
-
+<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>
+<br>
 |      |   season | name                  | team                |   age |   %games_played |   minutes_played |   points |   assists |   attempted_field_goals |   attempted_free_throws |   attempted_three_point_field_goals |   blocks |   defensive_rebounds |   games_started |   made_field_goals |   made_free_throws |   made_three_point_field_goals |   offensive_rebounds |   personal_fouls |   steals |   turnovers |   field_goal% |   free_throw% |     3pt% |   assist_percentage |   block_percentage |   box_plus_minus |   defensive_box_plus_minus |   defensive_rebound_percentage |   free_throw_attempt_rate |   offensive_box_plus_minus |   offensive_rebound_percentage |   player_efficiency_rating |   steal_percentage |   three_point_attempt_rate |   total_rebound_percentage |   true_shooting_percentage |   turnover_percentage |   usage_percentage |   value_over_replacement_player |   win_shares_per_48_minutes |   is_mvp |
 |-----:|---------:|:----------------------|:--------------------|------:|----------------:|-----------------:|---------:|----------:|------------------------:|------------------------:|------------------------------------:|---------:|---------------------:|----------------:|-------------------:|-------------------:|-------------------------------:|---------------------:|-----------------:|---------:|------------:|--------------:|--------------:|---------:|--------------------:|-------------------:|-----------------:|---------------------------:|-------------------------------:|--------------------------:|---------------------------:|-------------------------------:|---------------------------:|-------------------:|---------------------------:|---------------------------:|---------------------------:|----------------------:|-------------------:|--------------------------------:|----------------------------:|---------:|
 | 1121 |     2022 | Bam Adebayo           | MIAMI HEAT          |    24 |        0.682927 |          32.5893 |  19.0714 |   3.39286 |                13.0179  |                 6.07143 |                            0.107143 | 0.785714 |              7.625   |               1 |            7.25    |            4.57143 |                      0         |             2.44643  |          3.05357 | 1.42857  |     2.64286 |      0.556927 |      0.752941 | 0        |                17.5 |                2.6 |              3.8 |                        2.1 |                           26.1 |                     0.466 |                        1.7 |                            8.7 |                       21.8 |                2.2 |                      0.008 |                       17.5 |                      0.608 |                  14.4 |               25   |                             2.7 |                       0.188 |        0 |
@@ -73,8 +73,8 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 </details>
 
 <details>
-<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary><br>
-
+<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>
+<br>
 |      |season|team     |conference           |W                  |L  |win_rate          |conference_standing|
 |------|------|---------|---------------------|-------------------|---|------------------|-------------------|
 |30    |2022  |PHOENIX SUNS|Western              |64                 |18 |0.7804878048780488|1                  |
@@ -111,12 +111,12 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 * *This table includes the win percentage and conference standing for each team. (Source: [Basketball Reference](https://www.basketball-reference.com/))
 </details>
 
-### :two: Qualitative Data (Sports News and Media Narratives)
+### 2️⃣ Qualitative Data (Sports News and Media Narratives)
 
 <details>
 <summary><strong>Quantified NBA Sports News - Sentiments and Relevance</strong></summary>
 * *(Taking the 2019-2020 season from the merged table, the top 10 samples)*  <br>
-
+<br>
 |    |   time | most_frequent_name   |   textblob_Sentiment |   nltk_Sentiment |   relevance_score |   bert_relevance |   credit_article |   credit_followers |   credit_tweets |   frequency |
 |---:|-------:|:---------------------|---------------------:|-----------------:|------------------:|-----------------:|-----------------:|-------------------:|----------------:|------------:|
 |  0 |   2020 | Aaron Gordon         |            0.0923111 |        0.0923111 |         0.131483  |         0.567671 |          39434.8 |            34372.6 |         40798   |           5 |
@@ -136,7 +136,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <details>
 <summary><strong>Quantified BBC Sports News - Sentiments and Relevance</strong></summary>
 * *(Taking the 2010-2023 season from the merged table, the top 10 samples)* <br>
-
+<br>
 |    |   time | most_frequent_name      |   textblob_sentiment |   sentiment_bert_average_score |   sentiment_xlnet_average_score |   bert_relevance |   relevance_score |   frequency |
 |---:|-------:|:------------------------|---------------------:|-------------------------------:|--------------------------------:|-----------------:|------------------:|------------:|
 |  0 |   2023 | Aaron Gordon            |            0.107826  |                       0.580768 |                        0.569642 |         0.592284 |        0.00804037 |          22 |
@@ -155,7 +155,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 <details>
 <summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 Sample MVP count for Stephen Curry <br>
-
+<br>
 |Name         |Year|value|won_last_yr|won_2_yrs_before|
 |-------------|----|-----|-----------|----------------|
 |Stephen Curry|2023|2    |0          |0               |
@@ -251,7 +251,7 @@ Intuitively by leveraging this vast amount of data, the model can learn patterns
 **To mitigate these concerns, NBA news are carefully assessed and quantifies into indexes.**
 
 
-### :one: Credibility of NBA News
+### 1️⃣ Credibility of NBA News
 [Muck Rack](https://muckrack.com/)
  is a platform that provides insights into the credibility and influence of authors in journalism. 
 By considering various metrics such as the number of followers, number of articles published, and number of tweets, Muck Rack can help define the credibility of authors and news:
@@ -314,7 +314,7 @@ The number of tweets an author has shared on Twitter can give an indication of t
 
 
 
-### :two: Sentiment and Relevance of NBA News
+### 2️⃣ Sentiment and Relevance of NBA News
 
 For NBA News, there are four indexes that analyse the sentiments and relevance of news in addition to the three indicater for credibility.
 They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance_score". 
@@ -374,6 +374,7 @@ Leveraging these models enhances the accuracy of sentiment analysis and uncover 
 **BUT**🤔️
 One limitation of using BBC sports news for sentiment analysis is from gathering news content using web scraping. Since the website formatting may over time, this becomes especially challenging when the timeframe being analyzed is broad.
 In situations where the web scraping fails to retrieve the content, the code will relying solely on the news title for sentiment analysis which poses a limitation. While the title can provide some insight, it may not capture the full sentiment or context present in the article's body. 
+
 
 ## 🧠 Random Forest Algorithm 
 
