@@ -1,10 +1,12 @@
-<head>
-  <style>
-    td, th {
-    text-align: right;
-    }
-  </style>
-<head>
+<html>
+  <head>
+    <style>
+      td, th {
+      text-align: right;
+      }
+    </style>
+  <head>
+</html>
 
 ---
 title: "📚 Project Title"
