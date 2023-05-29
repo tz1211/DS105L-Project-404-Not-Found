@@ -1,3 +1,7 @@
+<head>
+  <link rel="icon" href="favicon.png" type="image/png">
+</head>
+
 ---
 title: "📚 Predicting NBA MVP Winner"
 date: 20 March 2023
@@ -1442,11 +1446,11 @@ The number of tweets an author has shared on Twitter can give an indication of t
 
 **Graph 2 Number of Followers**
   - The distribution is reasonably skewed, hence mean is used for missing values for authors.  
-![images - 3](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/follower.png)
+![images - 3](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/follower.png)
 
 **Graph 3 Number of Tweets**
   - The distribution is reasonably skewed, hence mean is used for missing values for authors.  
-![images - 4](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/tweets.png)
+![images - 4](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/news_data/github_MDtable/tweets.png)
 
 
 
