@@ -215,7 +215,21 @@ Full df shape: 105 x 53
 
 
 ## 📈 Analysis
-### 🧐 Qualitative Data Analysis - Part 1: NBA News
+
+### 🧐 Qualitative Data Analysis  
+
+**The qualitative aspect of project dives into NBA news and BBC sports news that could help to predict the MVP (Most Valuable Player) of each NBA season**. 
+
+**It takes two approaches to ensure the news provide different perspectives**.
+
+**For NBA News, they are scraped from the NBA sports news archive**. 
+
+**For BBC sports news, it take a slightly different approach. It startes by searching for specific player names and leverage the algorithm of the search bar on the BBC sports website**. 
+
+**Stay tuned for some fascinating insights!😆
+
+
+### Part 1: NBA News
 
 NBA news provides a wealth of relevant information about players' performances, team dynamics, injuries, and other factors that can influence MVP selection. Its coverage offers insights from expert analysts, journalists, and commentators who closely follow the league. These professionals often provide valuable perspectives and evaluations of players' performances. Further, NBA is characterized by constantly evolving strategies, player performances, and team dynamics throughout a season. NBA news stay updated with the latest developments and make informed analysis that align with the current landscape of the league. Therefore, NBA news provides an opportunity to discover hidden insights and correlations that might not be apparent through traditional statistical analysis alone. By incorporating unstructured textual data, the model can uncover nuanced relationships between players, teams, playing styles, and other factors that contribute to MVP performances.
 
@@ -343,7 +357,18 @@ They are "textblob_Sentiment", "nltk_Sentiment",	"bert_relevance" and "relevance
 |  3 |   2020 | Andrew Wiggins          |           0.0904019  |       0.0904019  |         0.0992229 |         0.573194 |         28212.4  |           36785    |         42379.9 |           7 |
 |  4 |   2020 | Anthony Davis           |           0.120779   |       0.120779   |         0.189062  |         0.548409 |         11444.1  |           47184.3  |         50480.3 |          27 |
 
+### Part 2: BBC News
 
+
+While BBC News tends to be more objective and focused on reporting factual information, it doesn't mean that sentiment-free. Nuances can still be hidden within the text. To ensure that these nuances are discovered, more advanced sentiment analysis techniques in addition to TextBlob.
+
+In the project, sentiment_bert_average_score and sentiment_xlnet_average_score alongside TextBlob can provide a more comprehensive understanding of the sentiment in BBC News articles. These models, BERT and XLNet, are designed to capture more nuanced and contextual sentiment information. 
+Leveraging these models enhances the accuracy of sentiment analysis and uncover subtle sentiment variations that may contribute to predicting the NBA MVP more effectively.
+
+
+One limitation of using BBC sports news for sentiment analysis is from gathering news content using web scraping. Since the website formatting may over time, this becomes especially challenging when the timeframe being analyzed is broad.
+
+In situations where the web scraping fails to retrieve the content, the code will relying solely on the news title for sentiment analysis which poses a limitation. While the title can provide some insight, it may not capture the full sentiment or context present in the article's body. 
 
 ## 🖼️ Results
 
