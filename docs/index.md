@@ -2523,9 +2523,43 @@ Using the complete data from the 2010 to 2022 NBA seasons as training set, the a
 
 Using the [Kia MVP Ladder](https://www.nba.com/news/kia-mvp-ladder-march-24-2023-edition) published weekly by the NBA as a baseline, our algorithm correctly predicted 4 of the top 5 candidates on the ladder, only missing Jayson Tatum for Damian Lillard. 
 
+MVP Ladder: 
+1. Joel Embiid 
+2. Nikola Jókic 
+3. Giannis Antetokounmpo 
+4. Jayson Tatum 
+5. Luka Dončić 
+
+## 👀 Feature Importance 
+
+|    | var                           | importance           |
+|---:|------------------------------:|---------------------:|
+| 1  | win_shares_per_48_minutes     | 0.16816027770286401  |
+| 2  | player_efficiency_rating      | 0.11936569004662713  |
+| 3  | offensive_box_plus_minus      | 0.10982492395777997  |
+| 4  | box_plus_minus                | 0.1049223754539358   |
+| 5  | value_over_replacement_player | 0.08986070883135351  |
+| 6  | made_field_goals              | 0.026159367328415922 |
+| 7  | defensive_box_plus_minus      | 0.025279650142729995 |
+| 8  | win_rate                      | 0.02517252109900765  |
+| 9  | attempted_free_throws         | 0.024255775035736    |
+| 10 | assist_percentage             | 0.021321351708916438 |
+
+*full table: [feature_importance.csv](../Data/ML_results/feature_importance.csv)
+
+Looking at the feature importance of our predictive model, it confirms our previous analysis that the model heavily favours individual performances. The top 9 out of 10 features belongs to the individual performance category, with only team <code>win_rate</code> placing 8th. Furthermore, the majority of the media narrative metrics placed at the very bottom of the table, whilst <code>%games_played</code> placed 6th last. This further explains the model's incorrect prediction with Derrick Rose in 2011 and Kevin Durant in 2015. 
+
+However, rather than jumping to the conclusion that media narrative and team performance do not play as big of a role in determining the MVP, we are more inclined to interpret this as resulting from poor data quality. We believe that our media narrative metrics did not properly capture the true extent of the media narratives surrounding the players in the real world. As mentioned [above](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/docs/index.md#part-2-bbc-news), our results from bbc news tend to be less informative compared to news from NBA.com. However, in the end we could not incorporate news from NBA.com into our final dataframe for machine learning given that it only covers 2016 to 2020 seasons. It appears through an eye test that NBA.com news tend to better capture the media narrative surrounding the MVP voting. 
+
+Nevertheless, it can be seen from the feature vector that advanced metrics (e.g. win share per 48, player efficiency rating, box plus minus, and value over replacement player) that aim to capture player impacts tend to be best correlated with MVP outcomes. 
+
+<br>
+
 # 🖋️ Conclusions 
 
+Numerous factors contribute to the outcome of the NBA MVP award. Whilst in most instances the MVP voting process is largely based on the players' quantitative statistical performances, qualitative aspects such as media narrative and voter fatigue can sometimes swing the MVP outcome. With the qualitative factors in mind, we set out to create a machine learning algorithm that predicts the winner of the NBA MVP award based on indiviudal player performance, team performance, and media narratives. While the algorithm is quite successful insofar as predicting the MVP (correctly picking 11 out of 13 actual MVPs as most likely to win MVP in their given season), it is also important to acknowledge that the model is limited such that it still biases towards individual player performances. This could be due to the quality of our media narrative data, since it is hard to fully capture something as qualitative as media attention and narratives. Nevertheless, the model's prediction of the 2023 season MVP race largely coincided with the Kia MVP Ladder published by the NBA (up to 19/03/2023 when the data is collected), with 4 out of 5 top MVP candidates predicted by the model also appearing in the MVP ladder. 
 
+<br>
 
 # 📚 References
 
