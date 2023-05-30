@@ -1360,7 +1360,7 @@ Full dataframe shape: 105 x 53
 
 ## 📊 Quantitative Data Analysis  
 
-To see the impact of quantitative metrics (individual statistics and team performance) on the chance of a player winning MVP, and to test the "best player on the best team" hypothesis, we will graph the performance of past MVP winners in these metrics against none MVP winners. 
+To see the impact of quantitative metrics (individual statistics and team performance) on the chance of a player winning MVP, and to test the "[best player on the best team](https://tz1211.github.io/DS105L-Project-404-Not-Found/#approach)" hypothesis, we will graph the performance of past MVP winners in these metrics against none MVP winners. 
 
 ![image - 2](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/figures/quantitative_data_visualisation.png) 
 **The specific metrics were picked because they are most reflective of a player's impact on the court and the success of his team* 
