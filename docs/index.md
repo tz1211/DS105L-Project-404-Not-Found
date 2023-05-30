@@ -40,7 +40,7 @@ Data Source:
 
 ## Approach 
 
-Converntional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: 
+Conventional basketball wisdom dictates that the MVP award is traditionally determined by 3 aspects: 
 * **Individual performance** (How good is the player?) 
   * Includes basic boxscore (e.g. points per game, assists per game) as well as advanced player metrics such as win share per 48, value over replacement player, player efficiency rating, etc. 
 * **Team performance** (Can the player carry a winning team?)
