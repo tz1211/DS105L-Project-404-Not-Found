@@ -1616,7 +1616,7 @@ Actual Result:
 </details>  
 
 <details>
-<summary><strong>2011 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2011_season_mvp_prediction.csv">2011_season_mvp_prediction</a>)</summary>
+<summary><strong>2011 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2011_season_mvp_prediction.csv">2011_season_mvp_prediction.csv</a>)</summary>
 
 ML Prediction: 
 <table>
@@ -2490,6 +2490,8 @@ Actual Result:
 </tbody></table>
 
 </details>  
+
+## 🔎 Analysis of Back Testing Results
 
 
 # 🖼️ Results
