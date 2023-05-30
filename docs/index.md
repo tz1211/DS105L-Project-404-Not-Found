@@ -1545,8 +1545,7 @@ The back testing results can be seen below (only top 3 most likely winners are s
 <details>
 <summary><strong>2010 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2010_season_mvp_prediction.csv">2010_season_mvp_prediction.csv</a>)</summary>  
 
-ML Prediction:  
-
+ML Prediction: 
 <table>
 <thead>
 <tr>
@@ -1618,8 +1617,8 @@ Actual Result:
 
 <details>
 <summary><strong>2011 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2011_season_mvp_prediction.csv">2011_season_mvp_prediction</a>)</summary>
-ML Prediction: 
 
+ML Prediction: 
 <table>
 <thead>
 <tr>
@@ -1691,8 +1690,8 @@ Actual Result:
 
 <details>
 <summary><strong>2012 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2012_season_mvp_prediction.csv">2012_season_mvp_prediction.csv</a>)</summary>
-ML Prediction: 
 
+ML Prediction: 
 <table>
 <thead>
 <tr>
