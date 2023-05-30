@@ -1584,6 +1584,91 @@ The back testing results can be seen below (only top 3 most likely winners are s
 
 </details>
 
+<details>
+<summary><strong>2011 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2011_season_mvp_prediction.csv">2011_season_mvp_prediction.csv</a>)<summary>
+
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">156</td>
+<td align="right">2011</td>
+<td align="right">LeBron James</td>
+<td align="right">MIAMI HEAT</td>
+<td align="right">26</td>
+<td align="right">0.6666666666666667</td>
+</tr>
+<tr>
+<td align="right">186</td>
+<td align="right">2011</td>
+<td align="right">Derrick Rose</td>
+<td align="right">CHICAGO BULLS</td>
+<td align="right">22</td>
+<td align="right">0.11111111111111113</td>
+</tr>
+<tr>
+<td align="right">185</td>
+<td align="right">2011</td>
+<td align="right">Rajon Rondo</td>
+<td align="right">BOSTON CELTICS</td>
+<td align="right">24</td>
+<td align="right">0.11111111111111113</td>
+</tr>
+</tbody></table>
+
+</details>
+
+<details>
+<summary><strong>2012 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2012_season_mvp_prediction.csv">2012_season_mvp_prediction.csv</a>)<summary>
+
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">249</td>
+<td align="right">2012</td>
+<td align="right">LeBron James</td>
+<td align="right">MIAMI HEAT</td>
+<td align="right">27</td>
+<td align="right">0.7499999999999999</td>
+</tr>
+<tr>
+<td align="right">274</td>
+<td align="right">2012</td>
+<td align="right">Derrick Rose</td>
+<td align="right">CHICAGO BULLS</td>
+<td align="right">23</td>
+<td align="right">0.10526315789473684</td>
+</tr>
+<tr>
+<td align="right">268</td>
+<td align="right">2012</td>
+<td align="right">Tony Parker</td>
+<td align="right">SAN ANTONIO SPURS</td>
+<td align="right">29</td>
+<td align="right">0.05263157894736842</td>
+</tr>
+</tbody></table>
+
+</details>
+
+
 # 🖼️ Results
 
 # 🖋️ Conclusions
