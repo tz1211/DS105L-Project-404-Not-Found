@@ -2503,7 +2503,21 @@ Nevertheless, despite these limitations, the algorithm still has a fairly good p
 
 <br>
 
-# 🖼️ 2023 MVP Prediction Result 
+# ✨ 2023 MVP Prediction Result 
+
+Using the complete data from the 2010 to 2022 NBA seasons as training set, the algorithm predicts the 2023 MVP results as follows: 
+
+|    | season | name                  | team                   | age | probability         |
+|---:|-------:|----------------------:|-----------------------:|----:|--------------------:|
+| 60 | 2023   | Nikola Jokić          | DENVER NUGGETS         | 27  | 0.4350282485875706  |
+| 31 | 2023   | Joel Embiid           | PHILADELPHIA 76ERS     | 28  | 0.15254237288135594 |
+| 2  | 2023   | Giannis Antetokounmpo | MILWAUKEE BUCKS        | 28  | 0.10169491525423728 |
+| 28 | 2023   | Luka Dončić           | DALLAS MAVERICKS       | 23  | 0.07909604519774012 |
+| 65 | 2023   | Damian Lillard        | PORTLAND TRAIL BLAZERS | 32  | 0.07344632768361582 |
+
+*The 2023 season data was collected up until 19/03/2023 (which is about 87% of the regular season) 
+
+Using the [Kia MVP Ladder](https://www.nba.com/news/kia-mvp-ladder-march-24-2023-edition) published weekly by the NBA as a baseline, our algorithm correctly predicted 4 of the top 5 candidates on the ladder, only missing Jayson Tatum for Damian Lillard. 
 
 # 🖋️ Conclusions
 
