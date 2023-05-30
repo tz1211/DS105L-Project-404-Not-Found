@@ -1761,6 +1761,736 @@ Actual Result:
 
 </details>  
 
+<details>
+<summary><strong>2013 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2013_season_mvp_prediction.csv">2013_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">334</td>
+<td align="right">2013</td>
+<td align="right">LeBron James</td>
+<td align="right">MIAMI HEAT</td>
+<td align="right">28</td>
+<td align="right">0.4719101123595505</td>
+</tr>
+<tr>
+<td align="right">312</td>
+<td align="right">2013</td>
+<td align="right">Kevin Durant</td>
+<td align="right">OKLAHOMA CITY THUNDER</td>
+<td align="right">24</td>
+<td align="right">0.2528089887640449</td>
+</tr>
+<tr>
+<td align="right">360</td>
+<td align="right">2013</td>
+<td align="right">Chris Paul</td>
+<td align="right">LOS ANGELES CLIPPERS</td>
+<td align="right">27</td>
+<td align="right">0.1629213483146067</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">LeBron James</td>
+<td align="right">28</td>
+<td align="right">MIA</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">Kevin Durant</td>
+<td align="right">24</td>
+<td align="right">OKC</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Carmelo Anthony</td>
+<td align="right">28</td>
+<td align="right">NYK</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2014 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2014_season_mvp_prediction.csv">2014_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">417</td>
+<td align="right">2014</td>
+<td align="right">Kevin Durant</td>
+<td align="right">OKLAHOMA CITY THUNDER</td>
+<td align="right">25</td>
+<td align="right">0.6629213483146067</td>
+</tr>
+<tr>
+<td align="right">441</td>
+<td align="right">2014</td>
+<td align="right">LeBron James</td>
+<td align="right">MIAMI HEAT</td>
+<td align="right">29</td>
+<td align="right">0.14606741573033707</td>
+</tr>
+<tr>
+<td align="right">453</td>
+<td align="right">2014</td>
+<td align="right">Kevin Love</td>
+<td align="right">MINNESOTA TIMBERWOLVES</td>
+<td align="right">25</td>
+<td align="right">0.0898876404494382</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Kevin Durant</td>
+<td align="right">25</td>
+<td align="right">OKC</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">LeBron James</td>
+<td align="right">29</td>
+<td align="right">MIA</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Blake Griffin</td>
+<td align="right">24</td>
+<td align="right">LAC</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2015 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2015_season_mvp_prediction.csv">2015_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">515</td>
+<td align="right">2015</td>
+<td align="right">Stephen Curry</td>
+<td align="right">GOLDEN STATE WARRIORS</td>
+<td align="right">26</td>
+<td align="right">0.3766233766233766</td>
+</tr>
+<tr>
+<td align="right">521</td>
+<td align="right">2015</td>
+<td align="right">Kevin Durant</td>
+<td align="right">OKLAHOMA CITY THUNDER</td>
+<td align="right">26</td>
+<td align="right">0.3116883116883117</td>
+</tr>
+<tr>
+<td align="right">580</td>
+<td align="right">2015</td>
+<td align="right">Russell Westbrook</td>
+<td align="right">OKLAHOMA CITY THUNDER</td>
+<td align="right">26</td>
+<td align="right">0.16883116883116883</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Stephen Curry</td>
+<td align="right">26</td>
+<td align="right">GSW</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">James Harden</td>
+<td align="right">25</td>
+<td align="right">HOU</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">LeBron James</td>
+<td align="right">30</td>
+<td align="right">CLE</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2016 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2016_season_mvp_prediction.csv">2016_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">605</td>
+<td align="right">2016</td>
+<td align="right">Stephen Curry</td>
+<td align="right">GOLDEN STATE WARRIORS</td>
+<td align="right">27</td>
+<td align="right">0.630252100840336</td>
+</tr>
+<tr>
+<td align="right">611</td>
+<td align="right">2016</td>
+<td align="right">Kevin Durant</td>
+<td align="right">OKLAHOMA CITY THUNDER</td>
+<td align="right">27</td>
+<td align="right">0.17647058823529407</td>
+</tr>
+<tr>
+<td align="right">627</td>
+<td align="right">2016</td>
+<td align="right">James Harden</td>
+<td align="right">HOUSTON ROCKETS</td>
+<td align="right">26</td>
+<td align="right">0.058823529411764705</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Stephen Curry</td>
+<td align="right">27</td>
+<td align="right">GSW</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">Kawhi Leonard</td>
+<td align="right">24</td>
+<td align="right">SAS</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">LeBron James</td>
+<td align="right">31</td>
+<td align="right">CLE</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2017 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2017_season_mvp_prediction.csv">2017_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">756</td>
+<td align="right">2017</td>
+<td align="right">Russell Westbrook</td>
+<td align="right">OKLAHOMA CITY THUNDER</td>
+<td align="right">28</td>
+<td align="right">0.41379310344827586</td>
+</tr>
+<tr>
+<td align="right">697</td>
+<td align="right">2017</td>
+<td align="right">Stephen Curry</td>
+<td align="right">GOLDEN STATE WARRIORS</td>
+<td align="right">28</td>
+<td align="right">0.1149425287356322</td>
+</tr>
+<tr>
+<td align="right">711</td>
+<td align="right">2017</td>
+<td align="right">Draymond Green</td>
+<td align="right">GOLDEN STATE WARRIORS</td>
+<td align="right">26</td>
+<td align="right">0.10344827586206896</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Russell Westbrook</td>
+<td align="right">28</td>
+<td align="right">OKC</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">James Harden</td>
+<td align="right">27</td>
+<td align="right">HOU</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Kawhi Leonard</td>
+<td align="right">25</td>
+<td align="right">SAS</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2018 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2018_season_mvp_prediction.csv">2018_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">803</td>
+<td align="right">2018</td>
+<td align="right">James Harden</td>
+<td align="right">HOUSTON ROCKETS</td>
+<td align="right">28</td>
+<td align="right">0.641025641025641</td>
+</tr>
+<tr>
+<td align="right">814</td>
+<td align="right">2018</td>
+<td align="right">LeBron James</td>
+<td align="right">CLEVELAND CAVALIERS</td>
+<td align="right">33</td>
+<td align="right">0.10256410256410256</td>
+</tr>
+<tr>
+<td align="right">829</td>
+<td align="right">2018</td>
+<td align="right">Chris Paul</td>
+<td align="right">HOUSTON ROCKETS</td>
+<td align="right">32</td>
+<td align="right">0.06410256410256411</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">James Harden</td>
+<td align="right">28</td>
+<td align="right">HOU</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">LeBron James</td>
+<td align="right">33</td>
+<td align="right">CLE</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Anthony Davis</td>
+<td align="right">24</td>
+<td align="right">NOP</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2019 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2019_season_mvp_prediction.csv">2019_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">883</td>
+<td align="right">2019</td>
+<td align="right">James Harden</td>
+<td align="right">HOUSTON ROCKETS</td>
+<td align="right">29</td>
+<td align="right">0.5857142857142856</td>
+</tr>
+<tr>
+<td align="right">852</td>
+<td align="right">2019</td>
+<td align="right">Giannis Antetokounmpo</td>
+<td align="right">MILWAUKEE BUCKS</td>
+<td align="right">24</td>
+<td align="right">0.2785714285714286</td>
+</tr>
+<tr>
+<td align="right">863</td>
+<td align="right">2019</td>
+<td align="right">Stephen Curry</td>
+<td align="right">GOLDEN STATE WARRIORS</td>
+<td align="right">30</td>
+<td align="right">0.02857142857142857</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Giannis Antetokounmpo</td>
+<td align="right">24</td>
+<td align="right">MIL</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">James Harden</td>
+<td align="right">29</td>
+<td align="right">HOU</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Paul George</td>
+<td align="right">28</td>
+<td align="right">OKC</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2020 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2020_season_mvp_prediction.csv">2020_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">936</td>
+<td align="right">2020</td>
+<td align="right">Giannis Antetokounmpo</td>
+<td align="right">MILWAUKEE BUCKS</td>
+<td align="right">25</td>
+<td align="right">0.48913043478260865</td>
+</tr>
+<tr>
+<td align="right">968</td>
+<td align="right">2020</td>
+<td align="right">James Harden</td>
+<td align="right">HOUSTON ROCKETS</td>
+<td align="right">30</td>
+<td align="right">0.20652173913043476</td>
+</tr>
+<tr>
+<td align="right">986</td>
+<td align="right">2020</td>
+<td align="right">Damian Lillard</td>
+<td align="right">PORTLAND TRAIL BLAZERS</td>
+<td align="right">29</td>
+<td align="right">0.07608695652173912</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Giannis Antetokounmpo</td>
+<td align="right">25</td>
+<td align="right">MIL</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">LeBron James</td>
+<td align="right">35</td>
+<td align="right">LAL</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">James Harden</td>
+<td align="right">30</td>
+<td align="right">HOU</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2021 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2021_season_mvp_prediction.csv">2021_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1076</td>
+<td align="right">2021</td>
+<td align="right">Nikola Jokić</td>
+<td align="right">DENVER NUGGETS</td>
+<td align="right">25</td>
+<td align="right">0.6</td>
+</tr>
+<tr>
+<td align="right">1043</td>
+<td align="right">2021</td>
+<td align="right">Stephen Curry</td>
+<td align="right">GOLDEN STATE WARRIORS</td>
+<td align="right">32</td>
+<td align="right">0.096</td>
+</tr>
+<tr>
+<td align="right">1049</td>
+<td align="right">2021</td>
+<td align="right">Joel Embiid</td>
+<td align="right">PHILADELPHIA 76ERS</td>
+<td align="right">26</td>
+<td align="right">0.088</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Nikola Jokić</td>
+<td align="right">25</td>
+<td align="right">DEN</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">Joel Embiid</td>
+<td align="right">26</td>
+<td align="right">PHI</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Stephen Curry</td>
+<td align="right">32</td>
+<td align="right">GSW</td>
+</tr>
+</tbody></table>
+
+</details>  
+
+<details>
+<summary><strong>2022 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2022_season_mvp_prediction.csv">2022_season_mvp_prediction.csv</a>)</summary>
+
+ML Prediction: 
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1178</td>
+<td align="right">2022</td>
+<td align="right">Nikola Jokić</td>
+<td align="right">DENVER NUGGETS</td>
+<td align="right">26</td>
+<td align="right">0.3590909090909091</td>
+</tr>
+<tr>
+<td align="right">1123</td>
+<td align="right">2022</td>
+<td align="right">Giannis Antetokounmpo</td>
+<td align="right">MILWAUKEE BUCKS</td>
+<td align="right">27</td>
+<td align="right">0.28181818181818186</td>
+</tr>
+<tr>
+<td align="right">1154</td>
+<td align="right">2022</td>
+<td align="right">Joel Embiid</td>
+<td align="right">PHILADELPHIA 76ERS</td>
+<td align="right">27</td>
+<td align="right">0.1090909090909091</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Nikola Jokić</td>
+<td align="right">26</td>
+<td align="right">DEN</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">Joel Embiid</td>
+<td align="right">27</td>
+<td align="right">PHI</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Giannis Antetokounmpo</td>
+<td align="right">27</td>
+<td align="right">MIL</td>
+</tr>
+</tbody></table>
+
+</details>  
+
 
 # 🖼️ Results
 
