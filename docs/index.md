@@ -1543,7 +1543,8 @@ To ensure that we have confidence in our machine learning algorithm, we conducte
 The back testing results can be seen below (only top 3 most likely winners are shown here): 
 
 <details>
-<summary><strong>2010 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2010_season_mvp_prediction.csv">2010_season_mvp_prediction.csv</a>)<summary>
+<summary><strong>2010 Season</strong><summary>
+<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2010_season_mvp_prediction.csv">2010_season_mvp_prediction.csv</a>
 
 <table>
 <thead>
