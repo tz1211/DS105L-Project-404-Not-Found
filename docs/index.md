@@ -2505,7 +2505,7 @@ Nevertheless, despite these limitations, the algorithm still has a fairly good p
 
 # ✨ 2023 MVP Prediction Result 
 
-**Our predicted NBA MVP for 2022/2023 Season:** 
+**Our predicted NBA MVP for 2022/2023 Season –– Nikola Jókic!**
 
 ![images - 6](../figures/jokic_photo.jpeg)
 
