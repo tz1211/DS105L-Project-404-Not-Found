@@ -4,15 +4,15 @@ date: 30 May 2023
 date-meta: 30 May 2023
 ---
 
-# 🤖 Predicting NBA MVP Winner
-
-**Team members:** 
+**Group Members:** 
 
 - [Litong Zhong (Annabel)](https://github.com/Litong-Annabel)
 - [Chengchao Lu (Spark)](https://github.com/Spark-LuC)
 - [Yan Zhou (Terry)](https://github.com/tz1211)
 
-# 📝 Project Description   
+<br>
+
+# 🤖 Predicting NBA MVP Winner
 
 Are you curious about who will be crowned the next NBA MVP? Our MVP prediction website has got you covered! Get ready for an exciting journey where we dive into the world of elite basketball performance and statistical analysis to forecast the NBA's most valuable player.  
 
@@ -1536,7 +1536,53 @@ In situations where the web scraping fails to retrieve the content, the code wil
 
 # 🧠 Random Forest Algorithm 
 
+The ranodm forest algorithm is selected for the machine learning part of the project due to its simplicity and ability to handle non-linearity in data. Whilst we have observed in the [quantitative data analysis section](https://tz1211.github.io/DS105L-Project-404-Not-Found/#-quantitative-data-analysis) that MVP winners tend to be correlated with top statistical performances, we decided to opt for random forest over logistic regression because of the imbalance in the number of MVPs vs. non-MVPs in our dataset. 
 
+To ensure that we have confidence in our machine learning algorithm, we conducted back testing using the data collected from the 2010 to 2022 seasons. However, contrary to the typical approach of performing a 70/30 or 80/20 train-test split, we split the test and training sets by entire seasons. This makes the most sense as the selection of MVP winner should be relative to the performance of other players within the same season. Furthermore, due to the heavy imbalance between MVPs and non-MVPs, doing a 70/30 train-test split could also result in test sets having no MVP winners. Therefore, to test our algorithm, we cycled through each season from 2010 to 2022 as test sets and used all the remaining seasons as training sets to predict the MVP (i.e. if we use 2010 as test set, we use 2011 to 2022 season as training set). 
+
+The back testing results can be seen below (only top 3 most likely winners are shown here): 
+
+<details>
+<summary><strong>2010 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2010_season_mvp_prediction.csv">2010_season_mvp_prediction.csv</a>)<summary>
+
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">season</th>
+<th align="right">name</th>
+<th align="right">team</th>
+<th align="right">age</th>
+<th align="right">probability</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">55</td>
+<td align="right">2010</td>
+<td align="right">LeBron James</td>
+<td align="right">CLEVELAND CAVALIERS</td>
+<td align="right">25</td>
+<td align="right">0.8058252427184466</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td align="right">2010</td>
+<td align="right">Kevin Durant</td>
+<td align="right">OKLAHOMA CITY THUNDER</td>
+<td align="right">21</td>
+<td align="right">0.0679611650485437</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td align="right">2010</td>
+<td align="right">Dwyane Wade</td>
+<td align="right">MIAMI HEAT</td>
+<td align="right">28</td>
+<td align="right">0.038834951456310676</td>
+</tr>
+</tbody></table>
+
+</details>
 
 # 🖼️ Results
 
