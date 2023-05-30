@@ -2,7 +2,6 @@
 title: "📚 Predicting NBA MVP Winner"
 date: 30 May 2023
 date-meta: 30 May 2023
-favicon: /favicon.png
 ---
 
 # 🤖 Predicting NBA MVP Winner
@@ -1357,6 +1356,24 @@ Full df shape: 105 x 53
 
 ## 📈 Analysis
 
+### 📊 Quantitative Data Analysis  
+
+To see the impact of quantitative metrics (individual statistics and team performance) on the chance of a player winning MVP, and to test the "best player on the best team" hypothesis, we will graph the performance of past MVP winners in these metrics against none MVP winners. 
+
+![image - 2](../figures/quantitative_data_visualisation.png) 
+*The specific metrics were picked because they are most reflective of a player's impact on the court and the success of his team* 
+
+As we can see from the graph above, the MVP winners consistently appear at the top for each metrics for both traditional boxscore and advanced metrics from 2010 to 2022 seasons. The teams for which the MVP winners play also consistently come out in top 3 in their conference with some of the best win percentages in the league. This provides some empirical evidence for the conventional "best player on the best team" hypothesis to MVP voting. 
+
+It is worth noting that there are some anomolies to this pattern. The teams of the 2017 and 2022 MVPs both only ranked 6th in their conference. However, in both cases, the eventual MVP winners (Russel Westbrook from the Oaklahoma City Thunders in 2017 and Nikola Jókic from the Denver Nuggets in 2022) produced some historical individual statistical performances. Westbrook was the first person in over 50 years to average a triple double over the season, whilst Jókic produced the highest player efficiency rating ever in the history of the league. 
+
+Another anomoly is Derrick Rose in 2011. As seen from the graph above, whilst he did not top any player metric on the chart, he was nonetheless crowned the most valuable player of the 2010/2011 season. This could be attributed to the level of flare with which he plays and the narrative of him being the youngest MVP winner ever should he win the award in 2011. This shows that media narrative can also play a significant role in determining the eventual winner of the MVP award. Therefore, this justifies the inclusion of measures of media narrative in our final machine learning algorithm. 
+
+Finally, it is also worth noting James Harden in 2019, who, despite not winning the MVP, produced the best numbers by a long shot in points per game, box plus and minus, true shooting percentage, and value over replacement player. However, his MVP case was ultimately undermined as his team the Houston Rockets only finished 4th in the Western Conference. 
+
+Nevertheless, the quantitative data has shown that the majority of MVP winners do follow the "best player on the best team" pattern, and the anomolies we identified above have indeed sparked controversy. We will revisit the cases of Derrick Rose and James Harden later. 
+
+
 ### 🧐 Qualitative Data Analysis  
 
 **The qualitative aspect of project dives into NBA news and BBC sports news that could help to predict the MVP (Most Valuable Player) of each NBA season**. 
@@ -1367,7 +1384,7 @@ Full df shape: 105 x 53
 
 **For BBC sports news, it take a slightly different approach. It startes by searching for specific player names and leverage the algorithm of the search bar on the BBC sports website**. 
 
-**Stay tuned for some fascinating insights!😆
+**Stay tuned for some fascinating insights! 😆**
 
 
 ### Part 1: NBA News
@@ -1439,15 +1456,15 @@ The number of tweets an author has shared on Twitter can give an indication of t
 
 **Graph 1 Number of Articles**
   - The distribution is highly skewed, hence medium is used for missing values for authors.  
-![images - 2](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/Data/news_data/github_MDtable/article.png)
+![images - 3](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/Data/news_data/github_MDtable/article.png)
 
 **Graph 2 Number of Followers**
   - The distribution is reasonably skewed, hence mean is used for missing values for authors.  
-![images - 3](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/Data/news_data/github_MDtable/follower.png)
+![images - 4](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/Data/news_data/github_MDtable/follower.png)
 
 **Graph 3 Number of Tweets**
   - The distribution is reasonably skewed, hence mean is used for missing values for authors.  
-![images - 4](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/Data/news_data/github_MDtable/tweets.png)
+![images - 5](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/Data/news_data/github_MDtable/tweets.png)
 
 
 
