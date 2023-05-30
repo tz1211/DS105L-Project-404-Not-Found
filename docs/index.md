@@ -54,7 +54,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 ### 1️⃣ Quantitative Data (Individual performance + Team performance) 
 
 <details>
-<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/player_data.csv">player_data.csv</a>)</summary>  
+<summary><strong>Individual Player Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/semi_processed_data/player_data.csv">player_data.csv</a>)</summary>  
 
 <table>
 <thead>
@@ -560,7 +560,7 @@ Therefore, in this section, we will be collecting and showing data that aim to c
 </details>
 
 <details>
-<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/team_data.csv">team_data.csv</a>)</summary>  
+<summary><strong>Team Data</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/semi_processed_data/team_data.csv">team_data.csv</a>)</summary>  
 
 <table>
 <thead>
@@ -1182,7 +1182,7 @@ This table includes the win percentage and conference standing for each team. (S
 </details>
 
 <details>
-<summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/MVP_count.csv">MVP_count.csv</a>)</summary>
+<summary><strong>MVP Count</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/semi_processed_data/MVP_count.csv">MVP_count.csv</a>)</summary>
 Sample MVP count for Stephen Curry  
 
 <table>
@@ -1315,7 +1315,7 @@ Sample MVP count for Stephen Curry
 
 ## Final Merged Data 
 
-### Historical data from 2010-2022 season ([final_cleaned_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data.csv)) 
+### Historical data from 2010-2022 season ([final_cleaned_data.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/final_cleaned_data.csv)) 
 
 |   | season | slug      | name              | team                   | age | %games_played      | minutes_played     | points             | assists            | attempted_field_goals | attempted_free_throws | attempted_three_point_field_goals | blocks             | defensive_rebounds | games_started      | made_field_goals   | made_free_throws   | made_three_point_field_goals | offensive_rebounds | personal_fouls     | steals             | turnovers          | field_goal%        | free_throw%        | 3pt%               | assist_percentage | block_percentage | box_plus_minus | defensive_box_plus_minus | defensive_rebound_percentage | free_throw_attempt_rate | offensive_box_plus_minus | offensive_rebound_percentage | player_efficiency_rating | steal_percentage | three_point_attempt_rate | total_rebound_percentage | true_shooting_percentage | turnover_percentage | usage_percentage | value_over_replacement_player | win_shares_per_48_minutes | win_rate           | conference_standing | num_mvp | won_last_yr | won_2_yrs_before | textblob_sentiment | sentiment_bert_average_score | sentiment_xlnet_average_score | bert_relevance     | relevance_score    | frequency | is_mvp |
 |---:|-------:|----------:|------------------:|-----------------------:|----:|-------------------:|-------------------:|-------------------:|-------------------:|----------------------:|----------------------:|----------------------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-----------------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|------------------:|-----------------:|---------------:|-------------------------:|-----------------------------:|------------------------:|-------------------------:|-----------------------------:|-------------------------:|-----------------:|-------------------------:|-------------------------:|-------------------------:|--------------------:|-----------------:|------------------------------:|--------------------------:|-------------------:|--------------------:|--------:|------------:|-----------------:|-------------------:|-----------------------------:|------------------------------:|-------------------:|-------------------:|----------:|-------:|
@@ -1331,11 +1331,11 @@ Sample MVP count for Stephen Curry
 | 9 | 2010   | bellra01  | Raja Bell         | CHARLOTTE BOBCATS      | 33  | 0.0609756097560975 | 31.4               | 12.0               | 2.0                | 11.0                  | 0.6                   | 4.8                               | 0.4                | 3.2                | 1.0                | 4.8                | 0.6                | 1.8                          | 1.0                | 2.6                | 0.8                | 1.0                | 0.4363636363636363 | 1.0                | 0.375              | 11.3              | 1.0              | 2.5            | 2.0                      | 12.1                         | 0.055                   | 0.5                      | 3.9                          | 12.8                     | 1.4              | 0.436                    | 8.1                      | 0.533                    | 8.2                 | 18.2             | 0.2                           | 0.113                     | 0.5365853658536586 | 7                   | 0       | 0           | 0                | 0.2366198865733748 | 0.5702846050262451           | 0.5683994526448457            | 0.5285742878913879 | 0.0018285459338642 | 1         | 0      |
 
 
-Full df shape: 1216 x 54
+Full dataframe shape: 1216 x 54
 * Final dataframe with individual, team, and media narrative data all merged together 
 * Used as training set for the Machine Learning algorithm (with column `is_mvp` acting as the label) 
 
-### Merged data for 2023 season ([final_cleaned_data_2023.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data_2023.csv))
+### Merged data for 2023 season ([final_cleaned_data_2023.csv](https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/final_cleaned_data/final_cleaned_data_2023.csv))
 
 |   | season | slug      | name                  | team                | age | %games_played      | minutes_played     | points             | assists            | attempted_field_goals | attempted_free_throws | attempted_three_point_field_goals | blocks             | defensive_rebounds | games_started      | made_field_goals   | made_free_throws   | made_three_point_field_goals | offensive_rebounds | personal_fouls     | steals             | turnovers          | field_goal%        | free_throw%        | 3pt%               | assist_percentage | block_percentage | box_plus_minus | defensive_box_plus_minus | defensive_rebound_percentage | free_throw_attempt_rate | offensive_box_plus_minus | offensive_rebound_percentage | player_efficiency_rating | steal_percentage | three_point_attempt_rate | total_rebound_percentage | true_shooting_percentage | turnover_percentage | usage_percentage | value_over_replacement_player | win_shares_per_48_minutes | win_rate           | conference_standing | num_mvp | won_last_yr | won_2_yrs_before | textblob_sentiment | sentiment_bert_average_score | sentiment_xlnet_average_score | bert_relevance     | relevance_score    | frequency |
 |---:|-------:|----------:|----------------------:|--------------------:|----:|-------------------:|-------------------:|-------------------:|-------------------:|----------------------:|----------------------:|----------------------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-----------------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|------------------:|-----------------:|---------------:|-------------------------:|-----------------------------:|------------------------:|-------------------------:|-----------------------------:|-------------------------:|-----------------:|-------------------------:|-------------------------:|-------------------------:|--------------------:|-----------------:|------------------------------:|--------------------------:|-------------------:|--------------------:|--------:|------------:|-----------------:|-------------------:|-----------------------------:|------------------------------:|-------------------:|-------------------:|----------:|
@@ -1350,7 +1350,7 @@ Full df shape: 1216 x 54
 | 8 | 2023   | barneha02 | Harrison Barnes       | SACRAMENTO KINGS    | 30  | 0.9861111111111112 | 32.816901408450704 | 14.985915492957746 | 1.591549295774648  | 9.661971830985916     | 5.0                   | 4.422535211267606                 | 0.1408450704225352 | 3.704225352112676  | 1.0                | 4.549295774647887  | 4.23943661971831   | 1.647887323943662            | 0.971830985915493  | 1.3380281690140845 | 0.676056338028169  | 1.0845070422535212 | 0.4708454810495626 | 0.847887323943662  | 0.3726114649681528 | 6.4               | 0.4              | -1.0           | -1.5                     | 12.8                         | 0.517                   | 0.4                      | 3.4                          | 13.9                     | 1.0              | 0.458                    | 8.2                      | 0.632                    | 8.4                 | 16.9             | 0.6                           | 0.114                     | 0.6142857142857143 | 3                   | 0       | 0           | 0                | 0.1073367736760593 | 0.5629069045186043           | 0.620891147851944             | 0.5879122018814087 | 0.007478692578949  | 5         |
 | 9 | 2023   | barnesc01 | Scottie Barnes        | TORONTO RAPTORS     | 21  | 0.9452054794520548 | 34.91304347826087  | 15.492753623188406 | 4.72463768115942   | 13.27536231884058     | 3.333333333333333     | 2.971014492753623                 | 0.8115942028985508 | 4.463768115942029  | 0.9855072463768116 | 6.0144927536231885 | 2.579710144927536  | 0.8840579710144928           | 2.391304347826087  | 2.231884057971014  | 0.9855072463768116 | 2.028985507246377  | 0.4530567685589519 | 0.7739130434782608 | 0.2975609756097561 | 19.6              | 2.2              | 0.3            | -0.3                     | 15.7                         | 0.251                   | 0.6                      | 7.2                          | 15.5                     | 1.4              | 0.224                    | 11.1                     | 0.525                    | 12.1                | 20.5             | 1.4                           | 0.087                     | 0.4861111111111111 | 9                   | 0       | 0           | 0                | 0.0                | 0.0                          | 0.0                           | 0.0                | 0.0                | 0         |
 
-Full df shape: 105 x 53
+Full dataframe shape: 105 x 53
 * **Note**: The 2023 season data is collected up till 19/03/2023. Therefore, the subsequent predictions made based on this data will only reflect the information available up to that point. 
 
 
@@ -1360,7 +1360,7 @@ Full df shape: 105 x 53
 
 To see the impact of quantitative metrics (individual statistics and team performance) on the chance of a player winning MVP, and to test the "best player on the best team" hypothesis, we will graph the performance of past MVP winners in these metrics against none MVP winners. 
 
-![image - 2](../figures/quantitative_data_visualisation.png) 
+![image - 2](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/figures/quantitative_data_visualisation.png) 
 **The specific metrics were picked because they are most reflective of a player's impact on the court and the success of his team* 
 
 As we can see from the graph above, the MVP winners consistently appear at the top for each metrics for both traditional boxscore and advanced metrics from 2010 to 2022 seasons. The teams for which the MVP winners play also consistently come out in top 3 in their conference with some of the best win percentages in the league. This provides some empirical evidence for the conventional "best player on the best team" hypothesis to MVP voting. 
