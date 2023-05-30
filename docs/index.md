@@ -1373,6 +1373,8 @@ Finally, it is also worth noting James Harden in 2019, who, despite not winning 
 
 Nevertheless, the quantitative data has shown that the majority of MVP winners do follow the "best player on the best team" pattern, and the anomolies we identified above have indeed sparked controversy. We will revisit the cases of Derrick Rose and James Harden later. 
 
+<br>
+<br>
 
 ### 🧐 Qualitative Data Analysis  
 
