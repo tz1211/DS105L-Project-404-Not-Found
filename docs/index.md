@@ -1585,7 +1585,8 @@ The back testing results can be seen below (only top 3 most likely winners are s
 </details>  
 
 <details>
-<summary><strong>2011 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2011_season_mvp_prediction.csv">2011_season_mvp_prediction.csv</a>)</summary>
+<summary><strong>2011 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2011_season_mvp_prediction.csv">2011_season_mvp_prediction</a>)</summary>
+ML Prediction: 
 
 <table>
 <thead>
@@ -1621,6 +1622,37 @@ The back testing results can be seen below (only top 3 most likely winners are s
 <td align="right">BOSTON CELTICS</td>
 <td align="right">24</td>
 <td align="right">0.11111111111111113</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">Derrick Rose</td>
+<td align="right">22</td>
+<td align="right">CHI</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">Dwight Howard</td>
+<td align="right">25</td>
+<td align="right">ORL</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">LeBron James</td>
+<td align="right">26</td>
+<td align="right">MIA</td>
 </tr>
 </tbody></table>
 
