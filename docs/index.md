@@ -2505,6 +2505,10 @@ Nevertheless, despite these limitations, the algorithm still has a fairly good p
 
 # ✨ 2023 MVP Prediction Result 
 
+**Our predicted NBA MVP for 2022/2023 Season:** 
+
+![images - 6](../figures/jokic_photo.jpeg)
+
 Using the complete data from the 2010 to 2022 NBA seasons as training set, the algorithm predicts the 2023 MVP results as follows: 
 
 |    | season | name                  | team                   | age | probability         |
