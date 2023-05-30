@@ -48,7 +48,7 @@ Conventional basketball wisdom dictates that the MVP award is traditionally dete
 * **Media narrative** (Is there a strong story behind a player's MVP bid?) 
   * Includes aspects such as voter fatigue (people don't like to award MVP to the same player over and over again), intriguing story for winning MVP (e.g. youngest MVP ever), and amount of media attention a player is getting. 
 
-Usually, the MVP award goes to players who are high on both individual performance and team performance (i.e. "best player on the best team"). However, media narratives and factors such as voter fatigue plays a big role sometimes in determining the ultimate winner of the award (e.g. Derrick Rose won the MVP award in 2011 as the youngest ever MVP winner even though many people believed that Lebron James had a more impressive season statistically). 
+Usually, the MVP award goes to players who are high on both individual performance and team performance (i.e. "**best player on the best team**"). However, media narratives and factors such as voter fatigue plays a big role sometimes in determining the ultimate winner of the award (e.g. Derrick Rose won the MVP award in 2011 as the youngest ever MVP winner even though many people believed that Lebron James had a more impressive season statistically). 
 
 Therefore, in this section, we will be collecting and showing data that aim to capture these 3 aspects respectively. 
 
