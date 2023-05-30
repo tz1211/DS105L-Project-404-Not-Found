@@ -1373,7 +1373,7 @@ Another anomoly is Derrick Rose in 2011. As seen from the graph above, whilst he
 
 Finally, it is also worth noting James Harden in 2019, who, despite not winning the MVP, produced the best numbers by a long shot in points per game, box plus and minus, true shooting percentage, and value over replacement player. However, his MVP case was ultimately undermined as his team the Houston Rockets only finished 4th in the Western Conference. 
 
-Nevertheless, the quantitative data has shown that the majority of MVP winners do follow the "best player on the best team" pattern, and the anomolies we identified above have indeed sparked controversy. We will revisit the cases of Derrick Rose and James Harden later. 
+Nevertheless, the quantitative data has shown that the majority of MVP winners do follow the "best player on the best team" pattern, and the anomolies we identified above have indeed sparked controversy. We will revisit the cases of Derrick Rose and James Harden [later](https://tz1211.github.io/DS105L-Project-404-Not-Found/#-analysis-of-back-testing-results). 
 
 <br>
 
@@ -2493,8 +2493,17 @@ Actual Result:
 
 ### 🔎 Analysis of Back Testing Results
 
+If we consider the player with the highest probability of winning the MVP to be the algorithm's pick of the MVP, the back testing yields a **sensitivity of 84.6%**. It is able to correctly predict the MVP in 11 of the 13 seasons. However, a more qualitative evaluation of the results is needed to fully understand the performance of the algorithm. 
 
-# 🖼️ Results
+It can be seen that the 2 years where the algorithm made incorrect predictions happened to be 2011 and 2019, the two seasons that we have mentioned [before](https://tz1211.github.io/DS105L-Project-404-Not-Found/#-quantitative-data-analysis) with controversial MVP outcomes. The algorithm predicted Lebron James, who had better performance statistics-wise, to win over Derrick Rose in the MVP race. However, in reality, Rose was crowned the 2011 MVP as the youngest MVP ever. It also predicted that James Harden would win the MVP in 2019, who put up some other-worldly numbers in terms of scoring and value over replacement player. However, Harden eventually lost out to Giannis Antetokounmpo as his team only placed 4th in his conference. This shows that, despite our intentional effort to try to incorporate team performance and media narrative into the decision calculus of our algorithm, it still has a strong bias towards individual player performances. It consistently favours players with strong individual statistical performances, and failed to pick up the overwhelming media narrative for Rose to be the youngest ever MVP winner in 2011, and the average team performance of James Harden in 2019. Furthermore, the algorithm had no problem picking out the correct MVP winners in 2017 and 2022 seasons, where both Russell Westbrook and Nikola Jókic put up historical individual numbers despite both of their teams only placed 6th in their conference. 
+
+Another interesting result worth noting is Kevin Durant in 2015. He was ranked 2nd in MVP prediction by the algorithm with a 31% chance of winning the MVP. However, in reality he suffered from numerous injuries and only played 27 out of 82 games in that season. The lack of games played would make him virtually impossible to win an MVP, yet this was not picked up by our algorithm. 
+
+Nevertheless, despite these limitations, the algorithm still has a fairly good performance overall, correctly predicting 11 out of the 13 past MVPs. 
+
+<br>
+
+# 🖼️ 2023 MVP Prediction Result 
 
 # 🖋️ Conclusions
 
