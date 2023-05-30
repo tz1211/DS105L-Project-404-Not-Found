@@ -1544,6 +1544,7 @@ The back testing results can be seen below (only top 3 most likely winners are s
 
 <details>
 <summary><strong>2010 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2010_season_mvp_prediction.csv">2010_season_mvp_prediction.csv</a>)</summary>
+ML Prediction
 
 <table>
 <thead>
@@ -1579,6 +1580,36 @@ The back testing results can be seen below (only top 3 most likely winners are s
 <td align="right">MIAMI HEAT</td>
 <td align="right">28</td>
 <td align="right">0.038834951456310676</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">LeBron James</td>
+<td align="right">25</td>
+<td align="right">CLE</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">Kevin Durant</td>
+<td align="right">21</td>
+<td align="right">OKC</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Kobe Bryant</td>
+<td align="right">31</td>
+<td align="right">LAL</td>
 </tr>
 </tbody></table>
 
@@ -1626,7 +1657,6 @@ ML Prediction:
 </tbody></table>
 
 Actual Result: 
-
 <table>
 <thead>
 <tr>
@@ -1660,6 +1690,7 @@ Actual Result:
 
 <details>
 <summary><strong>2012 Season</strong> (<a href="https://github.com/tz1211/DS105L-Project-404-Not-Found/blob/main/Data/ML_results/back_testing/2012_season_mvp_prediction.csv">2012_season_mvp_prediction.csv</a>)</summary>
+ML Prediction: 
 
 <table>
 <thead>
@@ -1695,6 +1726,36 @@ Actual Result:
 <td align="right">SAN ANTONIO SPURS</td>
 <td align="right">29</td>
 <td align="right">0.05263157894736842</td>
+</tr>
+</tbody></table>
+
+Actual Result: 
+<table>
+<thead>
+<tr>
+<th align="right">Rank</th>
+<th align="right">Player</th>
+<th align="right">Age</th>
+<th align="right">Tm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="right">1</td>
+<td align="right">LeBron James</td>
+<td align="right">27</td>
+<td align="right">MIA</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td align="right">Kevin Durant</td>
+<td align="right">23</td>
+<td align="right">OKC</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="right">Chris Paul</td>
+<td align="right">26</td>
+<td align="right">LAC</td>
 </tr>
 </tbody></table>
 
