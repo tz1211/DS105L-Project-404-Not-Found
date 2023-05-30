@@ -1534,7 +1534,7 @@ In situations where the web scraping fails to retrieve the content, the code wil
 
 <br>
 
-# 🧠 Random Forest Algorithm 
+# 🌲 Random Forest Algorithm 
 
 The ranodm forest algorithm is selected for the machine learning part of the project due to its simplicity and ability to handle non-linearity in data. Whilst we have observed in the [quantitative data analysis section](https://tz1211.github.io/DS105L-Project-404-Not-Found/#-quantitative-data-analysis) that MVP winners tend to be correlated with top statistical performances, we decided to opt for random forest over logistic regression because of the imbalance in the number of MVPs vs. non-MVPs in our dataset. 
 
@@ -2507,7 +2507,7 @@ Nevertheless, despite these limitations, the algorithm still has a fairly good p
 
 ### **Our predicted NBA MVP for 2022/2023 Season –– Nikola Jókic!**
 
-![images - 6](../figures/jokic_photo.jpeg)
+![images - 6](https://raw.githubusercontent.com/tz1211/DS105L-Project-404-Not-Found/main/figures/jokic_photo.jpeg)
 
 Using the complete data from the 2010 to 2022 NBA seasons as training set, the algorithm predicts the 2023 MVP results as follows: 
 
@@ -2523,7 +2523,9 @@ Using the complete data from the 2010 to 2022 NBA seasons as training set, the a
 
 Using the [Kia MVP Ladder](https://www.nba.com/news/kia-mvp-ladder-march-24-2023-edition) published weekly by the NBA as a baseline, our algorithm correctly predicted 4 of the top 5 candidates on the ladder, only missing Jayson Tatum for Damian Lillard. 
 
-# 🖋️ Conclusions
+# 🖋️ Conclusions 
+
+
 
 # 📚 References
 
