@@ -30,6 +30,7 @@ Data Source:
 * [BBC Sports News](https://www.bbc.co.uk/sport) 
 * [Muck Rack](https://muckrack.com/)
 
+<br>
 
 # 📊 Data
 
@@ -1353,10 +1354,11 @@ Full dataframe shape: 1216 x 54
 Full dataframe shape: 105 x 53
 * **Note**: The 2023 season data is collected up till 19/03/2023. Therefore, the subsequent predictions made based on this data will only reflect the information available up to that point. 
 
+<br>
 
-## 📈 Analysis
+# 📈 Analysis
 
-### 📊 Quantitative Data Analysis  
+## 📊 Quantitative Data Analysis  
 
 To see the impact of quantitative metrics (individual statistics and team performance) on the chance of a player winning MVP, and to test the "best player on the best team" hypothesis, we will graph the performance of past MVP winners in these metrics against none MVP winners. 
 
@@ -1374,9 +1376,8 @@ Finally, it is also worth noting James Harden in 2019, who, despite not winning 
 Nevertheless, the quantitative data has shown that the majority of MVP winners do follow the "best player on the best team" pattern, and the anomolies we identified above have indeed sparked controversy. We will revisit the cases of Derrick Rose and James Harden later. 
 
 <br>
-<br>
 
-### 🧐 Qualitative Data Analysis  
+## 🧐 Qualitative Data Analysis  
 
 **The qualitative aspect of project dives into NBA news and BBC sports news that could help to predict the MVP (Most Valuable Player) of each NBA season**. 
 
@@ -1531,16 +1532,17 @@ Leveraging these models enhances the accuracy of sentiment analysis and uncover 
 One limitation of using BBC sports news for sentiment analysis is from gathering news content using web scraping. Since the website formatting may over time, this becomes especially challenging when the timeframe being analyzed is broad.
 In situations where the web scraping fails to retrieve the content, the code will relying solely on the news title for sentiment analysis which poses a limitation. While the title can provide some insight, it may not capture the full sentiment or context present in the article's body. 
 
+<br>
 
-## 🧠 Random Forest Algorithm 
+# 🧠 Random Forest Algorithm 
 
 
 
-## 🖼️ Results
+# 🖼️ Results
 
-## 🖋️ Conclusions
+# 🖋️ Conclusions
 
-## 📚 References
+# 📚 References
 
 * [markdown file editting instruction](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)
 * [Basketball reference api use instruction](https://jaebradley.github.io/basketball_reference_web_scraper/api/ )
