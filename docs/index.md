@@ -1361,7 +1361,7 @@ Full df shape: 105 x 53
 To see the impact of quantitative metrics (individual statistics and team performance) on the chance of a player winning MVP, and to test the "best player on the best team" hypothesis, we will graph the performance of past MVP winners in these metrics against none MVP winners. 
 
 ![image - 2](../figures/quantitative_data_visualisation.png) 
-*The specific metrics were picked because they are most reflective of a player's impact on the court and the success of his team* 
+**The specific metrics were picked because they are most reflective of a player's impact on the court and the success of his team* 
 
 As we can see from the graph above, the MVP winners consistently appear at the top for each metrics for both traditional boxscore and advanced metrics from 2010 to 2022 seasons. The teams for which the MVP winners play also consistently come out in top 3 in their conference with some of the best win percentages in the league. This provides some empirical evidence for the conventional "best player on the best team" hypothesis to MVP voting. 
 
